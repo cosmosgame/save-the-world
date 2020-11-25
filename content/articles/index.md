@@ -1,0 +1,197 @@
+---
+title: "Index"
+date: 2020-11-18T11:36:31-07:00
+draft: false
+---
+- Welcome
+  - thanks
+  - there is hope
+    - theory advances
+    - pychological advances
+    - medicine advances
+    - spiritual advances
+- My dream
+  - Mr. Roger's neighborhood
+    - we already know
+    - let the children guide us
+  - Big dream
+    - New groups
+    - Spiritual awakening
+      - joy!
+  - Same goal
+  - Deadline
+  - Generational trauma
+    - protect the children
+  - All of us
+    - Integral
+    - Love
+- Who am I
+  - All of me
+  - Software engineer path (very brief version)
+    - Many paths
+      - One true path
+    - Radical truth
+      - Running in debug mode
+      - Embrace when you are wrong
+    - Deep dive
+      - Five whys
+    - Models
+    - Open source
+  - Personal growth
+  - Spirit
+- Stone soup
+  - Stone soup story
+  - I need your help
+  - RFC
+  - Open Source
+    - Shared libraries
+    - Forking
+    - Copyright
+- First steps
+  - Believe it is possible
+  - Believe we are worthy of a bigger dream
+  - Practical plan
+- The Plan
+  - Definition of success
+    - All of Us
+    - Joy
+  - Need for models
+    - Challenger disaster
+      - Sneaky switch
+    - Beyond stupid and evil
+  - Overview
+    - Patterns of history: What wants to happen next
+    - Reclaiming spirituality
+- Patterns of history
+    - Spiral Dynamics
+      - History
+        - My take -- social constructs
+        - Beige
+        - Purple
+          - Spirit
+        - Red
+          - Empire
+            - Alexander the Great,
+            - Attilla the Hun
+            - Columbus
+          - Olympics
+            - personal excellence
+        - Blue
+          - Jesus and Mohammed
+          - Neo Confucianism
+            - Attilla goes from red to blue
+          - Martin Luther King and Gandhi
+        - Orange
+          - Enlightenment
+          - Black ships
+        - Green
+          - Reaction to Reason
+          - Hakomi principles
+          - Difference between Blue
+
+
+
+        - Yellow
+          - Hakomi
+          - HAI
+          - Medicine
+            - How to change your mind
+              - Michael Pollan needed green to get here
+          - Maps example
+        - Turquoise
+          - Showing up
+      - Tick-Tock
+        - Oscillation
+        - America doesn't get group focus
+          - My Japan experience (?)
+    - The Hope of Turquoise
+      - What wants to happen next
+      - Embrace all colors
+      - Come together
+      - Spirit transcends
+- Reclaiming Spirituality
+  - What has worked in the past?
+    - Gandhi
+    - Martin Luther King
+    - Christian awakening
+    - Moslem awakening
+  - Spiritual impoverishment
+  - How do we know what is true?
+  - Quadrants
+    - UR
+    - UL
+    - LR
+    - LL
+    - Quadrant myopia
+      - UL
+      - UR
+      - LR
+      - LL
+    - Embrace all quadrants
+      - Tale of two churches
+        - CSL
+        - Unitarian
+  - Integral Spirituality
+    - Embrace all colors
+    - Embrace all quadrants
+- Church of Turquoise
+  - Focus on Love and Spirit
+  - Love
+    - Mindful self compassion
+    - What you don't love in others..
+    - Loving others as self
+    - Preparation for Truth
+  - Truth
+    - Mindfulness
+    - Accountability
+  - Healing
+    - Trust organicity
+    - Trauma work
+    - Personal growth
+    - Service
+  - Governance
+    - Need for new governance. Sociocracy?
+    - Accountable
+    - Evangelical
+- Optional
+  - New colors for Yellow and Turquoise
+    - Black for yellow (absorbs all)
+    - White for turquoise (emits all)
+  - Software engineer path
+    - Many paths
+      - One true path
+    - Radical truth
+      - Running in debug mode
+      - Embrace when you are wrong
+    - Deep dive
+      - Five whys
+    - Models
+    - Open source
+  - Historic shifts
+    - Japan
+      - Sengoku
+      - Shogunate
+      - Black ships
+    - China
+      - Hun invasion
+      - Red to blue
+      - Market but not democracy
+    - Jesus
+      - Started from Judaism
+      - Reaction to empire
+        - Cross no longer just a torture device
+      - Tragedy of selling out to Rome
+    - Muhammed
+  - Differences with Ken Wilber
+    - Lower right and left quadrants
+      - History as guide
+      - My focus on groups
+      - LL not fully explored
+    - Spiral Dynamics
+      - social construct
+      - oscillation
+    - Open source
+    - Embrace all
+      - Mean Green fallacy
+    - Focus on love
+      - Shadow is just another expression of lack of love
