@@ -7,10 +7,10 @@ draft: false
   - thanks
   - there is hope
     - theory advances
-    - pychological advances
+    - psychological advances
     - medicine advances
     - spiritual advances
-- My dream
+- The dream
   - Mr. Roger's neighborhood
     - we already know
     - let the children guide us
@@ -41,16 +41,16 @@ draft: false
   - Spirit
 - Stone soup
   - Stone soup story
+  - First steps
+    - Believe it is possible
+    - Believe we are worthy of a bigger dream
+    - Practical plan
   - I need your help
   - RFC
   - Open Source
     - Shared libraries
     - Forking
     - Copyright
-- First steps
-  - Believe it is possible
-  - Believe we are worthy of a bigger dream
-  - Practical plan
 - The Plan
   - Definition of success
     - All of Us
@@ -88,9 +88,6 @@ draft: false
           - Reaction to Reason
           - Hakomi principles
           - Difference between Blue
-
-
-
         - Yellow
           - Hakomi
           - HAI
@@ -149,6 +146,7 @@ draft: false
     - Trauma work
     - Personal growth
     - Service
+  - Need to scale quickly
   - Governance
     - Need for new governance. Sociocracy?
     - Accountable
