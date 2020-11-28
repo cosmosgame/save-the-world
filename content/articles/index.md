@@ -3,8 +3,8 @@ title: "Index"
 date: 2020-11-18T11:36:31-07:00
 draft: false
 ---
-- Welcome
-  - thanks
+- Home
+  - Welcome and thanks
   - there is hope
     - theory advances
     - psychological advances
@@ -16,6 +16,7 @@ draft: false
     - let the children guide us
   - Big dream
     - New groups
+    - Not saints -- a practice
     - Spiritual awakening
       - joy!
   - Same goal
@@ -28,8 +29,6 @@ draft: false
 - Who am I
   - All of me
   - Software engineer path (very brief version)
-    - Many paths
-      - One true path
     - Radical truth
       - Running in debug mode
       - Embrace when you are wrong

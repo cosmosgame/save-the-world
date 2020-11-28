@@ -1,5 +1,6 @@
 baseURL = "https://example.com"
 
+publishDir = "docs"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Save The World"
@@ -16,12 +17,12 @@ enableMissingTranslationPlaceholders = false
 
     # Source Code repository section
     description = "A plan to save the world"
-    github_repository = "https://github.com/Turquoise-community/save-the-world.git"
+    github_repository = "https://github.com/Turquoise-community/save-the-world"
     version = "0.0.1"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
-    github_doc_repository = "https://github.com/Turquoise-community/save-the-world.git"
+    github_doc_repository = "https://github.com/Turquoise-community/save-the-world"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
