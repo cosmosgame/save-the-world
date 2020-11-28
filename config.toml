@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://turquoise-community.github.io/save-the-world"
 
 publishDir = "docs"
 languageCode = "en-us"
