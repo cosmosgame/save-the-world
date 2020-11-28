@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/welcome/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/stone-soup/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-11-27T12:55:04-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/stone-soup/stone-soup/</loc>
+    <lastmod>2020-11-25T10:04:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/welcome/welcome/</loc>
+    <lastmod>2020-11-25T10:04:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/articles/</loc>
+    <lastmod>2020-11-18T11:36:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2020-09-06T16:16:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/save-the-world/</loc>
+    <lastmod>2020-09-06T16:16:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/we-need-a-plan/</loc>
+    <lastmod>2020-09-06T16:16:31-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+  
+</urlset>
