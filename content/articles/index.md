@@ -13,26 +13,29 @@ draft: false
     - psychological advances
     - medicine advances
     - spiritual advances
-- The dream
-  - Mr. Roger's neighborhood
-    - we already know
-    - let the children guide us
-    - Generational trauma
-      - protect the children
-      - stop the cycle (or at least dampen it)
-  - Big dream
-    - New groups, new ways of organizing
-    - Not saints -- a practice
-    - Spiritual awakening
-      - reclaiming spirituality
-      - joy!
-    - Healing our collective traumas
+- Mr. Roger's neighborhood
+  - we already know
+  - let the children guide us
+  - Generational trauma
+    - protect the children
+    - stop the cycle (or at least dampen it)
   - Same goal
     - Widen circle of compassion
       - What is blocking this?
         - world view
-        - spiritual poverty
         - wounds and trauma
+        - spiritual poverty
+- Big dream
+  - World view
+    - New groups, new ways of organizing
+  - Wounds and trauma  
+    - Not saints -- a practice
+    - growth mindset
+    - Healing our collective traumas
+  - Spiritual awakening
+    - reclaiming spirituality
+      - ok if you don't yet feel comfortable with that word
+    - joy!
   - Deadline
     - Global warming
     - Can be a benefit
