@@ -25,7 +25,7 @@ draft: false
         - world view
         - wounds and trauma
         - spiritual poverty
-- Big dream
+- The Plan
   - World view
     - New groups, new ways of organizing
   - Wounds and trauma  
@@ -76,7 +76,7 @@ draft: false
         - Not just like a wiki
         - but allows change and improvement
     - Copyright
-- The Plan
+- The Work
   - Definition of success
     - All of Us
     - Child focused
