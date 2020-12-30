@@ -5,7 +5,10 @@ draft: false
 ---
 - Home
   - Welcome and thanks
-  - there is hope
+  - Saving the world
+    - Pain of the world
+  - There is hope
+    - Acknowledge hopelessness
     - theory advances
     - psychological advances
     - medicine advances
@@ -14,45 +17,66 @@ draft: false
   - Mr. Roger's neighborhood
     - we already know
     - let the children guide us
+    - Generational trauma
+      - protect the children
+      - stop the cycle (or at least dampen it)
   - Big dream
-    - New groups
+    - New groups, new ways of organizing
     - Not saints -- a practice
     - Spiritual awakening
+      - reclaiming spirituality
       - joy!
+    - Healing our collective traumas
   - Same goal
+    - Widen circle of compassion
+      - What is blocking this?
+        - world view
+        - spiritual poverty
+        - wounds and trauma
   - Deadline
-  - Generational trauma
-    - protect the children
-  - All of us
+    - Global warming
+    - Can be a benefit
+  - All of me, All of you, All of us
     - Integral
     - Love
 - Who am I
-  - All of me
-  - Software engineer path (very brief version)
-    - Radical truth
-      - Running in debug mode
-      - Embrace when you are wrong
-    - Deep dive
-      - Five whys
-    - Models
-    - Open source
-  - Personal growth
-  - Spirit
+  - Need for explaining myself
+    - If I can do this...
+    - Software engineer
+      - resistance then (not cool) embrace it
+      - learnings (briefly mention)
+      - focus on practical, measurable results
+      - link to other page
+    - Seeker
+      - truth
+      - personal growth (Japan kaizen)
+    - Spirtiual awakening
+  - All of me, All of you, All of Us
 - Stone soup
+  - I need your help
   - Stone soup story
+  - Asking for what I want
+    - Marketing and promotion
+    - Web design
+    - Stories
   - First steps
     - Believe it is possible
-    - Believe we are worthy of a bigger dream
+    - Get clear that we actually want it
+      - believe we are worthy of it
     - Practical plan
-  - I need your help
   - RFC
+    - Embrace when you are wrong
   - Open Source
-    - Shared libraries
-    - Forking
+    - Github
+      - This site
+      - PR's Pull request
+        - Not just like a wiki
+        - but allows change and improvement
     - Copyright
 - The Plan
   - Definition of success
     - All of Us
+    - Child focused
     - Joy
   - Need for models
     - Challenger disaster
@@ -65,6 +89,7 @@ draft: false
     - Spiral Dynamics
       - History
         - My take -- social constructs
+      - The colors
         - Beige
         - Purple
           - Spirit
@@ -73,6 +98,7 @@ draft: false
             - Alexander the Great,
             - Attilla the Hun
             - Columbus
+          - The problem
           - Olympics
             - personal excellence
         - Blue
@@ -88,31 +114,91 @@ draft: false
           - Hakomi principles
           - Difference between Blue
         - Yellow
-          - Hakomi
-          - HAI
-          - Medicine
-            - How to change your mind
-              - Michael Pollan needed green to get here
-          - Maps example
+          - Integral
+          - Yellow organizations
+            - Hakomi
+            - HAI
+            - Medicine
+              - How to change your mind
+                - Michael Pollan needed green to get here
+            - Maps example
         - Turquoise
           - Showing up
+          - Turqoise organizations
+            - Just starting to happen
+            - Revolutionary Love project
+              - video
+              - step through the colors
       - Tick-Tock
         - Oscillation
-        - America doesn't get group focus
-          - My Japan experience (?)
+        - Hectave
+        - Groups
+          - We are wired for groups
+          - America doesn't get group focus
+            - My Japan experience (?)
     - The Hope of Turquoise
       - What wants to happen next
       - Embrace all colors
       - Come together
       - Spirit transcends
+    - Practical applications of Spiral Dynamics
+      - Red vs. Democracy
+    - Request for stories
+      - My story
+        - Three sacred vows
+        - The Wall (Vow #1)
+          - Running
+            - Maybe running away from things
+          - Mirrors scare me
+          - Mirrors everywhere
+          - Tribal support
+            - recognition of bravery
+            - The first sacred vow
+              - explanation of why it was hard
+          - Name Change
+            - Affirmative prayer
+            - Forced me to become bigger
+        - The first awakening (Vow #2)
+          - Kiss of the Angel
+            - Incredible strength and grace
+          - Put it back on the shelf
+          - Cohousing
+          - Still working through my pain
+          - HAI workshop Love
+            - 50th birthday
+            - health
+            - healthy eating
+            - weight
+            - self love
+          - HAI vow
+            - everyone is a mirror
+            - standing naked in front of people, commitment
+        - Spiritual awakening
+          - Medicine
+            - Marriage breaking up
+            - Found the practical path to spirituality
+            - Found what I really want
+              - Lifeboat analogy (HAI story)
+          - Hakomi
+          - Discovery of vow #3
+            - black hole is actually needy child
+            - Initially hard to accept
+            - And how I am with other people -- need for third vow
+          - My Hakomi request  
+            - eventually realized I was asking for Turqoise
+        - Recap levels
 - Reclaiming Spirituality
   - What has worked in the past?
     - Gandhi
     - Martin Luther King
     - Christian awakening
     - Moslem awakening
-  - Spiritual impoverishment
+    - Sikh awakening
+  - Spirituality at all color levels
   - How do we know what is true?
+    - Spirituality does not have to be in conflict with science
+    - Magical thinking
+    - Need again for a model
   - Quadrants
     - UR
     - UL
@@ -130,26 +216,110 @@ draft: false
   - Integral Spirituality
     - Embrace all colors
     - Embrace all quadrants
+- Healing/Personal Growth
+  - Focus on Love
+  - What works?
+  - Personal growth mindset
+  - Principles
+    Core principles
+      - Love
+        - Mindful self compassion
+          -mirror work
+        - Everything is God (or the Universe)
+        - What you don't love in others..
+        - Loving others as self (mirror work)
+        - Preparation for Truth
+      - Truth
+        - Seeker
+          - My relationships with truth
+            - Coyote
+        - Mindfulness
+        - Accountability
+          - Victim stories
+      - Change
+        - Accept that change is possible
+        - Accept that change is inevitable
+        - Creativity
+      - Body
+        - It all starts in the body
+        - Every emotion has a place in the body
+          - the body keeps the score
+        - Every organism is striving towards healing. Always.
+          - organicity
+    - Others
+      - Love + Truth = Curiosity
+      - Love + Change = Creativity
+      - Love + Body + Change = Gratitude
+      - Love + Truth + Change = Forgiveness
+      - Truth + Change + Body = Mindfulness
+      - Love + Truth + Body = Joy
+      - Truth + Body = Sacred now
+      - Change + Body = ?
+      - Love + Truth + Change + Body = Unity
+    - Healing practices
+      - RAIN
+      - Trust organicity
+      - Trauma work
+      - Personal growth
+      - Service
+    - Structures for healing
 - Church of Turquoise
-  - Focus on Love and Spirit
-  - Love
-    - Mindful self compassion
-    - What you don't love in others..
-    - Loving others as self
-    - Preparation for Truth
-  - Truth
-    - Mindfulness
-    - Accountability
-  - Healing
-    - Trust organicity
-    - Trauma work
-    - Personal growth
-    - Service
+  - Why it is now possible
+    - better model
+    - reclaiming spirituality
+    - healing and growth
+  - Goals
+    - Healing
+      - Focus on what works
+      - Generational trauma -- stop hurting children
+    - Working with all the colors
+      - add the missing blue
+      - helping people to find Turqoise
+  - Church of personal growth
+    - Establish practices (like karate does)
+  - Bring up our own leaders
+    - Build in feedback
+      - Address fear of doing harm
+    - Leader as servant mentality
+  - What is working
+    - HAI
+      - CSL
+    - MSC
+    - NVC
+    - Hakomi
+      - RAIN
+    - Cohousing
+      - Very green!
+      - better ways to raise our children
+      - consensus as a personal growth mechanism
+    - Medicine
   - Need to scale quickly
   - Governance
     - Need for new governance. Sociocracy?
     - Accountable
     - Evangelical
+
+- Todo
+  - Revolutionary Love
+  - Racism
+  - Loving the Unlovable
+  - Group vs. Individual
+   - My experience
+    - Jewish, Japan, Personal Growth, Cohousing
+    - Most Americans don't understand group
+    - The need for group
+    - The need for structure
+  - Trauma
+    - Blocking us from growth
+    - Generational trauma
+  - Fundamentalism
+    - Regressed Blue?
+    - Hell
+    - Problem with Good and Evil
+  - Spirit
+    - The pain of the world
+    - Something bigger to let us bear it
+
 - Optional
   - New colors for Yellow and Turquoise
     - Black for yellow (absorbs all)
@@ -160,10 +330,29 @@ draft: false
     - Radical truth
       - Running in debug mode
       - Embrace when you are wrong
+      - Measuring
+    - Check your assumptions
+      - debugging leads to this
+    - Dealing with complexity
+      - simplify
+      - layers
+      - scrum
+        - negotiating complexity
+        - not everyone has to be a software expert
     - Deep dive
       - Five whys
+      - Failure without blame
+      - Factoring in that humans are failable
+    - Flow
+      - Cure for sensitivity
+        -hiding out in crystalline forests
+      - Teaches possibility of joy
+        - joy based life
     - Models
     - Open source
+      - Shared libraries
+      - Forking
+      - Not all opinions are equal
   - Historic shifts
     - Japan
       - Sengoku
@@ -179,6 +368,7 @@ draft: false
         - Cross no longer just a torture device
       - Tragedy of selling out to Rome
     - Muhammed
+    - Sikkism
   - Differences with Ken Wilber
     - Lower right and left quadrants
       - History as guide
