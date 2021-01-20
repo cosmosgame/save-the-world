@@ -13,7 +13,8 @@ draft: false
     - psychological advances
     - medicine advances
     - spiritual advances
-- Mr. Roger's neighborhood
+- The Dream
+  - what do I really want?
   - we already know
   - let the children guide us
   - Generational trauma
@@ -25,13 +26,41 @@ draft: false
         - world view
         - wounds and trauma
         - spiritual poverty
+- Why this site?
+  - Who Am I?
+    - Purpose?
+    - Software engineer, personal growth, spiritual awakening
+      - all of me
+      - lead by example
+      - learnings (briefly mention, link to other page)
+      - comfortable bringing together theories
+        - simplify
+        - do the reading for you
+      - focus on practical, measurable results
+  - Alternatives
+  - Promises
+    - As succintly as possible
+      - Value your time
+    - This is way bigger than me
+    - Practical, solution based
+    - Based in the heart, but no magic
+  - Open Source
+    - Surprising success
+    - Harness all of us
+    - Feedback
+      - comments
+      - bugs
+      - PR's
+    - community
+  - All of me, All of you, All of Us
 - The Plan
   - World view
     - New groups, new ways of organizing
   - Wounds and trauma  
     - Not saints -- a practice
-    - growth mindset
+    - growth and healing mindset
     - Healing our collective traumas
+      - groups and individuals
   - Spiritual awakening
     - reclaiming spirituality
       - ok if you don't yet feel comfortable with that word
@@ -42,96 +71,70 @@ draft: false
   - All of me, All of you, All of us
     - Integral
     - Love
-- Who am I
-  - Need for explaining myself
-    - If I can do this...
-    - Software engineer
-      - resistance then (not cool) embrace it
-      - learnings (briefly mention)
-      - focus on practical, measurable results
-      - link to other page
-    - Seeker
-      - truth
-      - personal growth (Japan kaizen)
-    - Spirtiual awakening
-  - All of me, All of you, All of Us
-- Stone soup
-  - I need your help
-  - Stone soup story
-  - Asking for what I want
-    - Marketing and promotion
-    - Web design
-    - Stories
-  - First steps
-    - Believe it is possible
-    - Get clear that we actually want it
-      - believe we are worthy of it
-    - Practical plan
-  - RFC
-    - Embrace when you are wrong
-  - Open Source
-    - Github
-      - This site
-      - PR's Pull request
-        - Not just like a wiki
-        - but allows change and improvement
-    - Copyright
 - The Work
   - Definition of success
     - All of Us
     - Child focused
     - Joy
-  - Need for models
-    - Challenger disaster
-      - Sneaky switch
-    - Beyond stupid and evil
   - Overview
     - Patterns of history: What wants to happen next
+    - Growth and healing mindset
     - Reclaiming spirituality
-- Patterns of history
-    - Spiral Dynamics
-      - History
-        - My take -- social constructs
-      - The colors
-        - Beige
-        - Purple
-          - Spirit
-        - Red
-          - Empire
-            - Alexander the Great,
-            - Attilla the Hun
-            - Columbus
-          - The problem
-          - Olympics
-            - personal excellence
-        - Blue
-          - Jesus and Mohammed
-          - Neo Confucianism
-            - Attilla goes from red to blue
-          - Martin Luther King and Gandhi
-        - Orange
-          - Enlightenment
-          - Black ships
-        - Green
-          - Reaction to Reason
-          - Hakomi principles
-          - Difference between Blue
-        - Yellow
-          - Integral
-          - Yellow organizations
-            - Hakomi
-            - HAI
-            - Medicine
-              - How to change your mind
-                - Michael Pollan needed green to get here
-            - Maps example
-        - Turquoise
-          - Showing up
-          - Turqoise organizations
-            - Just starting to happen
-            - Revolutionary Love project
-              - video
-              - step through the colors
+- We need a map
+  - Need for models
+    - Challenger disaster
+      - Describe
+      - Model mismatch
+        - Manager had wrong level
+        - Engineer did not understand manager's level
+      - Sneaky switch. We have all been operating at the wrong level
+    - Beyond stupid and evil
+  - Spiral Dynamics
+    - History
+      - Ken Wilber, Integral theory
+      - My take -- social constructs
+    - The colors
+      - Beige
+      - Purple
+        - Spirit
+      - Red
+        - Empire
+          - Alexander the Great,
+          - Attilla the Hun
+          - Columbus
+        - The problem
+        - Olympics
+          - personal excellence
+      - Blue
+        - Jesus and Mohammed
+        - Neo Confucianism
+          - Attilla goes from red to blue
+        - Martin Luther King and Gandhi
+      - Orange
+        - Enlightenment
+        - Black ships
+      - Green
+        - Reaction to Reason
+        - Hakomi principles
+        - Difference between Blue
+      - Yellow
+        - Integral
+        - All of me
+        - Yellow organizations
+          - Hakomi
+          - HAI
+          - Medicine
+            - How to change your mind
+              - Michael Pollan needed green to get here
+          - Maps example
+      - Turquoise
+        - Showing up
+        - All of me, All of you, All of us
+        - Turqoise organizations
+          - Just starting to happen
+          - Revolutionary Love project
+            - video
+            - step through the colors
       - Tick-Tock
         - Oscillation
         - Hectave
@@ -301,7 +304,27 @@ draft: false
     - Need for new governance. Sociocracy?
     - Accountable
     - Evangelical
-
+- Stone soup
+  - I need your help
+  - Stone soup story
+  - Asking for what I want
+    - Marketing and promotion
+    - Web design
+    - Stories
+  - First steps
+    - Believe it is possible
+    - Get clear that we actually want it
+      - believe we are worthy of it
+    - Practical plan
+  - RFC
+    - Embrace when you are wrong
+  - Open Source
+    - Github
+      - This site
+      - PR's Pull request
+        - Not just like a wiki
+        - but allows change and improvement
+    - Copyright
 - Todo
   - Revolutionary Love
   - Racism
@@ -327,6 +350,23 @@ draft: false
   - New colors for Yellow and Turquoise
     - Black for yellow (absorbs all)
     - White for turquoise (emits all)
+  - Who am I
+    - Need for explaining myself
+      - If I can do this...
+    - Software engineer
+      - resistance then (not cool) embrace it
+      - learnings (briefly mention)
+      - good with theory
+      - focus on practical, measurable results
+      - link to other page
+    - Purpose in life
+    - Seeker
+      - truth
+      - personal growth (Japan kaizen)
+    - Spirtiual awakening
+      - atheist
+    - Open Source
+    - All of me, All of you, All of Us
   - Software engineer path
     - Many paths
       - One true path

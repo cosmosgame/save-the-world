@@ -15,7 +15,7 @@ just my ego. It is much bigger than that for me. With all my heart I hope  -- wi
 that actually serves the world. That bigger world is what I want to focus on, not my smaller self.
 So really let me know what you truly think, both good and bad.
 
-It is a pretty big wild ambition to save the world. To even have a chance it will require
+It is a pretty wild ambition to save the world. To even have a chance it will require
 many, many different voices speaking from a place of deep Truth. We all have our own paths
 to Truth, let's first start with mine.
 
@@ -33,7 +33,7 @@ Then to find out that we are killing off most of the species on this planet, set
 existential threat that it is. It is easy to give in to a sort of hopelessness.
 What can any one person really do in the face of the implacable forces shaping
 the world? Sentient beings are going to continue to suffer in needless agony, and yes it is even likely
-that most of the species on this planet including are own are going to have a massive die off. We can do
+that all species including our own are going to suffer a massive die off. We can do
 our best, but it probably won't be enough. It is hopeless.
 
 And yet.
@@ -50,12 +50,13 @@ wrapped up together. There is no deeper joy without the deeper suffering it appe
 And again I say there is hope. Please try to let that in, if only a little. It is what I want very most
 for this world to know.
 
+--TODO-- Clean this paragraph up.
 Know that you are not alone. People the world over have been working on the problem, and we are on
 the cusp of a number of exciting breakthroughs. There have been important, major advances in theory which
 help better explain the deeper reasons how and why we got here, and suggest an exciting path to healing the world.
-There have been huge advances in therapy. We are now seeing proven, effective treatments for people even with
-horrible trauma. We've never had that before. One of those treatments is the use of Psychedelics. This Medicine work also opens up to ordinary people access to spiritual states that most have never reached. We are starting to see form a spiritual practice that brings together the best of Eastern and Western thought. There have been some harsh failures along the way, but we are starting to see something that can actually work in a practical way. Working enough so that we can maybe start to dream a little of what an amazing world we can fashion if only we can get enough of us out of debilitating pain so that we can together focus on the bigger picture.
+There have been huge advances in therapy. We are now seeing proven, effective treatments for people even suffering with
+horrible trauma. We've never had that before. One of those treatments is the use of Psychedelics. This Medicine work also opens up to ordinary people access to spiritual states that most have never reached. We are starting to see form a spiritual practice that brings together the best of Eastern and Western thought. There have been some painful failures along the way, but we are starting to see something that can actually work in a practical way. Working enough so that we can maybe start to dream a little of what an amazing world we can fashion if only we can get enough of us out of their debilitating pain long enough that we can together focus on the bigger picture.
 
-I can't guarantee that we will get there. The possibility of horrible failure always is there, but I would not be
+I can't guarantee that we will get there. The possibility of failure is always there, but I would not be
 creating this website if I did not truly, truly believe it is possible. The very first step is to hope. Are you willing
 to take that risk with me? To care? I think I do know what I'm asking of you. Please join me anyways.
