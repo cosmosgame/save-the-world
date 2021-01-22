@@ -26,10 +26,11 @@ draft: false
         - world view
         - wounds and trauma
         - spiritual poverty
-- Why this site?
+- The Plan for the Plan
   - Who Am I?
     - Purpose?
     - Software engineer, personal growth, spiritual awakening
+      - love
       - all of me
       - lead by example
       - learnings (briefly mention, link to other page)
@@ -37,9 +38,9 @@ draft: false
         - simplify
         - do the reading for you
       - focus on practical, measurable results
-  - Alternatives
+      - Open source leading the way
   - Promises
-    - As succintly as possible
+    - As succinctly as possible
       - Value your time
     - This is way bigger than me
     - Practical, solution based
@@ -47,6 +48,7 @@ draft: false
   - Open Source
     - Surprising success
     - Harness all of us
+      - place where we
     - Feedback
       - comments
       - bugs
@@ -88,13 +90,18 @@ draft: false
         - Manager had wrong level
         - Engineer did not understand manager's level
       - Sneaky switch. We have all been operating at the wrong level
+      - Moral cowardice to not judge
+        - quadrant theory helps us understand when to use what kind of judgment
     - Beyond stupid and evil
   - Spiral Dynamics
     - History
       - Ken Wilber, Integral theory
+      - Using original model
       - My take -- social constructs
     - The colors
       - Beige
+        - My favorite
+        - Zombie apocalpyse
       - Purple
         - Spirit
       - Red
@@ -117,6 +124,14 @@ draft: false
         - Reaction to Reason
         - Hakomi principles
         - Difference between Blue
+      - Tick-Tock
+        - Oscillation
+        - Hectave
+        - Tier 1 and Tier 2
+        - Groups
+          - We are wired for groups
+          - America doesn't get group focus
+            - My Japan experience (?)
       - Yellow
         - Integral
         - All of me
@@ -135,13 +150,6 @@ draft: false
           - Revolutionary Love project
             - video
             - step through the colors
-      - Tick-Tock
-        - Oscillation
-        - Hectave
-        - Groups
-          - We are wired for groups
-          - America doesn't get group focus
-            - My Japan experience (?)
     - The Hope of Turquoise
       - What wants to happen next
       - Embrace all colors
