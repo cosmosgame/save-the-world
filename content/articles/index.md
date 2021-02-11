@@ -30,22 +30,16 @@ draft: false
   - Who Am I?
     - Purpose?
     - Software engineer, personal growth, spiritual awakening
-      - love
-      - all of me
+      - mind,body, and heart
+      - many paths
+      - all of me, all of you, all of us
       - lead by example
       - learnings (briefly mention, link to other page)
       - comfortable bringing together theories
-        - simplify
-        - do the reading for you
+      - simplify
       - focus on practical, measurable results
       - Open source leading the way
-  - Promises
-    - As succinctly as possible
-      - Value your time
-    - This is way bigger than me
-    - Practical, solution based
-    - Based in the heart, but no magic
-  - Open Source
+  - Open Source (engineer's mindset)
     - Surprising success
     - Harness all of us
       - place where we
@@ -54,7 +48,16 @@ draft: false
       - bugs
       - PR's
     - community
-  - All of me, All of you, All of Us
+  - Promises
+    - Simplicity
+      - Value your time
+      - simplify
+    - Practical, solution based
+      - No more theory than strictly needed
+      - do the reading for you
+    - Open Source based
+      - feedback
+    - Based in the heart, but no magic
 - The Plan
   - World view
     - New groups, new ways of organizing
@@ -400,6 +403,7 @@ draft: false
       - Teaches possibility of joy
         - joy based life
     - Models
+    - RFC
     - Open source
       - Shared libraries
       - Forking
