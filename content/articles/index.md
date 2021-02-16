@@ -26,19 +26,18 @@ draft: false
         - world view
         - wounds and trauma
         - spiritual poverty
-- The Plan for the Plan
-  - Who Am I?
-    - Purpose?
-    - Software engineer, personal growth, spiritual awakening
-      - mind,body, and heart
-      - many paths
-      - all of me, all of you, all of us
-      - lead by example
-      - learnings (briefly mention, link to other page)
-      - comfortable bringing together theories
-      - simplify
-      - focus on practical, measurable results
-      - Open source leading the way
+- Who Am I?
+  - Purpose?
+  - Software engineer, personal growth, spiritual awakening
+    - mind,body, and heart
+    - many paths
+    - all of me, all of you, all of us
+    - lead by example
+    - learnings (briefly mention, link to other page)
+    - comfortable bringing together theories
+    - simplify
+    - focus on practical, measurable results
+    - Open source leading the way
   - Open Source (engineer's mindset)
     - Surprising success
     - Harness all of us
@@ -55,10 +54,12 @@ draft: false
     - Practical, solution based
       - No more theory than strictly needed
       - do the reading for you
-    - Open Source based
+    - Kaizen
+      - Japan
+      - no ego
       - feedback
     - Based in the heart, but no magic
-- The Plan
+- The Plan for the Plan
   - World view
     - New groups, new ways of organizing
   - Wounds and trauma  
@@ -204,35 +205,6 @@ draft: false
           - My Hakomi request  
             - eventually realized I was asking for Turqoise
         - Recap levels
-- Reclaiming Spirituality
-  - What has worked in the past?
-    - Gandhi
-    - Martin Luther King
-    - Christian awakening
-    - Moslem awakening
-    - Sikh awakening
-  - Spirituality at all color levels
-  - How do we know what is true?
-    - Spirituality does not have to be in conflict with science
-    - Magical thinking
-    - Need again for a model
-  - Quadrants
-    - UR
-    - UL
-    - LR
-    - LL
-    - Quadrant myopia
-      - UL
-      - UR
-      - LR
-      - LL
-    - Embrace all quadrants
-      - Tale of two churches
-        - CSL
-        - Unitarian
-  - Integral Spirituality
-    - Embrace all colors
-    - Embrace all quadrants
 - Healing/Personal Growth
   - Focus on Love
   - What works?
@@ -280,6 +252,35 @@ draft: false
       - Personal growth
       - Service
     - Structures for healing
+- Reclaiming Spirituality
+  - What has worked in the past?
+    - Gandhi
+    - Martin Luther King
+    - Christian awakening
+    - Moslem awakening
+    - Sikh awakening
+  - Spirituality at all color levels
+  - How do we know what is true?
+    - Spirituality does not have to be in conflict with science
+    - Magical thinking
+    - Need again for a model
+  - Quadrants
+    - UR
+    - UL
+    - LR
+    - LL
+    - Quadrant myopia
+      - UL
+      - UR
+      - LR
+      - LL
+    - Embrace all quadrants
+      - Tale of two churches
+        - CSL
+        - Unitarian
+  - Integral Spirituality
+    - Embrace all colors
+    - Embrace all quadrants
 - Church of Turquoise
   - Why it is now possible
     - better model
