@@ -1,0 +1,1 @@
+ This site is meant for people who are excited by the bigger dream of what we are all collectively waking up to. Waking up to finding their bigger purpose of service. Service coming not from a place of self-sacrifice but instead from listening to the call for the deeper joy that is struggling to be born but needs some midwives.  Please join me. I can't do this alone.

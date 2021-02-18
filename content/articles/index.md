@@ -61,10 +61,16 @@ draft: false
     - Based in the heart, but no magic
 - The Plan for the Plan
   - World view
+    - Spiral dynamics
+      - practical model of the world as it is
+      - map for what we need to use to include all of ourselves
+      - recognize what wants to happen next
+    - Patterns of history: how we got here
+    - Patterns of history: what wants to happen next
     - New groups, new ways of organizing
   - Wounds and trauma  
+    - Growth and healing mindset
     - Not saints -- a practice
-    - growth and healing mindset
     - Healing our collective traumas
       - groups and individuals
   - Spiritual awakening
@@ -73,36 +79,24 @@ draft: false
     - joy!
   - Deadline
     - Global warming
+    - In denial of
     - Can be a benefit
-  - All of me, All of you, All of us
-    - Integral
-    - Love
-- The Work
+    - Love for planet and future generations
   - Definition of success
-    - All of Us
     - Child focused
+    - Integral
+      - Expand circle of compassion
+      - All of me, all of you, all of us
     - Joy
-  - Overview
-    - Patterns of history: What wants to happen next
-    - Growth and healing mindset
-    - Reclaiming spirituality
+      - The deeper job
+        - waking up early for a ski trip
 - We need a map
-  - Need for models
-    - Challenger disaster
-      - Describe
-      - Model mismatch
-        - Manager had wrong level
-        - Engineer did not understand manager's level
-      - Sneaky switch. We have all been operating at the wrong level
-      - Moral cowardice to not judge
-        - quadrant theory helps us understand when to use what kind of judgment
-    - Beyond stupid and evil
   - Spiral Dynamics
     - History
       - Ken Wilber, Integral theory
       - Using original model
       - My take -- social constructs
-    - The colors
+    - Tier 1
       - Beige
         - My favorite
         - Zombie apocalpyse
@@ -128,6 +122,20 @@ draft: false
         - Reaction to Reason
         - Hakomi principles
         - Difference between Blue
+    - Practical examples
+      - Challenger disaster
+        - Describe
+        - Model mismatch
+          - Manager had wrong level
+          - Engineer did not understand manager's level
+        - Sneaky switch. We have all been operating at the wrong level
+        - Moral cowardice to not judge
+          - quadrant theory helps us understand when to use what kind of judgment
+      - Red vs. Democracy
+      - Mormonism
+    - Tier 2
+      - Integral
+      - Still establishing
       - Tick-Tock
         - Oscillation
         - Hectave
@@ -160,7 +168,7 @@ draft: false
       - Come together
       - Spirit transcends
     - Practical applications of Spiral Dynamics
-      - Red vs. Democracy
+
     - Request for stories
       - My story
         - Three sacred vows
