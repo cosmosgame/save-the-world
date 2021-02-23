@@ -58,3 +58,9 @@ Kaizen means constant on-going improvement. It is always possible to grow and le
 ### Self evident
 
 Nothing written here is meant to be taken on faith. You are encouraged to find the truth of everything within yourself. Please note, though, that the request is that you search for this truth in all of yourself. Some people tend to only look for truth in their heads, others only tend to look for it in their hearts or spirit. The request is that you look for truth in all parts of yourself, especially the parts that maybe you don't typically search.  This is especially true for spirituality.  You might be skeptical about this topic, but please know that the expectation is that any claim made here is meant to be validated by your own internal experiments. It has to be that way. Only you can find the truth for yourself.
+
+## Next steps
+
+OK. So I hope you have a better idea of how and why I have set up this site. My biggest hope is that this site becomes much bigger than me. But I have to start somewhere so I start with myself. I'm so looking forward to seeing what you bring in.
+
+Let's get back into the plan shall we? In the next section I'm going to briefly recap the plan for the plan, and then it's time to finally dive in.

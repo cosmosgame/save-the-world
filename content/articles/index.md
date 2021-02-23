@@ -62,11 +62,6 @@ draft: false
 - The Plan for the Plan
   - World view
     - Spiral dynamics
-      - practical model of the world as it is
-      - map for what we need to use to include all of ourselves
-      - recognize what wants to happen next
-    - Patterns of history: how we got here
-    - Patterns of history: what wants to happen next
     - New groups, new ways of organizing
   - Wounds and trauma  
     - Growth and healing mindset
@@ -96,6 +91,12 @@ draft: false
       - Ken Wilber, Integral theory
       - Using original model
       - My take -- social constructs
+    - Benefits
+      - practical model of the world as it is
+      - map for what we need to use to include all of ourselves
+      - recognize what wants to happen next
+      - Patterns of history: how we got here
+      - Patterns of history: what wants to happen next
     - Tier 1
       - Beige
         - My favorite
