@@ -13,7 +13,7 @@ What do we truly want for this world? What would light us up all the way? I sugg
 
 ### Recognize the Pain
 
- First, I suggest we need to better understand the world. Why do people act like they do? It turns out that groups of people have very different world views. How did that come to be? What does the past suggest for the future? Knowing that people think very differently than us can we shift our hearts to forgive their transgressions? Knowing that the world has had major shifts in the past, can we embrace and encourage the next one that wants to happen?
+ First, I suggest we need to better understand the world. Why do people act like they do? It turns out that different groups of people have very different world views. How did that come to be? What does the past suggest for the future? Knowing that people think very differently, can we shift our hearts to forgive their transgressions? Knowing that the world has had major shifts in the past, can we embrace and encourage the next one that wants to happen?
 
 ### Step fully into the pain
 
@@ -21,6 +21,6 @@ And always after you look outwards you next need to turn within. Where do I fit 
 
 ### Awaken to something bigger
 
-It turns out the deeper healing comes when we surrender to something larger than ourself. After we acknowledge that yes in fact we are in a lot of pain, we then work on accepting the pain. Fully embracing it and accepting it. And if the right kind of support is there we can learn that this pain is a path of transformation. No guarantees on this one sadly, but there is a beauty and joy that can shine through the cracks of the deepest suffering. And that light illuminates the path that we ultimately need to follow. But again we don't get to jump straight there. We first need to look both outwards and inwards before we can merge those into something even bigger. And then we circle back to where we started -- that childlike sense of awe and wonder. That knowing that the world can be very, very beautiful but it takes a magic wish to start it all.
+It turns out the deeper healing comes when we surrender to something larger than ourself. After we acknowledge that yes in fact we are in a lot of pain, we then work on accepting the pain. Fully embracing it and accepting it. And if the right kind of support is there we can learn that this pain is a path of transformation. No guarantees on this one sadly, but there is a beauty and joy that can shine through the cracks of the deepest suffering. And that light illuminates the path that we ultimately need to follow. But again we don't get to jump straight there. We first need to look both outwards and inwards before we can merge those into something even bigger. Breathing out into the world and then breathing in.  And then we circle back to where we started -- that childlike sense of awe and wonder. That knowing that the world can be very, very beautiful but it takes a magic wish to start it all.
 
 Ready to start this magic journey with me?

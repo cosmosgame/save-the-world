@@ -85,135 +85,133 @@ draft: false
     - Joy
       - The deeper job
         - waking up early for a ski trip
-- We need a map
-  - Spiral Dynamics
-    - History
-      - Ken Wilber, Integral theory
-      - Using original model
-      - My take -- social constructs
-    - Benefits
-      - practical model of the world as it is
-      - map for what we need to use to include all of ourselves
-      - recognize what wants to happen next
-      - Patterns of history: how we got here
-      - Patterns of history: what wants to happen next
-    - Tier 1
-      - Beige
-        - My favorite
-        - Zombie apocalpyse
-      - Purple
-        - Spirit
-      - Red
-        - Empire
-          - Alexander the Great,
-          - Attilla the Hun
-          - Columbus
-        - The problem
-        - Olympics
-          - personal excellence
-      - Blue
-        - Jesus and Mohammed
-        - Neo Confucianism
-          - Attilla goes from red to blue
-        - Martin Luther King and Gandhi
-      - Orange
-        - Enlightenment
-        - Black ships
-      - Green
-        - Reaction to Reason
-        - Hakomi principles
-        - Difference between Blue
-    - Practical examples
-      - Challenger disaster
-        - Describe
-        - Model mismatch
-          - Manager had wrong level
-          - Engineer did not understand manager's level
-        - Sneaky switch. We have all been operating at the wrong level
-        - Moral cowardice to not judge
-          - quadrant theory helps us understand when to use what kind of judgment
-      - Red vs. Democracy
-      - Mormonism
-    - Tier 2
+- Spiral Dynamics
+  - History
+    - Ken Wilber, Integral theory
+    - Using original model
+    - My take -- social constructs
+  - Benefits
+    - practical model of the world as it is
+    - map for what we need to use to include all of ourselves
+    - recognize what wants to happen next
+    - Patterns of history: how we got here
+    - Patterns of history: what wants to happen next
+  - Tier 1
+    - Beige
+      - My favorite
+      - Zombie apocalpyse
+    - Purple
+      - Spirit
+    - Red
+      - Empire
+        - Alexander the Great,
+        - Attilla the Hun
+        - Columbus
+      - The problem
+      - Olympics
+        - personal excellence
+    - Blue
+      - Jesus and Mohammed
+      - Neo Confucianism
+        - Attilla goes from red to blue
+      - Martin Luther King and Gandhi
+    - Orange
+      - Enlightenment
+      - Black ships
+    - Green
+      - Reaction to Reason
+      - Hakomi principles
+      - Difference between Blue
+  - Practical examples
+    - Challenger disaster
+      - Describe
+      - Model mismatch
+        - Manager had wrong level
+        - Engineer did not understand manager's level
+      - Sneaky switch. We have all been operating at the wrong level
+      - Moral cowardice to not judge
+        - quadrant theory helps us understand when to use what kind of judgment
+    - Red vs. Democracy
+    - Mormonism
+  - Tier 2
+    - Integral
+    - Still establishing
+    - Tick-Tock
+      - Oscillation
+      - Hectave
+      - Tier 1 and Tier 2
+      - Groups
+        - We are wired for groups
+        - America doesn't get group focus
+          - My Japan experience (?)
+    - Yellow
       - Integral
-      - Still establishing
-      - Tick-Tock
-        - Oscillation
-        - Hectave
-        - Tier 1 and Tier 2
-        - Groups
-          - We are wired for groups
-          - America doesn't get group focus
-            - My Japan experience (?)
-      - Yellow
-        - Integral
-        - All of me
-        - Yellow organizations
-          - Hakomi
-          - HAI
-          - Medicine
-            - How to change your mind
-              - Michael Pollan needed green to get here
-          - Maps example
-      - Turquoise
-        - Showing up
-        - All of me, All of you, All of us
-        - Turqoise organizations
-          - Just starting to happen
-          - Revolutionary Love project
-            - video
-            - step through the colors
-    - The Hope of Turquoise
-      - What wants to happen next
-      - Embrace all colors
-      - Come together
-      - Spirit transcends
-    - Practical applications of Spiral Dynamics
-
-    - Request for stories
-      - My story
-        - Three sacred vows
-        - The Wall (Vow #1)
-          - Running
-            - Maybe running away from things
-          - Mirrors scare me
-          - Mirrors everywhere
-          - Tribal support
-            - recognition of bravery
-            - The first sacred vow
-              - explanation of why it was hard
-          - Name Change
-            - Affirmative prayer
-            - Forced me to become bigger
-        - The first awakening (Vow #2)
-          - Kiss of the Angel
-            - Incredible strength and grace
-          - Put it back on the shelf
-          - Cohousing
-          - Still working through my pain
-          - HAI workshop Love
-            - 50th birthday
-            - health
-            - healthy eating
-            - weight
-            - self love
-          - HAI vow
-            - everyone is a mirror
-            - standing naked in front of people, commitment
-        - Spiritual awakening
-          - Medicine
-            - Marriage breaking up
-            - Found the practical path to spirituality
-            - Found what I really want
-              - Lifeboat analogy (HAI story)
-          - Hakomi
-          - Discovery of vow #3
-            - black hole is actually needy child
-            - Initially hard to accept
-            - And how I am with other people -- need for third vow
-          - My Hakomi request  
-            - eventually realized I was asking for Turqoise
-        - Recap levels
+      - All of me
+      - Yellow organizations
+        - Hakomi
+        - HAI
+        - Medicine
+          - How to change your mind
+            - Michael Pollan needed green to get here
+        - Maps example
+    - Turquoise
+      - Showing up
+      - All of me, All of you, All of us
+      - Turqoise organizations
+        - Just starting to happen
+        - Revolutionary Love project
+          - video
+          - step through the colors
+  - The Hope of Turquoise
+    - What wants to happen next
+    - Embrace all colors
+    - Come together
+    - Spirit transcends
+  - Practical applications of Spiral Dynamics
+  - Request for stories
+    - My story
+      - Three sacred vows
+      - The Wall (Vow #1)
+        - Running
+          - Maybe running away from things
+        - Mirrors scare me
+        - Mirrors everywhere
+        - Tribal support
+          - recognition of bravery
+          - The first sacred vow
+            - explanation of why it was hard
+        - Name Change
+          - Affirmative prayer
+          - Forced me to become bigger
+      - The first awakening (Vow #2)
+        - Kiss of the Angel
+          - Incredible strength and grace
+        - Put it back on the shelf
+        - Cohousing
+        - Still working through my pain
+        - HAI workshop Love
+          - 50th birthday
+          - health
+          - healthy eating
+          - weight
+          - self love
+        - HAI vow
+          - everyone is a mirror
+          - standing naked in front of people, commitment
+      - Spiritual awakening
+        - Medicine
+          - Marriage breaking up
+          - Found the practical path to spirituality
+          - Found what I really want
+            - Lifeboat analogy (HAI story)
+        - Hakomi
+        - Discovery of vow #3
+          - black hole is actually needy child
+          - Initially hard to accept
+          - And how I am with other people -- need for third vow
+        - My Hakomi request  
+          - eventually realized I was asking for Turqoise
+      - Recap levels
 - Healing/Personal Growth
   - Focus on Love
   - What works?
