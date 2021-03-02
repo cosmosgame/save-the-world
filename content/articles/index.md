@@ -91,15 +91,17 @@ draft: false
     - Using original model
     - My take -- social constructs
   - Benefits
-    - practical model of the world as it is
+    - understanding allows opening of hearts
+    - practical tool
     - map for what we need to use to include all of ourselves
     - recognize what wants to happen next
-    - Patterns of history: how we got here
-    - Patterns of history: what wants to happen next
   - Tier 1
     - Beige
       - My favorite
+        - naked ape
       - Zombie apocalpyse
+      - Source of truth
+      - Pressure to move on
     - Purple
       - Spirit
     - Red
@@ -133,17 +135,26 @@ draft: false
         - quadrant theory helps us understand when to use what kind of judgment
     - Red vs. Democracy
     - Mormonism
-  - Tier 2
-    - Integral
-    - Still establishing
+  - Deeper into the theory
+    - Spiral
+      - Emerging
+      - Fully
+      - Exiting
     - Tick-Tock
-      - Oscillation
-      - Hectave
-      - Tier 1 and Tier 2
+      - Group/Individual
+      - Dialectic
       - Groups
         - We are wired for groups
         - America doesn't get group focus
           - My Japan experience (?)
+  - Tier 2
+    - Still establishing
+    - What do the patterns tell us
+      - Green to Yellow
+      - Individual
+    - Tier 1 to Tier 2
+      - Hectave
+      - Integral    
     - Yellow
       - Integral
       - All of me
