@@ -15,7 +15,7 @@ Here is what I love about Spiral Dynamics:
 
 * It introduces a world of possibilities to welcome into ourselves
 
-* It suggests a path forward. As we better understand historical patterns we better understand what is wanting to happen next.
+* It suggests a path forward. As we better understand historical patterns we better understand what wants to happen next.
 
 The basic idea is that we all go through developmental stages. We start as infants and then slowly mature into adults with different growth stages along the way. The same can be said of human history. We started as animals and then have gone through historical developmental stages until modern time. Not everyone and not every society has gone through all the stages yet.
 

@@ -45,7 +45,7 @@ In order to give feedback, it helps to know what are the basic goals. If you fin
 
 ### Simplicity
 
-I deeply value your time. I promise not to waste it. There is a lot to cover here, but I will only bring in the  most important points. There are lots of fun tangents that can be visited as side topics, but the goal is to focus on finding the simplest thing that can work. Every idea will be expressed as simply and clearly as possible. If you don't understand a concept it is my fault not yours. If you think I'm wasting time on something, that also is potentially a bug (or at the very least I am not explaining well enough why it is essential).
+I deeply value your time. I promise not to waste it. There is a lot to cover here, but I will only bring in the  most important points. There are lots of fun tangents that can be visited as side topics, but the goal is to focus on finding the simplest thing that can work. Every idea will be expressed as simply and clearly as possible. If you don't understand a concept it is my fault not yours. Let me know. If you think I'm wasting time on something, then you might have found an important bug (or at the very least I am not explaining well enough why it is essential).
 
 ### Practical
 

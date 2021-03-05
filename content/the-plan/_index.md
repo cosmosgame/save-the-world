@@ -17,7 +17,7 @@ What do we truly want for this world? What would light us up all the way? I sugg
 
 ### Step fully into the pain
 
-And always after you look outwards you next need to turn within. Where do I fit into all of this? Who do I need to be in order to best serve the world?  I hope to wake people up to a vocation of service, but most people are so stuck in pain that they can't even imagine that yet. It is only after someone has at least taken the first steps on the healing path before they can even consider service. The good news is that service work can be incredibly healing, and is a healing path all on its own. But first we have to have a plan to heal all these people. How can we do that?
+And always after you look outwards you next need to turn within. Where do I fit into all of this? Who do I need to be in order to best serve the world?  I hope to wake people up to a vocation of service, but most people are so stuck in pain that they can't even imagine that yet. It is only after someone has at least taken the first steps on the healing path before they can even consider service. Service then becomes a powerful healing path. So we want people to wake up to a call for service, but first we have to point them out of their pain. How can we do that?
 
 ### Awaken to something bigger
 
