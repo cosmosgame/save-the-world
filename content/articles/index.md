@@ -107,7 +107,7 @@ draft: false
     - Red
       - Empire
         - Alexander the Great,
-        - Attilla the Hun
+        - Atilla the Hun
         - Columbus
       - The problem
       - Olympics
@@ -115,7 +115,8 @@ draft: false
     - Blue
       - Jesus and Mohammed
       - Neo Confucianism
-        - Attilla goes from red to blue
+        - Japan
+        - Atilla goes from red to blue
       - Martin Luther King and Gandhi
     - Orange
       - Enlightenment
@@ -173,12 +174,33 @@ draft: false
         - Revolutionary Love project
           - video
           - step through the colors
+  - How to tell the tiers apart
+    - Better for groups than individuals
+    - Beige
+      - Body
+    - Purple
+      - Ethnocentric
+    - Red
+      - Mafia
+      - Not believing in a bigger truth
+    - Blue
+      - Surrender to something bigger than you
+    - Orange
+      - Believe in Truth but base also in the individual
+    - Green
+      - Post rational
+    - Second Tier
+      - Ready for more
+    - Yellow
+      - Back to the individual
+    - Turqoise
+      - Back to the group
+      - Into the wilderness and then back to the group
   - The Hope of Turquoise
     - What wants to happen next
     - Embrace all colors
     - Come together
     - Spirit transcends
-  - Practical applications of Spiral Dynamics
   - Request for stories
     - My story
       - Three sacred vows
