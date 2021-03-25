@@ -124,7 +124,9 @@ draft: false
     - Green
       - Reaction to Reason
       - Hakomi principles
-      - Difference between Blue
+      - Not the end
+    - Yellow
+      -
   - Practical examples
     - Challenger disaster
       - Describe
@@ -136,6 +138,9 @@ draft: false
         - quadrant theory helps us understand when to use what kind of judgment
     - Red vs. Democracy
     - Mormonism
+    - Crying Indian
+      - Orange goes to Green
+      - https://www.youtube.com/watch?v=epCKjaStFu0
   - Deeper into the theory
     - Spiral
       - Emerging
@@ -148,32 +153,32 @@ draft: false
         - We are wired for groups
         - America doesn't get group focus
           - My Japan experience (?)
-  - Tier 2
-    - Still establishing
-    - What do the patterns tell us
-      - Green to Yellow
-      - Individual
-    - Tier 1 to Tier 2
-      - Hectave
-      - Integral    
-    - Yellow
-      - Integral
-      - All of me
-      - Yellow organizations
-        - Hakomi
-        - HAI
-        - Medicine
-          - How to change your mind
-            - Michael Pollan needed green to get here
-        - Maps example
-    - Turquoise
-      - Showing up
-      - All of me, All of you, All of us
-      - Turqoise organizations
-        - Just starting to happen
-        - Revolutionary Love project
-          - video
-          - step through the colors
+    - Tier 2
+      - Still establishing
+      - What do the patterns tell us
+        - Green to Yellow
+        - Individual
+      - Tier 1 to Tier 2
+        - Hectave
+        - Integral    
+      - Yellow
+        - Integral
+        - All of me
+        - Yellow organizations
+          - Hakomi
+          - HAI
+          - Medicine
+            - How to change your mind
+              - Michael Pollan needed green to get here
+          - Maps example
+      - Turquoise
+        - Showing up
+        - All of me, All of you, All of us
+        - Turqoise organizations
+          - Just starting to happen
+          - Revolutionary Love project
+            - video
+            - step through the colors
   - How to tell the tiers apart
     - Better for groups than individuals
     - Beige
