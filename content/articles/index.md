@@ -123,10 +123,19 @@ draft: false
       - Black ships
     - Green
       - Reaction to Reason
-      - Hakomi principles
       - Not the end
     - Yellow
-      -
+      - New awakening
+      - It is new
+      - Welcome
+      - Institutions
+        - Hakomi
+        - HAI
+        - Integral Christianity
+        - Medicine
+      - My longing
+    - Turquoise
+      - The prophecy
   - Practical examples
     - Challenger disaster
       - Describe
