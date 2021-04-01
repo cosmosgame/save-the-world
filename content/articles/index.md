@@ -128,11 +128,9 @@ draft: false
       - New awakening
       - It is new
       - Welcome
-      - Institutions
-        - Hakomi
-        - HAI
-        - Integral Christianity
-        - Medicine
+      - The work
+      - Medicine
+        - Beatles
       - My longing
     - Turquoise
       - The prophecy
@@ -188,28 +186,43 @@ draft: false
           - Revolutionary Love project
             - video
             - step through the colors
-  - How to tell the tiers apart
+  - Revisiting the levels
     - Better for groups than individuals
-    - Beige
-      - Body
-    - Purple
-      - Ethnocentric
-    - Red
-      - Mafia
-      - Not believing in a bigger truth
-    - Blue
-      - Surrender to something bigger than you
-    - Orange
-      - Believe in Truth but base also in the individual
-    - Green
-      - Post rational
-    - Second Tier
-      - Ready for more
-    - Yellow
-      - Back to the individual
-    - Turqoise
-      - Back to the group
-      - Into the wilderness and then back to the group
+    - How to tell apart
+      - Beige
+        - Body
+      - Purple
+        - Ethnocentric
+      - Red
+        - Mafia
+        - Not believing in a bigger truth
+      - Blue
+        - Surrender to something bigger than you
+      - Orange
+        - Believe in Truth but base also in the individual
+      - Green
+        - Post rational
+      - Second Tier
+        - Ready for more
+      - Yellow
+        - Back to the individual
+      - Turqoise
+        - Back to the group
+        - Into the wilderness and then back to the group
+    - Institutions of growth
+      - Blue
+        - church
+      - Orange
+        - highschool
+        - college
+      - Green
+        - college
+      - Yellow
+        - Hakomi
+        - HAI
+        - Integral Christianity
+        - Maps
+        - Medicine
   - The Hope of Turquoise
     - What wants to happen next
     - Embrace all colors
