@@ -30,6 +30,7 @@ draft: false
   - Purpose?
   - Software engineer, personal growth, spiritual awakening
     - mind,body, and heart
+    - [TODO] environmentalist
     - many paths
     - all of me, all of you, all of us
     - lead by example
@@ -37,16 +38,17 @@ draft: false
     - comfortable bringing together theories
     - simplify
     - focus on practical, measurable results
+    - [TODO] humble is hopeful
     - Open source leading the way
-  - Open Source (engineer's mindset)
-    - Surprising success
-    - Harness all of us
-      - place where we
-    - Feedback
-      - comments
-      - bugs
-      - PR's
-    - community
+- [TODO--move] Open Source (engineer's mindset)
+  - Surprising success
+  - Harness all of us
+    - place where we
+  - Feedback
+    - comments
+    - bugs
+    - PR's
+  - Community
   - Promises
     - Simplicity
       - Value your time
@@ -60,6 +62,11 @@ draft: false
       - feedback
     - Based in the heart, but no magic
 - The Plan for the Plan
+  - Integral
+    - Growing Up
+    - Cleaning Up
+    - Waking Up
+    - Showing Up
   - World view
     - Spiral dynamics
     - New groups, new ways of organizing
@@ -72,7 +79,7 @@ draft: false
     - reclaiming spirituality
       - ok if you don't yet feel comfortable with that word
     - joy!
-  - Deadline
+  - [TODO] Deadline
     - Global warming
     - In denial of
     - Can be a benefit
@@ -131,7 +138,10 @@ draft: false
       - The work
       - Medicine
         - Beatles
-      - My longing
+      - Second Tier
+        - Hectaves
+        - Tic/Toc
+        - My longing
     - Turquoise
       - The prophecy
   - Practical examples
