@@ -5,10 +5,15 @@ draft: false
 weight: 50
 ---
 
-00BFFF
 <style type="text/css">
-  table tr#Beige {background-color:#FFE4C4;}
+  table tr#Beige td {background-color:#FFEBCD !important;}
+  table tr#Purple td {background-color:#BA55D3}
+  table tr#Red td {background-color:#DC143C}
   table tr#Blue {background-color:#00BFFF;}
+  table tr#Orange td {background-color:#FF8C00;}
+  table tr#Green {background-color:#228B22;}  
+  table tr#Yellow td {background-color:#FFD700;}
+  table tr#Turqoise td {background-color:#00CED1;}
 </style>
 
 # Spiral Dynamics
@@ -39,22 +44,22 @@ weight: 50
     <td>TrueBlue</td>
     <td>The Truth</td>
   </tr>
-  <tr>
+  <tr id="Orange">
     <td>Orange</td>
     <td>StriveDrive</td>
     <td>Give me liberty or give me death</td>
   </tr>
-  <tr>
+  <tr id="Green">
     <td>Green</td>
     <td>HumanBond</td>
     <td>For all of us</td>
   </tr>
-  <tr>
+  <tr id="Yellow">
     <td>Yellow</td>
     <td>Second Awakening</td>
     <td>A life worth living</td>
   </tr>
-  <tr>
+  <tr id="Turqoise">
     <td>Turqoise</td>
     <td>PromisedLand</td>
     <td>Save the world</td>

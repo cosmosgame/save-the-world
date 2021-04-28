@@ -1,7 +1,9 @@
+---
 title: "Beige"
 date: 2021-1-03T08:26:15Z
 draft: false
-weight: 20
+weight: 60
+---
 
 # Beige
 
