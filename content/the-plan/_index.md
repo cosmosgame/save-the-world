@@ -1,7 +1,7 @@
 title: "The Plan for the Plan"
 date: 2021-19-02T05:26:15Z
 draft: false
-weight: 10
+weight: 40
 
 ## The Plan for the Plan
 

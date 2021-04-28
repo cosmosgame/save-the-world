@@ -1,3 +1,9 @@
+---
+title: "Programmers Path"
+date: 2020-09-06T16:16:31-07:00
+draft: true
+---
+
 - Software engineer path
   - Radical truth
     - Running in debug mode
