@@ -3,7 +3,7 @@ title: "Index"
 date: 2020-11-18T11:36:31-07:00
 draft: false
 ---
-- Home
+- Welcome
   - Welcome and thanks
   - Saving the world
     - Pain of the world
@@ -40,7 +40,7 @@ draft: false
     - focus on practical, measurable results
     - [TODO] humble is hopeful
     - Open source leading the way
-- [TODO--move] Open Source (engineer's mindset)
+- [TODO--move] Open Source
   - Surprising success
   - Harness all of us
     - place where we
@@ -62,23 +62,27 @@ draft: false
       - feedback
     - Based in the heart, but no magic
 - The Plan for the Plan
-  - Integral
     - Growing Up
     - Cleaning Up
     - Waking Up
     - Showing Up
-  - World view
+  - Growing Up
     - Spiral dynamics
     - New groups, new ways of organizing
-  - Wounds and trauma  
+  - Cleaning Up
     - Growth and healing mindset
     - Not saints -- a practice
     - Healing our collective traumas
       - groups and individuals
-  - Spiritual awakening
+  - Waking Up
     - reclaiming spirituality
       - ok if you don't yet feel comfortable with that word
+    - Integral
     - joy!
+  - Showing Up
+    - Recognize
+    - Embrace
+    - Step fully Into
   - [TODO] Deadline
     - Global warming
     - In denial of
@@ -92,7 +96,7 @@ draft: false
     - Joy
       - The deeper job
         - waking up early for a ski trip
-- Spiral Dynamics
+- Growing Up
   - History
     - Ken Wilber, Integral theory
     - Using original model
@@ -123,7 +127,7 @@ draft: false
       - Jesus and Mohammed
       - Neo Confucianism
         - Japan
-        - Atilla goes from red to blue
+        - Genghis Khan goes from red to blue
       - Martin Luther King and Gandhi
     - Orange
       - Enlightenment
@@ -138,9 +142,10 @@ draft: false
       - The work
       - Medicine
         - Beatles
-      - Second Tier
-        - Hectaves
-        - Tic/Toc
+    - Second Tier
+      - Embraces all levels
+      - Hectaves
+      - Tic/Toc
     - Turquoise
       - My longing
       - The prophecy
@@ -173,11 +178,10 @@ draft: false
     - Tier 2
       - Still establishing
       - What do the patterns tell us
-        - Green to Yellow
-        - Individual
       - Tier 1 to Tier 2
         - Hectave
-        - Integral    
+        - All of Us
+        - Tic Toc    
       - Yellow
         - Integral
         - All of me
@@ -193,11 +197,11 @@ draft: false
         - All of me, All of you, All of us
         - Turqoise organizations
           - Just starting to happen
-          - Revolutionary Love project
-            - video
-            - step through the colors
-  - Revisiting the levels
-    - Better for groups than individuals
+  - Exploring Spiral Dynamics
+    - Caveats
+      - Not really a scientific theory
+        - Need to be parsimonious with its statements
+      - Better for groups than individuals
     - How to tell apart
       - Beige
         - Body
@@ -282,10 +286,16 @@ draft: false
         - My Hakomi request  
           - eventually realized I was asking for Turqoise
       - Recap levels
-- Healing/Personal Growth
+- Cleaning Up
+  - Why
+    - Getting people out of pain first
+    - Getting people into joy
+  - Personal growth mindset
+  - Mindfulness
   - Focus on Love
   - What works?
-  - Personal growth mindset
+  - Medicine
+    - Not the only path
   - Principles
     Core principles
       - Love
@@ -329,7 +339,7 @@ draft: false
       - Personal growth
       - Service
     - Structures for healing
-- Reclaiming Spirituality
+- Waking Up
   - What has worked in the past?
     - Gandhi
     - Martin Luther King
@@ -358,11 +368,12 @@ draft: false
   - Integral Spirituality
     - Embrace all colors
     - Embrace all quadrants
-- Church of Turquoise
+- Showing Up
   - Why it is now possible
     - better model
     - reclaiming spirituality
     - healing and growth
+  - Boddhisatva vow
   - Goals
     - Healing
       - Focus on what works
