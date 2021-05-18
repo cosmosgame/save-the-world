@@ -71,18 +71,19 @@ draft: false
     - New groups, new ways of organizing
   - Cleaning Up
     - Growth and healing mindset
-    - Not saints -- a practice
     - Healing our collective traumas
       - groups and individuals
   - Waking Up
     - reclaiming spirituality
-      - ok if you don't yet feel comfortable with that word
+      - ok if you don't yet feel comfortable with that
+    - Not saints -- a practice [TODO]
+       word
     - Integral
     - joy!
   - Showing Up
-    - Recognize
-    - Embrace
-    - Step fully Into
+    - Recognize the pain
+    - Step fully into the pain
+    - Awaken to something bigger
   - [TODO] Deadline
     - Global warming
     - In denial of
