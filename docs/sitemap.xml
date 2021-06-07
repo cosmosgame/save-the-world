@@ -3,54 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://turquoise-community.github.io/save-the-world/</loc>
+    <loc>http://localhost:1313/save-the-world/</loc>
+    <lastmod>2020-12-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/spiral-dynamics/beige/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/the-dream/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/spiral-dynamics/purple/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/who-am-i/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/open-source/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/spiral-dynamics/red/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/spiral-dynamics/blue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/the-plan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/spiral-dynamics/orange/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/spiral-dynamics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/spiral-dynamics/green/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/spiral-dynamics/yellow/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/spiral-dynamics/turquoise/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/spiral-dynamics/practical/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/posts/</loc>
     <lastmod>2020-11-25T10:04:31-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turquoise-community.github.io/save-the-world/the-dream/</loc>
-  </url>
-  
-  <url>
-    <loc>https://turquoise-community.github.io/save-the-world/stone-soup/</loc>
-    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://turquoise-community.github.io/save-the-world/who-am-i/</loc>
-  </url>
-  
-  <url>
-    <loc>https://turquoise-community.github.io/save-the-world/stone-soup/stone-soup/</loc>
+    <loc>http://localhost:1313/save-the-world/posts/stone-soup/</loc>
     <lastmod>2020-11-25T10:04:31-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turquoise-community.github.io/save-the-world/articles/</loc>
+    <loc>http://localhost:1313/save-the-world/articles/</loc>
     <lastmod>2020-11-18T11:36:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turquoise-community.github.io/save-the-world/posts/</loc>
+    <loc>http://localhost:1313/save-the-world/posts/programmers-path/</loc>
     <lastmod>2020-09-06T16:16:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turquoise-community.github.io/save-the-world/posts/save-the-world/</loc>
+    <loc>http://localhost:1313/save-the-world/posts/save-the-world/</loc>
     <lastmod>2020-09-06T16:16:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turquoise-community.github.io/save-the-world/posts/we-need-a-plan/</loc>
+    <loc>http://localhost:1313/save-the-world/posts/we-need-a-plan/</loc>
     <lastmod>2020-09-06T16:16:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://turquoise-community.github.io/save-the-world/categories/</loc>
+    <loc>http://localhost:1313/save-the-world/posts/civil-war/</loc>
   </url>
   
   <url>
-    <loc>https://turquoise-community.github.io/save-the-world/tags/</loc>
+    <loc>http://localhost:1313/save-the-world/posts/examples/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/posts/hakomi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/posts/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/save-the-world/tags/</loc>
   </url>
   
 </urlset>

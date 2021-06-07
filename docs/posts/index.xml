@@ -2,28 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Save The World</title>
-    <link>https://turquoise-community.github.io/save-the-world/posts/</link>
+    <link>http://localhost:1313/save-the-world/posts/</link>
     <description>Recent content in Posts on Save The World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2020 16:16:31 -0700</lastBuildDate><atom:link href="https://turquoise-community.github.io/save-the-world/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Nov 2020 10:04:31 -0800</lastBuildDate><atom:link href="http://localhost:1313/save-the-world/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Save the World</title>
-      <link>https://turquoise-community.github.io/save-the-world/posts/save-the-world/</link>
+      <title>Stone Soup1</title>
+      <link>http://localhost:1313/save-the-world/posts/stone-soup/</link>
+      <pubDate>Wed, 25 Nov 2020 10:04:31 -0800</pubDate>
+      
+      <guid>http://localhost:1313/save-the-world/posts/stone-soup/</guid>
+      <description>Stone Soup &amp;ndash; stone soup text goes here &amp;mdash; edited</description>
+    </item>
+    
+    <item>
+      <title>Programmers Path</title>
+      <link>http://localhost:1313/save-the-world/posts/programmers-path/</link>
       <pubDate>Sun, 06 Sep 2020 16:16:31 -0700</pubDate>
       
-      <guid>https://turquoise-community.github.io/save-the-world/posts/save-the-world/</guid>
+      <guid>http://localhost:1313/save-the-world/posts/programmers-path/</guid>
+      <description>This is not done yet. Here is the outline of what I want to cover:
+ Software engineer path  Radical truth  Running in debug mode Embrace when you are wrong Measuring   Learning to be wrong  It is a practice Needs to be supported OK to aspire to excellence anyways   Check your assumptions  debugging leads to this examine sources of truth   Dealing with complexity  simplify layers scrum  negotiating complexity not everyone has to be a software expert     Deep dive  Five whys Failure without blame Factoring in that humans are failable   Flow  Cure for sensitivity -hiding out in crystalline forests Teaches possibility of joy  joy based life     Request For Comments (RFC) Models Open source  Shared libraries Forking Not all opinions are equal      </description>
+    </item>
+    
+    <item>
+      <title>Save the World</title>
+      <link>http://localhost:1313/save-the-world/posts/save-the-world/</link>
+      <pubDate>Sun, 06 Sep 2020 16:16:31 -0700</pubDate>
+      
+      <guid>http://localhost:1313/save-the-world/posts/save-the-world/</guid>
       <description>I love movies where the reluctant heroes are desperately trying to save the world against what seem impossible odds. First they overcome their fears and limitations, and then they commit. Then they work through their bitter squabbles and commit to each other. I want to be like them. I&amp;rsquo;m hoping you do too, because the world is in desperate need of heroes right now.
 Police kill black men seemingly at will.</description>
     </item>
     
     <item>
       <title>Spheres of compassion</title>
-      <link>https://turquoise-community.github.io/save-the-world/posts/we-need-a-plan/</link>
+      <link>http://localhost:1313/save-the-world/posts/we-need-a-plan/</link>
       <pubDate>Sun, 06 Sep 2020 16:16:31 -0700</pubDate>
       
-      <guid>https://turquoise-community.github.io/save-the-world/posts/we-need-a-plan/</guid>
+      <guid>http://localhost:1313/save-the-world/posts/we-need-a-plan/</guid>
       <description>But first we need a plan. Our current approach is not working. There are many things not working, but let me focus on climate change because it is a huge problem. Emissions keep on going up. World wide agreements are made, but never for enough and emissions keep on going up. Environmentalists pin their hope on elections but then the other party gets elected and dismantles previous work. And emissions keep on going up.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/save-the-world/posts/civil-war/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/save-the-world/posts/civil-war/</guid>
+      <description>Let me start with a simple question. Why do we think the Civil War actually solved anything? Did that war really change hearts and minds? I don&amp;rsquo;t think so. Not really. Imagine the end of the U.S. Civil War. The North has just crushed the South using brutal, total war: Sherman&amp;rsquo;s March to the Sea. The South surrenders with the bitter realization that the North will stop at absolutely no unspeakable atrocity in order to totally crush them.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/save-the-world/posts/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/save-the-world/posts/examples/</guid>
+      <description>Orange to Green Crying Indian Commercial</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/save-the-world/posts/hakomi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/save-the-world/posts/hakomi/</guid>
+      <description>Body-Centered Psychotherapy
+   Old paradigm New paradigm     fundamental separateness unbroken wholeness
+fundamental connectedness   absolute certitude
+only matter is real (materialism) uncertainty, relativity
+consciosness is real (dualistm, monism)   the mind/body split mind/body integration   biology is destingy we create our own destiny    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/save-the-world/posts/snippets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/save-the-world/posts/snippets/</guid>
+      <description>This site is meant for people who are excited by the bigger dream of what we are all collectively waking up to. Waking up to finding their bigger purpose of service. Service coming not from a place of self-sacrifice but instead from listening to the call for the deeper joy that is struggling to be born but needs some midwives. Please join me. I can&amp;rsquo;t do this alone.</description>
     </item>
     
   </channel>
