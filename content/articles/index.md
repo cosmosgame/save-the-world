@@ -151,6 +151,7 @@ draft: false
       - My longing
       - The prophecy
   - Practical examples
+    - Valerie Kaur
     - Challenger disaster
       - Describe
       - Model mismatch

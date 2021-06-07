@@ -1,8 +1,10 @@
 ---
 title: "Programmers Path"
 date: 2020-09-06T16:16:31-07:00
-draft: true
+draft: false
 ---
+
+This is not done yet. Here is the outline of what I want to cover:
 
 - Software engineer path
   - Radical truth
@@ -31,7 +33,7 @@ draft: true
       -hiding out in crystalline forests
     - Teaches possibility of joy
       - joy based life
-  - RFC
+  - Request For Comments (RFC)
   - Models
   - Open source
     - Shared libraries

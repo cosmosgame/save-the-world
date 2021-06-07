@@ -45,15 +45,15 @@ We need to stop and take the time to turn on the light and see where we are. Wha
 Later on I'm going to introduce a theory called Spiral Dynamics which has a very powerful explanation for much that we see in the world. It lets us understand people without resorting to just calling them stupid and evil. But right here I want to focus on the need for some theory period. We need a better explanation for the world then simply calling out others as stupd and evil. Here are a few examples of questions any theory we adopt would have to help us answer.
 
 * If you could go back in time and talk to a slave owner how would you convince them to change their mind about slavery? Seriously, how would you do it? The slave owner feels fully justified in their way of living, why on earth should they change?
-* Why do we think that slave owner mindset ever changed? Has it really?
-* Why is that two Mormons, Flake and Romney in the U.S. Senate were the very, very few Republicans to oppose Trump.  
-* What does it mean to be college educated? Does this education give people a different world view?
+* Why do we think that the slave owner mindset ever changed? Has it really?
+* Why is that two Mormons, Flake and Romney in the U.S. Senate were among the very, very few Republicans to oppose Trump.  
+* What does it mean to get a liberal college education? Do college educated people look at the world fundamentally different than non college educated?
 
-These questions call for us to bring in all of our minds. We need a map.
+It is time we stopped blindly bumping into things. We need to turn on the lights. We need a map.
 
 ### Heal and Grow
 
-I bring up slavery, but of course racism does not just come from just an Authoritarian slave owner mindset. When you look a little bit deeper into the problem, I suspect you will see what I see. People who are in a whole lot of pain. It is not natural to live in that kind of hate. A lot of that hateful behavior is acting out from pain. So why are they hurting?
+I talk about slavery, but of course racism does not just come from just an Authoritarian slave owner mindset. When you look a little bit deeper into the problem, I suspect you will see what I see. People who are in a whole lot of pain. It is not natural to live in that kind of hate. A lot of that hateful behavior is acting out from pain. So why are they hurting?
 
 A big part of the problem is that each generation is still working through the deep pain of the last. It is not just lack of understanding of others that is holding us back. We also need to talk about how much trauma we collectively hold. Almost all of our trauma comes from people like our parents and grandparents. And where did they get it? From people in their past, and those people got it from their elders in a long chain of ongoing misery. We need to acknowledge this collective trauma. It runs very deep. Some communities and groups have a heavier burden to bear than others. Imagine the incredible pain of being Black in America, for example. But those white slave masters were passing on enormous trauma to their children too. It turn out that just about all of us receive some sort of trauma from our parents and other loved ones. It is a very harsh truth. Hurt people hurt people. And quite often the people we hurt most are our children. We need to stop this cycle.
 
