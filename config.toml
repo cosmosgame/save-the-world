@@ -21,7 +21,7 @@ enableMissingTranslationPlaceholders = false
     # Source Code repository section
     description = "A plan to save the world"
     github_repository = "https://github.com/cosmosgame/save-the-world"
-    version = "0.1.1"
+    version = "0.2.0"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
