@@ -204,6 +204,11 @@ draft: false
       - Not really a scientific theory
         - Need to be parsimonious with its statements
       - Better for groups than individuals
+        - Not meant to explain everything
+        - Individuals tend to be a mix
+      - It assumes an order
+        - Sometimes Green is really blue
+        - But some people skip ahead
     - How to tell apart
       - Beige
         - Body
