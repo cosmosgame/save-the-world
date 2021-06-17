@@ -43,14 +43,14 @@ I want to live in a world where there is room for everyone. One of my sacred vow
 We need a theory to help guide us. At a minimum this theory should answers for questions like:
 
 * If you could go back in time and talk to a slave owner how would you convince them to change their mind about slavery? Seriously, how would you do it? Why do we think that the slave owner mindset ever changed? Has it really?
-* Why is that two Mormons, Flake and Romney in the U.S. Senate were among the very, very few Republicans to oppose Trump. They were not liberals nor did they suddenly start voting like one, but they courageously defied him anyways. Why is that? How do we encourage more of that?
+* Why is that a Mormon, Romney. in the U.S. Senate was among the very, very few Republicans to oppose Trump. He was not a liberal nor did he suddenly start voting like one, but he courageously defied Trump anyways. Why is that? How do we encourage more of that?
 * What does it mean to get a liberal college education? Do college educated people look at the world fundamentally different than non college educated? Not everyone wants to go to college, how do we make room for those that don't?
 
 Can you see why it is vitally important to have better answers for those questions? And there are better answers. It is time we stopped blindly bumping into things. We need to turn on the lights. We need a map.
 
 ### Heal and Grow (Body)
 
-I mention slavery, but of course racism does not just come from just a slave owner mindset. When you look a little bit deeper into the problem, you will see people who are in a whole lot of pain. It is not natural to live in that kind of hate. A lot of that hateful behavior is acting out from pain. So why are they hurting?
+I mention slavery, but of course racism does not just come from a slave owner mindset. When you look a little bit deeper into the problem, you will see people who are in a whole lot of pain. It is not natural to live with that much hate. A lot of that hateful behavior is acting out from pain. So why are they hurting?
 
 We need to recognize how much trauma we collectively hold. Where did much of this pain come from? Our families. And where did they get it from? Their families. Each generation passing its trauma on to the next. It runs very deep. Some communities and groups have a heavier burden to bear than others. Imagine the incredible pain of being Black in America, for example. But those white slave masters were passing on enormous trauma to their children too. It turn out that just about all of us receive some sort of trauma from our parents and other loved ones. It is a very harsh truth. Hurt people hurt people. And quite often the people we hurt most are our children. We need to stop this cycle.
 
