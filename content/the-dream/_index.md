@@ -43,8 +43,8 @@ During the Trump presidency it felt like political commentators were blindly cra
 We need a theory to help guide us. At a minimum this theory should have answers for questions like:
 
 * If you could go back in time and talk to a slave owner how would you convince them to change their mind about slavery? Seriously, how would you do it? Why do we think that the slave owner mindset ever changed? Has it really?
-* Why is that a Mormon in the U.S. Senate,  Mitt Romney,  was among the very, very few Republicans to oppose Trump. He was not a liberal nor did he suddenly start voting like one, but he courageously defied Trump anyways. Why is that? How do we encourage more of that?
-* What does it mean to get a liberal college education? Do college educated people look at the world in a different way than non college educated? Not everyone wants to go to college, how do we make room for those that don't?
+* Why is that a Mormon in the U.S. Senate, Mitt Romney, was among the very, very few Republicans to oppose Trump. He was not a liberal nor did he suddenly start voting like one, but he courageously defied Trump anyways. Why is that? How do we encourage more of that?
+* When we get a liberal college education does it change how we look at the world? Not everyone wants to go to college, how do we make room for those that don't?
 
 Can you see why it is vitally important to have better answers for those questions? And there are better answers. It is time we stopped blindly bumping into things. We need to turn on the lights. We need a map.
 
@@ -63,7 +63,7 @@ So using the child perspective, let's create a world where every child can grow 
 
 It can feel like saving the world is an impossibly large and wild dream. How can it possibly work? Doesn't it require a kind of miracle? Yes maybe, but the world has seen healing miracles happen before. It can happen again. When Martin Luther King stood up and said "I have a dream" he spoke a kind of miracle into the world. What previously had seemed impossible became the possible and even the necessary. And one of MLK's teachers was Gandhi. The place they were coming from was a profound spirituality so deep that it resonated with people of all faiths even those that professed to have none. There were a lot of very dark moments in the 20th century, but I choose to focus on what worked. What MLK and Gandhi showed us was that handled correctly spirituality can heal the world. It is time to reclaim it as ours.
 
-Please know that I really do know how sensitive a subject this is for most people. Many have suffered spiritual abuse. Telling an impressionable child that people they know and love are going to Hell just because those people don't follow a particular dogma is child abuse. Seriously. Let's call it for what it is. Beyond that Religion has a long and sordid history of oppression, ignorance, and horror. That also is the simple truth.
+This is a very senstive topic for a lot of people. Many have suffered spiritual abuse. Telling an impressionable child that people they know and love are going to Hell just because those people don't follow a particular dogma is child abuse. Seriously. Let's call it for what it is. Beyond that Religion has a long and sordid history of oppression, ignorance, and horror. That also is the simple truth.
 
 And yet.
 
