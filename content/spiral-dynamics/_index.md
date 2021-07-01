@@ -66,9 +66,9 @@ weight: 50
 
 Here is what I love about Spiral Dynamics:
 
-* It helps us understand why "those" people act as they do. Depending on what developmental level you are on, the world looks very different. To "those" people's point of view they are not doing anything wrong. In fact to them it is clear that it is "us" people who are the problem! When we better understand people it is possible to open our hearts to them. And that is when real change is possible.
+* It helps us understand why "those" people act as they do. Depending on what developmental level you are on, the world looks very different. To "those" people's point of view they are not doing anything wrong. In fact to them it is clear that it is "us" people who are the problem! When we better understand people it is possible to open our hearts to them. And that is when real change is possible. You learn to stop judging people as hopelessly stupid and evil, and instead meet them from within their world view.
 
-* The theory is a practical tool. It is meant to be of use. Please judge it by its practical benefits. It suggests concrete actions to deal with the world. You learn to stop judging people as hopelessly stupid and evil, and instead meet them from within their world view.
+* The theory is a practical tool. It is meant to be of use. Please judge it by its practical benefits. It suggests concrete actions to deal with the world.
 
 * It teaches us to welcome all parts of ourselves. Even the parts that we resist. It is especially important to welcome those parts as well.  It reminds us of where we are strong and where we could use some work.
 

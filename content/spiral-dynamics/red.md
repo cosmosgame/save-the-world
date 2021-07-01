@@ -27,4 +27,4 @@ There is of course a real darkness here. Pharaohs mercilessly drove countless su
 
 This is the stage of personal excellence. The dedication and courage of an Olympic athlete starts here. The desire to radically change the world is very Red. The warriors who fight to keep us safe have a hot Red core to them. We need this level just as much as any of the levels, even despite all the baggage it brings. (And sometimes Red can be very inspiring)[https://www.youtube.com/watch?v=q7vtWB4owdE]
 
-But in different regions of the world at different times people woke up and said "Enough! We need something bigger than this! Life must be more than just the strong oppressing the weak". And  something did arise. Something very beautiful.
+But in different regions of the world at different times people woke up and said "Enough! We need something bigger than this! Life must be more than just the strong oppressing the weak". And something did arise. Something very beautiful.
