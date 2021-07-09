@@ -11,13 +11,13 @@ Before diving into the specifics of the plan, let me briefly go over an overview
 
 First we need to be clear on where we are going. What do we truly want for this world? What would light us up all the way? I suggested earlier that we don't have to overthink this. Let the children guide us. And in particular, let our inner child guide us. We already know what we dream for the world, we just have to dare to believe it is possible. On some beautiful day the world is going to wake up in love and joy. But we can't just jump straight there from where we are now. This is where the work is.
 
-### Going Deep
+### The Five Whys
 
-I don't think that we can get to this world we want by continuing to do what we are doing now. Some major shifts are going to have to happen. How do you solve a difficult, challenging problem? Look deeper. This is where my engineer self comes into play. We are trained to look at problems in a deeper way. Let me give you an example.
+I don't think that we can get to the world we want by continuing to do what we are doing now. Some major shifts are going to have to happen. How do you solve a difficult, challenging problem? Look deeper. This is where my engineer self comes into play. Engineers are trained to look at problems in a deeper way. Let me give you an example.
 
-Software engineers truly hate getting woken up at 3am to solve a service outage. So we are highly motivated to do whatever it takes to make sure that does not happen again. Whenever a bad outage happens we initiate an inquiry process called "The Five Whys". This process simply asks "why" five times, but each time the "why" is at a deeper level. We first look at the very topmost "why". Why did we have the outage? Maybe a specific sub-system stopped working. OK, simple enough, but then we ask "why" again. Maybe a node went down. Getting a little deeper now, but again we ask "why". Maybe it turns out no one thought to test what happens when a node goes down. Now we are deeper yet, but again we ask "why". Maybe we did not have a properly thought out testing plan. Getting close now, but there is still another "why" to ask. It turns out that many software developers are secretly loathe to do proper testing. It is hard enough to get the dumb thing working, and we unconsciously resist deliberately breaking our beautiful sofware. So we suck at testing. But it turns out that there are some sick individuals who actually love to break software. It gives them great joy to find all things that programmers did not anticipate. Programmers need people like that involved in doing any new deployment. If we have them involved our chances of not getting woken up at 3am are much higher.
+Software engineers truly hate getting woken up at 3am to solve a service outage. So we are highly motivated to do whatever it takes to make sure that does not happen again. At my company whenever a bad outage happens we initiate an inquiry process called "The Five Whys". This process simply asks "why" five times, but each time the "why" is at a deeper level. We first look at the very topmost "why". Why did we have the outage? Maybe a specific sub-system stopped working. OK, simple enough, but then we ask "why" again. Maybe a node in that sub-system went down. Getting a little deeper now, but again we ask "why". Why did just one node going down bring down the sub-system? Maybe it turns out no one thought to test what happens when a node goes down. Now we are deeper yet, but again we ask "why". Maybe we did not have a properly thought out testing plan. Getting close now, but there is still another "why" to ask. Why did we not have a proper test plan? Many software developers like me are secretly loathe to do proper testing. It is hard enough to get the dumb thing working, and we unconsciously resist deliberately breaking our beautiful sofware. So we suck at testing. But it turns out that there are some sick individuals who actually love to break software. It gives them great joy to find all things that programmers did not anticipate. Programmers need people like that involved in doing any new deployment. If we have them involved our chances of not getting woken up at 3am are much higher.
 
-We have to be willing to go deep enough to find the true underlying cause before we can solve the problem. If we continue to just address the surface level issues, we will still end up getting woken up at 3am. Any plan to save the world is going to have to dig down deep enough to address the root causes.
+Do you see how each "why" brings us to a deeper level? When we get deep enough we can get to the heart of the problem, and that is where we can make the real fix. If we continue to just address the surface level issues, we will still end up getting woken up at 3am. Any plan to save the world is going to have to dig down deep enough to address the root causes.
 
 
 ### Integral Theory
@@ -33,7 +33,7 @@ This is his beautifully succint summary of the work we all need to do:
 
 And I would add one more to the list
 
-* Wising UP
+* Wising Up
 
 ### Growing Up
 
