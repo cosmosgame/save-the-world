@@ -47,7 +47,7 @@ Kaizen means constant on-going improvement. It is always possible to grow and le
 
 Nothing written here is meant to be taken on faith. You are encouraged to find the truth of everything within yourself. Please note, though, that the request is that you search for this truth in all of yourself. Some people tend to only look for truth in their heads, others only tend to look for it in their hearts or spirit. The request is that you look for truth in all parts of yourself, especially the parts that maybe you don't typically search.  This is especially true for spirituality.  You might be skeptical about this topic, but please know that the expectation is that any claim made here is meant to be validated by your own internal experiments. It has to be that way. Only you can find the truth for yourself.
 
-## Open to feedback
+### Open to feedback
 
 Open source has shown that collobaration works best when people are able to listen to feedback without letting their ego get too much in the way. Any organization that we create needs to have this as a guiding principle. This can be ones of the hardest things to achieve, but it is one of the more important.
 
