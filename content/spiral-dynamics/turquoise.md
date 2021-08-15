@@ -19,10 +19,44 @@ weight: 80
   </tr>
 </table>
 
-We have not been in Yellow that long and yet I find myself already longing for the next level, Turqoise. After finding our vast strength in Yellow we start to really open up to all that is. And it hurts. Really hurts. The world is suffering in so many needless ways. My deepest desire is to help the world out of that suffering. As someone who is stepping into the Grandfather stage of his life, I am committed to leaving a safer world for all the grandchildren. I can't do it alone. I will need the help of many, many others. My wild hope is that after people have found their individual strength in Yellow they will then find they are up for the challenge of healing this world. And next they will look up and out to others and realize that we need a really big tribe to make this happen.
+After finding our vast strength in Yellow we start to really open up to all that is. And it hurts. Really hurts. The world is suffering in so many needless ways. We have met this pain before and run away, but this time we suddenly realize how truly big we are. We are more than just our narrow individual ego. We are part of something so so much bigger. Big enough even to face that scary tidal wave of world pain. We are all one. When you suffer, I suffer too. We now start to really get that. And it is so not OK what is happening. The deeper joy is the joy of all not just the one. From our place of strength we look up and out. And a wild, crazy hope emerges. On our own there is relatively little we can do. But together? Together we can change the world.
 
-We don't really know yet exactly what Turquoise is going to look like. But we do have the pattern of what has happened up to now to give us some important clues. We know that this level will be the (tock) return to community. And just like Yellow is a hectave above Beige and revisits that level, Turquoise is a hectave above Purple. We will know Turquoise is here when people start to hold awesome, amazing parties. Burning Man might be an early example of that. Just like Purple was the start of religion, Turquoise almost certainly will see the rebirth of a new enlightened form of religion. It will be a practice of spirit that deeply nourishes and strengthens us. And we will become bad-asses once more.
+Turquoise as a societal construct is not yet here. There is no history I can point to. And we don't really know yet exactly what Turquoise is going to look like. But we do have the pattern of what has happened up to now to give us some important clues. We know that this level will be the (tock) return to community. And just like Yellow revisits Beige at a higher level, Turquoise revisits communal Purple. We will know Turquoise has arrived by its awesome, legendary parties. Burning Man might be an early example. Just like Purple was the start of religion, Turquoise almost certainly will see the rebirth of an enlightened form of religion. It will be a practice of spirit that deeply nourishes and strengthens. And we will become bad-asses once more.
 
-I find it incredibly hopeful that this level is awakening exactly at the critical point where humanity chooses to either flourish or collapse. We have a choice. We already have enough food to feed the world, but we choose not to. We already have enough medicine to heal all the world's sick, but we choose not to. We already have the technology to completely stop C02 emissions, but we choose not to fully commit to it. Our root problem is the consciousness that we bring to this world.
+Turquoise is like a prophecy in a story. It is a dream of what we hope and pray will come. And it can be our intention. Our guide of what needs to happen in order for the world to flourish. But even though Turqoise is not yet fully here I do see some signs of it starting to emerge. Valerie Kaur's [Revolutionary Love Project](https://valariekaur.com/revolutionary-love-project/) is one example.
 
-Turquoise is like a prophecy in a story. It is a dream of what we hope and pray will come. And it can be our intention. Our guide of what needs to happen in order for the world to flourish. We need all the levels to make this dream work. We start back with Beige and welcome our primal connections with nature. We connect again deeply with our bodies, heal and embrace our sexuality, and find the first awakening within. Then in Purple we look to our tribe and spirit starts to fully awaken in us. Next in Red we find our warrior spirit. This dreams needs justice warriors who will protect it. After that in Blue we surrender to a Truth that is bigger than us. This is the ground we stand on. Orange lets us see the patterns of the world and reminds us that we are at choice even within that greater Truth. Green has us look to the suffering of others and the planet. We choose to care. It reminds us that Reason alone does not bring us to the full Truth. Yellow brings us to the sacred ground of ourselves. We do the deeper healing here and find our joy and full strength. And then finally, finally in Turquoise we look out to others who are also just now starting to look up and out. We are all leaders and we are all followers here. We share a goal. For the children we dare not hold back any part of ourselves. This is much bigger than ourselves. And we commit. All of me, All of you, All of us. Together we are one sacred whole. So it is. So it shall be.
+Please watch her Ted talk. It is a great review of everything I have talked about so far. I sincerely doubt that she is aware of Spiral Dynamics, but that makes this even more compelling of an example. She takes us through all the levels and ends with a call for us all to unite to save the world.
+
+See if you can recognize all the different Spiral levels as she brings them up:
+
+{{< youtube id="5ErKrSyUpEo" title="Revolutionary Love">}}
+
+How many did you get?
+
+### Beige
+She starts out with the pain of giving birth. And her family is there with her; primal, intense Beige.
+
+### Purple
+She has a vision of all the mothers who gave birth before, supporting her in a long line; sacred, tribal Purple.
+
+### Red
+Her Grandfather admonishes her to be a warrior. "You will not abandon the fight. Don't abandon your post"; healthy, strong Red.
+
+### Blue
+She talks about how her Sikh religion has guided her; beautiful, true Blue.
+
+### Orange
+She talks a little about how the lawyer part of herself is a little uncomfortable with all this love talk; classic Orange
+
+### Green
+She talks about her social justice work; amazing, vibrant Green
+
+### Yellow
+She talks about her inner work of learning to love herself; awakening, deepening Yellow
+
+### Turqouise
+And then she looks up and out to call all of us to join her; triumphant Turqoise
+
+Notice how lovingly she talks about all the stages. This is a key difference from Yellow. Instead of just tolerating the other stages and working with them, Turquoise actively loves all the levels and celebrates them. Notice how she asks us to first find our strength within (breathe and push) first before then looking out to others. True turqoise can only emerge after people have done the hard individual Yellow work first.
+
+I find it incredibly hopeful that this level is just starting to awaken exactly at the critical point where humanity chooses to either flourish or collapse. We have a choice. We already have enough food to feed the world, but we choose not to. We already have enough medicine to heal all the world's sick, but we choose not to. We already have the technology to completely stop C02 emissions, but we choose not to. We are not lacking in resources or technology. What we are missing is that bigger consciousness. Way too many of us are still asleep.  This stage, if it arrives in time, will wake us up.

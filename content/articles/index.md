@@ -110,16 +110,16 @@ draft: false
   - Tier 1
     - Beige
       - My favorite
-        - naked ape
       - Zombie apocalpyse
       - Source of truth
+      - [TODO] Paleo
       - Pressure to move on
     - Purple
       - Spirit
     - Red
       - Empire
         - Alexander the Great,
-        - Atilla the Hun
+        - Genghis Khan
         - Columbus
       - The problem
       - Olympics
@@ -150,8 +150,8 @@ draft: false
     - Turquoise
       - My longing
       - The prophecy
+      - Valerie Kaur
   - Practical examples
-    - Valerie Kaur
     - Challenger disaster
       - Describe
       - Model mismatch
@@ -203,12 +203,14 @@ draft: false
     - Caveats
       - Not really a scientific theory
         - Need to be parsimonious with its statements
+      - Differences in interpretation
       - Better for groups than individuals
         - Not meant to explain everything
         - Individuals tend to be a mix
       - It assumes an order
         - Sometimes Green is really blue
         - But some people skip ahead
+      - Higher levels do not equal superior in every way
     - How to tell apart
       - Beige
         - Body
