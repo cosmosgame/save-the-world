@@ -24,7 +24,7 @@ Fred Roger told every child they are beautiful and perfect just the way they are
 
 Does this sound too naive and simple? Consider the alternative. Particularly in the U.S. Think of the shooting of little children at Sandy Hook. If you are willing and able, please let yourself feel at least a little of the horror of all those dead little bodies bleeding on the ground. And it is OK if that is too much to let it in even a little -- that is exactly my point.  We have had countless mass shootings of children. And nothing has changed. So many children dead, so many parents grieving. And somehow we are OK with this. Children mercilessly separated from their parents at the border, and then somehow the government "lost" the parents. Those orphaned children will be scarred for life. And we are somehow OK with that too. Black moms having to explain to their sons how dangerous a world it is for them. As if those boys are not all of our sons. The news on global climate change has gotten so bad that it is painful to listen to. There is a very realistic possibility that billions may die. Seriously. My daughter asks me if it makes sense to have children and I have to stop and really think about it. The answer is yes, but I feel a terrible sadness about how challenging a world she will be bringing them into. What species cares so little for its offspring? This is so not OK, but what do we do?
 
-We need a plan. We need a really big plan that includes all of us. Even as we do our individual work I want us to know where we fit into the bigger plan. I don't so much care about what the plan is as long as it is workable, it inspires us, and we all mostly agree on it. I am go to propose a plan because it is better to start from something concrete, but by far the most important thing is that we come up with some shared plan whatever that might be. It is time for us to wake up from our individual trances and look out and really see each other. And then know (and trust) that we don't have to keep on doing this all by ourself. It is time for us to take this work on together.
+We need a plan. We need a really big plan that includes all of us. Even as we do our individual work I want us to know where we fit into the bigger plan. I don't so much care about what the plan is as long as it is workable, it inspires us, and we all mostly agree on it. I am going to propose a plan because it is better to start from something concrete, but by far the most important thing is that we come up with some shared plan whatever that might be. It is time for us to wake up from our individual trances and look out and really see each other. And then know (and trust) that we don't have to keep on doing this all by ourself. It is time for us to take this work on together.
 
 ### All of me, All of you, All of us.
 
@@ -42,9 +42,10 @@ During the Trump presidency it felt like political commentators were blindly cra
 
 We need a theory to help guide us. At a minimum this theory should have answers for questions like:
 
-* Does a good college education change how you look at the world? Not everyone wants to go to college, how do we make room for those that don't?
 * If you could go back in time and talk to a slave owner how would you convince them to change their mind about slavery? Seriously, how would you do it? Why do we think that the slave owner mindset ever changed? Has it really?
 * Why is that a Mormon in the U.S. Senate, Mitt Romney, was among the very, very few Republicans to oppose Trump. He was not a liberal nor did he suddenly start voting like one, but he courageously defied Trump anyways. Why is that? How do we encourage more of that?
+* Does a good college education change how you look at the world? Not everyone wants to go to college, how do we make room for those that don't?
+
 
 Can you see why it is vitally important to have better answers for those questions? And there are better answers. It is time we stopped blindly bumping into things. We need to turn on the lights. We need a map.
 

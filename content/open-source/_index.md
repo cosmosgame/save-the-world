@@ -21,11 +21,11 @@ All open source project have issues (aka bugs) that they are working on. If you 
 
 ### Pull requests
 
-A "Pull request" aka (PR) is when someone makes changes to their local version of the project and now are requesting that this change get merged into the master version shared by everyone. It is like you have a copy of a shared word document and you have added a couple of extra pages. And now you want to merge your changes into the shared copy that everyone using. In open source this is not automatic. Whoever is maintaining that part of the project needs to approve each and every PR. If the changes are simple (eg. spelling and grammar fixes) the PR will likely be merged right away. If the PR makes big structural changes, there likely will be a bunch of back and forth conversation before the PR eventually gets merged. Go ahead and try it. You are not going to break anything. If you are not serious about your proposed changes just let me know in the PR description.
+A "Pull request" aka (PR) is when someone makes changes to their local version of the project and now are requesting that this change get merged into the master version shared by everyone. It is like you have a copy of a shared word document and you have added a couple of extra pages. And now you want to merge your changes into the shared copy that everyone is using. In open source this is not automatic. Whoever is maintaining that part of the project needs to approve each and every PR. If the changes are simple (eg. spelling and grammar fixes) the PR will likely be merged right away. If the PR makes big structural changes, there likely will be a bunch of back and forth conversation before the PR eventually gets merged. Go ahead and try it. You are not going to break anything. If you are not serious about your proposed changes just let me know in the PR description.
 
 ## Copyright
 
-The key legal innovation of open source is to use the very strong legal provisions of copyright law to sort of subvert capiitalism. How does it work? Anyone is allowed to use anything on this site. Copy anything you like. You are even encouraged to make money off this site if you can. But. If you use a chunk from this site, you are legally obligated to make your own site (or book or whatever) open source as well. That means that any original stuff that you come up with will also be available for others to copy and use as they see fit. Do you see how this makes the most sense for this kind of work? We need to come together as a community. And we need the freedom to pick and choose whatever media works best without worrying about monetary compensation to an author.
+The key legal innovation of open source is to use the very strong legal provisions of copyright law to sort of subvert capiitalism. How does it work? Anyone is allowed to use anything on this site. Copy anything you like. You are even encouraged to make money off this site if you can. But. If you use a chunk from this site, you are legally obligated to make your own site (or book or whatever) open source as well. That means that any original stuff that you come up with will also be available for others to copy and use as they see fit. Do you see how this makes the most sense for this kind of work? We need to come together as a community. And we need the freedom to pick and choose whatever media works best without worrying about whether we can use something or not.
 
 ## Goals
 
@@ -47,8 +47,10 @@ Kaizen means constant on-going improvement. It is always possible to grow and le
 
 Nothing written here is meant to be taken on faith. You are encouraged to find the truth of everything within yourself. Please note, though, that the request is that you search for this truth in all of yourself. Some people tend to only look for truth in their heads, others only tend to look for it in their hearts or spirit. The request is that you look for truth in all parts of yourself, especially the parts that maybe you don't typically search.  This is especially true for spirituality.  You might be skeptical about this topic, but please know that the expectation is that any claim made here is meant to be validated by your own internal experiments. It has to be that way. Only you can find the truth for yourself.
 
+## Open to feedback
+
+Open source has shown that collobaration works best when people are able to listen to feedback without letting their ego get too much in the way. Any organization that we create needs to have this as a guiding principle. This can be ones of the hardest things to achieve, but it is one of the more important.
+
 ## Next steps
 
-OK. So I hope you have a better idea of how and why I have set up this site. My biggest hope is that this site becomes much bigger than me. But I have to start somewhere so I start with myself. I'm so looking forward to seeing what you bring in.
-
-Let's get back into the plan shall we? In the next section I'm going to briefly recap the plan for the plan, and then it's time to finally dive in.
+OK, with that explanation out of the way let's get started. In the next section I'm going to briefly recap the plan for the plan, and then it's time to finally dive in.
