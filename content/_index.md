@@ -10,7 +10,7 @@ Thank you so much visiting this web site!
 
 I am at the very beginning of this creation so it was a bit hard for me to ask you to review something so unfinished. I am deeply grateful that you did! Your feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
 
-My goal is to save the world. I want to either find or create a plan that could possibly work. I don't particularly care if it is my plan or not -- I just want something that we can coalesce around. Right not I see lots of people doing hugely important work to heal the world but each is working on their own part, and not yet joining together on an overall plan. I suspect there are many of us that see the problem and are thinking about this, we just need to find each other.
+My goal is to save the world. I want to either find or create a plan that could possibly work. I don't particularly care if it is my plan or not -- I just want something that we can coalesce around. Right now I see lots of people doing hugely important work to heal the world but each is working on their own part, and not yet joining together on an overall plan. I suspect there are many of us that see the problem and are thinking about this, we just need to find each other.
 
 This site is a home for everyone who is starting on this bigger path.  It is an open source website which means it is kind of like a managed wiki. By its very structure this website is centered around welcoming other people's contributions. Things like this work best when lots and lots of people give courageous, honest feedback. So please let me know what you truly think, both good and bad.
 
