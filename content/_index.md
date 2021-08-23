@@ -8,9 +8,9 @@ weight: 1
 
 Thank you so much visiting this web site!
 
-I am at the very beginning of this creation so it was a bit hard for me to ask you to review something so unfinished. I am deeply grateful that you did! Your feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
+I am at the very beginning of this creation so it was a bit hard for me to ask you to review something so unfinished. I am deeply grateful that you did! Your support and feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
 
-My goal is to save the world. I hope to convince you to join me. And the very first step is to come up with a plan. A plan that can work. Many people are already hard at work healing this broken world, but each group is working mostly on their own. On our own we can only get so far. We need to join together as one. Absolutely we need to continue the good work in progress, but we need a plan to fit all these efforts together. So even as we do our separate work we are coordinating on an even bigger dream -- saving all the world.
+My goal is to save the world. I hope to convince you to join me. And the very first step is to come up with a plan. A plan that can work. Many people are already hard at work healing this broken world, but each group is working mostly on their own. On our own we can only get so far. We need to join together as one. Absolutely we need to continue the good work in progress, but we need a plan to fit all these efforts together. So even as we do our separate work we need to coordinate on an even bigger dream -- saving all the world.
 
 This site is a home for people interested in working on or learning about this bigger plan. It is an open source website which means it is kind of like a managed wiki. By its very structure this website is centered around welcoming other people's contributions. And even if you don't have time to contribute, please leave feedback. Things like this work best when people give courageous, honest feedback. We need to hear the truth about both what works and what doesn't.
 

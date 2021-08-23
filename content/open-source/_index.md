@@ -33,7 +33,7 @@ In order to give feedback, it helps to know what are the basic goals. If you fin
 
 ### Simplicity
 
-I deeply value your time. I promise not to waste it. There is a lot to cover here, but I will only bring in the  most important points. There are lots of fun tangents that can be visited as side topics, but the goal is to focus on finding the simplest thing that can work. Every idea will be expressed as simply and clearly as possible. If you don't understand a concept it is my fault not yours. Let me know. If you think I'm wasting time on something, then you might have found an important bug (or at the very least I am not explaining well enough why it is essential).
+I deeply value your time. I promise not to waste it. There is a lot to cover here, but I will only bring in the most important points. There are lots of fun tangents that can be visited as side topics, but the goal is to focus on finding the simplest thing that can work. Every idea will be expressed as simply and clearly as possible. If you don't understand a concept it is my fault not yours. Let me know. If you think I'm wasting time on something, then you might have found an important bug (or at the very least I am not explaining well enough why it is essential).
 
 ### Practical
 
@@ -41,15 +41,15 @@ The goal is to create something practical. Something that can actually change th
 
 ### Kaizen
 
-Kaizen means constant on-going improvement. It is always possible to grow and learn. You should be a bit skeptical of initial versions of this site, but over time as more people contribute and comment the site will grow and mature. Kaizen is a very open source concept. It is also very Japanese. I spent a lot of time in Japan and was deeply influenced by its culture. You are never done with the work -- there is always more to be done. And there is a deep joy in that.
+Kaizen means constant on-going improvement. It is always possible to grow and learn. You should be a bit skeptical of initial versions of this site, but over time as more people contribute and comment the site will grow and mature. Kaizen is a very open source concept. It is also very Japanese. You are never done with the work -- there is always more to be done. And there is a deep joy in that.
 
 ### Self evident
 
-Nothing written here is meant to be taken on faith. You are encouraged to find the truth of everything within yourself. Please note, though, that the request is that you search for this truth in all of yourself. Some people tend to only look for truth in their heads, others only tend to look for it in their hearts or spirit. The request is that you look for truth in all parts of yourself, especially the parts that maybe you don't typically search.  This is especially true for spirituality.  You might be skeptical about this topic, but please know that the expectation is that any claim made here is meant to be validated by your own internal experiments. It has to be that way. Only you can find the truth for yourself.
+Nothing written here is meant to be taken on faith. Please find the truth of everything within yourself. The request, though, is that you search for this truth in all of yourself. Some people tend to only look for truth in their heads, others only tend to look for it in their hearts or spirit. The request is that you look for truth in all parts of yourself, especially in the parts that maybe you don't typically search.  This is especially true for spirituality.  Any claim made here is meant to be validated by your own internal experiments. It has to be that way. Only you can find the truth for yourself.
 
 ### Open to feedback
 
-Open source has shown that collobaration works best when people are able to listen to feedback without letting their ego get too much in the way. Any organization that we create needs to have this as a guiding principle. This can be ones of the hardest things to achieve, but it is one of the more important.
+Open source has shown that collobaration works best when people are able to listen to feedback without letting their ego get too much in the way. Any organization that we create needs to have this as a guiding principle. This can be one of the hardest things to achieve, but it is one of the more important.
 
 ## Next steps
 
