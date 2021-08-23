@@ -227,6 +227,9 @@ button:-moz-focusring,
 /**
  * Correct the padding in Firefox.
  */
+fieldset {
+  padding: 0.35em 0.75em 0.625em;
+}
 
 /**
  * 1. Correct the text wrapping in Edge and IE.
@@ -768,6 +771,7 @@ main:only-child {
 }
 
 .sidebar {
+  flex-basis: fit-content;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   -webkit-box-flex: 0;
