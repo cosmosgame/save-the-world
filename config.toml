@@ -16,7 +16,7 @@ enableMissingTranslationPlaceholders = false
 
 [params]
 
-    custom_css = ["css/spiral.css"]
+    custom_css = ["css/spiral.css", "css/custom.css"]
 
     # Source Code repository section
     description = "A plan to save the world"
@@ -43,7 +43,7 @@ enableMissingTranslationPlaceholders = false
     # Theme color
     # See color value reference https://developer.mozilla.org/en-US/docs/Web/CSS/color
     custom_font_color = ""
-    custom_background_color = "#b19cd9"
+    custom_background_color = "#a796d6"
 
     # Documentation Menu section
     # Menu style settings

@@ -1,0 +1,25 @@
+.header-style {
+  color: #a796d6;
+  background-color: #a796d6;
+}
+
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+.right-sidebar {
+  float: right;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 25%;
+          flex: 0 0 25%;
+  -webkit-box-ordinal-group: 2;
+      -ms-flex-order: 2;
+          order: 2
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
