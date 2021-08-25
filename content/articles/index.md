@@ -232,6 +232,20 @@ draft: false
       - Turqoise
         - Back to the group
         - Into the wilderness and then back to the group
+    - Working with each level
+      - Beige
+        - Nature and body -- wild video
+      - Purple
+        - Power of the group
+      - Red
+        - Personal excellence
+        - Mens corp.
+      - Blue
+        - Mormons
+      - Orange
+        - An educated mind
+      - Green
+        - 
     - Institutions of growth
       - Blue
         - church
