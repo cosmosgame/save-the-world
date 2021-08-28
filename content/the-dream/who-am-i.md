@@ -2,7 +2,7 @@
 title: "Who Am I?"
 date: 2020-29-17T15:26:15Z
 draft: false
-weight: 20
+weight: 30
 ---
 Before I can go further, I think it is necessary to talk a little about myself first. Who is this person dreaming such a big dream? What particular viewpoint am I coming from?
 

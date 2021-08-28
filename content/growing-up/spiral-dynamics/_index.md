@@ -2,7 +2,7 @@
 title: "Spiral Dynamics"
 date: 2021-22-02T05:26:15Z
 draft: false
-weight: 50
+weight: 20
 ---
 
 <table style="width:100%">
@@ -68,9 +68,9 @@ Here is what I love about Spiral Dynamics:
 
 * The theory is a practical tool. It is meant to be of use. Please judge it by its practical benefits. It suggests concrete actions to deal with the world.
 
-* It helps us understand why "those" people act as they do. Depending on what developmental level you are on, the world looks very different. To "those" people's point of view they are not doing anything wrong. In fact to them it is clear that it is "us" people who are the problem! When we better understand people it is possible to open our hearts to them. And that is when real change is possible. You learn to stop judging people as hopelessly stupid and evil, and instead meet them from within their world view.
+* It helps us understand why "those" people act as they do. Depending on what developmental level you are on, the world looks very different. To "those" people's point of view they are not doing anything wrong. In fact to them it is clear that it is "us" people who are the problem! When we better understand people it is easier to open our hearts to them. And that is when real change is possible. You learn to stop judging people as hopelessly stupid and evil, and instead meet them from within their world view.
 
-* It teaches us to welcome all parts of ourselves. Even the parts that we resist. It is especially important to welcome those parts as well.  It reminds us of where we are strong and where we could use some work.
+* It teaches us to welcome all parts of ourselves. Even the parts that we resist. Especially those.  It reminds us of where we are strong and where we could use some work.
 
 * It sets a concrete goal for where we need to go. If we can get enough people up to the final stage, the world will be transformed in an instant.  We are not yet at that final stage, but by looking at the patterns of what has happened up to now it gives us guidance on what likely wants to happen next.
 

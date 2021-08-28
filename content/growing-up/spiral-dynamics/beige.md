@@ -4,6 +4,7 @@ date: 2021-1-03T08:26:15Z
 draft: false
 weight: 10
 ---
+# Beige
 <table style="width:100%">
   <tr>
     <th>Color</th>

@@ -203,15 +203,16 @@ draft: false
     - Caveats
       - Not really a scientific theory
         - Need to be parsimonious with its statements
+        - Why I base on
       - Differences in interpretation
       - Better for groups than individuals
         - Not meant to explain everything
         - Individuals tend to be a mix
+      - Higher levels do not equal superior i
+    - How to tell apart
       - It assumes an order
         - Sometimes Green is really blue
         - But some people skip ahead
-      - Higher levels do not equal superior in every way
-    - How to tell apart
       - Beige
         - Body
       - Purple
@@ -245,7 +246,7 @@ draft: false
       - Orange
         - An educated mind
       - Green
-        - 
+        -
     - Institutions of growth
       - Blue
         - church
@@ -313,55 +314,50 @@ draft: false
   - Why
     - Getting people out of pain first
     - Getting people into joy
-  - Personal growth mindset
-  - Mindfulness
-  - Focus on Love
-  - What works?
+  - Mindful Self Compassion
+    - mirror work
+    - Everything is God (or the Universe)
+    - What you don't love in others..
+    - Loving others as self (mirror work)
+    - Preparation for Truth
+  - Body
+    - It all starts in the body
+    - Every emotion has a place in the body
+      - the body keeps the score
+    - Every organism is striving towards healing. Always.
+      - organicity
+    - Healing our sexuality
+      - HAI
   - Medicine
     - Not the only path
-  - Principles
-    Core principles
-      - Love
-        - Mindful self compassion
-          -mirror work
-        - Everything is God (or the Universe)
-        - What you don't love in others..
-        - Loving others as self (mirror work)
-        - Preparation for Truth
-      - Truth
-        - Seeker
-          - My relationships with truth
-            - Coyote
-        - Mindfulness
-        - Accountability
-          - Victim stories
-      - Change
-        - Accept that change is possible
-        - Accept that change is inevitable
-        - Creativity
-      - Body
-        - It all starts in the body
-        - Every emotion has a place in the body
-          - the body keeps the score
-        - Every organism is striving towards healing. Always.
-          - organicity
-    - Others
-      - Love + Truth = Curiosity
-      - Love + Change = Creativity
-      - Love + Body + Change = Gratitude
-      - Love + Truth + Change = Forgiveness
-      - Truth + Change + Body = Mindfulness
-      - Love + Truth + Body = Joy
-      - Truth + Body = Sacred now
-      - Change + Body = ?
-      - Love + Truth + Change + Body = Unity
-    - Healing practices
-      - RAIN
-      - Trust organicity
-      - Trauma work
-      - Personal growth
-      - Service
-    - Structures for healing
+  - Stopping the cycle
+  - Healing practices
+    - RAIN
+    - Trust organicity
+    - Trauma work
+  - Structures for healing
+- Wising Up
+  - Personal growth mindset
+  - Hakomi Principles
+    - Hakomi intro
+    - Love
+      - should be included
+      - preparation for Truth
+    - Non violence
+      - different schools of personal growth; "pop-it"
+    - Truth
+      - Coyote
+      - Accountability
+        - Victim stories
+    - Mindfulness
+    - Mind/Body
+    - Organicity
+    - Unity
+    - Change
+      - Accept that change is possible
+      - Accept that change is inevitable
+      - Creativity
+  - Service
 - Waking Up
   - What has worked in the past?
     - Gandhi
@@ -468,7 +464,6 @@ draft: false
   - Spirit
     - The pain of the world
     - Something bigger to let us bear it
-
 - Optional
   - New colors for Yellow and Turquoise
     - Black for yellow (absorbs all)
@@ -549,3 +544,19 @@ draft: false
       - Mean Green fallacy
     - Focus on love
       - Shadow is just another expression of lack of love
+  - Principles
+    - Core principles
+      - Love
+      - Truth
+      - Body
+      - Change
+    - Combinations
+      - Love + Truth = Curiosity
+      - Love + Change = Creativity
+      - Love + Body + Change = Gratitude
+      - Love + Truth + Change = Forgiveness
+      - Truth + Change + Body = Mindfulness
+      - Love + Truth + Body = Joy
+      - Truth + Body = Sacred now
+      - Change + Body = ?
+      - Love + Truth + Change + Body = Unity

@@ -1,8 +1,8 @@
 ---
-title: "The Plan"
+title: "Overview"
 date: 2021-19-02T05:26:15Z
 draft: false
-weight: 40
+weight: 50
 ---
 
 Here is a very high level overview of the plan.
@@ -28,7 +28,7 @@ And I would add one more to the list
 
 ### Growing Up
 
-We all move through developmental stages as individuals. Societies do as well. Before we can change the world we have to really understand and model the vastly different ways people look at the world. This is the map I was talking about earlier. We need to go deeper than just assuming that eveyone thinks about things pretty much like we do. They don't. Not even close in fact. And yet some how, some way we need to convince people to open their hearts to a wider and wider sphere. How do we do that? First we need to meet them right where they are and talk to them in a language that works for them. There is a theory called Spiral Dynamics that I think is perfect for this. It describes the major stages that humanity has already gone through and offers some predictions on what wants to happen next. Each stage described in Spiral Dynamics builds on the next. The higher the stage, the higher the understanding of the world. Our hope is to shift everyone into these higher stages. 
+We all move through developmental stages as individuals. Societies do as well. Before we can change the world we have to really understand and model the vastly different ways people look at the world. This is the map I was talking about earlier. We need to go deeper than just assuming that eveyone thinks about things pretty much like we do. They don't. Not even close in fact. And yet some how, some way we need to convince people to open their hearts to a wider and wider sphere. How do we do that? First we need to meet them right where they are and talk to them in a language that works for them. There is a theory called Spiral Dynamics that I think is perfect for this. It describes the major stages that humanity has already gone through and offers some predictions on what wants to happen next. Each stage described in Spiral Dynamics builds on the next. The higher the stage, the higher the understanding of the world. Our hope is to shift everyone into these higher stages.
 
 ### Cleaning Up
 

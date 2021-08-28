@@ -2,7 +2,7 @@
 title: "Practical Spiral Dynamics"
 date: 2021-14-08T05:26:15Z
 draft: false
-weight: 60
+weight: 30
 ---
 In this section I will talk about how to put this theory to practical use. How can we use the Spiral Dynamics model to help save the world? But before I can start on that there are some points that need to be addressed first.
 
