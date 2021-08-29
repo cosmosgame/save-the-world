@@ -1,0 +1,42 @@
+---
+title: "Showing Up"
+date: 2021-30-07T15:26:15Z
+draft: false
+weight: 60
+---
+- Showing Up
+  - Why it is now possible
+    - better model
+    - reclaiming spirituality
+    - healing and growth
+  - Boddhisatva vow
+  - Goals
+    - Healing
+      - Focus on what works
+      - Generational trauma -- stop hurting children
+    - Working with all the colors
+      - add the missing blue
+      - helping people to find Turqoise
+  - Church of personal growth
+    - Establish practices (like karate does)
+  - Bring up our own leaders
+    - Build in feedback
+      - Address fear of doing harm
+    - Leader as servant mentality
+  - What is working
+    - HAI
+      - CSL
+    - MSC
+    - NVC
+    - Hakomi
+      - RAIN
+    - Cohousing
+      - Very green!
+      - better ways to raise our children
+      - consensus as a personal growth mechanism
+    - Medicine
+  - Need to scale quickly
+  - Governance
+    - Need for new governance. Sociocracy?
+    - Accountable
+    - Evangelical

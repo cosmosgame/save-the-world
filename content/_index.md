@@ -18,7 +18,7 @@ It is a pretty wild ambition to save the world. To even have a chance it will re
 
 # Save the World
 
-There is so much suffering and pain in the world. When I let my heart open wide into the vastness of all that is, I go to an aching sadness. So. much. pain! Can you feel it also? At least a little? The sensitives among us certainly do. Here take this pill so you can function, as if shock and horror were not the most appropriate reaction to the world. As if everything is fine, just keep on going don't pay attention to those scattered bodies on the ground from yet another mass shooting. And our history! Generation after generation passing its trauma on to the next. So many people growing up in hurt and lack. It hurts so much! It can feel like much too much to open even a little bit to this pain. It can feel like an immense, implacable ocean wave sweeping us away from the security of shore. Better, safer to hide away.
+There is so much suffering and pain in the world. When I let my heart open wide into the vastness of all that is, I go to an aching sadness. So. much. pain! Can you feel it also? At least a little? The sensitives among us certainly do. Here take this pill so you can function, as if shock and horror were not the most appropriate reaction to the world. As if everything is fine, just keep on going don't pay attention to that homeless person huddled miserably in the corner. And our history! Generation after generation passing its trauma on to the next. So many people growing up in hurt and lack. It hurts so much! The pain can feel like an immense, implacable ocean wave sweeping us away from the security of shore. Better, safer to hide away.
 
 Then to find out that we are killing off most of the species on this planet, setting up a future catastrophe that could cause billions to die, and most people don't seem to really care. Don't seem to realize it for the existential threat that it is. It is easy to give in to hopelessness. What can any one person really do in the face of the relentless forces shaping the world? People are going to continue to suffer in needless agony, and yes it is probably going to get much worse. We can do our best, but it probably won't be enough. It is hopeless.
 
@@ -34,9 +34,9 @@ And again I say there is hope. Please try to let that in, if only a little. It i
 
 Know that you are not alone. Brilliant people the world over have been working on this problem. And they have come up with all sorts of useful ideas and practices.  I wish more people knew about them. With these advances we will change the world:
 
-* Better Theory. We now have a theory called Integral theory that brings in all of us not just our western, rational minds. It welcomes the scientist as well as the Buddhist, and it suggests a hopeful path of what wants to happen next.
-* Better Therapy. We are now seeing proven, effective treatments for even people suffering with severe trauma. We've never had that before. Hurt people hurt people. If we can stop the cycle of suffering passed from one generation to the next that alone would dramatically change the world for the better.
-* Practical spirituality. One of the therapy treatments for trauma is the use of Psychedelics. This Medicine work also opens up access to spiritual states that previously only the most driven and dedicated could get to. And now they are in the reach of everyone. Peoples hearts fling wide open when they get to these states.
+* Better Theory.
+* Better Therapy.
+* Practical spirituality.
 
 Together these advances are a path to teaching people how to open their hearts to a richer, deeper more fulfilling life. This could actually work. Work well enough so that we can maybe start to dream a bigger dream than we have so far. Start to dream of what is possible if only enough of us could get out of our pain and step into the joy of service. And from there maybe we can all step into a whole world of joy. Why not?
 
