@@ -18,12 +18,11 @@ Spoiler alert -- if I knew some way to jump everyone to the place of deep heart 
 
 During the Trump presidency it felt like political commentators were blindly crashing around their bedroom at night trying to get to the bathroom. Not really recognizing in the dark what they were bumping into. Many focused too much on Trump without realizing he just represented the yearning of a huge number of Americans. Many others viewed him as a uniquely American problem, and failed to see that there has been an absolute plague of authoritarian governments in the world recently. Others only focused on recent events without realizing that this is an age old problem. It turns out that it is rare for a democracy to not succumb to authoritarianism collapse at some point. And even more failed to recognize that this authoritarian mindset has been with us from the very beginnings of recorded history. Various commentators would claim they had an explanation for all of this, but inevitably their explanation would be based on some combination of calling people stupid and/or evil. This is not so much wrong as not very useful. It doesn't point us in a direction that can actually solve the problem. What do you do with stupid? If it is severe enough you institutionalize them. What do you do with evil? We have been taught the only solution is to kill them (or send them to jail which is kind of the equivalent). That is not a workable solution.
 
-We need a theory to help guide us. At a minimum this theory should have answers for questions like:
+We need to go deeper. As Einstein says we can not solve our problem with the same thinking that got us here. I am going to introduce a theory later on that will has answers for questions like:
 
-* If you could go back in time and talk to a slave owner how would you convince them to change their mind about slavery? Seriously, how would you do it? Why do we think that the slave owner mindset ever changed? Has it really?
-* Why is that a Mormon in the U.S. Senate, Mitt Romney, was among the very, very few Republicans to oppose Trump. He was not a liberal nor did he suddenly start voting like one, but he courageously defied Trump anyways. Why is that? How do we encourage more of that?
-* Does a good college education change how you look at the world? Not everyone wants to go to college, how do we make room for those that don't?
-
+* Where did the slave owner mindset come from? Why is it still with us?
+* Why did a small number of Republicans defy Trump? They did this at great risk to their careers and possibly even their lives. Where did they get the courage to do that?
+* What is the difference between how someone with a good college education looks at the world and someone who does not. There is a big difference. How do we bridge that divide?
 
 Can you see why it is vitally important to have better answers for those questions? And there are better answers. It is time we stopped blindly bumping into things. We need to turn on the lights. We need a map.
 
