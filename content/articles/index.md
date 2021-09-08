@@ -6,7 +6,10 @@ draft: false
 - Welcome
   - Welcome and thanks
   - Saving the world
-    - Pain of the world
+    - We know we have a problem, well documented
+    - We are on a deadline
+      - Cascade. Syria
+    - Jaiya's question
   - There is hope
     - Acknowledge hopelessness
     - theory advances

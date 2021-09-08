@@ -26,6 +26,6 @@ This is my favorite stage. It is a reminder that we at our core are animals. Thi
 
 We find that when doing the deep work of healing our traumas that it has to start here. In the body. [The body keeps the score](https://en.wikipedia.org/wiki/The_Body_Keeps_the_Score). Animals like deers, instinctively know that when something traumatic happens, like getting chased by a mountain lion, they have to take a moment and shake it off. The body has a deep wisdom of its own. But what a miracle to find a conscious mind inside our bodies. What a delicious thing it is to look out at the world and be a part of it yet separate.
 
-This is the satisfying itch people scratch when they watch a Zombie Apocalypse movie. A small band striving to survive in a hostile world where everyone is trying to kill them. This is the level survivalists and preppers are living in -- in the end you can't trust anyone else to keep you and yours alive.
+This level is the satisfying itch people scratch when they watch a Zombie Apocalypse movie. A small band striving to survive in a hostile world where everyone is trying to kill them. This is the level survivalists and preppers are living in -- in the end you can't trust anyone else to keep you and yours alive.
 
 And just like in a Zombie Apocalypse series this survivalism eventually starts to pall. It is not enough to simply survive. We need something more. We crave meaning and purpose. And we start to look to others and begin to see the outlines of a bigger vision.
