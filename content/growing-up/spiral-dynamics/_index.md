@@ -50,7 +50,7 @@ weight: 20
   </tr>
   <tr id="Yellow">
     <td>Yellow</td>
-    <td>Second Awakening</td>
+    <td>SecondAwakening</td>
     <td>Integral Theory, personal growth movement, medicine movement</td>
     <td>A life worth living</td>
   </tr>
