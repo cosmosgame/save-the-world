@@ -10,11 +10,19 @@ weight: 1
 
 # Welcome!
 
-Thank you so much visiting this web site!
+Thank you so much visiting this web site! I am deeply grateful that you did! Your support and feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
 
-It was hard for me to ask you to review this. I am deeply grateful that you did! Your support and feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
+My goal is to save the world. I hope to convince you to join me. I need allies. This world needs allies.
 
-My goal is to save the world. I hope to convince you to join me. And the very first step is to come up with a plan. A plan that can work. Many people are already hard at work healing this broken world, but each group is working mostly on their own. On our own we can only get so far. We need to join together as one. So even as we do our separate work we also need to coordinate on an even bigger dream -- saving all the world together.
+For thirty years I have watched global warming coming. Back in the 90's environmentalists like myself knew exactly what was coming. The science was clear. And I did nothing. Each decade the scientific reports kept on coming back consistently reporting that it was even worse than we feared. And I did nothing. The scientific reports are so bad now I can not make myself read them. It hurts too much. If you know how to read them, you know the scientists are trying to maintain a sober solemn detachment but they are actually screaming in anguish to an uncaring populace. And I did nothing.
+
+No longer.
+
+My daughter asked me if it is OK to have children. And I had to really think about. I found myself bargaining with God. Maybe her children will be OK? But then she asks me what about her children's children? And what about all future children? And the answer is I do not know.
+
+What I do know is that I will not do nothing for another thirty years. The world needs even me. No matter how hard it might be I can not imagine anything more painful than to have a conversation with my grandchildren thirty years from now and have to confess to them that yet again for another thirty years I did nothing.
+
+Fortunately, while I did (mostly) nothing others have been hard a work. They have done much and yet here we are.  On our own we can only get so far. We need to join together as one. So even as we do our separate work we also need to coordinate on an even bigger dream -- saving all the world together.
 
 This site is a home for this bigger plan. It is an open source website which means it is kind of like a managed wiki. Open source is a fantastic way to collaborate. Please consider joining me in this work. But even if you don't have the time, please, please leave feedback. I need to hear know what works and what doesn't.
 
