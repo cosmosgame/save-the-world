@@ -4,6 +4,12 @@ date: 2021-28-07T05:26:15Z
 draft: false
 weight: 20
 ---
-Again this is the part of the plan where we come up with a model to explain people's behavior. It doesn't have to be Spiral Dynamics -- I'm willing to use whatever works, but this model is the most promising that I can find.
+Do you remember the questions I asked earlier?
 
-I will first take you through the basics of the theory, and then we will dive into how in can be put to practical use.
+* Where did the slave owner mindset come from? Why is it still with us?
+* Why did a small number of Republicans defy Trump? They did this at great risk to their careers and possibly even their lives. Where did they get the courage to do that?
+* What is the difference between how someone who has a good college education looks at the world and someone who does not. There is a big difference. How do we bridge that divide?
+
+It turns out that a theory called Spiral Dynamics proves what I think are useful answers to these questions. I call it a theory, but it might be better understood as a unifying story that helps us make sense of things. I'm going to talk about it in this section.
+
+First I will explain the basics of the theory, and then I will dive into how it can be put to practical use, including answering the above questions.
