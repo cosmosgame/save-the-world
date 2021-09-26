@@ -10,6 +10,6 @@ Do you remember the questions I asked earlier?
 * Why did a small number of Republicans defy Trump? They did this at great risk to their careers and possibly even their lives. Where did they get the courage to do that?
 * What is the difference between how someone who has a good college education looks at the world and someone who does not. There is a big difference. How do we bridge that divide?
 
-It turns out that a theory called Spiral Dynamics proves what I think are useful answers to these questions. I call it a theory, but it might be better understood as a unifying story that helps us make sense of things. I'm going to talk about it in this section.
+It turns out that a theory called Spiral Dynamics provides what I think are useful answers to these questions. I call it a theory, but it might be better understood as a unifying story that helps us make sense of things. I'm going to talk about it in this section.
 
-First I will explain the basics of the theory, and then I will dive into how it can be put to practical use, including answering the above questions.
+First I will explain the basics of the theory/story, and then I will dive into how it can be put to practical use, including answering the above questions.

@@ -4,7 +4,11 @@ date: 2020-09-06T16:16:31-07:00
 draft: false
 ---
 
-This is not done yet. Here is the outline of what I want to cover:
+I'm curious to know if there is interest in this. It is kind of an amusing thing to think about. How could engineers have anything to contribute to the conversation of waking up to a bigger consciousness? And yet I think we do.
+
+Post a message if you might be interested in me writing this up. Right now I am focused on the main path and this is definitely not that.
+
+Here is the outline of what I would want to cover:
 
 - Software engineer path
   - Radical truth
@@ -30,10 +34,11 @@ This is not done yet. Here is the outline of what I want to cover:
     - Factoring in that humans are failable
   - Flow
     - Cure for sensitivity
-      -hiding out in crystalline forests
+      -hiding out in the crystalline, beautiful forests of reason
     - Teaches possibility of joy
       - joy based life
   - Request For Comments (RFC)
+    - Courageous asks that can change the world
   - Models
   - Open source
     - Shared libraries
