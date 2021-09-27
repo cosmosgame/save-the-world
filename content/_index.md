@@ -18,7 +18,7 @@ For thirty years I have watched global warming. Back in the 90's environmentalis
 
 No longer.
 
-My daughter, Jaiya, is learning about how bad the situation is at school. Our children understand the reality of our situation better than we do. She asked me if it is OK to have children. And I had to really think about it. I found myself bargaining with God. Maybe her children will be OK? But then she asks me what about her children's children? And what about all future children? And the answer is I do not know.
+My daughter is learning about how bad the situation is at school. Our children understand the reality of our situation better than we do. She asked me if it is OK to have children. And I had to really think about it. I found myself bargaining with God. Maybe her children will be OK? But then she asks me what about her children's children? And what about all future children? And the answer is I do not know.
 
 What I do know is that I will not do nothing for another thirty years. The world needs even someone as ordinary as me. No matter how hard it gets I can not imagine anything more painful than to have a conversation with my grandchildren thirty years from now and have to confess to them that yet again for another thirty years I did nothing.
 
@@ -26,9 +26,9 @@ Fortunately, while I did (mostly) nothing others have been hard at work. They ha
 
 This site is a home for this bigger dream. For big problems like this we need the collective intelligence and wisdom of as many people as we can get. This site is set up to encourage and enable people to collarborate. Because we have work to do. We need to come up with something very new. To paraphrase Einstein, you can not solve problems with the same consciousness that created them. We can not just keep on doing what we have been doing and expect things to just take care of themselves. We have learned so much, now it is time to put all that learning to use. We don't have much time -- we are on a deadline now.
 
-For those thirty years I watched and wondered. What are the deeper causes of our problems? What is it that prevents people from opening their hearts wider and wider? What would it take on a practical level to save the world? I have been looking for people with workable answers. And they are out there! The problem seems to be that we need to bring these separate teachings together into an integrated whole. We first need to cultivate these integrated teachings in ourselves because of course it has to start there, but then once we find our feet we can then look out to others and ask, "What is that we want to create together?"
+For those thirty years I watched and wondered. What are the deeper causes of our problems? What is it that prevents people from opening their hearts wider and wider? What would it take on a practical level to save the world? I have been looking for people with workable answers. And they are out there! Now we need to bring these separate teachings together into an integrated whole. First we must cultivate these integrated teachings in ourselves because of course it has to start there, but then once we find our feet we can then look out to others and ask, "What is that we want to create together?"
 
-I have read that the best way to get an answer on the internet is to answer a question wrong even if it is in answer to your own question. That seems to provoke people to respond more than a simple question. It seems to work. So in that spirit I am going to provide my own answer here. If you have a better solution -- great! you have no idea how eager I am to hear it.
+I have read that the best way to get an answer on the internet is to answer a question wrong even if it is in answer to your own question. That seems to provoke people to respond more than judy a simple question. It seems to work. So in that spirit I am going to provide my own answer here. If you have a better solution -- great! you have no idea how eager I am to hear it.
 
 What do we need to do to save the world?
 
