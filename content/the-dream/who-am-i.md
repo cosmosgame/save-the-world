@@ -46,6 +46,6 @@ Software engineers truly hate getting woken up at 3am to solve a service outage.
 
 Do you see how each "why" brings us to a deeper level? When we get deep enough we can get to the heart of the problem, and that is where we can make the real fix. If we continue to just address the surface level issues, we will still end up getting woken up at 3am. Any plan to save the world is going to have to dig down deep enough to address the root causes. There is no magic in the number 5. Sometimes you can get deep enough with fewer than five whys sometimes you need more. My point is that we need to go much deeper than we have up to now.
 
-### Wiling to be wrong
+### Willing to be wrong
 
 One thing I have had to get good at as an engineer is admitting that I am wrong. That I made a mistake (sometimes a very big one) that needs to be corrected. To this day there is a sting to it, but after all these years it is very familiar to me. And especially on new projects it quite often is necessary to change your mind on major parts of the project as new information becomes available. Oddly, I think that can serve well here. I am proposing a very new, big plan. I'm pulling from well established wisdom traditions, but quite probably the way I am pulling them together is going to need a lot of review. Software engineers know a lot about how to work with a situation like this. Projects like this get better and better the more eyes you put on it. And the best way to harness that phenomenon? Open Source.
