@@ -27,30 +27,6 @@ A "Pull request" aka (PR) is when someone makes changes to their local version o
 
 The key legal innovation of open source is to use the very strong legal provisions of copyright law to sort of subvert capiitalism. How does it work? Anyone is allowed to use anything on this site. Copy anything you like. You are even encouraged to make money off this site if you can. But. If you use a chunk from this site, you are legally obligated to make your own site (or book or whatever) open source as well. That means that any original stuff that you come up with will also be available for others to copy and use as they see fit. Do you see how this makes the most sense for this kind of work? We need to come together as a community. And we need the freedom to pick and choose whatever content works best without worrying about copyrights.
 
-## Goals
+## Dreamcatcher
 
-In order to give feedback, it helps to know what are the basic goals. If you find that some part of this site does not match these goals please let me know - it is a bug that needs to be fixed.
-
-### Simplicity
-
-I deeply value your time. I promise not to waste it. There is a lot to cover here, but I will only bring in the most important points. There are lots of fun tangents that can be visited as side topics, but the goal is to focus on finding the simplest thing that can work. Every idea will be expressed as simply and clearly as possible. If you don't understand a concept it is my fault not yours. Let me know. If you think I'm wasting time on something, then you might have found an important bug (or at the very least I am not explaining well enough why it is essential).
-
-### Practical
-
-The goal is to create something practical. Something that can actually change the world. Getting the theory right is incredibly important, but on the main path we don't want to bring in any more theory than is strictly necessary. People like myself can go off and do the readings, but then we need to come back here ready to share the useful nuggets that can be put to work.
-
-### Kaizen
-
-Kaizen means constant on-going improvement. It is always possible to grow and learn. You should be a bit skeptical of initial versions of this site, but over time as more people contribute and comment the site will grow and mature. Kaizen is a very open source concept. It is also very Japanese. You are never done with the work -- there is always more to be done. And there is a deep joy in that.
-
-### Self evident
-
-Nothing written here is meant to be taken on faith. Please find the truth of everything within yourself. The request, though, is that you search for this truth in all of yourself. Some people tend to only look for truth in their heads, others only tend to look for it in their hearts or spirit. The request is that you look for truth in all parts of yourself, especially in the parts that maybe you don't typically search.  This is especially true for spirituality.  Any claim made here is meant to be validated by your own internal experiments. It has to be that way. Only you can find the truth for yourself.
-
-### Open to feedback
-
-Open source has shown that collobaration works best when people are able to listen to feedback without letting their ego get too much in the way. Any organization that we create needs to have this as a guiding principle. This can be one of the hardest things to achieve, but it is one of the more important.
-
-## Next steps
-
-OK, with that explanation out of the way let's get started. In the next section I'm going to give an overview of the plan, and then after that it's time to finally dive in.
+OK, so those are the nuts and bolts of it, but let me step back into the bigger picture again. I believe this world needs a much bigger shared dream than we have been allowing ourselves to dream. We all have our own dreams, now it is time to bring them together. This site is meant as a kind of dream catcher for all those dreams. It feels like we have been singing our dreams separately. Now it is time to pull all those songs together. Just like in a choir, each of our voices is necessary but part of the greater whole. In an odd way it is a benefit that this site is created by a relative nobody like myself. I don't claim any authority or worldly accomplishments. But because of that it is so obvious that I can not do this alone. Maybe my voice starts on the song, but then other voices need to join in. Please join me. It truly is what I want very most. To sing this bigger dream together.
