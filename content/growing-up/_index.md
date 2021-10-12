@@ -4,7 +4,7 @@ date: 2021-28-07T05:26:15Z
 draft: false
 weight: 20
 ---
-Do you remember the questions I asked earlier?
+Earlier I promised a much more clearer explanation for things like why we had the Trump presidency. In this section we are going to address questions like:
 
 * Where did the slave owner mindset come from? Why is it still with us?
 * Why did a small number of Republicans defy Trump? They did this at great risk to their careers and possibly even their lives. Where did they get the courage to do that?
