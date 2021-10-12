@@ -19,7 +19,7 @@ weight: 30
   </tr>
 </table>
 
-Archeological records show that the first agricultural communities continued the egalitarian traditions of hunter gatherers. Everyone was (mostly) equal still. But populations shot up at this point and things started to get much more complicated. We stratified into layers of society. And then a new thing arose.  We chose to become as Gods.
+The first agricultural communities continued the egalitarian traditions of hunter gatherers. Everyone was (mostly) equal still. But populations shot up at this point and things started to get much more complicated. We stratified into layers of society. And then a new thing arose.  We chose to become as Gods.
 
 This is the stage of empire. This is the stage of Alexander the Great, Genghis Khan, and Columbus. Rome was a very Red empire. It is important to realize that this is all we knew at the time. Our modern morality was not yet formed -- it was natural and right that the strong governed the weak. Alexander is remembered as a "great" man, but by today's standards he would be considered a murdering lunatic. The Roman empire by today's standards was a hopelessly evil slave empire. Genghis Khan by all accounts was a self-actualized guy who achieved his biggest dreams. Too bad about all those millions his troops killed. But here is the most important point. Genghis and his tribe did not consider themselves evil. They were just doing better what other people (like the Crusaders for example) would have done if only they had the martial excellence. They considered themselves the good guys.
 
