@@ -6,12 +6,17 @@ weight: 50
 ---
 (Not Started)
 - Waking Up
+  - Soulwork vs. Spirit work
   - What has worked in the past?
     - Gandhi
     - Martin Luther King
     - Christian awakening
     - Moslem awakening
     - Sikh awakening
+  - Mindful Self Compassion
+    - Final level
+    - Unity consciousness
+    - Everything is God (or the Universe)
   - Spirituality at all color levels
   - How do we know what is true?
     - Spirituality does not have to be in conflict with science

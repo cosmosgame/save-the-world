@@ -7,8 +7,20 @@ weight: 40
 (Not started)
 - Wising Up
   - Personal growth mindset
+  - Mindful Self Compassion
+    - second level of three
+    - What you don't love in others..
+      - mirror work with others
+    - Loving others as self (mirror work)
+    - Preparation for Truth
   - Hakomi Principles
     - Hakomi intro
+    - RAINN
+      - recognize
+      - acceptance
+      - investigate
+      - nurture
+      - needed experience
     - Love
       - should be included
       - preparation for Truth
