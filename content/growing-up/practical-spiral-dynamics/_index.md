@@ -8,7 +8,7 @@ Before I continue let me first address some questions or concerns I suspect peop
 
 * Spiral Dynamics is not established science
 
-As far as I can tell Spiral Dynamics has not yet been subjected to serious, sustained critical review. The theory is just now gaining attention, so I think getting that review is just a matter of time, but in the meantime we need to be very careful in the claims we make. That is why I am so careful to tie the major stages to well recognized historical periods. That seems like a solid foundation to build on.
+As far as I can tell Spiral Dynamics has not yet been subjected to serious, sustained scientific review. The theory is just now gaining attention, so I think getting that review is just a matter of time, but in the meantime we need to be very careful in the claims we make. That is why I am so careful to tie the major stages to well recognized historical periods. That seems like a solid foundation to build on.
 
 The important thing is to recognize that we need a better explanation than what we have had up to now. And we need something right now. It might turn out that parts of the theory might need to be tweaked, but it gets us going. It provides a much more useful story than the stories before. It might not be the final story.
 
