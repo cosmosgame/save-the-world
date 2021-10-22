@@ -42,7 +42,7 @@ When I am hurting, my personal world collapses down. All I can manage is just to
 
 ### A Bigger Dream
 
-Our way of living does not work. Once we understand our place in a bigger story and then step out of our pain that makes room for change. Radical change. I don't yet know exactly what this is going to be. I will need your help for this part. But imagine us coming together as a loving, supportive tribe that works together. That will be the core of it. And it will feel really good to be part of. We will know it is working when people flock to it because it is so compelling and even fun.
+We need to dream a bigger dream. Our way of living does not work. This calls for change. Radical change. We all know what needs to be done; we just are struggling to believe it possible. But imagine us coming together as a loving, supportive tribe that works together. That will be the core of it. And it will feel really good to be part of. We will know it is working when people flock to it because it is so compelling and even fun.
 
 Together, we will start telling ourselves a different story than we have been. That this could actually work. Work well enough so that we can maybe start to dream a bigger dream than we have so far. Start to dream of what is possible if only enough of us could get out of our pain and step into the joy of service. And from there maybe we can step into a whole world of joy. Why not?
 
