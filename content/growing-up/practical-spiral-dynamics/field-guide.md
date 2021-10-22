@@ -7,7 +7,7 @@ weight: 40
 
 How do we know what color level someone or group is at? To figure this out there are some questions we need to answer:
 
-* Are they more individual focused (Tick) or group focused (Tock)?
+* Are they more individual focused (tick) or group focused (tock)?
 * What do they know to be True?
 * What are they willing to die for?
 
