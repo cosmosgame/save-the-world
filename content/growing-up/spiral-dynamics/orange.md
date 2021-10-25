@@ -19,7 +19,7 @@ weight: 50
   </tr>
 </table>
 
-The Japanese were confronting the technological results of [The Age of Englightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment). This was a turn away from the church and God towards looking for the Truth within. From this stage emerged modern science, capitalism, and democracy. America's Declaration of Independence is a quintessential expression of Orange:
+The Japanese were confronting the technological results of [The Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment). This was a turn away from the church and God towards looking for the Truth within. From this stage emerged modern science, capitalism, and democracy. America's Declaration of Independence is a quintessential expression of Orange:
 
 >"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness"
 

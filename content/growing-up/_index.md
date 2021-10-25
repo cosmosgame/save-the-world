@@ -4,12 +4,11 @@ date: 2021-28-07T05:26:15Z
 draft: false
 weight: 20
 ---
-Earlier I promised a much more clearer explanation for things like why we had the Trump presidency. In this section we are going to answer questions like:
 
-* Where did the authoritarian mindset come from? Why is it still with us?
-* Why did a small number of Republicans defy Trump? They did this at great risk to their careers and possibly even their lives. Where did they get the courage to do that?
-* What happens when someone really gets the point of college. How is their viewpoint different from someone who hasn't gone to college. There is a big difference. How do we bridge that divide?
+In this section I am going to tell a story. A story of where we have been and where we are right now. A story that is unfinished but with strong hints of what wants to happen next.
 
-Spiral Dynamics provides useful answers to these questions. I call it a theory, but it might be better understood as a unifying story that helps us make sense of things. I'm going to talk about it in this section.
+I named myself based on a story (The Odysssey) so I know a bit about the power of finding the right story. Finding the story that transforms and strengthens me. Makes things clearer. Gives me courage and a direction. We all need to find our own story. The reason why we came to earth. But we also need to find our shared story. What is it that we are meant to do together?
 
-First I will explain the basics of the theory/story, and then I will dive into how it can be put to practical use, including answering the above questions.
+Spiral Dynamics can maybe provide this shared story. Although it was originally conceived as a scientific theory I think it is better seen as an explaining story. A story that helps us make sense of things.
+
+In the first sub-section I am going to introduce the theory and then tell the story. In the next sub-section I am show how to put it to practical use.
