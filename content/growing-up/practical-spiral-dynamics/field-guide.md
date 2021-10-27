@@ -33,7 +33,7 @@ Olympic athletes are a good example of this stage. They are competing to be the 
 
 Many of the people opposed to Covid vaccines are Red. Why? First they don't believe in the science, because that level comes later (Orange). Second because they are mostly focused just on themselves and don't really understand the need to sacrifice for the greater good.
 
-I struggle with how much judgment I have about people who refuse the Covid vaccine. But it is important to really get that these people really and truly do not have scientific thinking online. It just is not a source of Truth for them. We can patiently tell them the science facts over and over, but that will not sway them. And it is not because they are dumb. Not at all. Scientific thinking is a later stage of development (Orange) and they don't have that expanded world view yet. Also I struggle with the selfishness of not wanting to protect others by getting vaccinated. This is another example of where people's hearts are smaller than I want them. I realize (in my wiser moments) that I have to first accept that is where they are then find a way to help them expand their hearts. In my experience yelling at people does not help them open their hearts. Have you had a different experience?
+I struggle with how much judgment I have about people who refuse the Covid vaccine. But it is important to really get that these people really and truly do not have scientific thinking online. It just is not a source of Truth for them. We can patiently tell them the science facts over and over, but that will not sway them. And it is not because they are dumb. Not at all. Scientific thinking is a later stage of development and they don't have that expanded world view yet. Also I struggle with the selfishness of not doing the right thing to protect others. This is another example of where people's hearts are smaller than I want them. I realize (in my wiser moments) that I have to first accept this is where they truly are at. And stop, breathe and open my heart to them. Only then can I hope to help them expand their hearts. In my experience yelling at people does not help open their hearts. Has it been different for you?
 
 
 ## Blue (TrueBlue)
@@ -50,11 +50,32 @@ Mormon society also is a good example of the problems of Blue. Like most Blue re
 
 Another example of Blue is Alcohol Anonymous's [Twelve Steps](https://en.wikipedia.org/wiki/Twelve-step_program). The alchoholic recognizes that they are helpless before their addiction and need to surrender to a higher power. Recognize that there is a vast love and strength that is waiting for them if they can just let go enough to let it in. Notice that this is not a comfortable path -- quite the opposite, but the strength to bear it comes from something greater than themselves.
 
-
 ## Orange
+
+At Orange we spiral up and back to the indivual (tick). The Truth can only be found within, and that Truth is rational. We are all indviduals pursuing happiness. We need the freedom to do that. Give me liberty or give me death!
+
+This is the stage where science comes online. A truly different way of looking at the world. Most people don't appear to have learned this disclipine. They pick and choose which facts are convenient to believe. Science is founded on rational thinking, but notice how much Blue faith is needed too. I don't have the mathematical chops to understand Quantum Dynamics, but I trust that it is true. I would bet my life on it. Science demands that we stand accountable to the reality of the world. We can never get to absolute Truth itself but we can continue to refine our theories, always trying to get closer. When Einstein predicted that gravity would bend light, scientists measured it and saw it was true.  And several hundred years of adherence to Newton's laws were thrown out and replaced by Einstein's theory just like that. The ability to look at the facts, recognize the existing theory is wrong, and switch to a better one is incredibly powerful. It has changed the world.
+
+Economists assume we are all rational actors in the marketplace. Yes, we need to replace capitalism, but first recognize how well it sometimes works. It has brought us to the brink, but it also has brought us so much wealth and possibilities. Capitalism relies on the [The Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds). It harnesses the creative forces of many individual actors acting alone to capture their collective wisdom. We need better batteries? Let the competiton begin. We do need to estabish (Blue) rules to ensure a functioning marketplace, but then we can step back and let the market do its magic. Democracy works in the same way. We assume that many people voting their self interest is the best way to govern. Astonishingly it seems to sort of work. As Churchill said, "democracy is the worst form of government – except for all the others that have been tried"
 
 ## Green
 
+At Green we spiral up and back to the group (tock). We know that science is True, but we also know that a lot of our so called rationality is just a self serving illusion. Recognize how much culture dicates what we think is "True". We break out of the colonizing mindset and look to create a world where all are treated with respect and dignity. We would die for our brothers and sister.
+
+There are many less people at Green than you might think. At least the way I have defined it. Green is a reaction to Orange. Even though Green has many (needed!) criticisms of science it does not throw out science. It recognizes that there are many other voices that need to be heard from, but science still has a place at the table. And just because you vote a certain way does not make you Green. If you don't fully believe in science and you are group focused, you are most likely at Blue. For example the QAnon conspiracy snared many people in yoga and alternative health communities. These people presumably vote liberally, but they also do not fully have the full Orange level of critical reasoning yet. I would call that Blue.
+
 ## Yellow
 
+At Yellow we spiral up and back to the individual (tick). We find the Truth within, but this time it is different. At this level we start to find all the levels inside ourselves. We are back to pursuing happiness like we did at Orange, but this time we have Green to make that pursuit less selfish and destructive.
+
+At this stage we recognize that we all have to find our own Truth. Group work is immensely helpful with this growth work, but in the end you will need to find your Soul all on your own.
+
+Please note this is distinct from Spirit work. People can have profound spiritual experiences at any level. You can have someone who is very advanced spiritually who is still at Red. That happens all the time in fact. You can also have someone at Yellow who is not very advanced in Spirit work at all. Because they are at Yellow they will at least recognize something is there, but they have more to discover. That also is very common.
+
+Just because someone has done a lot of self exploration does not necessarily put them at Yellow. They need to have Green online first. Green opens up the possibility that pure reason is not the only source of Truth. Green grounds us in what is truly important. Standing on that solid ground lets us go deep inside.
+
 ## Turquoise
+
+At Turquoise we spiral up and back to the group (tock). We have found our own Truth at Yellow, and found strength and clarity in it. Now it is time to open up to the Truth of others. Time to recognize that we are meant to be as one. 
+
+I believe I personally am a Yellow that is now longing for Turqoise. But Turqoise is by definition a group thing so I can not get their on my own. I need to find others. People who have done enough of their own work to find that they want to open to something even bigger. Maybe you?
