@@ -154,20 +154,6 @@ draft: false
       - My longing
       - The prophecy
       - Valerie Kaur
-  - Practical examples
-    - Challenger disaster
-      - Describe
-      - Model mismatch
-        - Manager had wrong level
-        - Engineer did not understand manager's level
-      - Sneaky switch. We have all been operating at the wrong level
-      - Moral cowardice to not judge
-        - quadrant theory helps us understand when to use what kind of judgment
-    - Red vs. Democracy
-    - Mormonism
-    - Crying Indian
-      - Orange goes to Green
-      - https://www.youtube.com/watch?v=epCKjaStFu0
   - Deeper into the theory
     - Spiral
       - Emerging
@@ -211,7 +197,7 @@ draft: false
       - Better for groups than individuals
         - Not meant to explain everything
         - Individuals tend to be a mix
-      - Higher levels do not equal superior i
+      - Higher levels do not equal superior
     - How to tell apart
       - It assumes an order
         - Sometimes Green is really blue
@@ -236,7 +222,55 @@ draft: false
       - Turqoise
         - Back to the group
         - Into the wilderness and then back to the group
-    - Working with each level
+    - Practical examples
+      - Challenger disaster
+        - Describe
+        - Model mismatch
+          - Manager had wrong level
+          - Engineer did not understand manager's level
+        - Sneaky switch. We have all been operating at the wrong level
+        - Moral cowardice to not judge
+          - quadrant theory helps us understand when to use what kind of judgment
+      - Covid
+        - Example of bigger problem
+        - Orange appeals to non existent science brain
+        - Green appeal to non-existent bigger heart
+        - Have to be strict with Red
+        - Education needs to teach the scientific method
+      - Red vs. Democracy
+        - Collapse of Blue
+        - Purple to Red
+      - Mormonism
+    - Institutions of growth
+      - Beige to Purple
+        - wants to happen naturally
+      - Purple to Red
+        - Trump
+        - List world authoritarian leaders
+      - Red to Blue
+        - Religion
+          - Jesus
+          - Mohammed
+          - Confucius
+          - Gandhi
+          - Martin Luther King
+        - Guatemala vs. Gandhi
+      - Blue to Orange
+        - highschool
+          - college is too late
+      - Orange to Green
+        - college
+        - Crying Indian
+          - Orange goes to Green
+          - https://www.youtube.com/watch?v=epCKjaStFu0
+      - Green to Yellow
+        - Soulcraft
+        - Hakomi
+        - HAI
+        - Integral Christianity
+        - Maps
+        - Medicine
+    - The gifts
       - Beige
         - Nature and body -- wild video
       - Purple
@@ -250,20 +284,6 @@ draft: false
         - An educated mind
       - Green
         -
-    - Institutions of growth
-      - Blue
-        - church
-      - Orange
-        - highschool
-        - college
-      - Green
-        - college
-      - Yellow
-        - Hakomi
-        - HAI
-        - Integral Christianity
-        - Maps
-        - Medicine
   - The Hope of Turquoise
     - What wants to happen next
     - Embrace all colors
