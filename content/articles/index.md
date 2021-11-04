@@ -237,16 +237,18 @@ draft: false
         - Green appeal to non-existent bigger heart
         - Have to be strict with Red
         - Education needs to teach the scientific method
-      - Red vs. Democracy
-        - Collapse of Blue
+      - Collapse of Blue
+        - Rust Belt
+          - Front row, back row
         - Purple to Red
+          - Trump
+          - List world authoritarian leaders
       - Mormonism
     - Institutions of growth
       - Beige to Purple
         - wants to happen naturally
       - Purple to Red
-        - Trump
-        - List world authoritarian leaders
+
       - Red to Blue
         - Religion
           - Jesus
