@@ -240,9 +240,10 @@ draft: false
       - Collapse of Blue
         - Rust Belt
           - Front row, back row
-        - Purple to Red
-          - Trump
-          - List world authoritarian leaders
+          - White flight
+      - Purple to Red
+        - Trump
+        - List world authoritarian leaders
       - Mormonism
     - Institutions of growth
       - Beige to Purple
