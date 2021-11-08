@@ -222,34 +222,29 @@ draft: false
       - Turqoise
         - Back to the group
         - Into the wilderness and then back to the group
-    - Practical examples
-      - Challenger disaster
-        - Describe
-        - Model mismatch
-          - Manager had wrong level
-          - Engineer did not understand manager's level
-        - Sneaky switch. We have all been operating at the wrong level
-        - Moral cowardice to not judge
-          - quadrant theory helps us understand when to use what kind of judgment
-      - Covid
-        - Example of bigger problem
-        - Orange appeals to non existent science brain
-        - Green appeal to non-existent bigger heart
-        - Have to be strict with Red
-        - Education needs to teach the scientific method
-      - Collapse of Blue
+    - Blind Spots
+      - Science Blindspot
+        - Challenger disaster
+          - Describe
+          - Model mismatch
+            - Manager had wrong level
+            - Engineer did not understand manager's level
+          - Sneaky switch. We have all been operating at the wrong level
+          - Moral cowardice to not judge
+            - quadrant theory helps us understand when to use what kind of judgment
+      - Class Blindspot
         - Rust Belt
-          - Front row, back row
-          - White flight
-      - Purple to Red
-        - Trump
-        - List world authoritarian leaders
-      - Mormonism
+        - Front Row, Back Row
+        - White flight
+      - Religion Blindspot
+        - Collapse of Blue
+        - Deaths of Despair
+        - Mormonism
     - Institutions of growth
       - Beige to Purple
         - wants to happen naturally
       - Purple to Red
-
+          - List world authoritarian leaders
       - Red to Blue
         - Religion
           - Jesus
@@ -281,6 +276,7 @@ draft: false
       - Red
         - Personal excellence
         - Mens corp.
+          - document pdf
       - Blue
         - Mormons
       - Orange
@@ -292,6 +288,11 @@ draft: false
     - Embrace all colors
     - Come together
     - Spirit transcends
+    - Ideas
+      - Sacred Economy
+      - Revolutionary Vanguard (preschool and kindergarden teachers)
+      - Men's Corp
+      -
   - Request for stories
     - My story
       - Three sacred vows
@@ -340,6 +341,7 @@ draft: false
   - Why
     - Getting people out of pain first
     - Getting people into joy
+  - First level of love -- looking into the mirror
   - Mindful Self Compassion
     - mirror work
     - Everything is God (or the Universe)
@@ -364,6 +366,7 @@ draft: false
   - Structures for healing
 - Wising Up
   - Personal growth mindset
+  - Second level of love -- Others are a mirror
   - Hakomi Principles
     - Hakomi intro
     - Love
@@ -385,6 +388,7 @@ draft: false
       - Creativity
   - Service
 - Waking Up
+  - Third level of love -- everything is Love
   - What has worked in the past?
     - Gandhi
     - Martin Luther King
@@ -471,7 +475,12 @@ draft: false
         - but allows change and improvement
     - Copyright
 - Todo
-  - Revolutionary Love
+  - Covid
+    - Example of bigger problem
+    - Orange appeals to non existent science brain
+    - Green appeal to non-existent bigger heart
+    - Have to be strict with Red
+    - Education needs to teach the scientific method
   - Racism
   - Loving the Unlovable
   - Group vs. Individual
