@@ -235,7 +235,9 @@ draft: false
       - Class Blindspot
         - Rust Belt
         - Front Row, Back Row
-        - White flight
+        - Class
+        - College divide
+        - White flight?
       - Religion Blindspot
         - Collapse of Blue
         - Deaths of Despair
