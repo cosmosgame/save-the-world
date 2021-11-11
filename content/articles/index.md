@@ -242,7 +242,9 @@ draft: false
         - Collapse of Blue
         - Deaths of Despair
         - Mormonism
-    - Institutions of growth
+    - Putting SD to work
+      - A new story
+
       - Beige to Purple
         - wants to happen naturally
       - Purple to Red
