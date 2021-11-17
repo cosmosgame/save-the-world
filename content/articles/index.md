@@ -240,7 +240,21 @@ draft: false
       - Religion Blindspot
         - Collapse of Blue
         - Deaths of Despair
-        - Mormonism
+    - The gifts
+      - Beige
+        - Nature and body -- wild video
+      - Purple
+        - Power of the group
+      - Red
+        - Personal excellence
+        - Mens corp.
+          - document pdf
+      - Blue
+        - Mormons
+      - Orange
+        - An educated mind
+      - Green
+        - #MeToo
     - Putting SD to work
       - A new story
       - Beige to Purple
@@ -270,21 +284,6 @@ draft: false
         - Integral Christianity
         - Maps
         - Medicine
-    - The gifts
-      - Beige
-        - Nature and body -- wild video
-      - Purple
-        - Power of the group
-      - Red
-        - Personal excellence
-        - Mens corp.
-          - document pdf
-      - Blue
-        - Mormons
-      - Orange
-        - An educated mind
-      - Green
-        -
   - The Hope of Turquoise
     - What wants to happen next
     - Embrace all colors
@@ -343,24 +342,28 @@ draft: false
   - Why
     - Getting people out of pain first
     - Getting people into joy
-  - First level of love -- looking into the mirror
   - Mindful Self Compassion
-    - mirror work
-    - Everything is God (or the Universe)
-    - What you don't love in others..
-    - Loving others as self (mirror work)
     - Preparation for Truth
+    - Three levels
+      - mirror work
+      - What you don't love in others..
+      - Everything is God (or the Universe
   - Body
     - It all starts in the body
     - Every emotion has a place in the body
       - the body keeps the score
     - Every organism is striving towards healing. Always.
       - organicity
+    - Diet
+    - Exercise
     - Healing our sexuality
       - HAI
+    - Nature
   - Medicine
     - Not the only path
   - Stopping the cycle
+    - Revolutionary vanguard
+    - Thread project
   - Healing practices
     - RAIN
     - Trust organicity
