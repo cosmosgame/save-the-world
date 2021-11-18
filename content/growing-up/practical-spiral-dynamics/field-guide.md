@@ -2,7 +2,7 @@
 title: "Field Guide"
 date: 2021-18-10T05:26:15Z
 draft: false
-weight: 40
+weight: 20
 ---
 
 How do we know what color level someone or a group is at? To figure this out there are some questions we need to answer:

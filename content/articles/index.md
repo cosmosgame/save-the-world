@@ -244,7 +244,7 @@ draft: false
       - Beige
         - Nature and body -- wild video
       - Purple
-        - Power of the group
+        - Excerpt from the Healing power of Africa
       - Red
         - Personal excellence
         - Mens corp.
@@ -292,7 +292,6 @@ draft: false
     - Ideas
       - Sacred Economy
       - Revolutionary Vanguard (preschool and kindergarden teachers)
-      - Men's Corp
       -
   - Request for stories
     - My story
