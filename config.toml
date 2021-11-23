@@ -1,5 +1,5 @@
 baseURL = "https://cosmosgame.github.io/save-the-world/"
-
+staticDir = "static"
 publishDir = "docs"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
