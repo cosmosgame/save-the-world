@@ -22,7 +22,12 @@ Somé talks about this in his book, [The Healing Power of Africa](https://archiv
 
 ## Red
 
-There is a part of us that wants to conquer 
-I personally struggle with Red. So much suffering has come from this stage, and yet it is a part of us. The best way to use this fierce energy is to channel it in a more positive way.
+There is a part of us that wants to crush and dominate our enemies. I personally struggle with this, but it is there in me too. So much suffering has come from this stage, and yet it is a part of us. And we so desperately need it. We need Red to save the world. Where else are we going to get the courage to take on this crazy challenge? We can take that same desire to conquer and channel it to something much more useful. We can take the warrior spirit found in many young people (particularly men) and use it to create a world-wide peace keeping force. Because make no mistake the world needs protecting. There will always be smeo would be dictator who wants to grab for power. It has been that way since the beginning of history, it will not suddenly stop now. The trick will be to embrace this level but not collapse into it. We will need to find the balance between deeply honoring the peace keepers willing to sacrifice their lives, but not get caught up into war hysteria when war comes our way.
+
+Jim Channon, a high level officer in the U.S. Army had a vision of warrior monks who help the world evolve to the next stage:
 
 [First Earth Battalion](https://web.archive.org/web/20110811190649/http://arcturus.org/field_manual.pdf)
+
+He wrote this in 1982 (during the Reagan presidency) so he was very much ahead of his time, but I think he was on to something. Many young people *want* to be warriors. Let's put that to good use because we will need their protection. And it will give the youth in this corps direction and meaning and help them step into a higher level.
+
+## Blue
