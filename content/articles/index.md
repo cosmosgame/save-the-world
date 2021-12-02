@@ -269,6 +269,7 @@ draft: false
           - Gandhi
           - Martin Luther King
         - Guatemala vs. Gandhi
+        - Christmas Carol
       - Blue to Orange
         - highschool
           - college is too late
@@ -277,6 +278,7 @@ draft: false
         - Crying Indian
           - Orange goes to Green
           - https://www.youtube.com/watch?v=epCKjaStFu0
+        - Cohousing
       - Green to Yellow
         - Soulcraft
         - Hakomi
@@ -392,6 +394,7 @@ draft: false
       - Creativity
   - Service
 - Waking Up
+  - My path from Atheism
   - Third level of love -- everything is Love
   - What has worked in the past?
     - Gandhi
@@ -399,7 +402,6 @@ draft: false
     - Christian awakening
     - Moslem awakening
     - Sikh awakening
-  - Spirituality at all color levels
   - How do we know what is true?
     - Spirituality does not have to be in conflict with science
     - Magical thinking
@@ -419,7 +421,7 @@ draft: false
         - CSL
         - Unitarian
   - Integral Spirituality
-    - Embrace all colors
+    - Spirituality at all color levels
     - Embrace all quadrants
 - Showing Up
   - Why it is now possible
