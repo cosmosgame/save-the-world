@@ -61,10 +61,13 @@ He wrote this in 1982 (during the Reagan presidency) so he was very much ahead o
 
 ## Blue
 
+Consider the Mormons. Most people have a blindspot about this religion. For sure they are  patriarchal and deeply bigoted. And they believe in some crazy myths. We don't have to condone everything they do, but they do have some things to teach us. They have part of the answer. There is something vibrant here. Something they are doing is actually working. Mormons know that they are part of something much, much bigger than themselves. Mitt Romney said exactly that when he courageously cast the lone Republican vote for impeachment. That is the gift of Blue. The focus  turns away from just me and mine to community and service. The focus is on the greater whole. Mormons support each other. Families work much better because they are supported by a vibrant community. Children are raised with a sense of purpose and belonging. Most Americans have lost the skill of getting along with their neighbors. Most Americans don't even know who their neighbors are! But the Mormons do. Utah (the home of the Mormon church) calls itself the Beehive state to symbolize this sense of togetherness. Salt Lake City is one of the most vibrant cities in the country.
+
+We have had a disastrous collapse of Blue in America. In [The Upswing: How America Came Together a Century Ago and How We Can Do It Again](https://www.npr.org/2020/11/02/930271185/in-the-upswing-history-holds-the-keys-to-moving-away-from-todays-tumultuous-age), Robert Putnam describes how America eventually emerged from the horrible strife of the Civil War and started to find its way back to community starting in the 1870's. Women organized to get the right to vote, workers endured getting shot to unionize, and wealth became more evenly divided. We forget how before this seniors quite often died in miserable poverty. We forget how children before this died from eating tainted meat. We forget how workers died fighting to give us the 40 hour work week.  People felt a call to be of service to their community. This all started to collapse in the 70's. Income inequality is now higher than even in the Gilded Age, and in the 2020 election the Republican party formally voted to end democracy. We have not been this divided since the Civil War. We don't want the sexism and racism that typically comes with Blue, but we desperately need that sense of community again. We need this gift.
+
 ### Gifts
 
 * Truth bigger than just yourself
-* Equality
 * Sacrifice for the common good
 * Cohesive society
 * Mutual support
@@ -81,6 +84,7 @@ He wrote this in 1982 (during the Reagan presidency) so he was very much ahead o
 
 ### Gifts
 
+* Egalitarian
 * Post-rational
 * Everyone matters
 
