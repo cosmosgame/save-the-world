@@ -76,15 +76,21 @@ We have had a disastrous collapse of Blue in America. In [The Upswing: How Ameri
 
 ## Orange
 
-Science is amazing. Math is incredibly beautiful and powerful. There is a deep refuge in logical thought. When it all gets too much I can retreat to programming to find a safe place way from the suffering of the world. When I get lost in my programming it feels like I am strolling through serene, crystalline groves. It is incredibly soothing -- I wish everyone knew about this sanctuary. We have always been natural scientists, but what this level brings is the disclipine and rigor of math and logic. We need this level too. We need to trust that numbers are real. Most anti-vaxers don't really believe in numbers, because it is too abstract. They don't really believe the spike in cases because they are not personally affected.
+One year when my son was in grade school, I came to his class every week to teach how to make a little turtle on the screen do things. I told the kids things like, try making the turtle draw a triangle, great now how about a square?, great now how about a pentagon?, and so on until they eventually created a circle. The kids loved it so much that one week they asked "Mr. Levy why are we getting to do this?". They thought they were just playing games at school. I simply said "This is math" and they coiled back in shock and horror. One girl, one of the stronger programmers, started talking to herself out loud, "Math? I can't do math". For a horrible moment it looked like it could tip towards the kids giving up. That girl went helpless. Fortunately, the fun proved to be too enticing and they were able to go back to enjoying themselves. They learned solid math that typically is not covered until high school (xy coordinate system, angles, reflections, rotations, functions, etc.) but they didn't even really think of it as a class. At the end I asked who realized now that math can be fun and creative. Everyone's hand shot up.
 
-Notice how people have responded to Covid vaccinations. There is quite a range in reactions.
+Science is amazing. Math is incredibly beautiful and powerful. There is a deep refuge in logical thought. But most people don't know this. When I get lost in my programming it feels like I am strolling through serene, crystalline groves. It is an incredibly soothing sanctuary. We have always been natural scientists, but what this level brings is the disclipine and rigor of math and logic. We need this level too. We need to trust that numbers are real. Most anti-vaxers don't really believe in numbers, because it is too abstract. They don't really believe the spike in cases because they are not personally affected. And here is the funny thing -- numbers kind of aren't real. They are this abstract idea. It is a leap of faith to trust that this abstract level is "real". People don't just naturally get here, they usually have to be taught. And we are not doing such a great job of teaching kids this. Math and science are usually presented as yet another burden they must bear instead of this incredible gift.
+
+We can not solve some of our most urgent problems unless and until we convince people that numbers are real. The numbers around Covid hospitalizations for vaccinated vs. unvaccinated are real. The numbers describing the coming climate catastrophe are real. The numbers supporting the analysis of systemic racism are real. The numbers of women reporting sexual harrassment and abuse are real. But simply reciting the facts to an anti-vaxxer won't help. Unless and until we can get them to where they truly believe numbers are real you can recite all the facts you like they simply will not be able to take it in.
+
+And we now flooded with so many different "expert" opinions. How do we really know that the 2020 elections were not stolen? How do we know that Global warming is not just a hoax cooked up by the Chinese? How do we know that vaccinations are statistically safe? Unless and until people have a firm grounding in the scientific method they are at the mercy of every stray internet posting. And again we teach kids Science as if it is a collection of facts to remember instead of a world view to cultivate. Unless and until we get more people to open up their science minds we will not be able to convince them of how urgently we need change.
+
 
 ### Gifts
 
 * Math/Science
 * Predict the future
-* Refuge
+* Engineer mindset
+* Accountability
 
 ## Green
 
