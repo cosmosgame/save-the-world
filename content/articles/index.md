@@ -257,11 +257,14 @@ draft: false
         - #MeToo
     - Putting SD to work
       - A new story
-      - Beige to Purple
-        - wants to happen naturally
-      - Purple to Red
-          - List world authoritarian leaders
+      - Beige
+        - Forest bathing
+      - Purple
+        - Relearn this history
+        - HAI
+        - Vision quests
       - Red to Blue
+        - This one needs to shift
         - Religion
           - Jesus
           - Mohammed
