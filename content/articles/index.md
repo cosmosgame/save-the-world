@@ -257,12 +257,13 @@ draft: false
         - #MeToo
     - Putting SD to work
       - A new story
+      - Spiral wizardry
       - Beige
-        - Forest bathing
+        - Trauma victims
+        - Revisit in Healing Up and Wising Up
       - Purple
         - Relearn this history
-        - HAI
-        - Vision quests
+        - White supremacists -- shift them
       - Red to Blue
         - This one needs to shift
           Recognize the danger
