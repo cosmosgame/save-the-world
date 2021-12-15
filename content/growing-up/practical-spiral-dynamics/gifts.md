@@ -2,7 +2,7 @@
 title: "Gifts"
 date: 2021-11-18T05:26:15Z
 draft: false
-weight: 40
+weight: 50
 ---
 Each stage brings a crucial gift. But we can have blindspots here too. For example, Green hates Red and can see nothing useful in the Red mindset whatsoever. And similarily Red hates Green. To be sure, Green is not wrong. We are in fact living in a world of systemic racism and sexism. But what Green (and I have to admit I too) struggle with is to realize there actually is a gift that Red brings. And that gift is crucial. This is too big a project -- we need all the gifts.
 

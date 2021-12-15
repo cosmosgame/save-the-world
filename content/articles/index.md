@@ -240,6 +240,23 @@ draft: false
       - Religion Blindspot
         - Collapse of Blue
         - Deaths of Despair
+    - Shadows
+      - Beige
+        - Survival
+      - Purple
+        - Tribalism
+      - Red
+        - Authoritarianism
+      - Blue
+        - Stagnation
+      - Orange
+        - Scientific materialism
+      - Green
+        - Victim mindset
+      - Yellow
+        - Arrogance
+      - Turquoise
+        - Humans are humans
     - The gifts
       - Beige
         - Nature and body -- wild video
