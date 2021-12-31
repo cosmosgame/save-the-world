@@ -21,13 +21,13 @@ weight: 80
 
 After finding our vast strength in Yellow we start to really open up to all that is. And it hurts. Really hurts. The world is suffering in so many needless ways. We have met this pain before and run away, but this time we suddenly realize how truly big we are. We are more than just our narrow individual ego. We are part of something so so much bigger. Big enough even to face that scary tidal wave of world pain. We are all one. When you suffer, I suffer too. We now start to really get that. And it is so not OK what is happening. The deeper joy is the joy of all not just the one. From our place of strength we look up and out. And a wild, crazy hope emerges. On our own there is relatively little we can do. But together? Together we can change the world.
 
-Turquoise as a societal construct is not yet here. There is no history I can point to. So we don't really know yet exactly what Turquoise is going to look like. But we do have the pattern of what has happened up to now to give us some important clues. We know that this level will be the (tock) return to community. And just like Yellow revisits Beige at a higher level, Turquoise revisits communal Purple. We will know Turquoise has arrived by its awesome, legendary parties. Burning Man might be an early yearning towards this. Just like Purple was the start of religion, Turquoise almost certainly will see the rebirth of an enlightened form of religion. It will be a practice of spirit that deeply nourishes and strengthens. And we will become bad-asses once more.
+Turquoise as a societal construct is not yet here. There is no history I can point to. So we don't really know yet exactly what Turquoise is going to look like. But we do have the pattern of what has happened up to now to give us some important clues. We know that this stage will be the (tock) return to community. And just like Yellow revisits Beige at a higher stage, Turquoise revisits communal Purple. We will know Turquoise has arrived by its awesome, legendary parties. Burning Man might be an early yearning towards this. Just like Purple was the start of religion, Turquoise almost certainly will see the rebirth of an enlightened form of religion. It will be a practice of spirit that deeply nourishes and strengthens. And we will become bad-asses once more.
 
 Turquoise is like a prophecy in a story. It is a dream of what we hope and pray will come. And it can be our intention. Our guide of what needs to happen in order for the world to flourish. But even though Turqoise is not yet fully here I do see some signs of it starting to emerge. Valerie Kaur's [Revolutionary Love Project](https://valariekaur.com/revolutionary-love-project/) is one example.
 
-Please watch her Ted talk. It is a great review of everything I have talked about so far. I sincerely doubt that she is aware of Spiral Dynamics, but that makes this even more compelling of an example. She takes us through all the levels and ends with a call for us all to unite to save the world.
+Please watch her Ted talk. It is a great review of everything I have talked about so far. I sincerely doubt that she is aware of Spiral Dynamics, but that makes this even more compelling of an example. She takes us through all the stages and ends with a call for us all to unite to save the world.
 
-See if you can recognize all the different Spiral levels as she brings them up:
+See if you can recognize all the different Spiral stages as she brings them up:
 
 {{< youtube id="5ErKrSyUpEo" title="Revolutionary Love">}}
 
@@ -49,7 +49,7 @@ She talks about how her Sikh religion has guided her; beautiful, true Blue.
 She talks a little about how the lawyer part of herself is a little uncomfortable with all this love talk; classic Orange
 
 ### Green
-She talks about her social justice work; amazing, vibrant Green
+She talks about her inspiring social justice work; amazing, vibrant Green
 
 ### Yellow
 She talks about her inner work of learning to love herself; awakening, deepening Yellow
@@ -57,6 +57,6 @@ She talks about her inner work of learning to love herself; awakening, deepening
 ### Turqouise
 And then she looks up and out to call all of us to join her; triumphant Turqoise
 
-Notice how lovingly she talks about all the stages. This is a key difference from Yellow. Instead of just tolerating the other stages and working with them, Turquoise actively loves all the levels and celebrates them. Notice how she asks us to first find our strength within (breathe and push) first before then looking out to others. True turqoise can only emerge after people have done the hard individual Yellow work first.
+Notice how lovingly she talks about all the stages. This is a key difference from Yellow. Instead of just tolerating the other stages and working with them, Turquoise actively loves all the stages and celebrates them. Notice how she asks us to first find our strength within (breathe and push) first before then looking out to others. True turqoise can only emerge after people have done the hard individual Yellow work first.
 
-I find it incredibly hopeful that this level is just starting to awaken exactly at the exact point when we need it most. We have a choice. We already have enough food to feed the world, but we choose not to. We already have enough medicine to heal all the world's sick, but we choose not to. We already have the technology to completely stop C02 emissions, but we choose not to. We are not lacking in resources or technology. What we are missing is that bigger consciousness. Way too many of us are still asleep.  This stage, if it arrives in time, will wake us up.
+I find it incredibly hopeful that this stage is just starting to awaken exactly at the exact point when we need it most. We have a choice. We already have enough food to feed the world, but we choose not to. We already have enough medicine to heal all the world's sick, but we choose not to. We already have the technology to completely stop C02 emissions, but we choose not to. We are not lacking in resources or technology. What we are missing is that bigger consciousness. Way too many of us are still asleep.  This stage, if it arrives in time, will wake us up.

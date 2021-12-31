@@ -294,8 +294,8 @@ draft: false
         - Guatemala vs. Gandhi
         - Christmas Carol
       - Blue to Orange
-        - highschool
-          - college is too late
+        - better science/math
+        - college available life long
       - Orange to Green
         - college
         - Crying Indian

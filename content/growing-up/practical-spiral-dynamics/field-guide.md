@@ -21,7 +21,7 @@ The whole point of backpacking is to get to this level. That is why people do it
 
 ## Purple (KinSpirits)
 
-At purple focus swings over to tribe and community (tock). You know to be true what the tribe knows to be true. You revere the local spirits of the land. You are willing to die to protect your tribe. Many indigenous people live their lives at this level. Many more people wish they could.
+At purple focus swings over to tribe and community (tock). You know to be true what the tribe knows to be true. You revere the local spirits of the land. You are willing to die to protect your tribe. Many indigenous people live their lives at this level. Many more wish they could.
 
 We all have a longing to be part of a tribe whether we are consciously aware of it or not. Groups like a church, or a yoga community can provide this. If the bond is strong enough this community can be said to be at the Purple level. This can sometimes be disastrous (think of religious cults gone bad), but sometimes it can be amazing.
 
@@ -33,7 +33,7 @@ Olympic athletes are a good example of this stage. They are competing to be the 
 
 Many of the people opposed to Covid vaccines are Red. Why? First they don't believe in the science, because that level comes later (Orange). Second because they are mostly focused just on themselves and don't really understand the need to sacrifice for the greater good.
 
-I struggle with how much judgment I have about people who refuse the Covid vaccine. But it is important to really get that these people really and truly do not have scientific thinking online. It just is not a source of Truth for them. We can patiently tell them the science facts over and over, but that will not sway them. And it is not because they are dumb. Not at all. Scientific thinking is a later stage of development and they don't have that expanded world view yet. I also struggle with the selfishness of not doing the right thing to protect others. This is another example of where people's hearts are smaller than I want them. I realize (in my wiser moments) that I have to first accept this is where they truly are at. And stop, breathe and open my heart to them. Only then can I hope to help them expand their hearts. In my experience yelling at people does not help open their hearts. Have you had a different experience?
+I struggle with how much judgment I have about people who refuse the Covid vaccine. But it is important to really get that these people really and truly do not have scientific thinking online. It just is not a source of Truth for them. We can patiently tell them the science facts over and over, but that will not sway them. And it is not because they are dumb. Not at all. Scientific thinking is a later stage and they just don't have that expanded world view yet. I also struggle with the selfishness of not doing the right thing to protect others. This is another example of where people's hearts are smaller than I want them. And yet again, the truth of this stage is that people are focused on the indvidual not sacrificing for the group. That is just where they are at right now, yelling isn't going to help.
 
 
 ## Blue (TrueBlue)
@@ -52,13 +52,14 @@ Another example of Blue is Alcohol Anonymous's [Twelve Steps](https://en.wikiped
 
 ## Orange
 
-At Orange we spiral up and back to the indivual (tick). The Truth can only be found within, and that Truth is rational. We are all indviduals pursuing happiness. We need the freedom to do that. Give me liberty or give me death!
+At Orange we spiral up and back to the individual (tick). The Truth can only be found within, and that Truth is rational. We are all indviduals pursuing happiness. We need the freedom to do that. Give me liberty or give me death!
 
-This is the stage where science comes online. A truly different way of looking at the world. Most people don't appear to have learned this disclipine. They pick and choose which facts are convenient to believe. Science is founded on rational thinking, but notice how much Blue faith is needed too. I don't have the mathematical chops to understand Quantum Dynamics, but I trust that it is the closest we can get to the Truth right now. Each discovery takes us one step closer to Truth. Science demands that we stand accountable to the reality of the world. We can never get to absolute Truth itself but we can continue to refine our theories, always trying to get closer. When Einstein predicted that gravity would bend light, scientists measured it and saw it was true.  And several hundred years of adherence to Newton's laws were thrown out just like that and replaced by Einstein's theory. The ability to look at the facts, recognize the existing theory is wrong, and switch to a better one is incredibly powerful. It has changed the world.
+This is the stage where science comes online. A truly different way of looking at the world. Most people don't appear to have learned this disclipine. They pick and choose which facts are convenient to believe. Science is founded on rational thinking, but notice how much Blue faith is needed too. I personally don't have the mathematical chops to understand Quantum Dynamics, but I trust that it is the closest we can get to the Truth right now. Each discovery takes us one step closer to Truth. Science demands that we stand accountable to the reality of the world. We can never get to absolute Truth itself but we can continue to refine our theories, always trying to get closer. When Einstein predicted that gravity would bend light, scientists measured it and saw it was true.  And several hundred years of adherence to Newton's laws were thrown out just like that and replaced by Einstein's theory. The ability to look at the facts, recognize the existing theory is wrong, and switch to a better one is incredibly powerful. It has changed the world.
 
-Economists assume we are all rational actors in the marketplace. Yes, we need to replace capitalism, but first recognize how well it sometimes works. It has brought us to the brink, but it also has brought us so much wealth and possibilities. Capitalism relies on the [The Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds). It harnesses the creative forces of many individual actors acting alone to capture their collective wisdom. We need better batteries? Let the competiton begin. We do need to estabish (Blue) rules to ensure a functioning marketplace, but then we can step back and let the market do its magic. Democracy works in the same way. We assume that many people voting their self interest is the best way to govern. Astonishingly it seems to sort of work. As Churchill said, "democracy is the worst form of government – except for all the others that have been tried"
+Economists assume we are all rational actors in the marketplace. Yes, we need to replace capitalism, but first recognize how well it sometimes works. It has brought us to the brink (and maybe past) of disaster, but it also has brought us so much wealth and possibilities. Capitalism relies on the [The Wisdom of Crowds](https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds). It harnesses the creative forces of many individual actors acting alone to capture their collective wisdom. We need better batteries? Let the competiton begin. We do need to estabish (Blue) rules to ensure a functioning marketplace, but then we can step back and let the market do its magic. Democracy works in the same way. We assume that many people voting their self interest is the best way to govern. Astonishingly it seems to sort of work. As Churchill said, "democracy is the worst form of government – except for all the others that have been tried"
 
-You can tell someone is at Orange when they are able to have a fully rational discussion, and yet somehow they just not get that systemic racism is an all too real thing. They are at Orange not Green.
+You can tell someone is at Orange when they are able to have a fully rational discussion, and yet somehow they just can\``````````````
+`````t get that systemic racism is an all too real thing. They are at Orange not Green.
 
 ## Green
 
@@ -66,7 +67,7 @@ At Green we spiral up and back to the group (tock). We know that science is True
 
 There are many less people at Green than you might think. At least the way I have defined it. Green is a reaction to Orange. Even though Green has many (needed!) criticisms of science it does not throw out science. It recognizes that there are many other voices that need to be heard from, but science still has a place at the table. And just because you vote a certain way does not make you Green. If you don't fully believe in science and you are group focused, you are most likely at Blue. For example the QAnon conspiracy snared many people in yoga and alternative health communities. These people presumably vote liberally, but they also do not fully have the full Orange level of critical reasoning yet. I would call that Blue.
 
-Green seems to not be able to see the other stages. People at Green think that everyone sees the world exactly as they do, and if someone does something wrong they should know better. To get them to understand our vast differences they would have to do some deep personal exploration. And if they do that, that brings them up to Yellow
+Green seems to not be able to see the other stages. People at Green think that everyone sees the world exactly as they do, and if someone does something wrong they should know better. To get them to understand our vast differences they would have to do some deep personal exploration. And if they do that, that brings them to Yellow
 
 ## Yellow
 
@@ -84,7 +85,4 @@ At Turquoise we spiral up and back to the group (tock). We have found our own Tr
 
 I believe I personally am a Yellow that is now longing for Turqoise. But Turqoise is by definition a group thing so I can not get their on my own. I need to find others. People who have done enough of their own work to find that they want to open to something even bigger. Maybe you?
 
-If you know of people or organizations working at the Turqoise level, please send me a note. I want to keep a master list. Here is what I have so far:
-
-[Revolutionary Love Project (Valerie Kaur)](https://valariekaur.com/revolutionary-love-project/)
-[Terry Patten](https://newrepublicoftheheart.org/person/terry-patten/)
+If you know of people or organizations working at the Turqoise level, please send me a note. I want to keep a master list. 

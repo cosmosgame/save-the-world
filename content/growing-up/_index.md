@@ -11,4 +11,4 @@ I know a bit about the power of finding the right story because I named myself b
 
 Spiral Dynamics can provide this shared story. Although it was originally conceived as a scientific theory I think it is better seen as an explaining story. A story that helps us make sense of things.
 
-In the first sub-section I am going to introduce the theory and then tell the story. In the next sub-section I am show how to put it to practical use.
+In the first sub-section I am going to introduce the theory and then tell the story. In the next sub-section I offer some thoughts on how to put it to practical use.
