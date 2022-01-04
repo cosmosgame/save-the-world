@@ -9,7 +9,7 @@ How is this possible??
 
 Each day you get to hike from one campground to the next. Our truck and trailer will transport the gear. At the next camp site your tent and hot meals await you. The hikes each day will last about 6 hours if you are hiking at a moderate pace including time for lunch. On flat stretches they will average 10 miles. On days with elevation gain they are no longer than 6 miles (but you can go longer if you want). On most days there are options for shorter hikes, and you can always ride in the truck if your body is ready for a day off.
 
-We have planned a seven day journey into nature starting at the southern tip of the PCT (at the Mexican border). We have found it takes a few days to disconnect from the everyday world and to let yourself really appreciate nature. To accomplish this, we ask that you plan to stay with the group for the whole week. We also ask that you minimize use of cell phones to help keep you in the backpacker's mindset.
+We have planned a seven day journey into nature starting at the southern tip of the PCT (at the Mexican border). We have found it takes a few days to disconnect from the everyday world and to let yourself really immerse in nature. To accomplish this, we ask that you plan to stay with the group for the whole week. We also ask that you minimize use of cell phones to help keep you in the backpacker's mindset.
 
 Each afternoon Odysseus will also lead a walk to experience “forest bathing”. This custom originated in Japan and encourages us to use all our senses on a slow walk with stops to appreciate our surroundings.
 
