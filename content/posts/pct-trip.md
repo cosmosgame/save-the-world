@@ -30,16 +30,16 @@ Interested but have questions? Ready to sign up? Send one of us an email:
 
 ## Itinerary
 
-| Day              | Start           | End             | Camp                                         | Distance (Options)                           |
-| ---------------- | --------------- | --------------- | ------------------------- | -------------------------------------------- |
-| Day 0, Saturday  | Mile 0          | Mile 2.4        | Lake Moren Campground     | 2.4 miles                                    |
-| Day 1, Sunday    | Mile 2.4        | Mile 10.9 (+.9) | BLM spot                  | 9.4 miles                                    |
+| Day              | Start           | End             | Camp                      | Distance (Options) |
+| ---------------- | --------------- | --------------- | ------------------------- | ------------------ |
+| Day 0, Saturday  | Mile 0          | Mile 2.4        | Lake Moren Campground     | 2.4 miles |
+| Day 1, Sunday    | Mile 2.4        | Mile 10.9 (+.9) | BLM spot                  | 9.4 miles |
 | Day 2, Monday    | Mile 10.9       | Mile 20         | Lake Morena Campground    | <ul><li>10 miles</li><li>5.3 miles</li></ul> |
 | Day 3, Tuesday   | Mile 20         | Mile 32.6 (+.7) | Cibbets Flat Campground   | <ul><li>13.3 miles</li><li>7.3 miles</li><li>3.2 miles</li></ul> |
 | Day 4, Wednesday | Mile 32.6       | Mile 41.5       | Burnt Rancheria Campground| <ul><li>9.6 miles</li><li>5.5 miles (maybe)</li></ul> |
 | Day 5, Thursday  | Mile 41.5       | Mile 46.2 (+.2) | Laguna Campground         | <ul><li>5.8 miles</li><li>2.8 miles</li></ul> |
-| Day 6, Friday    | Laguna          | Laguna          | Laguna Campground         | Your choice; several beautiful loop trails available, 0 - 10 miles                     |
-| Day 7, Saturday  | Laguna          | Laguna          | Head home after breakfast | 0 miles (but up to you)             |
+| Day 6, Friday    | Laguna          | Laguna          | Laguna Campground         | Your choice; several beautiful loop trails available, 0 - 10 miles |
+| Day 7, Saturday  | Laguna          | Laguna          | Head home after breakfast | (last day) |
 
 To see a map of the trail [go here](https://pcta.maps.arcgis.com/apps/webappviewer/index.html?id=68255de6e25941f0a01a548ae63216b3) and zoom in to where the trail starts at the Mexican border.
 
