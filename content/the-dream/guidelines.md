@@ -5,7 +5,7 @@ draft: false
 weight: 50
 ---
 
-To make this writing project work we need to agree on a set of guiding principles. Something that we can fall back on when we are trying to decide what goes in and what stays out. Something that guides us as we write and review. If you find that some part of this site does not match these principles please let me know - it is a bug that needs to be fixed.
+Let me suggest a set of guiding principles for this project. Something that we can fall back on when we are trying to decide what goes in and what stays out. Something that guides us as we write and review. If you find that some part of this site does not match these principles please let me know - it is a bug that needs to be fixed.
 
 ### Simplicity
 
@@ -29,7 +29,7 @@ Nothing written here is meant to be taken on faith. Please find the truth of eve
 
 Open source has shown that collobaration works best when people are able to listen to feedback without letting their ego get too much in the way. Any organization that we create needs to have this as a guiding principle. This can be one of the hardest things to achieve, but it is one of the more important.
 
-Again, the willingness to admit that we are wrong is key here. It is especially important when trying to create something new like this because we will have to change out minds numerous times as we try to figure this all out.
+Again, the willingness to admit that we are wrong is key here. It is especially important when trying to create something new like this because we will have to change our minds numerous times as we try to figure this all out.
 
 ## Next steps
 

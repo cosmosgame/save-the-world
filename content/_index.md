@@ -12,13 +12,15 @@ weight: 1
 
 Thank you so much visiting this web site! I am deeply grateful that you did! Your support and feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
 
-For thirty years I have watched global warming. Back in the 90's environmentalists like myself knew a disaster was coming. The science was clear. And I did nothing. Each decade the scientific reports kept on coming back consistently reporting that it was even worse than we feared. And I did nothing. The scientific reports are so bad now I can not make myself read them. It hurts too much. If you know how to read them, you know the scientists are actually screaming in anguish. And I did nothing.
+I want a plan to save the world. A plan that might actually work. It my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! But maybe get curious about that reaction. Why don't we have a plan to save the world? Doesn't the world need saving?
+
+Why am I doing this? For thirty years I have watched global warming. Back in the 90's environmentalists like myself knew a disaster was coming. The science was clear. And I did nothing. Each decade the scientific reports kept on coming back consistently reporting that it was even worse than we feared. And I did nothing. The scientific reports are so bad now I can not make myself read them. It hurts too much. If you know how to read them, you know the scientists are actually screaming in anguish. And I did nothing.
 
 No longer.
 
-My daughter is learning about how bad the situation is at school. Our children understand the reality of our situation better than we do. She asked me if it is OK to have children. And I had to really think about it. I found myself bargaining with God. Maybe her children will be OK? But then she asks me what about her children's children? And what about all future children? And the answer is I do not know.
+My daughter is learning about how bad the situation is at school. Our children understand the reality of our situation better than we do. She asked me if it is OK to have children. And I had to really think about it. I found myself bargaining with God. Maybe her children will be OK? But then she asked me what about her children's children? And what about all future children? And the answer is I do not know.
 
-What I do know is that I will not do nothing for another thirty years. The world needs even someone as ordinary as me. No matter how hard it gets I can not imagine anything more painful than to confess to my grandchildren thirty years from now that yet again for another thirty years I did nothing.
+What I do know is that I will not do nothing for another thirty years. The world needs even someone as ordinary as me. No matter how hard it gets I can not imagine anything more painful than to confess to my grandchildren thirty years from now that yet again I stood by and did nothing.
 
 Fortunately, while I did (mostly) nothing others have been hard at work. They have done so much and yet here we are. On our own we can only get so far. All the urgent projects that people are working on such as Black Lives Matter and Social Justice are vitally important. But we need to understand that we are all working on the same project. All this work shares the very same problem -- how do we get people into a bigger, more compassionate place? If we can get people there, the world changes in an instant. But that is very big work and it will require all of us. So even as we continue to do our separate work we also need to coordinate on an even bigger dream -- saving the world together.  
 
@@ -32,7 +34,7 @@ What do we need to make the world of our dreams?
 
 ### A Better Story
 
-We need a better story. We forget how much our stories define us. Our story tells us where we came from and what it is we are to do in this world. Right now our collective story holds us as very small. It tells us there is nothing we can do. But it doesn't have to be like that. We can choose to tell ourselves a very different story. A story that gives us courage. A story that lets us shake off this trance of helplessness and take on the task of saving the world with a heart full of passion. The right story will provide us hope. Hope that something huge might just want to awaken soon.
+We need a better story. We forget how much our stories define us. Our stories tells us where we came from and what it is we are to do in this world. Right now our collective story holds us as very small. It tells us there is nothing we can do. But it doesn't have to be like that. We can choose to tell ourselves a very different story. A story that gives us courage. A story that lets us shake off this trance of helplessness and take on the task of saving the world with a heart full of passion. The right story will provide us hope. Hope that something huge might just want to awaken soon.
 
 ### Wider Healing
 
@@ -40,9 +42,9 @@ When I am hurting, my personal world collapses down. All I can manage is just to
 
 ### A Bigger Dream
 
-We need to dream a bigger dream. Our way of living does not work. This calls for change. Radical change. We all know what needs to be done; we just are struggling to believe it possible. But imagine us coming together as a loving, supportive tribe that works together. That will be the core of it. And it will feel really good to be part of. We will know it is working when people flock to it because it is so fun.
+We need to dream a bigger dream. Our way of living does not work. This calls for change. Radical change. We all know what needs to be done; we just are struggling to believe it possible. But imagine us coming together as a loving, supportive tribe that works together. That will be the core of it. There will be something that feels electric and right when it happens. We will know it is working when people flock to it because it is so much fun.
 
-Together, we will start telling ourselves a different story than we have been. That this could actually work. Work well enough so that we can maybe start to dream a bigger dream than we have so far. Start to dream of what is possible if only enough of us could get out of our pain and step into the joy of service. And from there maybe we can step into a whole world of joy. Why not?
+Together, we will start telling ourselves a different story. That this could actually work. Work well enough so that we can maybe start to dream a bigger dream than we have so far. Start to dream of what is possible if only enough of us could get out of our pain and step into the joy of service. And from there maybe we can step into a whole world of joy. Why not?
 
 I can't guarantee that we will get there. The possibility of failure is always very real, but I would not be creating this website if I did not truly, truly believe it is possible. The very first step is to hope. Are you willing to take that risk with me?
 
