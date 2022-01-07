@@ -12,7 +12,7 @@ weight: 1
 
 Thank you so much visiting this web site! I am deeply grateful that you did! Your support and feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
 
-I want a plan to save the world. A plan that might actually work. It my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! But maybe get curious about that reaction. Why don't we have a plan to save the world? Doesn't the world need saving?
+I want a plan to save the world. A plan that might actually work. It my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! But maybe get curious about that reaction. Why don't we have a plan to save the world? Doesn't the world need saving? Lots of people are working on different parts of the problem. What I don't see is a shared dream of how all those different parts come together. We are all feeling seperate from each other. We need a bigger dream.
 
 Why am I doing this? For thirty years I have watched global warming. Back in the 90's environmentalists like myself knew a disaster was coming. The science was clear. And I did nothing. Each decade the scientific reports kept on coming back consistently reporting that it was even worse than we feared. And I did nothing. The scientific reports are so bad now I can not make myself read them. It hurts too much. If you know how to read them, you know the scientists are actually screaming in anguish. And I did nothing.
 
@@ -42,9 +42,9 @@ When I am hurting, my personal world collapses down. All I can manage is just to
 
 ### A Bigger Dream
 
-We need to dream a bigger dream. Our way of living does not work. This calls for change. Radical change. We all know what needs to be done; we just are struggling to believe it possible. But imagine us coming together as a loving, supportive tribe that works together. That will be the core of it. There will be something that feels electric and right when it happens. We will know it is working when people flock to it because it is so much fun.
+We need to dream a bigger dream. Our way of living does not work. This calls for change. Radical change. We all know what needs to be done; we just are struggling to believe it possible. But imagine us coming together as a loving, supportive tribe that works together. That will be the core of it. There will be something that feels electric and right when it happens. People will flock to it because it is so much fun.
 
-Together, we will start telling ourselves a different story. That this could actually work. Work well enough so that we can maybe start to dream a bigger dream than we have so far. Start to dream of what is possible if only enough of us could get out of our pain and step into the joy of service. And from there maybe we can step into a whole world of joy. Why not?
+Together, we will start telling ourselves a different story. That this could actually work. Work well enough that maybe we can start to dream a bigger dream than we have so far. Start to dream of what is possible if only enough of us could get out of our pain and step into the joy of service. And from there maybe we can step into a whole world of joy. Why not?
 
 I can't guarantee that we will get there. The possibility of failure is always very real, but I would not be creating this website if I did not truly, truly believe it is possible. The very first step is to hope. Are you willing to take that risk with me?
 
