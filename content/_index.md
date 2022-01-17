@@ -12,9 +12,9 @@ weight: 1
 
 Thank you so much visiting this web site! I am deeply grateful that you did! Your support and feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
 
-I want a plan to save the world. A plan that might actually work. It is my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! But maybe get curious about that reaction. Why don't we have a plan to save the world? Doesn't the world need saving? Lots of people are working on different parts of the problem. What I don't see is a shared dream of how all those different parts come together. We are all feeling seperate from each other. That is not going to get us where we want to go. We need a bigger dream.
+I want a plan to save the world. A plan that might actually work. It is my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! But maybe get curious about that reaction. Why don't we have a plan to save the world? Doesn't the world need saving? Yes, of course it does. I think people 
 
-Why am I doing this? For thirty years I have watched global warming. Back in the 90's environmentalists like myself knew a disaster was coming. The science was clear. And I did nothing. Each decade the scientific reports kept on coming back consistently reporting that it was even worse than we feared. And I did nothing. The scientific reports are so bad now I can not make myself read them. It hurts too much. If you know how to read them, you know the scientists are actually screaming in anguish. And I did nothing.
+For thirty years I have watched global warming. Back in the 90's environmentalists like myself knew a disaster was coming. The science was clear. And I did nothing. Each decade the scientific reports kept on coming back consistently reporting that it was even worse than we feared. And I did nothing. The scientific reports are so bad now I can not make myself read them. It hurts too much. If you know how to read them, you know the scientists are actually screaming in anguish. And I did nothing.
 
 No longer.
 
