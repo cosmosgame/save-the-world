@@ -188,7 +188,7 @@ draft: false
         - All of me, All of you, All of us
         - Turqoise organizations
           - Just starting to happen
-  - Exploring Spiral Dynamics
+  - Practical Spiral Dynamics
     - Caveats
       - Not really a scientific theory
         - Need to be parsimonious with its statements
@@ -198,7 +198,7 @@ draft: false
         - Not meant to explain everything
         - Individuals tend to be a mix
       - Higher levels do not equal superior
-    - How to tell apart
+    - Field guide
       - It assumes an order
         - Sometimes Green is really blue
         - But some people skip ahead
@@ -274,41 +274,40 @@ draft: false
         - #MeToo
     - Putting SD to work
       - A new story
-      - Spiral wizardry
+        - Spiral wizardry
+        - Practical guide
       - Beige
+        - Lots of people are here
         - Trauma victims
-        - Revisit in Healing Up and Wising Up
+        - Revisit in Healing Up
+        - Forest bathing
       - Purple
         - Relearn this history
         - White supremacists -- shift them
-      - Red to Blue
-        - This one needs to shift
-          Recognize the danger
-        - Religion
-          - Jesus
-          - Mohammed
-          - Confucius
-          - Gandhi
-            -vs. Guatemala
-          - Martin Luther King
-        - Guatemala vs. Gandhi
-        - Christmas Carol
-      - Blue to Orange
+      - Red
+        - What has worked?
+        - Need for Religion
+          - Christmas Carol
+      - Blue
         - better science/math
         - college available life long
-      - Orange to Green
+      - Orange
         - college
         - Crying Indian
           - Orange goes to Green
           - https://www.youtube.com/watch?v=epCKjaStFu0
         - Cohousing
-      - Green to Yellow
+      - Green
+        - Revisit in wising up and waking up
         - Soulcraft
         - Hakomi
         - HAI
         - Integral Christianity
         - Maps
         - Medicine
+      - Yellow
+        - Revisit in showing up
+
   - The Hope of Turquoise
     - What wants to happen next
     - Embrace all colors
