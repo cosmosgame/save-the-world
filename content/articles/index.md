@@ -273,9 +273,11 @@ draft: false
       - Green
         - #MeToo
     - Putting SD to work
-      - A new story
+      - Why SD?
+        - A new story
+        - Foundation for thinking about next steps
         - Spiral wizardry
-        - Practical guide
+        - A way to break down the problem
       - Beige
         - Lots of people are here
         - Trauma victims
@@ -283,7 +285,6 @@ draft: false
         - Forest bathing
       - Purple
         - Relearn this history
-        - White supremacists -- shift them
       - Red
         - What has worked?
         - Need for Religion
