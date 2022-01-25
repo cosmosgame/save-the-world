@@ -19,6 +19,8 @@ At Beige focus starts on the individual family (tick). You know to be true what 
 
 The whole point of backpacking is to get to this level. That is why people do it for extended periods of time. It takes a while to get back into this easy communion with nature. After you have gone a few days on the trail, the city mentality starts to finally fade away and we can finally just let ourselves be one with the world. It is a very beautiful mental place to get to. So if you find a backpacker on a long hike they are in that moment probably at Beige. The energy field of these people feels very clean and whole.
 
+This is also the stage people collapse back to if they have a lot of unresolved trauma and/or pain. All they can manage is just to survive day to day. We all go here when we have a bad flu. Unfortunately some people spend most of their lives in so much pain that spend much of their life at this stage. They can't rally to care too much about others because they are hurting so badly.
+
 ## Purple (KinSpirits)
 
 At purple focus swings over to tribe and community (tock). You know to be true what the tribe knows to be true. You revere the local spirits of the land. You are willing to die to protect your tribe. Many indigenous people live their lives at this level. Many more wish they could.
@@ -29,26 +31,23 @@ We all have a longing to be part of a tribe whether we are consciously aware of 
 
 At Red focus spirals up and back to the individual (tick). You are still part of a tribe, but your people are the chosen people. You know that your tribe's truth is the only truth. And your destiny is to rule the world. You are willing to die for the honor of your king.
 
-Olympic athletes are a good example of this stage. They are competing to be the world's best. Why would you wake up so early every morning and work so hard day after day, year after year? We all have that in us if we choose to find it.
+Olympic athletes are a healthy example of this stage. They are competing to be the world's best. Why else would you wake up so early every morning and work so hard day after day, year after year? We all have that in us if we choose to find it.
 
-Many of the people opposed to Covid vaccines are Red. Why? First they don't believe in the science, because that level comes later (Orange). Second because they are mostly focused just on themselves and don't really understand the need to sacrifice for the greater good.
-
-I struggle with how much judgment I have about people who refuse the Covid vaccine. But it is important to really get that these people really and truly do not have scientific thinking online. It just is not a source of Truth for them. We can patiently tell them the science facts over and over, but that will not sway them. And it is not because they are dumb. Not at all. Scientific thinking is a later stage and they just don't have that expanded world view yet. I also struggle with the selfishness of not doing the right thing to protect others. This is another example of where people's hearts are smaller than I want them. And yet again, the truth of this stage is that people are focused on the indvidual not sacrificing for the group. That is just where they are at right now, yelling isn't going to help.
-
+Many of the people opposed to Covid vaccines are Red. Why? First because they get their Truth from their tribe not science. Second because they are mostly focused just on individual freedom and don't really understand the need to sacrifice for the greater good. I struggle with how much judgment I have about people who refused the Covid vaccine. But it is important to really get that these people really and truly do not have scientific thinking online. It just is not a source of Truth for them. We can patiently tell them the science facts over and over, but that will not sway them. And it is not because they are dumb. Not at all. Scientific thinking is a later stage and they just don't have that expanded world view yet. I also struggle with the selfishness of not doing the right thing to protect others. This is another example of where people's hearts are smaller than I want them. And yet again, the truth of this stage is that people are focused on the indvidual not sacrificing for the group. That is just where they are at right now, yelling isn't going to help.
 
 ## Blue (TrueBlue)
 
 At Blue focus spirals up and back to the group (tock). You are part of something so much bigger than yourself. Bigger even than just your tribe. You are willing to die for this greater Truth.
 
-Mormons society is a good example of Blue. They have a beautiful focus on family and community. In my experience Mormon families do a surprisingly good job of raising their children to be decent, caring humans. Mitt Romney, a devout Mormon was the only republican senator to vote for Trump's first impeachemnt. It was an astonishingly brave thing to do. He explained why in his speech to congress:
+Mormons society is a good example of Blue. They have a beautiful focus on family and community. In my experience Mormon families do a surprisingly good job of raising their children to be decent, caring humans. Mitt Romney, a devout Mormon was the only Republican senator to vote for Trump's first impeachemnt. It was an astonishingly brave thing to do. He explained why he had to do it in his speech to congress:
 
 > I am aware that there are people in my party and in my state who will strenuously disapprove of my decision, and in some quarters, I will be vehemently denounced. I am sure to hear abuse from the President and his supporters. Does anyone seriously believe I would consent to these consequences other than from an inescapable conviction that my oath before God demanded it of me?
 
 That is such a beautiful example of Blue. He knows with all his heart that there is something more important than just himself. This is something he is willing to sacrifice all for because he has no choice.
 
-Mormon society also is a good example of the problems of Blue. Like most Blue religions they firmly believe very non-scientific stories because they are not yet at the science (Orange) stage. The Mormon church also has a horrible history of sexism and racism because the Green stage is not yet online. Those problems are very real, but please recognize that there are benefits here too. People like Mitt Romney will not normally vote the way we want, but they can be our allies when the stakes are highest.
+Mormon society also is a good example of the problems of Blue. Like most Blue religions they firmly believe very non-scientific stories because many are not yet at the science (Orange) stage. The Mormon church also has a horrible history of sexism and racism because the Green stage is not yet online. Those problems are very real, but please recognize that there are benefits here too. People like Mitt Romney will not normally vote the way we want, but they can be our allies when the stakes are highest.
 
-Another example of Blue is Alcohol Anonymous's [Twelve Steps](https://en.wikipedia.org/wiki/Twelve-step_program). The alchoholic recognizes that they are helpless before their addiction and need to surrender to a higher power. Recognize that there is a vast love and strength that is waiting for them if they can just let go enough to let it in. Notice that this is not a comfortable path -- quite the opposite, but the strength to bear it comes from something greater than themselves.
+Another example of Blue is Alcohol Anonymous's [Twelve Steps](https://en.wikipedia.org/wiki/Twelve-step_program). The alchoholic recognizes that they are helpless before their addiction and need to surrender to a higher power. They recognize that there is a vast love and strength that is waiting for them if they can just surrender enough to let it in. This is not a comfortable path -- quite the opposite, but the strength to bear it comes from something greater than themselves.
 
 ## Orange
 
@@ -62,19 +61,19 @@ You can tell someone is at Orange when they are able to have a fully rational di
 
 ## Green
 
-At Green we spiral up and back to the group (tock). We know that science is True, but we also know that a lot of our so called rationality is just a self serving illusion. We recognize how much culture dicates what we think is "True". We break out of the colonizing mindset and look to create a world where all are treated with respect and dignity. We would die for our brothers and sister.
+At Green we spiral up and back to the group (tock). We know that science is True, but we also know that a lot of our so called rationality is just a self serving illusion. We recognize how much culture dicates what we think is "True". We start to break out of the colonizing mindset and look to create a world where all are treated with respect and dignity. We would die for our brothers and sister.
 
-There are many less people at Green than you might think. At least the way I have defined it. Green is a reaction to Orange. Even though Green has many (needed!) criticisms of science it does not throw out science. It recognizes that there are many other voices that need to be heard from, but science still has a place at the table. And just because you vote a certain way does not make you Green. If you don't fully believe in science and you are group focused, you are most likely at Blue. For example the QAnon conspiracy snared many people in yoga and alternative health communities. These people presumably vote liberally, but they also do not fully have the full Orange level of critical reasoning yet. I would call that Blue.
+There are many less people at Green than you might think. At least in the way I have defined it. Green is a reaction to Orange. Even though Green has many (needed!) criticisms of science it does not throw out science. It recognizes that there are many other voices that need to be heard from, but science still has a place at the table. And just because you vote a certain way does not make you Green. If you don't fully believe in science and you are group focused, you are most likely at Blue. For example the QAnon conspiracy snared many people in yoga and alternative health communities. These people presumably vote liberally, but they also do not fully have the full Orange level of critical reasoning yet. I would call that Blue.
 
 Green seems to not be able to see the other stages. People at Green think that everyone sees the world exactly as they do, and if someone does something wrong they should know better. To get them to understand our vast differences they would have to do some deep personal exploration. And if they do that, that brings them to Yellow
 
 ## Yellow
 
-At Yellow we spiral up and back to the individual (tick). We find the Truth within, but this time it is different. At this level we start to find all the levels inside ourselves. We are back to pursuing happiness like we did at Orange, but this time we have Green to make that pursuit less selfish and destructive.
+At Yellow we spiral up and back to the individual (tick) again. We find the Truth within, but this time it is different. At this level we start to find all the levels inside ourselves. We are back to pursuing happiness like we did at Orange, but this time we have Green to make that pursuit less selfish and destructive.
 
 At this stage we recognize that we all have to find our own Truth. Group work is immensely helpful with this growth work, but in the end you will need to find your Soul all on your own. We find why we came to earth. We would die for our life's purpose.
 
-Please note this is distinct from Spirit work. People can have profound spiritual experiences at any of the stages. You can have someone who is very advanced spiritually who is still at Red. That happens all the time in fact. You can also have someone at Yellow who is not very advanced in Spirit work at all. Because they are at Yellow they will at least recognize something is there, but they have more to discover. That also is very common.
+Please note this is distinct from Spirit work. People can have profound spiritual experiences at any of the stages. You can have someone who is very advanced spiritually who is still at Red. That happens all the time in fact. You can also have someone at Yellow who is not very advanced in Spirit work at all. Because they are at Yellow they will at least recognize something is there, but they have much more to discover. That also is very common.
 
 Just because someone has done a lot of self exploration does not necessarily put them at Yellow. They need to have Green online first. Green opens up the possibility that pure reason is not the only source of Truth. Green grounds us in what is truly important. It can happen that people at Orange are resistant to Green and when they have the crisis of their soul, they fall back to Blue. You can tell because even though they have done profound personal work they still don't really get, for example, how women have an extra burden to carry in our society.
 
@@ -82,6 +81,6 @@ Just because someone has done a lot of self exploration does not necessarily put
 
 At Turquoise we spiral up and back to the group (tock). We have found our own Truth at Yellow, and found strength and clarity in it. Now it is time to open up to the Truth of others. Time to recognize that we are meant to be as one. We would die for this bigger, shared purpose.
 
-I believe I personally am a Yellow that is now longing for Turqoise. But Turqoise is by definition a group thing so I can not get their on my own. I need to find others. People who have done enough of their own work to find that they want to open to something even bigger. Maybe you?
+I believe I personally am a Yellow that is now longing for Turqoise. But Turqoise is by definition a group thing so I can not get their on my own. I need to find others. People who have done enough of their own work to find that they too want to open to something even bigger. Maybe you?
 
 If you know of people or organizations working at the Turqoise level, please send me a note. I want to keep a master list.
