@@ -372,6 +372,25 @@ draft: false
       - mirror work
       - What you don't love in others..
       - Everything is God (or the Universe
+  - Hakomi Principles (for healing)
+    - Hakomi intro
+    - Love
+      - should be included
+      - preparation for Truth
+    - Non violence
+      - different schools of personal growth; "pop-it"
+    - Truth
+      - Coyote
+      - Accountability
+        - Victim stories
+    - Mindfulness
+    - Mind/Body
+    - Organicity
+    - Unity
+    - Change
+      - Accept that change is possible
+      - Accept that change is inevitable
+      - Creativity
   - Body
     - It all starts in the body
     - Every emotion has a place in the body
@@ -385,6 +404,7 @@ draft: false
     - Nature
   - Medicine
     - Not the only path
+    - First step is to address the trauma
   - Stopping the cycle
     - Revolutionary vanguard
     - Thread project
@@ -395,11 +415,10 @@ draft: false
   - Structures for healing
 - Wising Up
   - Personal growth mindset
-  - Second level of love -- Others are a mirror
-  - Hakomi Principles
-    - Hakomi intro
+  - Mindful self compassion (second level)
+    - Others are a mirror
+  - Hakomi Principles (for growth)
     - Love
-      - should be included
       - preparation for Truth
     - Non violence
       - different schools of personal growth; "pop-it"
