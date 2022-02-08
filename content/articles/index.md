@@ -308,64 +308,16 @@ draft: false
         - Medicine
       - Yellow
         - Revisit in showing up
-
-  - The Hope of Turquoise
-    - What wants to happen next
-    - Embrace all colors
-    - Come together
-    - Spirit transcends
-    - Ideas
-      - Sacred Economy
-      - Revolutionary Vanguard (preschool and kindergarden teachers)
-      -
-  - Request for stories
-    - My story
-      - Three sacred vows
-      - The Wall (Vow #1)
-        - Running
-          - Maybe running away from things
-        - Mirrors scare me
-        - Mirrors everywhere
-        - Tribal support
-          - recognition of bravery
-          - The first sacred vow
-            - explanation of why it was hard
-        - Name Change
-          - Affirmative prayer
-          - Forced me to become bigger
-      - The first awakening (Vow #2)
-        - Kiss of the Angel
-          - Incredible strength and grace
-        - Put it back on the shelf
-        - Cohousing
-        - Still working through my pain
-        - HAI workshop Love
-          - 50th birthday
-          - health
-          - healthy eating
-          - weight
-          - self love
-        - HAI vow
-          - everyone is a mirror
-          - standing naked in front of people, commitment
-      - Spiritual awakening
-        - Medicine
-          - Marriage breaking up
-          - Found the practical path to spirituality
-          - Found what I really want
-            - Lifeboat analogy (HAI story)
-        - Hakomi
-        - Discovery of vow #3
-          - black hole is actually needy child
-          - Initially hard to accept
-          - And how I am with other people -- need for third vow
-        - My Hakomi request  
-          - eventually realized I was asking for Turqoise
-      - Recap levels
+      - Turquoise
+        - What wants to happen next
+        - Embrace all colors
+        - Come together
+        - Spirit transcends
 - Cleaning Up
   - Why
-    - Getting people out of pain first
-    - Getting people into joy
+    - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
+    - Goal: No more traumatized children
+    - Revolutionary vanguard: preschool teachers and kindergarden teachers.
   - Mindful Self Compassion
     - Preparation for Truth
     - Three levels
@@ -514,6 +466,50 @@ draft: false
     - Get clear that we actually want it
       - believe we are worthy of it
     - Practical plan
+    - Request for stories
+      - My story
+        - Three sacred vows
+        - The Wall (Vow #1)
+          - Running
+            - Maybe running away from things
+          - Mirrors scare me
+          - Mirrors everywhere
+          - Tribal support
+            - recognition of bravery
+            - The first sacred vow
+              - explanation of why it was hard
+          - Name Change
+            - Affirmative prayer
+            - Forced me to become bigger
+        - The first awakening (Vow #2)
+          - Kiss of the Angel
+            - Incredible strength and grace
+          - Put it back on the shelf
+          - Cohousing
+          - Still working through my pain
+          - HAI workshop Love
+            - 50th birthday
+            - health
+            - healthy eating
+            - weight
+            - self love
+          - HAI vow
+            - everyone is a mirror
+            - standing naked in front of people, commitment
+        - Spiritual awakening
+          - Medicine
+            - Marriage breaking up
+            - Found the practical path to spirituality
+            - Found what I really want
+              - Lifeboat analogy (HAI story)
+          - Hakomi
+          - Discovery of vow #3
+            - black hole is actually needy child
+            - Initially hard to accept
+            - And how I am with other people -- need for third vow
+          - My Hakomi request  
+            - eventually realized I was asking for Turqoise
+        - Recap levels
   - RFC
     - Embrace when you are wrong
   - Open Source
