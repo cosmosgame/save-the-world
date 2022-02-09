@@ -4,4 +4,10 @@ My goal is to first save the world, because it needs saving. If we don't stop ca
 
 So many people are already working on saving the world. But often they are only bringing just a part of themselves to the work. Many people are doing great science (Mind) based work and wondering why people are not moved by what they have discovered. They are not meeting people where they are. Many people are doing the intense healing (Body) work that is so needed, but are not aware of how they fit into the bigger picture. We need people to step into a larger world view.  Many people are doing the profound (Heart) work of loving themselves and the world. But they are learning to endure the unendurable. We need them to come back from their lofty heights and join the work.
 
-For example, the [Prosperity Gospel](https://en.wikipedia.org/wiki/Prosperity_theology) is a very Red mindset. 
+For example, the [Prosperity Gospel](https://en.wikipedia.org/wiki/Prosperity_theology) is a very Red mindset.
+
+We wil regain the [three primoridal freedoms](https://en.wikipedia.org/wiki/The_Dawn_of_Everything):
+
+* Freedom to move
+* Freedom to disobey
+* Freedom to create or transform social relationships
