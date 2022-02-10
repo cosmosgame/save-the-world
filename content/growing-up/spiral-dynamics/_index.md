@@ -2,7 +2,7 @@
 title: "Spiral Dynamics"
 date: 2021-22-02T05:26:15Z
 draft: false
-weight: 20
+weight: 10
 ---
 
 <table style="width:100%">

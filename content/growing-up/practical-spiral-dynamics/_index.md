@@ -2,7 +2,7 @@
 title: "Practical Spiral Dynamics"
 date: 2021-08-14T05:26:15Z
 draft: false
-weight: 10
+weight: 20
 ---
 Before I continue let me first address some questions or concerns I suspect people might have.
 
