@@ -315,15 +315,21 @@ draft: false
         - Spirit transcends
 - Cleaning Up
   - Why
-    - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
-    - Goal: No more traumatized children
-    - Revolutionary vanguard: preschool teachers and kindergarden teachers.
+    - Getting people out of pain first
+    - Getting people into joy
+    - Stopping the cycle  
+        - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
+    - It is child abuse!
   - Mindful Self Compassion
-    - Preparation for Truth
+    - Dhali lhama anecdote
+    - First of three levels
+      - Doesn't have to be narcissm
     - Three levels
       - mirror work
       - What you don't love in others..
       - Everything is God (or the Universe
+    - Stop the self hate storms
+    - mirror work
   - Hakomi Principles (for healing)
     - Hakomi intro
     - Love
@@ -343,6 +349,7 @@ draft: false
       - Accept that change is possible
       - Accept that change is inevitable
       - Creativity
+    - Body
   - Body
     - It all starts in the body
     - Every emotion has a place in the body
@@ -353,13 +360,25 @@ draft: false
     - Exercise
     - Healing our sexuality
       - HAI
-    - Nature
-  - Medicine
-    - Not the only path
-    - First step is to address the trauma
+  - Nature
+    - We are zoo animals
+    - The book "Wild"
+  - Intraverts vs. Extraverts
+    - Not an either or
+    - Healing individual
+    - Healing with groups
+    - Our society needs much more empahsis on the group
+      - cohousing
+  - Treatments that I personally know work
+    - Backpacking
+      - Wild (?)
+    - Thread story (about support for a junior high student)
+    - Mdma
+    - HAI
   - Stopping the cycle
     - Revolutionary vanguard
     - Thread project
+  - Healing practices
   - Healing practices
     - RAIN
     - Trust organicity

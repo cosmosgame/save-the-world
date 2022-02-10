@@ -4,25 +4,51 @@ date: 2021-28-07T05:26:15Z
 draft: false
 weight: 30
 ---
-(Not Started)
 - Cleaning Up
   - Why
     - Getting people out of pain first
     - Getting people into joy
     - Stopping the cycle  
+        - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
     - It is child abuse!
   - Mindful Self Compassion
     - Dhali lhama anecdote
     - First of three levels
       - Doesn't have to be narcissm
+    - Three levels
+      - mirror work
+      - What you don't love in others..
+      - Everything is God (or the Universe
     - Stop the self hate storms
     - mirror work
+  - Hakomi Principles (for healing)
+    - Hakomi intro
+    - Love
+      - should be included
+      - preparation for Truth
+    - Non violence
+      - different schools of personal growth; "pop-it"
+    - Truth
+      - Coyote
+      - Accountability
+        - Victim stories
+    - Mindfulness
+    - Mind/Body
+    - Organicity
+    - Unity
+    - Change
+      - Accept that change is possible
+      - Accept that change is inevitable
+      - Creativity
+    - Body
   - Body
     - It all starts in the body
     - Every emotion has a place in the body
       - the body keeps the score
     - Every organism is striving towards healing. Always.
       - organicity
+    - Diet
+    - Exercise
     - Healing our sexuality
       - HAI
   - Nature
@@ -40,6 +66,10 @@ weight: 30
     - Thread story (about support for a junior high student)
     - Mdma
     - HAI
+  - Stopping the cycle
+    - Revolutionary vanguard
+    - Thread project
+  - Healing practices
   - Healing practices
     - RAIN
     - Trust organicity
