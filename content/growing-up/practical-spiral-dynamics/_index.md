@@ -6,30 +6,28 @@ weight: 20
 ---
 Before I continue let me first address some questions or concerns I suspect people might have.
 
-* Spiral Dynamics is not established science
+### Spiral Dynamics is not established science
 
-As far as I can tell Spiral Dynamics has not yet been subjected to serious, sustained scientific review. The theory is just now gaining attention, so I think getting that review is just a matter of time, but in the meantime we need to be very careful in the claims we make. That is why I am so careful to tie the major stages to well recognized historical periods. That seems like a solid foundation to build on.
+As far as I can tell Spiral Dynamics has not yet been subjected to serious, sustained scientific review. The theory is just now gaining attention, so I think getting that review is just a matter of time, but in the meantime we need to be very careful in the claims we make. That is why I am so careful to tie the major stages to well recognized historical periods. That seems like a solid foundation to build on. I have done a lot of historical research to make sure what I say is accurate and I will correct whenever someone points out an error. But more than a theory I think we need a story that explains how we got here. Spiral Dynamics does that well.
 
-The important thing is to recognize that we need a better explanation than what we have had up to now. And we need something right now. It might turn out that parts of the theory might need to be tweaked, but it gets us going. It provides a much more useful story than the stories before. It might not be the final story.
+### There are different interpretations
 
-* There are different interpretations
+If you listen to people talk about Spiral Dynamics you will hear important differences in interpretation. Again my approach is to focus on what history teaches us. I don't claim to be a historian, but I have an amateur's passion for the subject. That focus leads me to, for example, a different interpretation of Red and Blue than you might hear from others. It is clear to me that Red coincides with the advent of empire, and that Blue was a reaction to that ruthless empire. Others might not have even thought about whether the Roman empire was a Red or Blue stage, but I think the difference is crucial.
 
-If you listen to people talk about Spiral Dynamics you will hear important differences in interpretation. Again my approach is to focus on what history teaches us. I don't claim to be a historian, but I have an amateur's passion for the subject. That focus leads me to, for example, a different interpretation of Red and Blue than you might hear from others. It is clear to me that Red coincides roughly with the advent of empire, and that Blue was a reaction to that ruthless empire. Others might not have even thought about whether the Roman empire was a Red or Blue stage, but I think the difference is crucial.
-
-* It is a better explanation of groups than individuals
+### It is a better explanation of groups than individuals
 
 People are complicated and contain many layers at once. Perhaps at work someone is a dedicated scientist (Orange), but at home they find deep solace in their simple, unquestioning Catholicism (Blue). And maybe their passion is camping (Beige). How do you put that person into just one Spiral stage? I find it seems to work better to focus on group behaviors. Those seem to average out to one stage or another. So a science organization is Orange and the Catholic church is Blue.
 
 And countries contain a mix of groups, each at its own stage. For example the U.S. right not finds the Republican party succumbing to an unhealthy form of Red while the Democrats are an interesting combination of stages but predominantly Orange and Green.
 
-* It assumes an order
+### It assumes an order
 
-The theory assumes that each stage is a reaction to the one before it. So you can't skip stages. Each stage is necessary. For example you can't just jump straight from Red to Orange. People first need to wake up to the Truth and community of Blue. That has to happen first before they can then react against Blue to find their way to the individual liberties of Orange. Orange shares with Red the focus on the individual, but Orange is still grounded in the law and order truth of Blue. The difference between a Red businessman and a Orange one is that the Orange business man still wants to make money, but feels morally constrained by the law, whereas the Red business man is primarily worried about getting caught. Do you see how both are still focused on individual concerns but the Orange stage has Blue working in it as well?
+The theory assumes that each stage is a reaction to the one before it. So you can't skip stages. Each stage is necessary. For example you can't just jump straight from Red to Orange. People first need to wake up to the Truth and community of Blue. That has to happen first before they can then react against Blue to find their way to the individual liberties of Orange. Orange shares with Red the focus on the individual, but Orange is still grounded in the law and order of True Blue. The difference between a Red businessman and a Orange one is that the Orange business man still wants to make money, but feels morally constrained by the law, whereas the Red business man is primarily worried about getting caught. Do you see how both are still focused on individual concerns but the Orange stage has Blue working in it as well?
 
-* These are not the only stages
+### These are not the only stages
 
 We are all better at some things than others. A plumber knows way more about plumbing than me, but I know more about programming. Maybe you know more about spirit, but maybe I know more about personal growth. I might be at a "higher" stage than someone, but that does not make me superior. It just means I can see some things they don't. Imagine a doctor who is struggling in his marriage working together with a tribal shaman to stop a contagious disease breakout. The shaman will hopefully be wise enough to recogize they should listen to the doctor on how to stop the spread of the disease. The doctor on the other hand, if they are lucky enough, will realize they should listen to the shaman about pretty much everything else. The doctor does see some things (but not all!) more clearly about disease, but that in no way makes them superior to the shaman. There are so many important things to know, these spiral dynamic stages are just one of them.
 
-Are there more questions or concerns? Let me know if there is something more I should add to this section.
+Are there more questions or concerns? Let me know and I will add them here.
 
 OK with that hopefully handled, let's get started. Let's put this theory to practical use. How does all of this help us save the world?

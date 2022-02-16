@@ -46,7 +46,7 @@ Her Grandfather admonishes her to be a warrior. "You will not abandon the fight.
 She talks about how her Sikh religion has guided her; beautiful, true Blue.
 
 ### Orange
-She talks a little about how the lawyer part of herself is a little uncomfortable with all this love talk; classic Orange
+She talks about how the lawyer part of herself is a little uncomfortable with all this love talk; classic Orange
 
 ### Green
 She talks about her inspiring social justice work; amazing, vibrant Green
