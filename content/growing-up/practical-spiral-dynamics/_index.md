@@ -30,4 +30,4 @@ We are all better at some things than others. A plumber knows way more about plu
 
 Are there more questions or concerns? Let me know and I will add them here.
 
-OK with that hopefully handled, let's get started. Let's put this theory to practical use. How does all of this help us save the world?
+OK with that hopefully handled, let's get started. Let's put this theory to practical use. 
