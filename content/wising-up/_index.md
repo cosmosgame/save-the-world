@@ -4,7 +4,6 @@ date: 2021-29-07T05:26:15Z
 draft: false
 weight: 40
 ---
-(Not started)
 - Wising Up
   - Personal growth mindset
   - Mindful Self Compassion
@@ -38,3 +37,12 @@ weight: 40
       - Accept that change is possible
       - Accept that change is inevitable
       - Creativity
+  - Accountability
+    - Victim mindset
+    - Empowered victim
+  - Intraverts vs. Extraverts
+    - Not an either or
+    - Healing individual
+    - Healing with groups
+    - Our society needs much more empahsis on the group
+      - cohousing

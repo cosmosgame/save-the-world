@@ -363,12 +363,6 @@ draft: false
   - Nature
     - We are zoo animals
     - The book "Wild"
-  - Intraverts vs. Extraverts
-    - Not an either or
-    - Healing individual
-    - Healing with groups
-    - Our society needs much more empahsis on the group
-      - cohousing
   - Treatments that I personally know work
     - Backpacking
       - Wild (?)
@@ -405,6 +399,7 @@ draft: false
       - Accept that change is possible
       - Accept that change is inevitable
       - Creativity
+
   - Service
 - Waking Up
   - My path from Atheism
@@ -643,6 +638,12 @@ draft: false
       - Mean Green fallacy
     - Focus on love
       - Shadow is just another expression of lack of love
+  - Intraverts vs. Extraverts
+    - Not an either or
+    - Healing individual
+    - Healing with groups
+    - Our society needs much more empahsis on the group
+      - cohousing
   - Principles
     - Core principles
       - Love
