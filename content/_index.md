@@ -12,9 +12,9 @@ weight: 1
 
 Thank you so much visiting this web site! I am deeply grateful that you did! Your support and feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
 
-I want a plan to save the world. A plan that might actually work. It is my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! But maybe get curious about that reaction. Why don't we have a plan to save the world? Doesn't the world need saving? Yes, of course it does. What is the harm in thinking about it? Why isn't this conversation more common?
+I want a plan to save the world. A plan that might actually work. It is my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! Is this you reaction too? Maybe take a minute and get curious about that reaction. Why don't we have a plan to save the world? Doesn't the world need saving? Yes, of course it does. Why not spend some time thinking about this? Why isn't this conversation more common?
 
-For thirty years I have watched global warming. Back in the 90's environmentalists like myself knew a disaster was coming. The science was clear. And I did nothing. Each decade the scientific reports kept on coming back consistently reporting that it was even worse than we feared. And I did nothing. The scientific reports are so bad now I can not make myself read them. It hurts too much. If you know how to read them, you know the scientists are actually screaming in anguish. And I did nothing.
+For thirty years I have watched global warming. Back in the 90's environmentalists like myself knew a disaster was coming. The science was clear. And I did nothing. Each decade the scientific reports kept on coming back consistently reporting that it was even worse than we feared. And I did nothing. The scientific reports were so bad I could not make myself read them. It hurt too much. If you read them carefully, you could hear the scientists screaming in anguish. And I did nothing.
 
 No longer.
 
@@ -26,7 +26,7 @@ Fortunately, while I did (mostly) nothing others have been hard at work. They ha
 
 This site is a home for this bigger dream. For big problems like this we need the collective intelligence and wisdom of as many people as we can get. This site is set up to encourage and enable people to collaborate. Because we have work to do. We need to come up with something very new. To paraphrase Einstein, you can not solve problems with the same consciousness that created them. We need to step into a much bigger consciousness. We have learned so much, now it is time to put all that learning to use. We don't have much time.
 
-For those thirty years I watched and wondered. What are the deeper causes of our problems? What is it that prevents people from opening their hearts wider and wider? What would it take on a practical level to save the world? I have been looking for people with workable answers. And they are out there! Now we need to bring these separate teachings together into an integrated whole. First we must cultivate these integrated teachings in ourselves because of course it has to start there, but then once we find our ground to stand on we can then look out to others and ask, "What is that we want to create together?"
+For those thirty years I watched and wondered. What are the deeper causes of our problems? What is it that prevents people from opening their hearts wider and wider? What would it take on a practical level to save the world? I have been looking for people with workable answers. And they are out there! Now we need to bring these separate teachings together into an integrated whole. First we must cultivate these integrated teachings in ourselves because of course it has to start there, but then once we find our ground to stand on we can then look out to others and ask, "What is it that we want to create together?"
 
 I have read that the best way to get an answer on the internet is to answer a question wrong even if it is in answer to your own question. That seems to provoke people to respond. It is quite amusing, but it seems to work. So in that spirit I am going to provide my own answer here. If you have a better solution -- great! you have no idea how eager I am to hear it.
 
@@ -38,7 +38,7 @@ We need a better story. We forget how much our stories define us. Our stories te
 
 ### Wider Healing
 
-When I am hurting, my personal world collapses down. All I can manage is just to make it through the day. I can't take on anything beyond that. And collectively the world is hurting. Most people are in too much pain to do the bigger work. But it doesn't have to be like that. There have been some exciting breakthroughs in therapy that actually work. We need to spread this healing to everyone that needs it. When people emerge out of pain, incredible things happen. 
+When I am hurting, my personal world collapses down. All I can manage is just to make it through the day. I can't take on anything beyond that. And collectively the world is hurting. Most people are in too much pain to do the bigger work. But it doesn't have to be like that. There have been some exciting breakthroughs in therapy that actually work. We need to spread this healing to everyone that needs it. When people emerge out of pain, incredible things happen.
 
 ### A Bigger Dream
 
