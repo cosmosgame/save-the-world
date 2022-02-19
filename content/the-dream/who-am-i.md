@@ -4,11 +4,11 @@ date: 2020-29-17T15:26:15Z
 draft: false
 weight: 30
 ---
-When I first started writing this I hoped that I could mostly keep myself out of this document because obviously this is about so much more than just me. I am just this nobody on the internet. I am not some expert giving an authoritative report. I am just this guy trying to start a conversation about something I passionately care about. There is no particular reason you should listen to me other than maybe I have some interesting stories that get you to think. And maybe in some ways this ordinariness is actually an advantage. I can't fall back on some false authority and just expect you to listen to me. If we are going to get there, we are going to have to do this together
+Who am I to save the world? I am just this nobody on the internet. I don't have any particular expertise or credentials. I am just this guy trying to start a conversation about something I passionately care about. There is no particular reason you should listen to me other than maybe I can get you to think. And actually in some ways this ordinariness is actually an advantage. It is so obvious I can't do this alone. We are going to have to do this together
 
-I am finding that if I really want this to work I can't hold anything back. I need to bring in everything that I am. Not just the shiny parts I want to show to you, but all of my rage, sorrow and pain too. Not just the gifts that I have, but the broken hurting places too. All of me is sacred and holy. All is welcome and loved. And all by myself I am nothing. If this has any chance of working I have to somehow inspire you to bring in all of yourself. All of your joy and all of your pain. All of you is sacred and holy. All of you is welcome and loved. And together as we look out at the world we need to find a way to bring everyone, yes truly everyone into it. How could it be otherwise? We need all of us.
+To give this any chance of working I can't hold anything back. I need to bring in everything that I am. Not just the shiny parts I want to show to you, but all of my rage, sorrow and pain too. Not just the gifts that I have, but the broken hurting places too. All of me is sacred and holy. All is welcome and loved. And all by myself I am nothing. I have to somehow inspire you to bring in all of yourself. All of your joy and all of your pain. All of you is sacred and holy. All of you is welcome and loved. And together as we look out at the world we need to find a way to bring everyone, yes truly everyone into it. How could it be otherwise? We need all of us.
 
-But to understand what I am trying to say, I think it might help to understand some of my story. How did I get to this point?
+To understand what I am trying to say, I think it might help to understand some of my story. How did I get to this point?
 
 ## My Story
 
