@@ -320,6 +320,7 @@ draft: false
     - Stopping the cycle  
         - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
     - It is child abuse!
+    - Thread example
   - Mindful Self Compassion
     - Dhali lhama anecdote
     - First of three levels
@@ -331,42 +332,39 @@ draft: false
     - Stop the self hate storms
     - mirror work
   - Hakomi Principles (for healing)
-    - Hakomi intro
-    - Love
-      - should be included
-      - preparation for Truth
+    - Hakomi intro  
     - Non violence
       - different schools of personal growth; "pop-it"
+      - preparation for Truth
     - Truth
-      - Coyote
-      - Accountability
-        - Victim stories
+      - Get curious
+      - Accountability is for later
     - Mindfulness
+      - basic hygiene
     - Mind/Body
+      - It all starts in the body
+      - Every emotion has a place in the body
+        - the body keeps the score
+      - Every organism is striving towards healing. Always.
+        - organicity
+      - Diet
+      - Exercise
+      - Healing our sexuality
+        - HAI
     - Organicity
     - Unity
+      - Nature
+        - We are zoo animals
+        - The book "Wild"
     - Change
       - Accept that change is possible
       - Accept that change is inevitable
       - Creativity
     - Body
-  - Body
-    - It all starts in the body
-    - Every emotion has a place in the body
-      - the body keeps the score
-    - Every organism is striving towards healing. Always.
-      - organicity
-    - Diet
-    - Exercise
-    - Healing our sexuality
-      - HAI
-  - Nature
-    - We are zoo animals
-    - The book "Wild"
+
   - Treatments that I personally know work
     - Backpacking
       - Wild (?)
-    - Thread story (about support for a junior high student)
     - Mdma
     - HAI
   - Stopping the cycle
