@@ -17,9 +17,9 @@ Your cost is only the actual cost for camping, supplies and gas. Cost: ~$200 (de
 
 Backpacking without carrying a backpack? Why not!
 
-## Dates (tentative)
+## Dates
 
-Saturday, April 16th 2022 - Saturday April 23rd 2022
+Saturday, April 16th 2022 - Sunday April 24th 2022
 
 ## Contact us!
 
@@ -30,16 +30,17 @@ Interested but have questions? Ready to sign up? Send one of us an email:
 
 ## Itinerary
 
-| Day              | Start           | End             | Camp                      | Distance (Options) |
-| ---------------- | --------------- | --------------- | ------------------------- | ------------------ |
-| Day 0, Saturday  | Mile 0          | Mile 2.4        | Lake Moren Campground     | 2.4 miles |
-| Day 1, Sunday    | Mile 2.4        | Mile 10.9 (+.9) | BLM spot                  | 9.4 miles |
-| Day 2, Monday    | Mile 10.9       | Mile 20         | Lake Morena Campground    | <ul><li>10 miles</li><li>5.3 miles</li></ul> |
-| Day 3, Tuesday   | Mile 20         | Mile 32.6 (+.7) | Cibbets Flat Campground   | <ul><li>13.3 miles</li><li>7.3 miles</li><li>3.2 miles</li></ul> |
-| Day 4, Wednesday | Mile 32.6       | Mile 41.5       | Burnt Rancheria Campground| <ul><li>9.6 miles</li><li>5.5 miles (maybe)</li></ul> |
-| Day 5, Thursday  | Mile 41.5       | Mile 46.2 (+.2) | Laguna Campground         | <ul><li>5.8 miles</li><li>2.8 miles</li></ul> |
-| Day 6, Friday    | Laguna          | Laguna          | Laguna Campground         | Your choice; several beautiful loop trails available, 0 - 10 miles |
-| Day 7, Saturday  | Laguna          | Laguna          | Head home after breakfast | (last day) |
+| Day              |  Date | Start           | End             | Camp                      | Distance (Options) |
+| ---------------- | ----- | --------------- | --------------- | ------------------------- | ------------------ |
+| Day 0, Saturday  | 4/16  | n/a             | n/a             | Lake Morena Campground    | Early arrivals |
+| Day 1, Sunday    | 4/17  | Mile 0          | Mile 2.4        | Lake Morena Campground    | 2.4 miles |
+| Day 2, Monday    | 4/18  | Mile 2.4        | Mile 10.9 (+.9) | BLM spot                  | 9.4 miles |
+| Day 3, Tuesday   | 4/19  | Mile 10.9       | Mile 20         | Lake Morena Campground    | <ul><li>10 miles</li><li>5.3 miles</li></ul> |
+| Day 4, Wednesday | 4/20  | Mile 20         | Mile 32.6 (+.7) | Cibbets Flat Campground   | <ul><li>13.3 miles</li><li>7.3 miles</li><li>3.2 miles</li></ul>  |
+| Day 5, Thursday  | 4/21  | Mile 32.6       | Mile 41.5       | Burnt Rancheria Campground| <ul><li>9.6 miles</li><li>5.5 miles (maybe)</li></ul> |
+| Day 6, Friday    | 4/22  | Mile 41.5       | Mile 46.2 (+.2) | Laguna Campground         | <ul><li>5.8 miles</li><li>2.8 miles</li></ul> |
+| Day 7, Saturday  | 4/23  | Laguna          | Laguna          | Laguna Campground         | Your choice; several beautiful loop trails available, 0 - 10 miles |
+| Day 8, Sunday    | 4/24  | Laguna          | Laguna          | Head home after breakfast | (last day) |
 
 To see a map of the trail [go here](https://pcta.maps.arcgis.com/apps/webappviewer/index.html?id=68255de6e25941f0a01a548ae63216b3) and zoom in to where the trail starts at the Mexican border.
 
@@ -63,4 +64,4 @@ Except for the first night you will be staying at public campgrounds, so if we h
 
 ### Why did you choose this part of the PCT?
 
-There is something sacred about starting right at the beginning. Year after year people start here with the intent of submitting themselves to great hardship in order to find themselves. I believe that intent blesses the land and makes it special. It took me a little while to adjust to this ecozone, but I have fallen in love with it. I find it surprisngly beautiful. At this time of year we will find desert flowers blooming and Spring waterfalls flowing. Once we get up to the Laguna mountains the views are incredible.
+There is something sacred about starting right at the beginning. Year after year people start here with the intent of submitting themselves to great hardship in order to find themselves. I believe that intent blesses the land and makes it special. It took me a little while to adjust to this ecozone, but I have fallen in love with it. I find it surprisingly beautiful. At this time of year we will find desert flowers blooming and Spring waterfalls flowing. Once we get up to the Laguna mountains the views are incredible.
