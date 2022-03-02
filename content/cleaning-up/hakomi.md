@@ -14,7 +14,7 @@ weight: 20
 * Unity
 * Loving Presence
 
-[Hakomi](https://hakomiinstitute.com/) is definitely an amazing kind of therapy. It will help save the world. But here I am going to focus mainly on its principles. These principles are a foundation we can build on. They can be our North star to help guide us when we get lost. These principles work together. All of them are necessary. If a Hakomi session didn't go well, we students were taught to look to the principles to see what was missing. So, again, we are back to systems thinking. Again asking "why?" to go deeper until we can embrace all parts of the system.
+[Hakomi](https://hakomiinstitute.com/) therapists are working to save the world. But here I am going to focus mainly on its principles. These principles are a foundation we can build on. They can be our North star to help guide us when we get lost. These principles work together. All of them are necessary. If a Hakomi session didn't go well, students are taught to look to the principles to see what was missing. This brings us back to systems thinking. Again asking "why?" to go deeper and deeper so that we can embrace all parts of the system.
 
 [Hakomi](https://hakomiinstitute.com/) started with five founding principles. Loving Presence was added [here](https://hakomiinstitute.com/about/hakomi-mindful-somatic-psychotherapy/the-hakomi-principles). Truth and Change were added [here](https://www.hakomica.org/about-hakomi/method-process). This brings us to eight principles which seems like the [right number]({{< relref "/posts/eight.md" >}}) to me.
 

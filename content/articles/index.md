@@ -385,6 +385,7 @@ draft: false
       - preparation for Truth
     - Non violence
       - different schools of personal growth; "pop-it"
+      - consensus
     - Truth
       - Coyote
       - Accountability
