@@ -43,7 +43,7 @@ draft: false
     - focus on practical, measurable results
     - [TODO] humble is hopeful
     - Open source leading the way
-- [TODO--move] Open Source
+- Open Source
   - Surprising success
   - Harness all of us
     - place where we
@@ -322,7 +322,6 @@ draft: false
     - It is child abuse!
     - Thread example
   - Mindful Self Compassion
-    - Dhali lhama anecdote
     - First of three levels
       - Doesn't have to be narcissm
     - Three levels
@@ -331,27 +330,30 @@ draft: false
       - Everything is God (or the Universe
     - Stop the self hate storms
     - mirror work
-  - Hakomi Principles (for healing)
+  - Hakomi Principles for healing
     - Hakomi intro  
     - Non violence
-      - different schools of personal growth; "pop-it"
+      - different schools of personal growth;
       - preparation for Truth
     - Truth
       - Get curious
       - Accountability is for later
+      - Ongoing practice -- leads to mindfulness
     - Mindfulness
       - basic hygiene
+      - running in debug mode
+      - Both HAI and Hakomi teach this
     - Mind/Body
       - It all starts in the body
       - Every emotion has a place in the body
         - the body keeps the score
-      - Every organism is striving towards healing. Always.
-        - organicity
       - Diet
       - Exercise
       - Healing our sexuality
         - HAI
+      - Really respecting this leads to organicity
     - Organicity
+      - Every organism is striving towards healing. Always.
     - Unity
       - Nature
         - We are zoo animals
@@ -361,7 +363,6 @@ draft: false
       - Accept that change is inevitable
       - Creativity
     - Body
-
   - Treatments that I personally know work
     - Backpacking
       - Wild (?)
@@ -380,11 +381,10 @@ draft: false
   - Personal growth mindset
   - Mindful self compassion (second level)
     - Others are a mirror
-  - Hakomi Principles (for growth)
-    - Love
-      - preparation for Truth
+  - Hakomi Principles as a life practice
     - Non violence
-      - different schools of personal growth; "pop-it"
+      - Dhali lhama anecdote
+      - balance against narcissm
       - consensus
     - Truth
       - Coyote
@@ -392,17 +392,41 @@ draft: false
         - Victim stories
     - Mindfulness
     - Mind/Body
+      - Do an assessment
     - Organicity
+      - Trusting ourselves to know
     - Unity
     - Change
       - Accept that change is possible
       - Accept that change is inevitable
-      - Creativity
-
+      - Creativity as a wisdom practice
+    - Love
+      - preparation for the bigger Truth
   - Service
 - Waking Up
-  - My path from Atheism
-  - Third level of love -- everything is Love
+  - Hakomi Principles as a spiritual basis
+    - Non violence
+      - Dhali lhama anecdote
+      - balance against narcissm
+      - consensus
+    - Truth
+      - Coyote
+      - Accountability
+        - Victim stories
+    - Mindfulness
+    - Mind/Body
+      - Do an assessment
+    - Organicity
+      - Trusting ourselves to know
+    - Unity
+    - Change
+      - Accept that change is possible
+      - Accept that change is inevitable
+      - Creativity as a wisdom practice
+    - Love
+      - preparation for Truth
+      - My path from Atheism
+      - Third level of love -- everything is Love
   - What has worked in the past?
     - Gandhi
     - Martin Luther King
