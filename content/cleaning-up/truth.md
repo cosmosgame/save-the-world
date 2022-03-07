@@ -1,0 +1,11 @@
+---
+title: "Truth"
+date: 2022-22-01T05:26:15Z
+draft: false
+weight: 60
+---
+Hakomi teaches that we all have core beliefs that are driving us without us consciously realizing it. You first need to build a loving bubble with your client, and let them really get how safe they are with you. Let them see that you will respect and honor all parts of them. Then you encourage them to go deeper. We take them to a non ordinary state of consciousness where they can get to the core of themselves.  Where they can find what is true for them. Quite often what we find is that they made some important choices as a child that helped them survive. We honor the genius of the child for finding something that worked, but then help them see how that solution also has come with a price. A price that now maybe is not worth it. We then have the client notice that they as adults have many more resources now and can now find other solutions. But first maybe they just need to spend some time soothing that hurt child within and reassuring that child they are safe now.
+
+HAI workshops revolve around group shares. People stand up in front of the group (usually stark naked) and are lovingly encouraged to share from the most vulnerable, authentic place they can find within themselves. Quite often people are inspired to stand up after having a breakthough during one of the exercises. There is something incredibly beautiful about sharing your deepest, naked Truth in front of a circle of sacred witnesses. A circle that holds all of you in love. This group support helped me to get to my deeper places. Helped me get clearer about what was really going on for me. Something about it would help clarify for me what it was that I needed to know. After speaking I quite often would sit down and run through what I just said because it was finally that clear message I needed to hear.  
+
+Both HAI and Hakomi revolve around getting people safe enough to go really deep into their Truth. Because we have to find our Truth before we can heal. Many of us we instinctively pull away from our Truth because it hurts too much and is too hard. The work then is to make a place safe enough that people can do this vital work. And as we gently keep on bringing people back over and over to their Truth we are teaching them a new skill - mindfulness.
