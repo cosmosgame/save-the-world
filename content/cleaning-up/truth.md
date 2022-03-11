@@ -2,7 +2,7 @@
 title: "Truth"
 date: 2022-22-01T05:26:15Z
 draft: false
-weight: 60
+weight: 40
 ---
 Hakomi teaches that we all have core beliefs that are driving us without us consciously realizing it. You first need to build a loving bubble with your client, and let them really get how safe they are with you. Let them see that you will respect and honor all parts of them. Then you encourage them to go deeper. When they are feeling safe enough we take them to a non ordinary state of consciousness where they can get to the core of themselves.  Where they can find their truth. Quite often what they find is that they made some important choices as a child that helped them survive. So we honor the genius of the child for finding something that worked, but then help them see how that solution also has come with a price. A price that now maybe is not worth it. We then have the client notice that they as adults have many more resources now and can now find other solutions. But first maybe they just need to spend some time soothing that hurt child within and reassuring that child they are safe now.
 

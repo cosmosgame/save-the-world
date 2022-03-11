@@ -321,17 +321,11 @@ draft: false
         - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
     - It is child abuse!
     - Thread example
-  - Mindful Self Compassion
-    - First of three levels
-      - Doesn't have to be narcissm
-    - Three levels
-      - mirror work
-      - What you don't love in others..
-      - Everything is God (or the Universe
-    - Stop the self hate storms
-    - mirror work
   - Hakomi Principles for healing
     - Hakomi intro  
+      - HAI
+      - Medicine work
+      - Forest Bathing
     - Non violence
       - different schools of personal growth;
       - preparation for Truth
@@ -342,6 +336,8 @@ draft: false
     - Mindfulness
       - basic hygiene
       - running in debug mode
+      - RAIN
+      - need non-violence
       - Both HAI and Hakomi teach this
     - Mind/Body
       - It all starts in the body
@@ -358,25 +354,21 @@ draft: false
       - Nature
         - We are zoo animals
         - The book "Wild"
+      - Universal consciousness
     - Change
       - Accept that change is possible
       - Accept that change is inevitable
       - Creativity
-    - Body
-  - Treatments that I personally know work
-    - Backpacking
-      - Wild (?)
-    - Mdma
-    - HAI
-  - Stopping the cycle
-    - Revolutionary vanguard
-    - Thread project
-  - Healing practices
-  - Healing practices
-    - RAIN
-    - Trust organicity
-    - Trauma work
-  - Structures for healing
+    - Love
+      - My transformation
+      - First of three levels
+        - Doesn't have to be narcissm
+      - Three levels
+        - mirror work
+        - What you don't love in others..
+        - Everything is God (or the Universe
+      - Stop the self hate storms
+      - mirror work
 - Wising Up
   - Personal growth mindset
   - Mindful self compassion (second level)
