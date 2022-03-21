@@ -359,6 +359,8 @@ draft: false
       - Accept that change is possible
       - Accept that change is inevitable
       - Creativity
+      - Medicine snow globe
+      - Medicine integration
     - Love
       - My transformation
       - First of three levels
