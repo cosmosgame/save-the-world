@@ -347,6 +347,8 @@ draft: false
       - Exercise
       - Healing our sexuality
         - HAI
+      - Food
+      - Athleticism
       - Really respecting this leads to organicity
     - Organicity
       - Every organism is striving towards healing. Always.
