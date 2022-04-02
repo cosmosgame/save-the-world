@@ -352,21 +352,24 @@ draft: false
       - Really respecting this leads to organicity
     - Organicity
       - Every organism is striving towards healing. Always.
+      - Rise of consciousness
     - Unity
       - Nature
         - We are zoo animals
         - The book "Wild"
       - Universal consciousness
+      - Ok with death
     - Change
       - Accept that change is possible
       - Accept that change is inevitable
       - Creativity
       - Medicine snow globe
       - Medicine integration
+      - The thing that doesn't change
     - Love
       - My transformation
       - First of three levels
-        - Doesn't have to be narcissm
+        - Doesn't have to be narcissism
       - Three levels
         - mirror work
         - What you don't love in others..
