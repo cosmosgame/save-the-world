@@ -10,11 +10,11 @@ weight: 1
 
 # Welcome!
 
-Thank you so much visiting this web site! I am deeply grateful that you did! Your support and feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
+Thank you so much for visiting this web site! I am deeply grateful that you did! Your support and feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
 
 I want a plan to save the world. A plan that might actually work. It is my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! Is this you reaction too? Maybe take a minute and get curious about that reaction. Why don't we have a plan to save the world? Doesn't the world need saving? Yes, of course it does. Why not spend some time thinking about this? Why isn't this conversation more common?
 
-For thirty years I have watched global warming. Back in the 90's environmentalists like myself knew a disaster was coming. The science was clear. And I did nothing. Each decade the scientific reports kept on coming back consistently reporting that it was even worse than we feared. And I did nothing. The scientific reports were so bad I could not make myself read them. It hurt too much. If you read them carefully, you could hear the scientists screaming in anguish. And I did nothing.
+For thirty years I have watched global warming. Back in the 90's environmentalists like myself knew a disaster was coming. The science was clear. And I did nothing. Each decade the climate scientists kept on coming back to report that it was even worse than we feared. And I did nothing. The reports were so bad I could not make myself read them. It hurt too much. If you read them carefully, you could hear the scientists screaming in anguish. And I did nothing.
 
 No longer.
 

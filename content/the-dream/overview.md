@@ -46,7 +46,7 @@ The end goal, again, is to get people to open their hearts wider than they know 
 
 ### Showing Up
 
-The dragon roaring into the air is the first step of showing up. At first we fly alone. But then we dance in the sky with others. We start by recognizing our own strength and beauty. And then we fall down in awe and wonder as we recognize the beauty and majesty of others. We start to see that we are all one. The beauty I see in you is my beauty. But in the same way your pain is mine as well. And oh my there is so much pain! Now that I realize your pain is mine, it is so clear that something needs to shift but what? I think Buddha was one of the very first to Show Up. He taught that first it is important to recognize the pain, then to step fully into the pain. And finally we can awaken to something bigger.
+The dragon roaring into the air is the first step of showing up. At first we fly alone. But then we dance in the sky with others. We start by recognizing our own strength and beauty. And then we fall down in awe and wonder as we recognize the beauty and majesty of others. We start to see that we are all one. The beauty I see in you is my beauty. But in the same way your pain is mine as well. And oh my there is so much pain! Now that I realize your pain is mine, it is so clear that something needs to shift but what? I think Buddha was one of the very first to Show Up. He taught us to first just recognize the pain, then step fully into the pain. And then finally we can awaken to something bigger.
 
 #### Recognize the Pain
 
