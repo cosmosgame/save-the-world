@@ -19,7 +19,7 @@ At Beige focus is on the individual family (tick). You know to be true what is r
 
 The whole point of backpacking is to get to this level. That is why people do it for extended periods of time. It takes a while to get back into this easy communion with nature. After you have gone a few days on the trail, the city mentality starts to finally fade away and we can finally just let ourselves be one with the world. It is a very beautiful mental place to get to. So if you find a backpacker on a long hike they are in that moment probably at Beige. The energy field of these people feels very clean and whole.
 
-This is also the stage people collapse back to if they have a lot of unresolved trauma and/or pain. All they can manage is just to survive day to day. We all go here when we have a bad flu. Unfortunately some people spend most of their lives in so much pain that spend much of their life at this stage. They can't rally to care too much about others because they are hurting so badly.
+This is also the stage people collapse back to if they have a lot of unresolved trauma and/or pain. All they can manage is just to survive day to day. We all go here when we have a bad flu. Unfortunately some people spend most of their lives in so much pain that they spend much of their life at this stage. They can't rally to care too much about others because they are hurting so badly.
 
 ## Purple (KinSpirits)
 
