@@ -314,6 +314,8 @@ draft: false
         - Come together
         - Spirit transcends
 - Cleaning Up
+  - Review
+    - My sacred stories?
   - Why
     - Getting people out of pain first
     - Getting people into joy
@@ -326,6 +328,9 @@ draft: false
       - HAI
       - Medicine work
       - Forest Bathing
+  - Healing Up
+    - Healing the wounded child
+      - Aaron's ted talk
     - Non violence
       - different schools of personal growth;
       - preparation for Truth
@@ -376,32 +381,32 @@ draft: false
         - Everything is God (or the Universe
       - Stop the self hate storms
       - mirror work
-- Wising Up
-  - Personal growth mindset
-  - Mindful self compassion (second level)
-    - Others are a mirror
-  - Hakomi Principles as a life practice
-    - Non violence
-      - Dhali lhama anecdote
-      - balance against narcissm
-      - consensus
-    - Truth
-      - Coyote
-      - Accountability
-        - Victim stories
-    - Mindfulness
-    - Mind/Body
-      - Do an assessment
-    - Organicity
-      - Trusting ourselves to know
-    - Unity
-    - Change
-      - Accept that change is possible
-      - Accept that change is inevitable
-      - Creativity as a wisdom practice
-    - Love
-      - preparation for the bigger Truth
-  - Service
+  - Wising Up
+    - Personal growth mindset
+    - Mindful self compassion (second level)
+      - Others are a mirror
+    - Hakomi Principles as a life practice
+      - Non violence
+        - Dhali lhama anecdote
+        - balance against narcissm
+        - consensus
+      - Truth
+        - Coyote
+        - Accountability
+          - Victim stories
+      - Mindfulness
+      - Mind/Body
+        - Do an assessment
+      - Organicity
+        - Trusting ourselves to know
+      - Unity
+      - Change
+        - Accept that change is possible
+        - Accept that change is inevitable
+        - Creativity as a wisdom practice
+      - Love
+        - preparation for the bigger Truth
+    - Service
 - Waking Up
   - Hakomi Principles as a spiritual basis
     - Non violence
@@ -597,7 +602,7 @@ draft: false
     - Seeker
       - truth
       - personal growth (Japan kaizen)
-    - Spirtiual awakening
+    - Spiritual awakening
       - atheist
     - Open Source
     - All of me, All of you, All of Us
