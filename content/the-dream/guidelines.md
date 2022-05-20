@@ -1,11 +1,11 @@
 ---
-title: "Principles"
+title: "Guidelines"
 date: 2020-29-17T15:26:15Z
 draft: false
 weight: 50
 ---
 
-Let me suggest a set of guiding principles for this project. Something that we can fall back on when we are trying to decide what goes in and what stays out. Something that guides us as we write and review. If you find that some part of this site does not match these principles please let me know - it is a bug that needs to be fixed.
+Let me suggest a set of guidinglines for this project. Something that we can fall back on when we are trying to decide what goes in and what stays out. Something that guides us as we write and review. If you find that some part of this site does not match these principles please let me know - it is a bug that needs to be fixed.
 
 ### Simplicity
 

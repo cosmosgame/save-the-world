@@ -61,7 +61,7 @@ He wrote this in 1982 (during the Reagan presidency) so he was very much ahead o
 
 ## Blue
 
-When Gandhi was asked what he thought about Western civilization, he (maybe apocryphally) responded, "It would be a very good idea". He of course had a point, but the British empire should get some credit for not simply shooting him. Other rulers would not have hesitated. For example, when the older leaders in Guatemala were confronted with a [U.S backed right wing coup](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat) they counseled the younger leaders to respond with non-violent protests. These older leaders were then all summarily executed by the dictators. The remaining younger leaders headed to the hills and a brutal thirty year, genocidal civil war was launched. No one gained from this. England was operating from Blue, the Guatemalan right wing dictators were clearly in Red. We desperately need more Blue in this world.
+When Gandhi was asked what he thought about Western civilization, he (maybe apocryphally) responded, "It would be a very good idea". He of course had a point, but the British empire should get some credit for not simply shooting him. Other rulers would not have hesitated. For example, when the older leaders in Guatemala were confronted with a [U.S backed right wing coup](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27%C3%A9tat) they counseled the younger leaders to respond with non-violent protests. These older leaders were then all summarily executed by the dictators. The remaining younger leaders headed to the hills and a brutal, thirty year, genocidal civil war was launched. No one gained from this. England was operating from Blue, the Guatemalan right wing dictators were clearly in Red. We desperately need more Blue in this world.
 
 Consider the Mormons. Most people have a blindspot about this religion. For sure they are patriarchal and many are deeply bigoted. We don't have to condone everything they do, but they do have some things to teach us. They have part of the answer. Something they are doing is actually working. Mormons know that they are part of something much, much bigger than themselves. Mitt Romney said exactly that when he courageously cast the lone Republican vote for impeachment. That is the gift of Blue. There is something vibrant here. The focus turns away from just me and mine to community and service. We recognize we are part of a greater whole. Mormons support each other. Families work much better because they are supported by a vibrant community. Children are raised with a sense of purpose and belonging. Most Americans have lost the skill of getting along with their neighbors. Most Americans don't even know who their neighbors are! But most Mormons do. Utah (the home of the Mormon church) calls itself the Beehive state to symbolize this sense of togetherness. Salt Lake City is one of the most vibrant cities in the country.
 
@@ -120,11 +120,8 @@ Why is it so important to recognize this? First because it helps us live a much 
 
 ## Turqoise
 
-At this stage we will regain the freedoms that we lost when we lost Purple:
+At this stage we will regain the freedoms that we lost when we lost Purple. We forget how much more freedom we had then. We could go where we wanted. We didn't have to obey a boss, and we could form whatever groups we wanted.
 
-* Freedom to move
-* Freedom to disobey
-* Freedom to cr
 The gift of this stage is that after we find ourselves we then find each other. On our own it is so easy to stay in the trance of helplessness and hopelessness. As a group we will awaken to hope. This stage brings us all the way back home to where we started. With a deep, profound reverence for the land we walk on. And a celebration of community. And it will be so much fun! There will be dancing and music, delight and spectacle. And while having that fun we will become bad-asses once more who change the world one community at a time.
 
 ### Gifts

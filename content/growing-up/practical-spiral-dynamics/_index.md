@@ -8,7 +8,7 @@ Before I continue let me first address some questions or concerns I suspect peop
 
 ### Spiral Dynamics is not established science
 
-As far as I can tell Spiral Dynamics has not yet been subjected to serious, sustained scientific review. The theory is just now gaining attention, so I think getting that review is just a matter of time, but in the meantime we need to be very careful in the claims we make. That is why I am so careful to tie the major stages to well recognized historical periods. That seems like a solid foundation to build on. I have done a lot of historical research to make sure what I say is accurate and I will correct whenever someone points out an error. But more than a theory I think we need a story that explains how we got here. Spiral Dynamics does that well.
+As far as I can tell Spiral Dynamics has not yet been subjected to serious, sustained scientific review. The theory is just now gaining attention, so I think getting that review is just a matter of time, but in the meantime we need to be very careful in the claims we make. That is why I am so careful to tie the major stages to well recognized historical periods. That seems like a solid foundation to build on. I have done a lot of historical research to make sure what I say is accurate and I will correct any errors people find. But more than a theory I think we need a story that explains how we got here. Spiral Dynamics does that well.
 
 ### There are different interpretations
 
@@ -18,7 +18,7 @@ If you listen to people talk about Spiral Dynamics you will hear important diffe
 
 People are complicated and contain many layers at once. Perhaps at work someone is a dedicated scientist (Orange), but at home they find deep solace in their simple, unquestioning Catholicism (Blue). And maybe their passion is camping (Beige). How do you put that person into just one Spiral stage? I find it seems to work better to focus on group behaviors. Those seem to average out to one stage or another. So a science organization is Orange and the Catholic church is Blue.
 
-And countries contain a mix of groups, each at its own stage. For example the U.S. right not finds the Republican party succumbing to an unhealthy form of Red while the Democrats are an interesting combination of stages but predominantly Orange and Green.
+And countries contain a mix of groups, each at its own stage. For example the U.S. currently finds the Republican party succumbing to an unhealthy form of Red while the Democrats are an interesting combination of stages but predominantly Orange and Green.
 
 ### It assumes an order
 

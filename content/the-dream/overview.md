@@ -50,7 +50,7 @@ The dragon roaring into the air is the first step of showing up. At first we fly
 
 #### Recognize the Pain
 
-If you are at the point of feeling the world's pain, congratulations. Most of us hide from it. It means that you have allowed yourself to open up to a bigger, wider Truth than most. This is where we have to start. Notice how upsetting all of this is. I personally struggle with this. I am entering the Grandfather stage of life, and I am ashamed at how profoundly my generation has failed to provide a healthy, nurturing place for our grandchildren. This is so not OK with me. And again, I stop and breathe and let myself really recognize how much pain there is. It starts here.
+If you are at the point of feeling the world's pain, congratulations. Most of us hide from it. It means that you have allowed yourself to open up to a bigger, wider Truth than most. This is where we have to start. Notice how upsetting all of this is. I personally struggle with this. As I enter my Grandfather stage of life, I am ashamed at how profoundly my generation has failed to provide a healthy, nurturing place for our grandchildren. This is so not OK with me. And again, I stop and breathe and let myself really recognize how much pain there is. It starts here.
 
 #### Step fully into the pain
 
