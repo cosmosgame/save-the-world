@@ -331,13 +331,13 @@ draft: false
   - Healing Up
     - Healing the wounded child
       - Aaron's ted talk
-    - Non violence
-      - different schools of personal growth;
-      - preparation for Truth
     - Truth
       - Get curious
       - Accountability is for later
       - Ongoing practice -- leads to mindfulness
+    - Non violence
+      - different schools of personal growth;
+      - preparation for Truth
     - Mindfulness
       - basic hygiene
       - running in debug mode
@@ -386,14 +386,14 @@ draft: false
     - Mindful self compassion (second level)
       - Others are a mirror
     - Hakomi Principles as a life practice
-      - Non violence
-        - Dhali lhama anecdote
-        - balance against narcissm
-        - consensus
       - Truth
         - Coyote
         - Accountability
           - Victim stories
+      - Non violence
+        - Dhali lhama anecdote
+        - balance against narcissm
+        - consensus
       - Mindfulness
       - Mind/Body
         - Do an assessment
@@ -409,14 +409,14 @@ draft: false
     - Service
 - Waking Up
   - Hakomi Principles as a spiritual basis
-    - Non violence
-      - Dhali lhama anecdote
-      - balance against narcissm
-      - consensus
     - Truth
       - Coyote
       - Accountability
         - Victim stories
+      - Non violence
+        - Dhali lhama anecdote
+        - balance against narcissm
+        - consensus
     - Mindfulness
     - Mind/Body
       - Do an assessment
