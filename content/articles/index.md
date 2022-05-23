@@ -67,15 +67,20 @@ draft: false
 - The Plan for the Plan
     - Growing Up
     - Cleaning Up
+      - Healing up
+      - Wising Up
     - Waking Up
     - Showing Up
   - Growing Up
     - Spiral dynamics
     - New groups, new ways of organizing
   - Cleaning Up
-    - Growth and healing mindset
-    - Healing our collective traumas
-      - groups and individuals
+    - Getting back to out authentic selves
+    - Healing Up
+      - Healing our collective traumas
+        - groups and individuals
+    - Wising Up
+      - Personal growth mindset
   - Waking Up
     - reclaiming spirituality
       - ok if you don't yet feel comfortable with that
