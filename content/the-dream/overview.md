@@ -22,8 +22,9 @@ This is his beautifully succint summary of the work we all need to do:
 * Waking Up
 * Showing Up
 
-And I would add one more to the list
+There are two different (but related) things happening with Cleaning Up so I break that into two more parts:
 
+* Healing Up
 * Wising Up
 
 ### Growing Up
@@ -34,9 +35,17 @@ Before we can change the world we have to really understand and model the vastly
 
 We start with our initial wounds as children and then over time we accumulate more and more junk inside of ours ourselves that hides us from our true nature. In Spirited Away there is a [wonderful scene](https://www.facebook.com/FansOfStudioGhibli/videos/spirited-away-bathhouse-clip/493650414055324/) where an incredibly stinky spirit comes to the bathhouse for help. At first it looks hopeless. Why waste good medicinal water on something so dirty as that? But the heroine, Sen, bravely persists in trying to help. Then it becomes clear that there is something stuck to the spirit that doesn't belong (it looks like a bicycle handle). The entire bathhouse community joins together to help pull this thing out. And as they pull more and more stuff keeps coming out. A lifetime accumulation of junk comes pouring out. Until there is just one more tug and a "pop" and all we are left with is the spirit's true, smiling nature. We all need to pull out this wounded junk of a lifetime to get back to our true, shining nature.
 
-### Wising Up
+To get there, though, we have to do two things. First we have to heal (or at least address) our wounds. Then we need to learn a more skillful approach to life. These are very related practices but they require different approaches.
 
-When we are in pain all we can do is focus on simple survival. Nothing else matters. We have to step out of our pain before we can start thinking in a bigger way. The urgency of our traumas demand attention. But once we have done some of that healing (cleaning up) work we next need to recognize that most of our suffering is completely unnecessary. We are caught up in trances and unskillful habits that do not serve us. If we adopt a personal growth mindset we can discover how much more joy we can live in. For example, Buddhists teach that if you are willing to do some very hard growth work there are incredible levels of joy you can get to. But Buddhism is not the only path. Integral theory brings in all the wisdom paths. We need to use these paths to teach the world how to step deeper into joy. Because it is when we are most in joy that we can most be in service.
+#### Healing Up
+
+When we are in pain all we can do is focus on simple survival. Nothing else matters. We have to step out of our pain before we can start thinking in a bigger way. The urgency of our traumas demand attention.
+
+This requires a very gentle, safe approach. A trauma informed Hakomi therapist can be of real help here. They can help people find where the trauma still lives in them. Where it still in fact lives in their body and then help them find their path to healing. If the wounds are deep enough (eg. PTSD) MDMA assisted therapy might be called for.
+
+#### Wising Up
+
+Once we have done some of our healing work we next need to recognize that most of our suffering is completely unnecessary. We are caught up in trances and unskillful habits that do not serve us. If we adopt a personal growth mindset we can discover how much more joy we can live in. For example, Buddhists teach that if you are willing to do some very hard growth work there are incredible levels of joy you can get to. But Buddhism is not the only path. Integral theory brings in all the wisdom paths. We need to use these paths to teach the world how to step deeper into joy. Because it is when we are most in joy that we can most be in service.
 
 ### Waking Up
 
