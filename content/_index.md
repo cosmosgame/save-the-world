@@ -12,13 +12,13 @@ weight: 1
 
 Thank you so much for visiting this web site! I am deeply grateful that you did! Your support and feedback is precious to me -- it will help me create something of value. I won't get there without you. Seriously.
 
-I want a plan to save the world. A plan that might actually work. It is my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! Is this you reaction too? Maybe take a minute and get curious about that reaction. Why don't we have a plan to save the world? Doesn't the world need saving? Yes, of course it does. Why not spend some time thinking about this? Why isn't this conversation more common?
+I want a plan to save the world. A plan that might actually work. It is my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! Is this your reaction too? Maybe take a minute and get curious about that reaction. Why don't we have a plan to save the world? Doesn't the world need saving? Yes, of course it does. Why not spend some time thinking about this? Why isn't this conversation more common?
 
 For thirty years I have watched global warming. Back in the 90's environmentalists like myself knew a disaster was coming. The science was clear. And I did nothing. Each decade the climate scientists kept on coming back to report that it was even worse than we feared. And I did nothing. The reports were so bad I could not make myself read them. It hurt too much. If you read them carefully, you could hear the scientists screaming in anguish. And I did nothing.
 
 No longer.
 
-My daughter is learning about how bad the situation is at school. Our children understand the reality of our situation better than we do. She asked me if it is OK to have children. And I had to really think about it. I found myself bargaining with God. Maybe her children will be OK? But then she asked me what about her children's children? And what about all future children? And the answer is I do not know.
+My daughter is learning about how bad the situation is at school. Our children understand the reality of our situation better than we do. She asked me if it is OK to have children. And I had to really think about it. I found myself bargaining with God. Maybe her children will be OK? But then she asked what about her children's children? And what about all future children? And the honest answer is I do not know.
 
 What I do know is that I will not do nothing for another thirty years. The world needs even someone as ordinary as me. No matter how hard it gets I can not imagine anything more painful than to confess to my grandchildren thirty years from now that yet again I stood by and did nothing.
 
@@ -28,7 +28,7 @@ This site is a home for this bigger dream. For big problems like this we need th
 
 For those thirty years I watched and wondered. What are the deeper causes of our problems? What is it that prevents people from opening their hearts wider and wider? What would it take on a practical level to save the world? I have been looking for people with workable answers. And they are out there! Now we need to bring these separate teachings together into an integrated whole. First we must cultivate these integrated teachings in ourselves because of course it has to start there, but then once we find our ground to stand on we can then look out to others and ask, "What is it that we want to create together?"
 
-I have read that the best way to get an answer on the internet is to answer a question wrong even if it is in answer to your own question. That seems to provoke people to respond. It is quite amusing, but it seems to work. So in that spirit I am going to provide my own answer here. If you have a better solution -- great! you have no idea how eager I am to hear it.
+The best way to get an answer on the internet is to answer a question wrong even if it is in answer to your own question. That seems to provoke people to respond. It is quite amusing, but it seems to work. So in that spirit I am going to provide my own answer here. If you have a better solution -- great! you have no idea how eager I am to hear it.
 
 What do we need to make the world of our dreams?
 
