@@ -20,7 +20,7 @@ No longer.
 
 My daughter is learning about how bad the situation is at school. Our children understand the reality of our situation much better than we do. She asked me if it is OK to have children. Ouch. I had to really think about it. I found myself bargaining with God. Maybe her children will be OK? But then she asked what about her children's children? And what about all future children? And the honest answer is I do not know.
 
-What I do know is that I will not do nothing for another thirty years. The world needs even someone as ordinary as me. No matter how hard it gets I can not imagine anything more painful than to confess to my grandchildren thirty years from now that yet again I stood by and did nothing.
+What I do know is that I will not do nothing for another thirty years. The world needs even someone as ordinary as me. No matter how hard it gets I can not imagine anything more painful than to confess to my grandchildren thirty years from now that yet again I stood by and did nothing. With all my heart I want my daughter to have children if she wants if for not other reason than we need more healthy people to help clean up the mess we have left for them. But I am so worried.
 
 Fortunately, while I did (mostly) nothing others have been hard at work. They have done so much and yet here we are. On our own we can only get so far. All the urgent projects that people are working on such as Black Lives Matter and Social Justice are vitally important. But we need to understand that we are all working on the same project. All this work shares the very same problem -- how do we get people into a bigger, more compassionate place? If we can get people there, the world changes in an instant. But that is very big work and it will require all of us. So even as we continue to do our separate work we also need to coordinate on an even bigger dream -- saving the world together.  
 
@@ -28,7 +28,7 @@ This site is a home for this bigger dream. For big problems like this we need th
 
 For those thirty years I watched and wondered. What are the deeper causes of our problems? What is it that prevents people from opening their hearts wider and wider? What would it take on a practical level to save the world? I have been looking for people with workable answers. And they are out there! Now we need to bring these separate teachings together into an integrated whole. First we must cultivate these integrated teachings in ourselves because of course it has to start there, but then once we find our ground to stand on we can then look out to others and ask, "What is it that we want to create together?"
 
-The best way to get an answer on the internet is to answer a question wrong even if it is in answer to your own question. That seems to provoke people to respond. It is quite amusing, but it seems to work. So in that spirit I am going to provide my own answer here. If you have a better solution -- great! you have no idea how eager I am to hear it.
+Apparently, the best way to get an answer on the internet is to answer a question wrong even if it is in answer to your own question. That seems to provoke people to respond. It is quite amusing, but it seems to work. So in that spirit I am going to provide my own answer here. If you have a better solution -- great! you have no idea how eager I am to hear it.
 
 What do we need to make the world of our dreams?
 
