@@ -319,23 +319,26 @@ draft: false
         - Come together
         - Spirit transcends
 - Cleaning Up
-  - Review
-    - My sacred stories?
-  - Why
-    - Getting people out of pain first
-    - Getting people into joy
-    - Stopping the cycle  
-        - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
-    - It is child abuse!
-    - Thread example
+  - Shared work different paths
+    - Dual nature
+  - Healing/Wisdom traditions
+    - HAI
+    - Hakomi
+      - Trauma informed therapy
+    - Forest bathing
+    - Mdma assisted therapy
+    - Buddhism
+    - Vison quests
+    - Art therapy
   - Hakomi Principles for healing
     - Hakomi intro  
       - HAI
       - Medicine work
       - Forest Bathing
   - Healing Up
-    - Healing the wounded child
-      - Aaron's ted talk
+    - Aaron's ted talk
+      - Stopping the cycle  
+          - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
     - Truth
       - Get curious
       - Accountability is for later
@@ -346,7 +349,6 @@ draft: false
     - Mindfulness
       - basic hygiene
       - running in debug mode
-      - RAIN
       - need non-violence
       - Both HAI and Hakomi teach this
     - Mind/Body
@@ -370,6 +372,7 @@ draft: false
       - Universal consciousness
       - Ok with death
     - Change
+      - My first sacred vow
       - Accept that change is possible
       - Accept that change is inevitable
       - Creativity
@@ -388,6 +391,9 @@ draft: false
       - mirror work
   - Wising Up
     - Personal growth mindset
+      - everything is a lesson
+      - another fucking growth opportunity
+        - target rich environment
     - Mindful self compassion (second level)
       - Others are a mirror
     - Hakomi Principles as a life practice
@@ -398,36 +404,38 @@ draft: false
       - Non violence
         - Dhali lhama anecdote
         - balance against narcissm
+        - mirror work
         - consensus
       - Mindfulness
+        - RAIN
+        - Non attachment
       - Mind/Body
         - Do an assessment
       - Organicity
         - Trusting ourselves to know
       - Unity
+        - Everything is god (holding open that possibility)
+        - Group work
       - Change
-        - Accept that change is possible
-        - Accept that change is inevitable
-        - Creativity as a wisdom practice
+        - Service
+          - Thread example
       - Love
         - preparation for the bigger Truth
-    - Service
+        - Love everyone no kidding no exceptions (my story)
 - Waking Up
+  - My angel story
   - Hakomi Principles as a spiritual basis
     - Truth
-      - Coyote
-      - Accountability
-        - Victim stories
-      - Non violence
-        - Dhali lhama anecdote
-        - balance against narcissm
-        - consensus
+      - Everything is god but really experiencing it
+    - Non violence
+      - Beyond good and evil
     - Mindfulness
     - Mind/Body
       - Do an assessment
     - Organicity
       - Trusting ourselves to know
     - Unity
+      - Unity consciousness
     - Change
       - Accept that change is possible
       - Accept that change is inevitable
@@ -468,6 +476,7 @@ draft: false
     - better model
     - reclaiming spirituality
     - healing and growth
+  - My third sacred vow
   - Boddhisatva vow
   - Goals
     - Healing

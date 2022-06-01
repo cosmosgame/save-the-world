@@ -15,3 +15,17 @@ We wil regain the [three primoridal freedoms](https://en.wikipedia.org/wiki/The_
 * Freedom to create or transform social relationships
 
 But that is going to take time. The great spiritual awakenings led by Jesus and Mohammed took many decades before they reached critical mass. What do we do in the meantime? Again we need to meet people where they are at. Recognize that they think differently than people at other stages. And in the U.S. it would help if we acknowledge the betrayal of the working class. There is a reason for all that anger. There is a reason why so many people in Trump counties are dying of despair. There is a class war going on and the lower classes are losing badly. Most college educated people I know came from comfortable middle class backgrounds and they have a huge blindspot here. They can't understand why people don't "vote their interest". Why do people vote against politicians who would give them more money? They don't understand that most working class people don't want to depend on government handouts, they simply want a good job that their families can depend on. A job that won't get shipped overseas like all the others. Something they can be proud of, and feel like they are an important, contributing member of society. And people are willing to rally around this. When Trump imposed harsh (and seemingly arbitrary) tariffs on China, that policy was popular with his base. Red farmers were willing to sacrifice in solidarity with their factory brothers. Unless and until Democrats address this class divide I don't see things getter any better.
+
+## Yellow groups
+
+How do we help people do that? This is the work of Wising Up. Here are the wising up paths that I know to work. I'm sure there are many more:
+
+* Medicine Work
+* [Soulcraft](https://www.animas.org/books/soulcraft/)
+* Personal growth courses (eg. [HAI](https://www1.hai.org/))
+
+Again, I think Michael Polan's [How to Change Your Mind](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) is a fantastic resource for Green yearning for Yellow. He was open to this work because he understood that maybe just maybe there is more to this world than the rational parts of our brain can comprehend. That is very Green. And then when he experienced amazing journeys into himself he took his first steps into Yellow.
+
+Medicine work is a great path but it is not the only way. Bill Plotkin's [Soulcraft](https://www.animas.org/books/soulcraft/) brings back the Purple vision quest to our own day and age. It sounds amazing. People do several days of preparation and then head into the wilderness alone for up to four days to find themselves. When they come back out they are transformed. They see the world in a new light. What a great way to bring people to Yellow. I have not (yet) done one, but [Forest Therapy](https://www.natureandforesttherapy.org/) was inspired by this kind of vision quest work.
+
+Any group that encourages people to look deeply and courageously inside themselves can work. For example, when I did my two years of [Hakomi](https://hakomiinstitute.com/) training we learned how to do Hakomi style therapy, but we also went deep into ourselves. We learned how to stand up in the world in a much more grounded, authentic way. And my work at [HAI](https://www1.hai.org/) changed my life. I will talk more about this in the next section.
