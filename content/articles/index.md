@@ -340,11 +340,12 @@ draft: false
       - Stopping the cycle  
           - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
     - Truth
+      - My very first vow
       - Get curious
       - Accountability is for later
       - Ongoing practice -- leads to mindfulness
     - Non violence
-      - different schools of personal growth;
+      - my acne story
       - preparation for Truth
     - Mindfulness
       - basic hygiene
@@ -403,6 +404,7 @@ draft: false
           - Victim stories
       - Non violence
         - Dhali lhama anecdote
+        - different schools of personal growth;
         - balance against narcissm
         - mirror work
         - consensus

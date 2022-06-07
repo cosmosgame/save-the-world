@@ -41,7 +41,7 @@ To get there, though, we have to do two things. First we have to heal (or at lea
 
 When we are in pain all we can do is focus on simple survival. Nothing else matters. We have to step out of our pain before we can start thinking in a bigger way. The urgency of our traumas demand attention.
 
-This requires a very gentle, safe approach. A trauma informed Hakomi therapist can be of real help here. They can help people find where the trauma still lives in them. Where it still in fact lives in their body and then help them find their path to healing. If the wounds are deep enough (eg. PTSD) MDMA assisted therapy might be called for.
+This requires a very gentle, safe approach. A trauma informed therapist can be of real help here. They can help people find where the trauma still lives in them. Where it still in fact lives in their body and then help them find their path to healing. If the wounds are deep enough (eg. PTSD) MDMA assisted therapy might be called for.
 
 #### Wising Up
 
@@ -51,11 +51,11 @@ Once we have done some of our healing work we next need to recognize that most o
 
 The bathhouse clip above doesn't show it, but what happens next after all the junk is removed is that the smiling spirit becomes a river dragon that roars up out of the bathhouse and blasts into the sky. We are all spiritual beings. After we have done our cleaning up and wising up this becomes achingly obvious, and then just like that river dragon we go roaring out into the sky. This is what we are meant to do, but unfortunately many of us have too much junk still attached to us (cleaning up) or stuck in unhealthy habits of thought (wising up). Also most of the organizations that claim to support spirituality are still stuck in earlier developmental stages (growing up). Most religious organizations are not advanced enough to meet this moment.
 
-The end goal, again, is to get people to open their hearts wider than they know is possible. Wide enough to encompass all that needs to be done. A reawakened spirituality can get us there. When we fully embrace our spirituality we know the other as us. There is no artificial separation between you and me. You are all my brothers and sisters and even closer. This is the teaching of both Buddha and Christ. It is, I believe, a fundamental ground of spirituality. But again we can't just jump right here. We need to first do the work of growing up, cleaning up, and wising up.
+The end goal, again, is to get people to open their hearts wider than they know is possible. Wide enough to encompass all that needs to be done. A reawakened spirituality can get us there. When we fully embrace our spirituality we know the other as us. There is no artificial separation between you and me. You are all my brothers and sisters and even closer. This is the teaching of both Buddha and Christ. It is, I believe, a fundamental ground of spirituality.
 
 ### Showing Up
 
-The dragon roaring into the air is the first step of showing up. At first we fly alone. But then we dance in the sky with others. We start by recognizing our own strength and beauty. And then we fall down in awe and wonder as we recognize the beauty and majesty of others. We start to see that we are all one. The beauty I see in you is my beauty. But in the same way your pain is mine as well. And oh my there is so much pain! Now that I realize your pain is mine, it is so clear that something needs to shift but what? I think Buddha was one of the very first to Show Up. He taught us to first just recognize the pain, then step fully into the pain. And then finally we can awaken to something bigger.
+The dragon roaring into the air is the first step of showing up. At first we fly alone. But then we dance in the sky with others. We start by recognizing our own strength and beauty. And then we fall down in awe and wonder as we recognize the astonishing majesty of others. We start to see that we are all one. The beauty I see in you is my beauty. But in the same way your pain is mine as well. And oh my there is so much pain! Now that I realize your pain is mine, it is so clear that something needs to shift but what? I think Buddha was one of the very first to Show Up. He taught us to first just recognize the pain, then step fully into the pain. And then finally we can awaken to something bigger.
 
 #### Recognize the Pain
 
