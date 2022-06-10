@@ -319,6 +319,7 @@ draft: false
         - Come together
         - Spirit transcends
 - Cleaning Up
+  - Name change story
   - Shared work different paths
     - Dual nature
   - Healing/Wisdom traditions
@@ -326,15 +327,11 @@ draft: false
     - Hakomi
       - Trauma informed therapy
     - Forest bathing
-    - Mdma assisted therapy
+    - Medicine work
     - Buddhism
-    - Vison quests
+    - Vision quests
     - Art therapy
   - Hakomi Principles for healing
-    - Hakomi intro  
-      - HAI
-      - Medicine work
-      - Forest Bathing
   - Healing Up
     - Aaron's ted talk
       - Stopping the cycle  
@@ -345,6 +342,7 @@ draft: false
       - Accountability is for later
       - Ongoing practice -- leads to mindfulness
     - Non violence
+      - Mirrors scared me
       - my acne story
       - preparation for Truth
     - Mindfulness
@@ -356,12 +354,12 @@ draft: false
       - It all starts in the body
       - Every emotion has a place in the body
         - the body keeps the score
-      - Diet
-      - Exercise
+      - Paleo
+        - Diet
+        - Exercise
+        - Athleticism
       - Healing our sexuality
         - HAI
-      - Food
-      - Athleticism
       - Really respecting this leads to organicity
     - Organicity
       - Every organism is striving towards healing. Always.
@@ -391,10 +389,11 @@ draft: false
       - Stop the self hate storms
       - mirror work
   - Wising Up
+    - everything is a lesson story
     - Personal growth mindset
-      - everything is a lesson
       - another fucking growth opportunity
         - target rich environment
+    - Second sacred vow
     - Mindful self compassion (second level)
       - Others are a mirror
     - Hakomi Principles as a life practice
@@ -474,6 +473,7 @@ draft: false
     - Spirituality at all color levels
     - Embrace all quadrants
 - Showing Up
+  - Third sacred vow
   - Why it is now possible
     - better model
     - reclaiming spirituality
