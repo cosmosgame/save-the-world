@@ -42,6 +42,10 @@ Again, I am assuming that you are at Yellow and are committed to deepening into 
 
 That there isthe end goal is to get people up to Turqoise. Or at the very least help people deepen into their Yellow practice. We do that by getting people to truly love and embrace all the color stagesBefore we can fully step into the full solution we need to do these other steps as well. And just like Turqoise spirals back to Purple, Showing Up spirals back to Turquoise. We will find our way back to Growing Up but at a different level.
 
+## Towards Yellow
+
+Each stage had some organization that pulled people into it. What is pulling people into Yellow? The biggest pull right now is from Medicine (psychedelics) work. There are many paths that can lead to a Yellow awakening, but the most popular seems to be Medicine work. If you choose to do this work, please be sure to do it with a reputable, trained guide who is part of a community that holds high ethical standards. And please read [How to Change Your Mind](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind#:~:text=8%20.P65%202018-,How%20to%20Change%20Your%20Mind%3A%20What%20the%20New%20Science%20of,New%20York%20Times%20best%2Dseller.). Michael Pollan (presumably without knowing about Spiral Dynamics) does a superb job of explaining to people mostly at the Green stage what it is like to explore Yellow. People who are still at Orange are not ready to go straight to Yellow because their god of Reason is a jealous god that will not accept any other sources of Truth. But at Green people start to get a glimmer that there are other paths to Truth and maybe just maybe Medicine is something worth investigating as a path of growth not just healing.
+
 ## Cleaning up
 
 Let's start Cleaning Up by visiting the stink spirit video from Spirited Away again. If you haven't watched it yet please consider [watching it now](https://www.facebook.com/FansOfStudioGhibli/videos/spirited-away-bathhouse-clip/493650414055324/).
