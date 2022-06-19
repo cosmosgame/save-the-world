@@ -16,7 +16,7 @@ Our short term memory seems to only hold [5 to 9](https://www.simplypsychology.o
 
 ### Lucky number in China
 
-The Chinese hold eight as the [luckiest number](https://www.actualidadviajes.com/en/el-numero-magico-de-china/#La_magia_del_8). They tend to group all of their important things in eights. So they have eight astrology signs, eight imperial ministers, eight cardinal points, etc. Our western minds are quick to scoff at this, but China has a long, rich lived history that deserves respect.
+The Chinese hold eight as the [luckiest number](https://www.actualidadviajes.com/en/el-numero-magico-de-china/#La_magia_del_8). They traditionally tended to group all of their important things in eights. So they have eight astrology signs, eight imperial ministers, eight cardinal points, etc. Our western minds are quick to scoff at this, but China has a long, rich lived history that deserves respect.
 
 ### Notes in a scale
 
@@ -25,6 +25,10 @@ A musical scale has eight notes. When you go up or down by eight notes, the note
 ### Sweet spot for sleep
 
 [Eight hours seems to be the sweet spot for hours of sleep](https://www.sleepfoundation.org/how-sleep-works/how-much-sleep-do-we-really-need)
+
+### Eight Hakomi Principles
+
+Hakomi started with 5 principles, but now (depending on who you ask) is up to 8. I think adding the extra 3 principles really made the list complete. I am very happy about this -- I always thought there were a few missing principles (eg. Loving presence) and now it feels just right to me.
 
 ### Spiral Dynamics
 
