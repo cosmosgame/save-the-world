@@ -1,8 +1,8 @@
 ---
 title: "Hakomi Principles"
-date: 2022-18-07T05:26:15Z
+date: 2022-05-07T05:26:15Z
 draft: false
-weight: 20
+weight: 30
 ---
 
 * Non violence

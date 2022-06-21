@@ -326,11 +326,12 @@ draft: false
     - HAI
     - Hakomi
       - Trauma informed therapy
-    - Forest bathing
     - Medicine work
+    - Forest bathing
     - Buddhism
-    - Vision quests
-    - Art therapy
+    - Yet to be explored
+      - Vision quests
+      - Art therapy
   - Hakomi Principles for healing
   - Healing Up
     - Aaron's ted talk
@@ -411,6 +412,7 @@ draft: false
         - RAIN
         - Non attachment
       - Mind/Body
+        - Paleo!
         - Do an assessment
       - Organicity
         - Trusting ourselves to know
