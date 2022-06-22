@@ -14,12 +14,14 @@ weight: 50
     - Preparation for Truth
   - Hakomi Principles
     - Hakomi intro
-    - RAINN
+    - RAINING
       - recognize
       - acceptance
       - investigate
-      - nurture
-      - needed experience
+      - nurture/needed experience
+      - integrate
+      - not-me
+      - greet/grow
     - Love
       - should be included
       - preparation for Truth
