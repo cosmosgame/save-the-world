@@ -60,6 +60,12 @@ weight: 10
     <td>Just starting to emerge</td>
     <td>Save the world</td>
   </tr>
+  <tr id="Coral">
+    <td>Coral</td>
+    <td>ThirdAwakening</td>
+    <td>Unpredictable</td>
+    <td>A lesson</td>
+  </tr>
 </table>
 
 [Spiral Dynamics](https://en.wikipedia.org/wiki/Spiral_Dynamics) is based on the research of the psychologist [Clare Graves](https://en.wikipedia.org/wiki/Clare_W._Graves) who was a contemporary of [Abraham Maslov](https://en.wikipedia.org/wiki/Abraham_Maslow). Both were exploring all the stages of human development from the highest and lowest.  Clare Graves's health started to fail before he could fully develop his theory but his work was carried on by his younger colleagues [Don Beck](https://en.wikipedia.org/wiki/Don_Edward_Beck) and Chris Cowan. They took Grave's original theory and made it more accessible by adding things like color mnemonics. Ken Wilber took the theory and added it to his Integral Theory. He later on modified it to reflect his focus on individual, spiritual growth which is a different focus. I don't cover his variations because my focus is more on the group than the indvidual. That was Don Beck's focus as well. He made many trips to South Africa to try and put Spiral Dynamics to practical use during the transition from Apartheid. Later on he tried the same thing with Israel and Palestine. He saw how this theory could transform the world. It is that focus that I am most interested in here.
