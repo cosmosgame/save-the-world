@@ -8,5 +8,12 @@ I would be *delighted* if you submit an article or changes you think I should ma
 odysseus.levy@gmail.com
 
 ## Tech stuff
-Blog website written using Hugo
+Blog website written using Hugo.
+
+If you want to run the site on your machine (for editing) let me know and I can help step you through it.
+Here are the basic steps if you running on a mac:
+* Install homebrew
+* brew install git
+* brew install hugo
+* git clone http://localhost:1313/save-the-world/
 
