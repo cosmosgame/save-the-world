@@ -8,12 +8,12 @@ I would be *delighted* if you submit an article or changes you think I should ma
 odysseus.levy@gmail.com
 
 ## Tech stuff
-Blog website written using Hugo.
+Blog website written using [Hugo](https://gohugo.io/commands/hugo_server/).
 
 If you want to run the site on your machine (for editing) let me know and I can help step you through it.
 Here are the basic steps if you running on a mac:
-* Install homebrew
-* brew install git
+* Install [homebrew](https://treehouse.github.io/installation-guides/mac/homebrew)
+* brew install git (optional, this makes sure you have an up to date version)
 * brew install hugo
-* git clone http://localhost:1313/save-the-world/
+* git clone https://github.com/cosmosgame/save-the-world.git
 
