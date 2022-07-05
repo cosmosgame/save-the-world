@@ -409,7 +409,7 @@ draft: false
         - mirror work
         - consensus
       - Mindfulness
-        - RAIN
+        - RAINING
         - Non attachment
       - Mind/Body
         - Paleo!

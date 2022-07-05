@@ -1,4 +1,5 @@
 baseURL = "https://cosmosgame.github.io/save-the-world/"
+canonifyURLs = "true"
 staticDir = "static"
 publishDir = "docs"
 languageCode = "en-us"
@@ -58,10 +59,8 @@ enableMissingTranslationPlaceholders = false
         "archives",
         "archive",
         "blog",
-        "entry",
-        "post",
-        "posts",
-    ]
+        "entry"
+  ]
 
     # Algolia site search section
     # See https://www.algolia.com/doc/

@@ -4,9 +4,9 @@ date: 2022-06-21T09:26:15Z
 draft: false
 weight: 20
 ---
-I have a practical problem here. I want to chart a course to Turquoise, but as far as I can tell that has never been done. This is something new. I do know the healing/wisdom paths that I found. They worked for me. And I saw them work for others. But the nature of Yellow is to find its own path. It is incredibly important to discover on your own how to journey inside. So I'm going to talk about my path because it is a practical example. And I can layout some useful guidelines and learnings. But in the end everyone is going to have to find their own unique way.   
+I have a practical problem here. I want to chart a course to Turquoise, but as far as I can tell that has never been done. This is something new. I do know the healing/wisdom paths that I found. They worked for me. And I saw them work for others. But the nature of Yellow is to find its own path. It is incredibly important to discover on your own how to journey inside. So I'm going to talk about my path because it is a practical example. And I can lay out some useful guidelines and learnings. But in the end everyone is going to have to find their own unique way.   
 
-In the sections to come I am going to be telling some of my healing and growth stories. Let me introduce here the schools where I did much of this work. Each of these schools has an experiential (Beige) side that has people heal and grow simply by experiencing what the school has to offer. But each school also has a group (Purple) side where you join the community and offer service to the world.
+In the sections to come I am going to tell my healing and growth stories. Here I introduce the schools where I did much of this work. Each of these schools has an experiential (Beige) side that has people heal and grow simply by experiencing what the school has to offer. But each school also has a group (Purple) side where you join the community and offer service to the world.
 
 ## Human Awareness Institute (HAI)
 

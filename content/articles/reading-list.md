@@ -1,7 +1,3 @@
-title: "Reading List"
-date: 2021-02-24T11:36:31-07:00
-draft: false
-
 # Reading list
 
 
