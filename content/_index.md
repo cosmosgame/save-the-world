@@ -40,9 +40,13 @@ We need a better story. We forget how much our stories define us. Our stories te
 
 When I am hurting, my personal world collapses down. All I can manage is just to make it through the day. I can't take on anything beyond that. And collectively the world is hurting. Most people are in too much pain to do the bigger work. But it doesn't have to be like that. There have been some exciting breakthroughs in therapy that actually work. We need to spread this healing to everyone that needs it. When people emerge out of pain, incredible things happen.
 
+### Unity consciousness
+
+We are much bigger than we realize. We feel helpless and small facing off against the problems of the world. But that feeling of smallness is an illusion. We are big, very big. But we forget. When enough of us remember it will awaken a new possibility. It has always been possible to save the world, we just need to remember we are one.
+
 ### A Bigger Dream
 
-We need to dream a bigger dream. Our way of living does not work. This calls for change. Radical change. We all know what needs to be done; we just are struggling to believe it possible. But imagine us coming together as a loving, supportive tribe that works together. That will be the core of it. There will be something that feels electric and right when it happens. People will flock to it because it is so much fun.
+It is time to dream a bigger dream. Our way of living does not work. This calls for change. Radical change. We all know what needs to be done; we just are struggling to believe it possible. But imagine us coming together as a loving, supportive, wise tribe. That will be the core of it. It will feel electric and right when it happens. People will flock to it because it is so much fun.
 
 Together, we will start telling ourselves a different story. That this could actually work. Work well enough that maybe we can start to dream a bigger dream than we have so far. Start to dream of what is possible if only enough of us could get out of our pain and step into the joy of service. And from there maybe we can step into a whole world of joy. Why not?
 
