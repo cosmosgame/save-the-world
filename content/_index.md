@@ -42,7 +42,7 @@ When I am hurting, my personal world collapses down. All I can manage is just to
 
 ### Unity consciousness
 
-We are much bigger than we realize. We feel helpless and small facing off against the problems of the world. But that feeling of smallness is an illusion. We are big, very big. But we forget. When enough of us remember it will awaken a new possibility. It has always been possible to save the world, we just need to remember we are one.
+We feel separate and alone. We feel helpless and small facing the problems of the world. But that is just a story we keep telling ourselves. In fact we are big, very big. But we forget. We think this work belongs to others not us. We await the next messiah, someone who is more qualified or capable than us. We forget that we are all one. It has always been possible to save the world, we just need to wake up from this trance of separation and smallness.
 
 ### A Bigger Dream
 

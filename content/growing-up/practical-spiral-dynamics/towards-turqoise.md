@@ -4,9 +4,9 @@ date: 2022-06-01T05:26:15Z
 draft: false
 weight: 70
 ---
-When I first learned about Spiral Dynamics I had an aha! moment. Finally I had a story that explained where I am at. I have been deepening into Yellow and now Turqoise is wanting to wake up in me. I initially hoped that simply telling people the Spiral Dynamics story would waken them to the same longing for Turqoise that I have. But nope. I feel like a popcorn kernel that has popped a little earlier than the rest. I hope and pray that it is just a matter of time before the rest of the kernels start popping so I can nestle in with them, but in the meantime it looks like I have some work to do.
+I long for a world of Turquoise. I initially hoped that simply telling people the Spiral Dynamics story would waken them to the same longing. But nope. Most people are not quite ready yet. I feel like a popcorn kernel that has popped a little earlier than the rest. I hope and pray that it is just a matter of time before the rest of the kernels start popping so I can nestle in with them, but in the meantime it looks like I have some work to do.
 
-How did I get to this point? I found a number of wise schools to guide me. These schools first guided me to a rich, deeply fulfilling life. I awake each morning to joy. Then they guided me into something even bigger than myself, and then finally they guided me to what I feel called to do. This is a powerful path to walk. Since you are probably at Yellow, you too are on this path. Please be willing to go even deeper. It can be very hard and scary at times, but there is enormous joy too.
+I want people to end up where I am. How did I get to this point? I found a number of wise schools to guide me. I was asked to seriously commit to a rich, deeply fulfilling life. And I did. I now awaken each morning to joy. Then I was taught to find something  bigger than myself, and then finally I woke up to what I am called to do. This is a powerful path to walk. Since you are probably at Yellow, you too are on this path. Please be willing to go even deeper. It can be very hard and scary at times, but there is enormous joy too.
 
 Do you remember the initial plan?
 
@@ -27,4 +27,4 @@ Showing Up is about figuring out what we came to Earth to do. And once we get re
 
 This place of sacred community lets us bring all parts of us forward. We bring our vibrant animal natures (Beige). We create sustainable, loving community (Purple). We step into those incredibly challenging conversations and confrontations (Red). We commit to those wild dreams of something greater than ourselves (Blue). We honor the beautiful Truth of science and reason to see more clearly (Orange). We heal the wounds of the oppressed and reclaim our natural equality (Green). We hone our Spiral wizadry to meet people where they are and actually get stuff done (Yellow). We wake up to our full strength and then look out to others (Turqoise). And then just maybe we can step into that [more beautiful world our hearts know is possible](https://charleseisenstein.org/books/the-more-beautiful-world-our-hearts-know-is-possible/).
 
-First step? Cleaning Up
+Next step? Cleaning Up
