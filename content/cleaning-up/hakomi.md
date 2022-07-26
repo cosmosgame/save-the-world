@@ -18,9 +18,12 @@ These principles are a foundation we can build on. They can be our North star to
 
 [Hakomi](https://hakomiinstitute.com/) started with five founding principles. Loving Presence was added [here](https://hakomiinstitute.com/about/hakomi-mindful-somatic-psychotherapy/the-hakomi-principles). Truth and Change were added [here](https://www.hakomica.org/about-hakomi/method-process). This brings us to eight principles which seems like the [right number]({{< relref "/posts/eight.md" >}}) to me.
 
-These principles guide a therapist when working with a client. But they also are principles that can guide the therapist to lead their own lives. So they are used for both Healing Up and Wising Up work. And in the Waking Up stage these principles can guide us into fully awakening into our full and highest potential.
+These principles guide a therapist when working with a client. But they also can guide our lives. So in other words, we can use them to guide us through our Healing Up work, but we also can use them for our Wising Up, and even Waking Up work as well.
 
 ## Non violence
+
+
+
 ## Mindfulness
 ## Mind/Body
 ## Truth

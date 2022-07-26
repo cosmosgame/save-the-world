@@ -1,0 +1,17 @@
+---
+title: "Crisis of Faith"
+date: 2022-07-04T09:26:15Z
+draft: false
+weight: 20
+---
+"I can't quite explain why, but I know what he is saying is not true". We were sitting in a grassy courtyard surrounded by the dark-grey University of Chicago walls. Grey, grey minds always peering down at you was how a friend described the walls, but it was sunny and we were sitting on a park bench looking at the surprisingly pretty, purple-grey pigeons hop around on the grass. We had just gotten out of class, and for some reason this brilliant young woman was taking me into her confidence. The class was a small freshman seminar based on the Great books. At the moment we were studying Immanuel Kant, a genius philosopher, who had written a book arguing very persuasively that morality could be explained entirely on the basis of rational, logical rules. He was saying, in other words, that any moral decision can be decided if you just think rationally enough about it.  I had found myself persuaded, but this young woman was not, and that is what we were talking about.
+
+She thought for a moment, searching for a way to explain herself. I sympathized with her - it was hard to argue against a genius.  "I know he's wrong because I tried to commit suicide, but I'm still alive. I chose to stay alive because I realized that life is good." I looked at her not knowing what to say. This was not the typical University of Chicago conversation. This school, more than most, treasured the clear calmness of pure rationality. It was why a lot of us had chosen the school. What she was saying was emotional and non-rational, and yet it felt incredibly powerful and vibrant. It had the smell of truth. But I also recognized the truth in what Immanuel Kant was saying -- along with all the other philosophers we were reading. How could such conflicting views both seem so right? Something was wrong here, but what? It was the start of my crisis of faith.
+
+If I'm in a lot of pain, should I commit suicide? -- what a deeply moral question, and yet how absurd to think that the answer should come just by thinking strictly rationally about it. What this woman was trying to tell me, I think, was not that life is always good and wonderful, but that something was telling her to keep on going. Some non-rational part of her recognized that simply being alive is good. And that voice kept her alive whereas if she had just listened to her rational, despairing mind she probably would be dead.
+
+She was rejecting the notion that morality was nothing more than another branch of mathematics. And yet that is exactly how University of Chicago students typically approached a problem. Our approach was to think about any question as purely rationally as possible. We believed that if we only peered deeply enough with our rational minds then Truth would be revealed.
+
+People tend to think of religion as worship of God, but I think it is more accurate to say it is based on faith. And in a real sense we were following an essentially religious path -- we were basing our lives on a discipline of deeply held faith. We had deep, deep faith in the power of Reason. But my faith was shaken. Reason alone was not getting me answers to important questions. Maybe I was on the wrong path?
+
+{{< figure src="/images/my-awakening/hitchcock.jpg" title="My dorm at University of Chicago. The conversation was in front of this building on a picnic bench." >}}
