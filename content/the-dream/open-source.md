@@ -25,7 +25,7 @@ A "Pull request" aka (PR) is when someone makes changes to their local version o
 
 ## Copyright
 
-The key legal innovation of open source is to use the very strong legal provisions of copyright law to sort of subvert capiitalism. How does it work? Anyone is allowed to use anything on this site. Copy anything you like. You are even encouraged to make money off this site if you can. But. If you use a chunk from this site, you are legally obligated to make your own site (or book or whatever) open source as well. That means that any original stuff that you come up with will also be available for others to copy and use as they see fit. Do you see how this makes the most sense for this kind of work? We need to come together as a community. And we need the freedom to pick and choose whatever content works best without worrying about copyrights.
+The key legal innovation of open source is to use the very strong legal provisions of copyright law to sort of subvert capitalism. How does it work? Anyone is allowed to use anything on this site. Copy anything you like. You are even encouraged to make money off this site if you can. But. If you use a chunk from this site, you are legally obligated to make your own site (or book or whatever) open source as well. That means that any original stuff that you come up with will also be available for others to copy and use as they see fit. Do you see how this makes the most sense for this kind of work? We need to come together as a community. And we need the freedom to pick and choose whatever content works best without worrying about copyrights.
 
 ## Dreamcatcher
 

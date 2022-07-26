@@ -27,7 +27,7 @@ Nothing written here is meant to be taken on faith. Please find the truth of eve
 
 ### Open to feedback
 
-Open source has shown that collobaration works best when people are able to listen to feedback without letting their ego get too much in the way. Any organization that we create needs to have this as a guiding principle. This can be one of the hardest things to achieve, but it is one of the more important.
+Open source has shown that collaboration works best when people are able to listen to feedback without letting their ego get too much in the way. Any organization that we create needs to have this as a guiding principle. This can be one of the hardest things to achieve, but it is one of the more important.
 
 Again, the willingness to admit that we are wrong is key here. It is especially important when trying to create something new like this because we will have to change our minds numerous times as we try to figure this all out.
 

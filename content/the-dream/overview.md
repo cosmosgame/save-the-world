@@ -13,9 +13,9 @@ First we need to be clear on where we are going. What do we truly want for this 
 
 ### Integral Theory
 
-The first step is getting our stories straight. The stories we have been telling ourself up to now have not been serving us. They have been keeping us helpless and isolated. We need to find a bigger story that brings us together. A story that gives us solid ground to stand on. Fortunately, I think much of this work has already been done. Ken Wilber is a brilliant philosopher who had the insight that it is more than past time to integrate all the different worlds of human experience into one integrated theory. Western philosopy, Eastern philosophy, Empiricism, Spirituality, Buddhism, and everything else all brought together as one. This theory is called Integral Theory. I find that it is a great foundation to build upon. It explains a lot of things well.
+The first step is getting our stories straight. The stories we have been telling ourself up to now have not been serving us. They have been keeping us helpless and isolated. We need to find a bigger story that brings us together. A story that gives us solid ground to stand on. Fortunately, I think much of this work has already been done. Ken Wilber is a brilliant philosopher who had the insight that it is more than past time to integrate all the different worlds of human experience into one integrated theory. Western philosophy, Eastern philosophy, Empiricism, Spirituality, Buddhism, and everything else all brought together as one. This theory is called Integral Theory. I find that it is a great foundation to build upon. It explains a lot of things well.
 
-This is his beautifully succint summary of the work we all need to do:
+This is his beautifully succinct summary of the work we all need to do:
 
 * Growing Up
 * Cleaning Up
@@ -29,7 +29,7 @@ There are two different (but related) things happening with Cleaning Up so I bre
 
 ### Growing Up
 
-Before we can change the world we have to really understand and model the vastly different ways people look at the world. We are missing a map to help us chart our way. We need to go deeper than just assuming that eveyone thinks about things pretty much like we do. They don't. Not even close in fact. And yet some how, some way we need to convince people to open their hearts wider and wider. How do we do that? First we need to meet them right where they are and talk to them in a language that works for them. There is a theory called Spiral Dynamics that I think is perfect for this. I think it works best as a story of our history. It describes the major stages that humanity has already gone through and offers some predictions on what wants to happen next. Each stage described in Spiral Dynamics builds on the next. We don't have to shift everyone, but we will need to shift as many people as we can before we can create the new culture that is needed.
+Before we can change the world we have to really understand and model the vastly different ways people look at the world. We are missing a map to help us chart our way. We need to go deeper than just assuming that everyone thinks about things pretty much like we do. They don't. Not even close in fact. And yet some how, some way we need to convince people to open their hearts wider and wider. How do we do that? First we need to meet them right where they are and talk to them in a language that works for them. There is a theory called Spiral Dynamics that I think is perfect for this. I think it works best as a story of our history. It describes the major stages that humanity has already gone through and offers some predictions on what wants to happen next. Each stage described in Spiral Dynamics builds on the next. We don't have to shift everyone, but we will need to shift as many people as we can before we can create the new culture that is needed.
 
 ### Cleaning Up
 
