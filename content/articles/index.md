@@ -191,7 +191,7 @@ draft: false
       - Turquoise
         - Showing up
         - All of me, All of you, All of us
-        - Turqoise organizations
+        - Turquoiseorganizations
           - Just starting to happen
   - Practical Spiral Dynamics
     - Caveats

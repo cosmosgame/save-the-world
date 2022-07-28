@@ -32,7 +32,7 @@ We have forgotten what Purple knows. It is now just too weird and harsh for most
 
 Somé talks about this in his book, [The Healing Wisdom of Africa](https://archive.org/details/healingwisdomofa00mali/mode/2up). He was ripped away from his family in Africa at the age of 4 by missionaries and put in a missionary school. He escaped 16 years later only to find he could no longer even speak the language of his Dagara people. The elders decided he should undergo the dangerous, traditional initiation even though he was now much older than the typical initiate. At first he struggles. He is too western now he thinks. And this is just too hard and weird. Talk to a tree? Crazy. The heat is unbearable, ants are crawling over him, and he is almost at the point of giving up but he finds himself humbly talking to the tree. And a Green woman steps out to embrace and bless him. His life is changed forever. I read the story from his book [here](https://youtu.be/h_SRgNOzufU).
 
-Purple is where we ultimately need to return to. We will need to revive this ancient wisdom, but without rejecting all the other stages. As with Beige, the other stages tend to dismiss this stage as primitive. Again, they are missing something very important. Hopefully Turqoise will lead us back here.
+Purple is where we ultimately need to return to. We will need to revive this ancient wisdom, but without rejecting all the other stages. As with Beige, the other stages tend to dismiss this stage as primitive. Again, they are missing something very important. Hopefully Turquoisewill lead us back here.
 
 ### Gifts
 

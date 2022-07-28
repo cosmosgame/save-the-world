@@ -54,7 +54,7 @@ Spiral Dynamics gives us a better story. It helps us put into context all that h
 
 Again, I am assuming that you are at Yellow and are committed to deepening into that work. You are not alone. Yellow is now well enough established that we can start to pull together some of the different schools and start to notice how much they share. Because you are Yellow, you more than most really get that there can't be just One True Way, but instead you will have to find the way that works for you. That said, there are some things that I wish I had been told. Things that would have
 
-The end goal is to get people up to Turqoise. Or at the very least help people deepen into their Yellow practice. We do that by getting people to truly love and embrace all the color stagesBefore we can fully step into the full solution we need to do these other steps as well. And just like Turqoise spirals back to Purple, Showing Up spirals back to Turquoise. We will find our way back to Growing Up but at a different level.
+The end goal is to get people up to Turqoise. Or at the very least help people deepen into their Yellow practice. We do that by getting people to truly love and embrace all the color stagesBefore we can fully step into the full solution we need to do these other steps as well. And just like Turquoisespirals back to Purple, Showing Up spirals back to Turquoise. We will find our way back to Growing Up but at a different level.
 
 ## Towards Yellow
 
