@@ -2,11 +2,11 @@
 title: "Towards Turqoise"
 date: 2022-06-01T05:26:15Z
 draft: false
-weight: 70
+weight: 72
 ---
-I long for a world of Turquoise. I initially hoped that simply telling people the Spiral Dynamics story would waken them to the same longing. But nope. Most people are not quite ready yet. I feel like a popcorn kernel that has popped a little earlier than the rest. I hope and pray that it is just a matter of time before the rest of the kernels start popping so I can nestle in with them, but in the meantime it looks like I have some work to do.
+I initially hoped that simply telling people the Spiral Dynamics story would wake them up to Turquoise. But nope. Most people are not quite ready yet. I feel like a popcorn kernel that has popped a little earlier than the rest. I hope and pray that it is just a matter of time before the rest of the kernels start popping so I can nestle in with them, but in the meantime it looks like I have some work to do.
 
-I want people to end up where I am. How did I get to this point? I found a number of wise schools to guide me. I was asked to seriously commit to a rich, deeply fulfilling life. And I did. I now awaken each morning to joy. Then I was taught to find something  bigger than myself, and then finally I woke up to what I am called to do. This is a powerful path to walk. Since you are probably at Yellow, you too are on this path. Please be willing to go even deeper. It can be very hard and scary at times, but there is enormous joy too.
+I want people to end up where I am. How did I get to this point? I found a number of wise schools to guide me. I was asked to seriously commit to a rich, deeply fulfilling life. And I did. I now awaken each morning to joy. Then I was taught to find something  bigger than myself, and then finally I woke up to what I am called to do. This is a powerful path to walk. Please walk with me.
 
 Do you remember the initial plan?
 
