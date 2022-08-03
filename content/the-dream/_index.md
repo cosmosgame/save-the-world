@@ -26,7 +26,7 @@ Does this sound too naive and simple? Consider the alternative. Particularly in 
 
 ### It is all the same work
 
-Wait you might be thinking. You started on climate change how did we end up on things like school shootings?
+Wait you might be thinking. You keep on switching back between things like school shootings and climate change. Aren't those very different things?
 
 Whether you are working on climate change, racism, patriarchy, or gun control in the end we are all doing the same work -- widening the circle of compassion to include all of us. Seriously, no kidding, all of us. And that includes the future generations that currently have no say in how we are treating the planet. They count too.
 

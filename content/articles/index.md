@@ -444,6 +444,7 @@ draft: false
       - Accept that change is inevitable
       - Creativity as a wisdom practice
     - Love
+      - Gratitude -- loving what is
       - preparation for Truth
       - My path from Atheism
       - Third level of love -- everything is Love
