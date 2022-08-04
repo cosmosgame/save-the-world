@@ -142,3 +142,7 @@ During the Trump presidency it felt like political commentators were crashing ar
 We need to stop and take the time to turn on the light and see where we are. What exactly are we bumping into? We see this Authoritarian mindset, are there other mindsets that are also driving the world? We need a map. If we truly want to succeed in winning hearts and minds we need to meet people where they actually are not where we think they should be. In my experience telling people that they are stupid and evil just has not been an effective way to get them to change. Have you had a different experience? This is where theory and models can help. We need a better understanding of why people do what they do. We need to bring our thinking minds in and go much deeper than we have.
 
 Later on I'm going to introduce a theory called Spiral Dynamics which has a very powerful explanation for much that we see in the world. It lets us understand people without resorting to just calling them stupid and evil. But right here I want to focus on the need for some theory period. Here are a few examples of questions any theory we adopt would have to help us answer:
+
+## My waking up
+
+I want people to end up where I am. How did I get to this point? I found a number of wise schools to guide me. I was asked to seriously commit to a rich, deeply fulfilling life. And I did. I now awaken each morning to joy. Then I was taught to find something bigger than myself, and then finally I woke up to what I am called to do. This is a powerful path to walk. Please walk with me.

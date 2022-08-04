@@ -21,9 +21,6 @@ These principles are a foundation we can build on. They can be our North star to
 These principles guide a therapist when working with a client. But they also can guide our lives. So in other words, we can use them to guide us through our Healing Up work, but we also can use them for our Wising Up, and even Waking Up work as well.
 
 ## Non violence
-
-
-
 ## Mindfulness
 ## Mind/Body
 ## Truth
@@ -31,5 +28,3 @@ These principles guide a therapist when working with a client. But they also can
 ## Organicity
 ## Unity
 ## Loving Presence
-
-Let's start with Healing up. The very, very first thing we need for healing is a safe place to do our work. And how do we create that? A deep commitment to non-violence. Hakomi starts here.
