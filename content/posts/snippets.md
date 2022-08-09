@@ -146,3 +146,7 @@ Later on I'm going to introduce a theory called Spiral Dynamics which has a very
 ## My waking up
 
 I want people to end up where I am. How did I get to this point? I found a number of wise schools to guide me. I was asked to seriously commit to a rich, deeply fulfilling life. And I did. I now awaken each morning to joy. Then I was taught to find something bigger than myself, and then finally I woke up to what I am called to do. This is a powerful path to walk. Please walk with me.
+
+## Mindfulness from truth
+
+So all of these schools are working to get people to their deeper Truth. Get them past whatever is blocking them from getting there. Without ever explicitly mentioning it they also are teaching people to get into the habit of always checking inside for their Truth. To get in the habit of paying attention to what is going on inside. Encouraging them to take frequent pauses to check in with themselves. There is a name for this practice -- it is call mindfulness. Let's talk about that next.
