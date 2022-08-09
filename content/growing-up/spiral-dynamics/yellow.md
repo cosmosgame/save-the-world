@@ -35,7 +35,7 @@ Ken Wilber calls this second tier the Integral stage. He points out that we no l
 
 ## Tick-Tock pendulum swings
 
-Then there is what I call the tick-tock part of Spiral Dynamics. Clare Graves noticed very early on that people's primary focus flips back and forth between individual concerns (eg. self expression) and group concerns (eg. sacrifice for the group). There is a necessary tension between those two concerns, and as we progress in developmental stages we find ourselves alternating between first making individual expression more important and then back to making group building more important.  But each developmental stage is "higher" than the last so we are spiralling between these two poles. The stages alternate between a focus on the individual (tick) and a focus on the group (tock).
+Then there is what I call the tick-tock part of Spiral Dynamics. The focus at each stage flips back and forth between the individual (tick) and the group (tock). But each each stage is "higher" than the last so we are spiraling between these two poles. 
 
 Beige woke us up as individuals - tick.  
 Purple gathered us together as tribe -- tock.  
