@@ -42,7 +42,7 @@ For example: "My partner is having this wonderful connection with their friend, 
 
 ## Mind/Body
 
-"Where do you feel it in your body?" This is the classic Hakomi question. I've asked my partner this question so many times it now has become a joke between us, and it is on the list of questions I never get to ask her again. But healing starts when we connect back to our body. Hakomi sessions get people to notice what is happening in our bodies. Mindfulness takes us to what is happening right now but then we want to know where do we feel it? Your heart? There is a pain there? It feels like a hand gripping too hard? OK, as much as you are able to please let yourself really feel that gripping hand. And then we deepen into that without knowing before hand exactly it is going to lead us, but trusting that the body knows.
+"Where do you feel it in your body?" This is the classic Hakomi question. I've asked my partner this question so many times it now has become a joke between us, and it is on the list of questions I never get to ask her again. But healing starts when we connect back to our body. Hakomi sessions get people to notice what is happening in our bodies. Where are you feeling this sadness? Your heart? There is a pain there? It feels like a hand gripping too hard? OK, as much as you are able to please let yourself really feel that gripping hand. And then we deepen into that without knowing where it is going to lead us, just trusting that the body knows.
 
 ## Organicity
 
@@ -52,7 +52,7 @@ The word "organicity" is admittedly a bit awkward, but this surrender to the pro
 
 ## Unity
 
-"I'm feeling a lot of sadness. Is there sadness here for you?" Quite often when I am working with a client, a strong, unexpected emotion might well up in me. If the feeling persists I check in with my client to see if they are in fact feeling, for example, sad. And quite often, yep, they are. We form a deep union with each other that goes way beyond simply the conscious parts of our minds. Therapists can use this to help intuit what is going on with their client to help better work with them.
+"I'm feeling a lot of sadness. Is there sadness here for you?" Quite often when I am working with a client, a strong, unexpected emotion might well up in me. If the feeling persists I check in with my client to see if they are in fact feeling, for example, sad. And quite often, yep, they are. We form a deep union with each other that goes way beyond simply the conscious parts of our minds. Therapists can use this to help intuit what is going on with their client to better work with them.
 
 And there is a deeper, spiritual level to Unity. I believe that everything is God (or the Universe if you prefer) and God (or the Universe) is Love. This is the core teaching of Center for Spiritual Living (CSL). And this is just another way of stating the Unity principle. We are all one. It is only illusion that we are not.
 
@@ -60,7 +60,7 @@ And there is a deeper, spiritual level to Unity. I believe that everything is Go
 
 Sometimes it is so scary to let go of our misery and pain. At least we can know what to expect. What happens if we let go of this certainty? Will we even survive? How can we know? We can't be absolutely certain, so we hold on tightly even though it hurts so much. Adults rarely change and if they do it is only because tremendous pain pushed them to that ultimate surrender. Like an alcoholic that has to hit rock bottom before they can rise again or perhaps die. Healing is not possible until we stop resisting change.
 
-Buddhists teach that change is inevitable. We will all die. Everyone we know and love will die. Many of our loved ones will die before we do. And those that are left get to grieve our death. This hurts. There is no avoiding this pain and yet we try. Try to hold on to the illusion that nothing changes if only we are careful enough. Try to hold off the pain instead of accepting it all the way in. That resistance brings brings tremendous, unnecessary suffering.
+Buddhists teach that change is inevitable. We will all die. Everyone we know and love will die. Many of our loved ones will die before we do. And those that are left get to grieve our death. This hurts. There is no avoiding this pain and yet we try. Try to hold on to the illusion that nothing changes if only we are careful enough. Try to hold off the pain instead of accepting it all the way in. Resisting this brings tremendous, unnecessary suffering.
 
 But change is not all grim talks of death and suffering. It is also the heart of creativity. We are creative beings and if we stifle the urge to create it deadens us. The times I have felt most alive is when I am creating something. I especially find joy when I am co-creating something with others.
 

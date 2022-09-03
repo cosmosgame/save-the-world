@@ -389,6 +389,15 @@ draft: false
         - Everything is God (or the Universe
       - Stop the self hate storms
       - mirror work
+    - Testing yourself
+      - Nonviolence -- mirror test
+      - Truth -- last time you admitted you were wrong
+      - Mindfulness -- ? meditation?
+      - Body -- weight, condition, sex
+      - Organicity -- ?
+      - Unity -- I am one with everything
+      - Change -- creativity, how much have you changed?
+      - Love -- how big is your love
   - Wising Up
     - everything is a lesson story
     - Personal growth mindset
