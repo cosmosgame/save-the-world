@@ -1,7 +1,12 @@
 # collection of snippets
 
+## Healing
+
+Just like that. The first step is quite pleasant -- learn to find a deep joy inside yourself. Deepen enough into that joy and you might find yourself surfacing back up into a world where we are truly one. Were your pain is mine and I can no longer ignore it. As I learn to love you, I learn to love myself. From that place miracles happen.
 
 ## Hakomi
+
+
 
 Body-Centered Psychotherapy
 
