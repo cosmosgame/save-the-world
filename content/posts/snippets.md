@@ -1,12 +1,14 @@
 # collection of snippets
 
+## Different healing paths
+
+So how do we teach people to find their pbody? It has to be experiential. People need to experience it in their bodies to truly understand it. But it won't be just one method.  Different approaches will work best for different people. For example, HAI does a fantastic job of getting people in intimate relationship with their body, but for many people getting naked in front of a group of strangers is just a non-starter. There is simply no way they are going to sign up for that. Similarly a sacred MDMA or mushroom journey can offer incredibly healing, but again for many people that kind of journey is way too scary. So we have to meet people where they are at. We will have to make sure that for each person we find things that helps them with diet, movement, sex, and substance abuse. Each person will have something tailored for them, and it will be part of an integrated plan -- not something that is held separate. Because all of our work is connected. We might think that maybe we just need to work on, for example, our relationship with our partner, but that is an illusion. As you work on that relationship you are also working on everything else.  What happens in our body affects our Mind. What happens in our Mind affects our body.
+
 ## Healing
 
 Just like that. The first step is quite pleasant -- learn to find a deep joy inside yourself. Deepen enough into that joy and you might find yourself surfacing back up into a world where we are truly one. Were your pain is mine and I can no longer ignore it. As I learn to love you, I learn to love myself. From that place miracles happen.
 
 ## Hakomi
-
-
 
 Body-Centered Psychotherapy
 
