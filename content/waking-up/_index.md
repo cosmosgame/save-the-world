@@ -4,38 +4,14 @@ date: 2021-29-07T05:26:15Z
 draft: false
 weight: 50
 ---
-(Not Started)
-- Waking Up
-  - Soulwork vs. Spirit work
-  - What has worked in the past?
-    - Gandhi
-    - Martin Luther King
-    - Christian awakening
-    - Moslem awakening
-    - Sikh awakening
-  - Mindful Self Compassion
-    - Final level
-    - Unity consciousness
-    - Everything is God (or the Universe)
-  - Spirituality at all color levels
-  - How do we know what is true?
-    - Spirituality does not have to be in conflict with science
-    - Magical thinking
-    - Need again for a model
-  - Quadrants
-    - UR
-    - UL
-    - LR
-    - LL
-    - Quadrant myopia
-      - UL
-      - UR
-      - LR
-      - LL
-    - Embrace all quadrants
-      - Tale of two churches
-        - CSL
-        - Unitarian
-  - Integral Spirituality
-    - Embrace all colors
-    - Embrace all quadrants
+In my early thirties I was working at a very stressful job at Microsoft back in its glory days and my daily long, hard run was my lifeline. It kept me sane. I didn't really time myself -- I ran for pure joy. And I was no longer able to run so hard. Heck I was even starting to have problems just walking. I was also having to pee all the time. My neck hurt. My HMO doctor trying to save money for the corporation quickly dismissed the problem as sitting with poor posture at my computer and sent me to a physical therapist. Which was complete nonsense. I still had excellent posture from my early Zen practice, and besides I really was in pain. Fortunately the physical therapist was competent and quickly recognized that something was very wrong and managed to get me into the then very expensive MRI lab. They put me in this narrow tube and scanned me for a long time. The scanning technician was astonished at how happy I was when they told me they had found a tumor. I was just so happy that we finally were getting to the truth of the matter.
+
+The tumor was taking over the c4 bone in my spine and if we did not take it out it was going to kill me. They were going to have to remove all the nerves coming out of the left side of the c4 plus a lot of the bone. That meant I was likely to lose a lot of functionality in my left arm. One doctor told me it was hopeless. A test book case of what happens when you remove so many nerves. Another, wiser doctor told me to not give up hope that the body will try very hard to find a way. My brother-in-law is a doctor and researched this particular kind of tumor. I found out later he told my parents the prognosis was not good so they were all very worried. My family came up for the surgery and to nurse me afterwards. Fortunatey they were there right before I went into surgery and got the nurse to recognize that I was swelling up bright red -- I was having a severe allergic reaction to an anti-biotic they had given me. Not an auspicious beginning.
+
+Coming out of surgery I was placed into the ICU late at night. The doctor (the wise one) had had to work many extra hours to tease out all of the tumor. It had really embedded itself. I had hoped maybe not all the nerves would need to be removed but that just was not possible. They were all gone. The good news was that the tumor was not malignant, and that I was still alive. Except for maybe my left arm the prognosis was now good. I lay in bed wondering about my arm. I remembered my mirror work and started to pour love into that poor arm. And I found I had a lot of love to give. So grateful for my arm, feeling compassion for the injury done to it. I eventually drifted towards sleep but in the bed next to me was an elderly man who was struggling. The nurse kept on coming in with a very calm, but urgent voice telling that man to breathe more. The implication was that if he didn't breathe more he was going to die right that night. I will never forget that nurse's voice calmly saying over and over "you need to breath more".
+
+There was a lull, and then out of nowhere I felt a kind of kiss on my left shoulder blade. It felt like an angel's kiss. A light bloomed from that side of the room until it enveloped the whole room with this amazing field of brilliant, shining love. It was incredible. I and the elderly man in the bed next to me were surrounded by oceans of love just begging to get in. For that brief moment, for whatever reason, I got to feel all of that ocean all at once. My world changed. We come from love and we return to love. I know this in my body now. We are one. This is not some abstract idea that sounds good. It is grounded in my body now and I know it to be true. My greatest desire is for everyone to know it. This is not just my gift but everyones. There is so much joy here. I long for everyone to find it.
+
+Now let's get to the really woo-woo part of the story. The light seemed to help the elderly man as well. This gift was not just for me. His breathing eased and the nurse did not have to come back and badger him to breathe more. The next day I tried to summon my courage and ask him if he had felt anything last night. I was too embarassed to clearly ask him about the light, but he did seem to indicate that something big had happened. After the surgery I was supposed to be in incredible pain and all I had to do was press a button to get a powerful morphine tablet to roll down a tube. I didn't need them. I felt great. The nurse was worried I was just maybe toughing it out, but I really was the best I had ever been. A good friend came in to visit me, and we both laughed and laughed when we realizd that I was giving aid and comfort to him instead of the other way around.
+
+The nerves really were gone. For three months I could not raise my left arm. I worked with my physical therapist to do what I could. Then, in a personal growth class while talking to my small group suddenly I was able to reach my left arm to the ceiling. The wise doctor had been right after all -- my body had found a way. I sent a boquet of roses to my physical therapist to celebrate. I don't actually think the angel's kiss magically healed me. What I do know is that anything held deeply in love has the potential to heal and grow. And there is a powerful magic in that.

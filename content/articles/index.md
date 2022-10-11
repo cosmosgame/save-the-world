@@ -394,7 +394,7 @@ draft: false
       - Truth -- last time you admitted you were wrong
       - Mindfulness -- ? meditation?
       - Body -- weight, condition, sex
-      - Organicity -- ?
+      - Organicity -- Intuition
       - Unity -- I am one with everything
       - Change -- creativity, how much have you changed?
       - Love -- how big is your love
@@ -435,6 +435,15 @@ draft: false
       - Love
         - preparation for the bigger Truth
         - Love everyone no kidding no exceptions (my story)
+    - Testing yourself
+      - Nonviolence -- non violent communicaton
+      - Truth -- Able to see other's truth?
+      - Mindfulness -- noticing others reactions?
+      - Body -- reaction to others in your body?
+      - Organicity -- noticing where the group wants to go
+      - Unity -- Unity consciousness
+      - Change -- Open to big cultural change
+      - Love -- Love the other as mirror
 - Waking Up
   - My angel story
   - Hakomi Principles as a spiritual basis
