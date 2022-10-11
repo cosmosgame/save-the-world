@@ -4,11 +4,11 @@ date: 2022-22-01T05:26:15Z
 draft: false
 weight: 90
 ---
-> “The hardest to learn was the least complicated”
- Indigo Girls
-
 > "All human behavior is either an act of love or a cry for love"
  Stan Dale
+
+> “The hardest to learn was the least complicated”
+ Indigo Girls
 
 We need to love and be loved. It all comes down to that. This is [not that complicated](https://open.spotify.com/album/08rSr5tinC3ZsQMPFgYuW4). Let's go back to Aaron Stark's story about how he almost became a school shooter. What saved him? Simply a friend's undemanding love. The friend wasn't trying to fix him, he just wanted to spend time with him. Even though he had lied to him and stolen from him, his friend was still there. Love freely given with no expectations. What a beautiful, simple but very powerful gift. What would the world look like if more people got the love they needed? Please sit with that thought for a moment. Maybe breathe into it. It really is the core of my plan -- my longing is for us to all get back to here. To that place where we feel loved and are willing to take the scary risk of loving others.
 
