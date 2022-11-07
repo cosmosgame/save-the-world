@@ -8,7 +8,7 @@ Before I continue let me first address some questions or concerns I suspect peop
 
 ### It encourages a sense of superiority
 
-This is maybe the biggest problem with this story. As soon as you set up a hierarchy people naturally want to be right at the top. I thought this didn't apply to me until someone dimissed me as merely Green. I was so upset! How dare they! Then I caught myself -- oops. Me too. But remember no stage is better than another. All the stages have deep wisdom, and we want to welcome all they have to offer. To get to where we want we will need all of those stages working together. Truly. But we are human and we will find ourselves going to that place of feeling superior. Just know that you will, catch yourself (with compassion) and then find your way back.
+This is maybe the biggest problem with this story. As soon as you set up a hierarchy people naturally want to be right at the top. I thought this didn't apply to me until someone dimissed me as merely Green. I was so upset! How dare they! Then I caught myself -- oops. Me too. But remember no stage is better than another. All the stages have deep wisdom, and we want to welcome all they have to offer. To get to where we want we will need all of the stages working together. Truly. But we are human and so we will find ourselves going to that place of feeling superior. Just know that you will, catch yourself (with compassion) and then find your way back.
 
 ### Spiral Dynamics is not established science
 
