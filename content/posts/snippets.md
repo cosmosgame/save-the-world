@@ -161,3 +161,11 @@ I want people to end up where I am. How did I get to this point? I found a numbe
 ## Mindfulness from truth
 
 So all of these schools are working to get people to their deeper Truth. Get them past whatever is blocking them from getting there. Without ever explicitly mentioning it they also are teaching people to get into the habit of always checking inside for their Truth. To get in the habit of paying attention to what is going on inside. Encouraging them to take frequent pauses to check in with themselves. There is a name for this practice -- it is call mindfulness. Let's talk about that next.
+
+### Thirty years
+
+For thirty years I have done nothing. Back in the 90's environmentalists knew a disaster was coming. The science was clear. And I did nothing. Each decade the scientists kept on coming back to report that it was even worse than we feared. And I did nothing. The reports got so bad I could not make myself read them. It hurt too much. If you read them carefully, you can hear the scientists screaming in anguish. And I still did nothing.
+
+No longer.
+
+I will not do nothing for another thirty years. I have been waiting for someone else to take care of it. That hasn't worked The world needs someone even as ordinary as me. No matter how hard it gets I can not imagine anything more painful than confessing to my grandchildren thirty years from now that yet again I stood by and did nothing.

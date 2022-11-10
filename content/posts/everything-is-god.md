@@ -6,7 +6,7 @@ draft: false
 
 Everything is God (the Universe) and God (the Universe) is love"
 
-Does this ring true to you? It is the core belief of the various New Thought religions such as the Centers for Spiritual Living (CSL) . The truth of these words live in my full body not just my head. Back when I was still an atheist I spent many Sundays in CSL church standing and crying as I awoke to this deeper truth. The words started me on the journey but the music they played at church is what got me there. Everything is God. Including me. Including you. Seriously, no-kidding everything.
+Does this ring true to you? It is the core belief of the various New Thought religions such as the Centers for Spiritual Living (CSL) . The truth of these words live in my full body not just my head. Back when I was still an atheist I spent many Sundays in CSL church standing in witness to the music and crying as I awoke to this deeper truth. The words started me on the journey but the music they played at church is what got me there. Everything is God. Including me. Including you. Seriously, no-kidding everything.
 
 #### Everything means everything
 
@@ -14,7 +14,7 @@ I'm always a little surprised when I tell people this belief and they just nod a
 
 #### Love your ego
 
-I see people arguing earnestly about how important it is to get rid of your ego. I find that alarming. Our ego is an important part of us and it serves us. It is there for a reason. They key is to notice how attached we can get to it and the suffering that can happen when we do. As an aside I confess it is deeply amusing to see people attack the ego in what (at least to me) seems like such an ego-full way.
+I see people arguing earnestly about how important it is to get rid of your ego. I find that alarming. Our ego is an important part of us and it serves us. It is there for a reason. The key is to notice how attached we can get to it and the suffering that can happen when we do. As an aside I confess it is deeply amusing to see people attack the ego in what (at least to me) seems like such an ego-full way.
 
 #### Love all the faces of God.
 

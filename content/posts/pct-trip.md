@@ -1,5 +1,5 @@
 ---
-title: "Hike the Pacific Crest Trail"
+title: "2022 Hike the Pacific Crest Trail"
 date: 2022-01-01T15:26:15Z
 draft: false
 ---
@@ -30,7 +30,7 @@ Interested but have questions? Ready to sign up? Send one of us an email:
 
 ## Itinerary
 
-We have reserved the campground at Lake Morena starting Saturday (4/16) and you are welcome to join us. Our trip officially starts at the campground at 1pm Sunday April 17. We will do our orientation and then take our first (short) hike. 
+We have reserved the campground at Lake Morena starting Saturday (4/16) and you are welcome to join us. Our trip officially starts at the campground at 1pm Sunday April 17. We will do our orientation and then take our first (short) hike.
 
 | Day              |  Date | Start           | End             | Camp                      | Distance (Options) |
 | ---------------- | ----- | --------------- | --------------- | ------------------------- | ------------------ |
