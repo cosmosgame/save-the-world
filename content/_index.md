@@ -44,7 +44,7 @@ Beyond that there are many teachings that can help us step into happiness even j
 
 ### Unity consciousness
 
-We feel separate and lonely. We feel helpless and small facing the problems of the world. But that is just a story we keep telling ourselves. In fact we are big, very big. But to get there we need to embrace all of ourselves. Not just the comfortable parts that get approval from others, but the darker hurting places as well. They need love too. Especially those parts. And when we embrace all of ourself it becomes possible to embrace all others. Even the ones that have hurt us. Even the ones that scare us and make us crazy angrty. The more we can have deep compassion for ourselves darkness and all, the more we can have compassion for others darkness and all.
+We feel separate and lonely. We feel helpless and small facing the problems of the world. But that is just a story we keep telling ourselves. In fact we are big, very big. But to get there we need to embrace all of ourselves. Not just the comfortable parts that get approval from others, but the darker hurting places as well. They need love too. Especially those parts. And when we embrace all of ourself it becomes possible to embrace all others. Even the ones that have hurt us. Even the ones that scare us and make us crazy angrt. The more we can have deep compassion for ourselves darkness and all, the more we can have compassion for others darkness and all.
 
 We think this work belongs to others not us. We await the next messiah, someone who is more qualified or capable than us. We forget that we are all one.
 
