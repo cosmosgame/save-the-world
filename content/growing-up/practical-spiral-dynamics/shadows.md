@@ -100,11 +100,11 @@ And because Yellow is such a strong pendulum swing back to individual focus (tic
 
 * arrogance
 * ego inflation
-* lack of group accountablity.
+* lack of true accountablity.
 
 ## Turqoise
 
-I don't know enough about Turquoiseto know what shadows it will have, but it will definitely have them. It is super important to recognize this and have compassion about the fact that we are all very imperfect. We all have blindspots (except me of course). Any movement inspired by Turquoise will need to welcome all voices, and to be especially careful to listen and respond to feedback. Especially when the feedback is hard to hear.  Hopefully, Turquoisewill learn from Yellow and not get caught in the trap of ego attachment, so that when Turquoisefucks up -- and it *will* fuck up -- the movement can self correct with compassion for all involved.
+I don't know enough about Turquoiseto know what shadows it will have, but it will definitely have them. It is super important to recognize this and have compassion about the fact that we are all very imperfect. We all have blindspots (except me of course). Any movement inspired by Turquoise will need to welcome all voices, and to be especially careful to listen and respond to feedback. Especially when the feedback is hard to hear.  Hopefully, Turquoisewill learn from Yellow and not get caught in the trap of ego attachment, so that when Turquoise fucks up -- and it *will* fuck up -- the movement can self correct with compassion for all involved.
 
 ### Shadows
 
