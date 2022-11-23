@@ -67,31 +67,41 @@ draft: false
 - The Plan for the Plan
     - Growing Up
     - Cleaning Up
-      - Healing up
-      - Wising Up
     - Waking Up
     - Showing Up
+    - Wising Up
+  - Basis
+    - Recognize the pain
+    - Step fully into the pain
+    - Awaken to something bigger
   - Growing Up
     - Spiral dynamics
     - New groups, new ways of organizing
   - Cleaning Up
     - Getting back to out authentic selves
-    - Healing Up
+    - Beige (Healing Up)
       - Healing our collective traumas
         - groups and individuals
-    - Wising Up
+    - Purple (Joining Up)
       - Personal growth mindset
   - Waking Up
-    - reclaiming spirituality
-      - ok if you don't yet feel comfortable with that
-    - Not saints -- a practice [TODO]
-       word
-    - Integral
-    - joy!
+    - Red
+      - Shadow work!
+    - Blue
+      - reclaiming spirituality
+        - ok if you don't yet feel comfortable with that
+      - Not saints -- a practice [TODO]
+         word
+      - Integral
+      - joy!
   - Showing Up
-    - Recognize the pain
-    - Step fully into the pain
-    - Awaken to something bigger
+    - Orange
+      - Embrace our science minds
+    - Green
+      - Brothers and sisters
+  - Wising Up
+    - Yellow
+    - Turquoise
   - [TODO] Deadline
     - Global warming
     - In denial of
@@ -333,24 +343,23 @@ draft: false
       - Vision quests
       - Art therapy
   - Hakomi Principles for healing
-  - Healing Up
+  - Beige Work
     - Aaron's ted talk
       - Stopping the cycle  
           - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
-    - Truth
-      - My very first vow
-      - Get curious
-      - Accountability is for later
-      - Ongoing practice -- leads to mindfulness
     - Non violence
       - Mirrors scared me
       - my acne story
       - preparation for Truth
+    - Truth
+      - Get curious
+      - Accountability is for later
+      - Ongoing practice -- leads to mindfulness
     - Mindfulness
       - basic hygiene
       - running in debug mode
       - need non-violence
-      - Both HAI and Hakomi teach this
+      - Budhism, HAI and Hakomi teach this
     - Mind/Body
       - It all starts in the body
       - Every emotion has a place in the body
@@ -398,7 +407,7 @@ draft: false
       - Unity -- I am one with everything
       - Change -- creativity, how much have you changed?
       - Love -- how big is your love
-  - Wising Up
+  - Purple Work
     - everything is a lesson story
     - Personal growth mindset
       - another fucking growth opportunity
@@ -407,16 +416,16 @@ draft: false
     - Mindful self compassion (second level)
       - Others are a mirror
     - Hakomi Principles as a life practice
-      - Truth
-        - Coyote
-        - Accountability
-          - Victim stories
       - Non violence
         - Dhali lhama anecdote
         - different schools of personal growth;
         - balance against narcissm
         - mirror work
         - consensus
+      - Truth
+        - Coyote
+        - Accountability
+          - Victim stories
       - Mindfulness
         - RAINING
         - Non attachment
@@ -446,11 +455,38 @@ draft: false
       - Love -- Love the other as mirror
 - Waking Up
   - My angel story
-  - Hakomi Principles as a spiritual basis
+  - Red work
+    - Non violence
+      - Safe place to know
+    - Truth
+      - We contain everything
+    - Mindfulness
+      - Notice our darkness
+    - Mind/Body
+      - Anger, fear, aggressivenes are not negative emotions
+      - Beserker Rage
+      - Notice how good they feel in the body
+    - Organicity
+      - Trusting ourselves to know
+    - Unity
+      - I am Hitler
+    - Change
+      - We need to conquer the world again
+      - Ukraine
+    - Love
+      - Gratitude -- loving what is
+      - preparation for Truth
+      - My path from Atheism
+      - Third level of love -- everything is Love
+  - Blue work
+    - Alchoholics Anonymous
+      - video?
+      - working the twelve steps
+      - how they match up to the Hakomi principles
+    - Non violence
+      - Surrender
     - Truth
       - Everything is god but really experiencing it
-    - Non violence
-      - Beyond good and evil
     - Mindfulness
     - Mind/Body
       - Do an assessment
