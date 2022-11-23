@@ -169,3 +169,7 @@ For thirty years I have done nothing. Back in the 90's environmentalists knew a 
 No longer.
 
 I will not do nothing for another thirty years. I have been waiting for someone else to take care of it. That hasn't worked The world needs someone even as ordinary as me. No matter how hard it gets I can not imagine anything more painful than confessing to my grandchildren thirty years from now that yet again I stood by and did nothing.
+
+### Joy
+
+Just about every morning I find myself in joy. A place of deep, sometimes even overwhelming happiness. It is hard to let it all in. Some days I go straight there, other days it takes a bit of processing, but I end up there never the less. And when I'm in that joy I find myself longing for others to join me. I long for the world to heal. It is what I want very

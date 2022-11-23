@@ -22,9 +22,8 @@ This is his beautifully succinct summary of the work we all need to do:
 * Waking Up
 * Showing Up
 
-There are two different (but related) things happening with Cleaning Up so I break that into two more parts:
+I add on one more:
 
-* Healing Up
 * Wising Up
 
 ### Growing Up
@@ -37,13 +36,7 @@ We start with our initial wounds as children and then over time we accumulate mo
 
 To get there, though, we have to do two things. First we have to heal (or at least address) our wounds. Then we need to learn a more skillful approach to life. These are very related practices but they require different approaches.
 
-#### Healing Up
-
-When we are in pain all we can do is focus on simple survival. Nothing else matters. We have to step out of our pain before we can start thinking in a bigger way. The urgency of our traumas demand attention.
-
-This requires a very gentle, safe approach. A trauma informed therapist can be of real help here. They can help people find where the trauma still lives in them. Where it still in fact lives in their body and then help them find their path to healing. If the wounds are deep enough (eg. PTSD) MDMA assisted therapy might be called for.
-
-#### Wising Up
+When we are in pain all we can do is focus on simple survival. Nothing else matters. We have to step out of our pain before we can start thinking in a bigger way. The urgency of our traumas demand attention. This requires a very gentle, safe approach. A trauma informed therapist can be of real help here. They can help people find where the trauma still lives in them. Where it still in fact lives in their body and then help them find their path to healing. If the wounds are deep enough (eg. PTSD) MDMA assisted therapy might be called for.
 
 Once we have done some of our healing work we next need to recognize that most of our suffering is completely unnecessary. We are caught up in trances and unskillful habits that do not serve us. If we adopt a personal growth mindset we can discover how much more joy we can live in. For example, Buddhists teach that if you are willing to do some very hard growth work there are incredible levels of joy you can get to. But Buddhism is not the only path. Integral theory brings in all the wisdom paths. We need to use these paths to teach the world how to step deeper into joy. Because it is when we are most in joy that we can most be in service.
 
@@ -55,7 +48,13 @@ The end goal, again, is to get people to open their hearts wider than they know 
 
 ### Showing Up
 
-The dragon roaring into the air is the first step of showing up. At first we fly alone. But then we dance in the sky with others. We start by recognizing our own strength and beauty. And then we fall down in awe and wonder as we recognize the astonishing majesty of others. We start to see that we are all one. The beauty I see in you is my beauty. But in the same way your pain is mine as well. And oh my there is so much pain! Now that I realize your pain is mine, it is so clear that something needs to shift but what? I think Buddha was one of the very first to Show Up. He taught us to first just recognize the pain, then step fully into the pain. And then finally we can awaken to something bigger.
+This is where we are take our place in the world. We are grounded in that sense of something bigger than ourself, but now it is time to make practical changes. The first step is to welcome our thinking mind. We very much need that part of us too. We need to come up with practical policies that might work. Things like universal basic income, and innovative econmic incentives to encourage emissions reduction.
+
+But this all has to be balanced with the recognition that our science brains can only get us so far. We have to make sure we are creating a just, sustainable world. We need to take into account things like how marginalized communites have always been the ones who bear the worst brunt of pollution. And we have a very long way to go before woman are not marginalized. The woman of Iran are currently leading the way in how to Show Up.
+
+### Wising Up
+
+The dragon roaring into the air is the first step of wising up. At first we fly alone. But then we dance in the sky with others. We start by recognizing our own strength and beauty. And then we fall down in awe and wonder as we recognize the astonishing majesty of others. We start to see that we are all one. The beauty I see in you is my beauty. But in the same way your pain is mine as well. And oh my there is so much pain! Now that I realize your pain is mine, it is so clear that something needs to shift but what? I think Buddha was one of the very first to Wise Up. He taught us to first just recognize the pain, then step fully into the pain. And then finally we can awaken to something bigger.
 
 #### Recognize the Pain
 
