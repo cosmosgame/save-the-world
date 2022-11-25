@@ -1,5 +1,5 @@
 ---
-title: "Towards Turqoise"
+title: "Towards Turquoise"
 date: 2022-06-01T05:26:15Z
 draft: false
 weight: 72
@@ -24,6 +24,8 @@ Waking Up is about stepping into something bigger than ourselves. But when I tal
 
 Showing Up is about figuring out what we came to Earth to do. And once we get really clear on that we will also get clear that we can not do it alone. We need others to wake up to what it is they are here for and then for them too to realize they can't get there on just their own. We are going to have to get there together. We need to come together as one in community.
 
-This place of sacred community lets us bring all parts of us forward. We bring our vibrant animal natures (Beige). We create sustainable, spiritual, loving community (Purple). We step into those incredibly challenging conversations and confrontations (Red). We commit to those wild dreams of something greater than ourselves (Blue). We honor the beautiful Truth of science and reason to see more clearly (Orange). We tend to the wounds of the oppressed and reclaim our natural equality (Green). We hone our Spiral wizardry to meet people where they are and actually get stuff done (Yellow). We wake up to our full strength and then look out to others (Turquoise). And then just maybe we can step into that [more beautiful world our hearts know is possible](https://charleseisenstein.org/books/the-more-beautiful-world-our-hearts-know-is-possible/).
+This place of sacred community lets us bring all parts of us forward. We bring our vibrant animal natures (Beige). We create sustainable, spiritual, loving community (Purple). We step into those incredibly challenging conversations and confrontations (Red). We commit to those wild dreams of something greater than ourselves (Blue). We honor the beautiful Truth of science and reason to see more clearly (Orange). We tend to the wounds of the oppressed and reclaim our natural equality (Green). We hone our Spiral wizardry to meet people where they are and actually get stuff done (Yellow). We wake up to our full strength and then look out to others (Turquoise). And then just maybe we can step into that [more beautiful world our hearts know is possible][1].
 
 Next step? Cleaning Up
+
+[1]:	https://charleseisenstein.org/books/the-more-beautiful-world-our-hearts-know-is-possible/

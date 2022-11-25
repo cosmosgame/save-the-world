@@ -16,7 +16,7 @@ weight: 30
 
 These principles are a foundation we can build on. They can be our North star to help guide us when we get lost. They work together. All of them are necessary. If a Hakomi session didn't go well, students are taught to look to the principles to see what was missing. This brings us back to systems thinking. Asking "why?" to go deeper and deeper so that we can embrace all parts of the system.
 
-[Hakomi](https://hakomiinstitute.com/) started with five founding principles. Loving Presence was added [here](https://hakomiinstitute.com/about/hakomi-mindful-somatic-psychotherapy/the-hakomi-principles). Truth and Change were added [here](https://www.hakomica.org/about-hakomi/method-process). This brings us to eight principles which seems like the [right number]({{< relref "/posts/eight.md" >}}) to me.
+[Hakomi][1] started with five founding principles. Loving Presence was added [here][2]. Truth and Change were added [here][3]. This brings us to eight principles which seems like the [right number]({{\< relref "/posts/eight.md" \>}}) to me.
 
 These principles guide a therapist when working with a client. But they also can guide our lives. We can use them to guide us on how to do our ongoing Healing Up work. We also can use them as a foundation for the life practices of Wising Up. We can even use them for inspiration when finding our way to spirt and soul in our Waking Up work.
 
@@ -69,3 +69,7 @@ But change is not all grim talks of death and suffering. It is also the heart of
 Love is the base. Everything has to be built on top of this. In Hakomi we were taught to build a loving "bubble" between ourselves and our client. In HAI it comes from the deep love from the facilitators and the team. They are all there because they are deeply committed to love and together they create the same "bubble" but for an entire room. The very first thing the facilitators do is to model loving, tender connection with each other. So people can experience what it looks like.
 
 We explicitly encourage people to be loving both towards themselves and towards others. We model loving people no matter what comes up for them. No one is made wrong. Facilitators (and hopefully team) model always speaking from their heart. Simply declaring from the heart that this is the Room of Love opens it up as a possibility.
+
+[1]:	https://hakomiinstitute.com/
+[2]:	https://hakomiinstitute.com/about/hakomi-mindful-somatic-psychotherapy/the-hakomi-principles
+[3]:	https://www.hakomica.org/about-hakomi/method-process

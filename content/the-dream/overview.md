@@ -32,7 +32,7 @@ Before we can change the world we have to really understand and model the vastly
 
 ### Cleaning Up
 
-We start with our initial wounds as children and then over time we accumulate more and more junk inside of ours ourselves that hides us from our true nature. In Spirited Away there is a [wonderful scene](https://www.facebook.com/FansOfStudioGhibli/videos/spirited-away-bathhouse-clip/493650414055324/) where an incredibly stinky spirit comes to the bathhouse for help. At first it looks hopeless. Why waste good medicinal water on something so dirty as that? But the heroine, Sen, bravely persists in trying to help. Then it becomes clear that there is something stuck to the spirit that doesn't belong (it looks like a bicycle handle). The entire bathhouse community joins together to help pull this thing out. And as they pull more and more stuff keeps coming out. A lifetime accumulation of junk comes pouring out. Until there is just one more tug and a "pop" and all we are left with is the spirit's true, smiling nature. We all need to pull out this wounded junk of a lifetime to get back to our true, shining nature.
+We start with our initial wounds as children and then over time we accumulate more and more junk inside of ours ourselves that hides us from our true nature. In Spirited Away there is a [wonderful scene][1] where an incredibly stinky spirit comes to the bathhouse for help. At first it looks hopeless. Why waste good medicinal water on something so dirty as that? But the heroine, Sen, bravely persists in trying to help. Then it becomes clear that there is something stuck to the spirit that doesn't belong (it looks like a bicycle handle). The entire bathhouse community joins together to help pull this thing out. And as they pull more and more stuff keeps coming out. A lifetime accumulation of junk comes pouring out. Until there is just one more tug and a "pop" and all we are left with is the spirit's true, smiling nature. We all need to pull out this wounded junk of a lifetime to get back to our true, shining nature.
 
 To get there, though, we have to do two things. First we have to heal (or at least address) our wounds. Then we need to learn a more skillful approach to life. These are very related practices but they require different approaches.
 
@@ -48,9 +48,9 @@ The end goal, again, is to get people to open their hearts wider than they know 
 
 ### Showing Up
 
-This is where we are take our place in the world. We are grounded in that sense of something bigger than ourself, but now it is time to make practical changes. The first step is to welcome our thinking mind. We very much need that part of us too. We need to come up with practical policies that might work. Things like universal basic income, and innovative econmic incentives to encourage emissions reduction.
+This is where we are take our place in the world. We are grounded in that sense of something bigger than ourself, but now it is time to make practical changes. The first step is to welcome our thinking mind. We very much need that part of us too. We need to come up with practical policies that might work. Things like universal basic income, and innovative economic incentives to encourage emissions reduction.
 
-But this all has to be balanced with the recognition that our science brains can only get us so far. We have to make sure we are creating a just, sustainable world. We need to take into account things like how marginalized communites have always been the ones who bear the worst brunt of pollution. And we have a very long way to go before woman are not marginalized. The woman of Iran are currently leading the way in how to Show Up.
+But this all has to be balanced with the recognition that our science brains can only get us so far. We have to make sure we are creating a just, sustainable world. We need to take into account things like how marginalized communities have always been the ones who bear the worst brunt of pollution. And we have a very long way to go before woman are not marginalized. The woman of Iran are currently leading the way in how to Show Up.
 
 ### Wising Up
 
@@ -73,3 +73,5 @@ I then awaken to this vast, shared consciousness that is trying to figure out wh
 And then I circle back to where I started -- that childlike sense of awe and wonder. That knowing that the world can be very, very beautiful. But it takes a magic wish to start it all.
 
 Ready to start this magic journey with me?
+
+[1]:	https://www.facebook.com/FansOfStudioGhibli/videos/spirited-away-bathhouse-clip/493650414055324/

@@ -10,7 +10,7 @@ In the sections to come I am going to tell my healing and growth stories. Here I
 
 ## Hakomi
 
-[Hakomi](https://hakomiinstitute.com/) is a beautiful form of body centered, talk therapy. The question asked over and over again in different ways is "Where are you feeling this in your body?". And then you are invited to deepen into that. It is the only form of talk therapy that has ever worked for me. A typical Hakomi sessions takes the client way, way deep into themselves. They enter a liminal state of here and now. Here in their body, deep into all their hidden parts. To get there the client has to know how safe and welcomed all parts of them are. How even those pesky defenses they have are welcomed and celebrated. And it is at these deeper layers that we find where we formed our core beliefs, our core stories, and now we have the choice to choose a new story.
+[Hakomi][1] is a beautiful form of body centered, talk therapy. The question asked over and over again in different ways is "Where are you feeling this in your body?". And then you are invited to deepen into that. It is the only form of talk therapy that has ever worked for me. A typical Hakomi sessions takes the client way, way deep into themselves. They enter a liminal state of here and now. Here in their body, deep into all their hidden parts. To get there the client has to know how safe and welcomed all parts of them are. How even those pesky defenses they have are welcomed and celebrated. And it is at these deeper layers that we find where we formed our core beliefs, our core stories, and now we have the choice to choose a new story.
 
 After you have done some healing work, some people feel called to service. To learn how to provide this amazing healing service to others. The Hakomi Institute offers many classes and they are open to everyone. They range from one day workshops to a two year program. I did the two year program. Each year we had ten three day weekends. Those weekends felt like a personal growth weekend to me. They taught us the Hakomi principles, and kept on coming back to them throughout. These principles are a sound foundation to build a life on. And it turns out that they are shared by the other schools as well (even if the other school aren't explicitly aware of them).
 
@@ -32,7 +32,7 @@ After you have done the levels, if you want to go deeper there is the call to se
 
 ## Forest Bathing
 
-This school of healing was inspired by the Japanese practice of forest "bathing". [ANFT](https://www.natureandforesttherapy.earth/) certified trainers take people out on very gentle nature walks. Participants are invited to slow down and connect their body with the more than human world. They step into a liminal state of here and now, in relationship to all the beings surrounding them. It provides safe support and structure to connect with the natural world. After every invitation, people come back to a circle and are invited to do a short, heart based share of what they just experienced. Hearing from others helps people to go even deeper into the experience
+This school of healing was inspired by the Japanese practice of forest "bathing". [ANFT][2] certified trainers take people out on very gentle nature walks. Participants are invited to slow down and connect their body with the more than human world. They step into a liminal state of here and now, in relationship to all the beings surrounding them. It provides safe support and structure to connect with the natural world. After every invitation, people come back to a circle and are invited to do a short, heart based share of what they just experienced. Hearing from others helps people to go even deeper into the experience
 
 After rediscovering their intimate, vital relationship with nature, some people feel called to service. To learn how to guide others to find themselves in the natural world. ANFT offers a six month certification class followed by a four day immersion retreat to train people to lead forest therapy walks. Although ANFT doesn't have an explicit set of principles, they might as well adopt Hakomi's. They would fit perfectly.
 
@@ -41,3 +41,6 @@ After rediscovering their intimate, vital relationship with nature, some people 
 In college, I desperately dived into Zen meditation to escape my anxiety. It worked beautifully. Zen opened me to a spirituality free from religious dogma. But most practitioners did not seem fully happy. Zen had only half the answers I was looking for. And I went on to other things. But it had a profound impact on me. Later I started to read Jack Kornfield and Tara Brach and I discovered that they follow a practice (called RAIN or RAINING) that is almost exactly the same as Hakomi! And yet again the principles are the same.
 
 So what are these principles I keep on talking about?
+
+[1]:	https://hakomiinstitute.com/
+[2]:	https://www.natureandforesttherapy.earth/

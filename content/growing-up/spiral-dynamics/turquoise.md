@@ -11,7 +11,7 @@ weight: 80
     <th>Social construct</th>
     <th>Cause worth dying for</th>
   </tr>
-  <tr id="Turqoise">
+  <tr id="Turquoise">
     <td>Turqoise</td>
     <td>PromisedLand</td>
     <td>Just starting to emerge</td>
@@ -23,7 +23,7 @@ After finding our vast strength in Yellow we start to really open up to all that
 
 Turquoise as a societal construct is not yet here. There is no history I can point to. So we don't really know yet exactly what Turquoise is going to look like. But we do have the pattern of what has happened up to now to give us some important clues. We know that this stage will be the (tock) return to community. And just like Yellow revisits Beige at a higher stage, Turquoise revisits Purple. We will know Turquoise has arrived by its awesome, legendary parties. Burning Man might be an early yearning towards this. Just like Purple was the start of religion, Turquoise almost certainly will see the rebirth of an enlightened form of religion. It will be a practice of spirit that deeply nourishes and strengthens. And we will become bad-asses once more.
 
-Turquoise is like a prophecy in a story. It is a dream of what we hope and pray will come. And it can be our intention. Our guide of what needs to happen in order for the world to flourish. But even though Turquoiseis not yet fully here I do see some signs of it starting to emerge. Valerie Kaur's [Revolutionary Love Project](https://valariekaur.com/revolutionary-love-project/) is one example.
+Turquoise is like a prophecy in a story. It is a dream of what we hope and pray will come. And it can be our intention. Our guide of what needs to happen in order for the world to flourish. But even though Turquoise is not yet fully here I do see some signs of it starting to emerge. Valerie Kaur's [Revolutionary Love Project][1] is one example.
 
 Please watch her Ted talk. It is a great review of everything I have talked about so far. I sincerely doubt that she is aware of Spiral Dynamics, but that makes this even more compelling of an example. She takes us through all the stages and ends with a call for us all to unite to save the world.
 
@@ -54,9 +54,11 @@ She talks about her inspiring social justice work; amazing, vibrant Green
 ### Yellow
 She talks about her inner work of learning to love herself; awakening, deepening Yellow
 
-### Turqouise
-And then she looks up and out to call all of us to join her; triumphant Turqoise
+### Turquoise
+And then she looks up and out to call all of us to join her; triumphant Turquoise
 
 Notice how lovingly she talks about all the stages. This is a key difference from Yellow. Instead of just tolerating the other stages and working with them, Turquoise actively loves all the stages and celebrates them. Notice how she asks us to first find our strength within (breathe and push) first before then looking out to others. Turquoise can only emerge after people have done the hard individual Yellow work first.
 
 I find it incredibly hopeful that this stage is just starting to awaken exactly at the exact point when we need it most. We have a choice. We already have enough food to feed the world, but we choose not to. We already have enough medicine to heal all the world's sick, but we choose not to. We already have the technology to completely stop C02 emissions, but we choose not to. We are not lacking in resources or technology. What we are missing is that bigger consciousness. Way too many of us are still asleep.  This stage, if it arrives in time, will wake us up.
+
+[1]:	https://valariekaur.com/revolutionary-love-project/

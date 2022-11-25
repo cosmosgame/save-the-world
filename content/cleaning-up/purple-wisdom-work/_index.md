@@ -1,0 +1,50 @@
+---
+title: Purple wisdom work
+date: 2021-29-07T05:26:15Z
+draft: false
+weight: 50
+---
+- Wising Up
+  - Personal growth mindset
+  - Mindful Self Compassion
+	- second level of three
+	- What you don't love in others..
+	  - mirror work with others
+	- Loving others as self (mirror work)
+	- Preparation for Truth
+  - Hakomi Principles
+	- Hakomi intro
+	- RAINING
+	  - recognize
+	  - acceptance
+	  - investigate
+	  - nurture/needed experience
+	  - integrate
+	  - not-me
+	  - greet/grow
+	- Love
+	  - should be included
+	  - preparation for Truth
+	- Non violence
+	  - different schools of personal growth; "pop-it"
+	- Truth
+	  - Coyote
+	  - Accountability
+		- Victim stories
+	- Mindfulness
+	- Mind/Body
+	- Organicity
+	- Unity
+	- Change
+	  - Accept that change is possible
+	  - Accept that change is inevitable
+	  - Creativity
+  - Accountability
+	- Victim mindset
+	- Empowered victim
+  - Intraverts vs. Extraverts
+	- Not an either or
+	- Healing individual
+	- Healing with groups
+	- Our society needs much more empahsis on the group
+	  - cohousing

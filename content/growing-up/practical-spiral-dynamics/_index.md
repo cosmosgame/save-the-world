@@ -1,5 +1,5 @@
 ---
-title: "Practical Spiral Dynamics"
+title: Practical Spiral Dynamics
 date: 2021-08-14T05:26:15Z
 draft: false
 weight: 20
@@ -8,7 +8,7 @@ Before I continue let me first address some questions or concerns I suspect peop
 
 ### It encourages a sense of superiority
 
-This is maybe the biggest problem with this story. As soon as you set up a hierarchy people naturally want to be right at the top. I thought this didn't apply to me until someone dimissed me as merely Green. I was so upset! How dare they! Then I caught myself -- oops. Me too. But remember no stage is better than another. All the stages have deep wisdom, and we want to welcome all they have to offer. To get to where we want we will need all of the stages working together. Truly. But we are human and so we will find ourselves going to that place of feeling superior. Just know that you will, catch yourself (with compassion) and then find your way back.
+This is maybe the biggest problem with this story. As soon as you set up a hierarchy people naturally want to be right at the top. I thought this didn't apply to me until someone dismissed me as merely Green. I was so upset! How dare they! Then I caught myself -- oops. Me too. But remember no stage is better than another. All the stages have deep wisdom, and we want to welcome all they have to offer. To get to where we want we will need all of the stages working together. Truly. But we are human and so we will find ourselves going to that place of feeling superior. Just know that you will, catch yourself (with compassion) and then find your way back.
 
 ### Spiral Dynamics is not established science
 
@@ -30,7 +30,7 @@ The theory assumes that each stage is a reaction to the one before it. So you ca
 
 ### These are not the only stages
 
-We are all better at some things than others. A plumber knows way more about plumbing than me, but I know more about programming. Maybe you know more about spirit, but maybe I know more about personal growth. I might be at a "higher" stage than someone, but that does not make me superior. It just means I can see some things they don't. Let's try a thought experiment. Imagine me in my 40's, struggling in my marriage, joining the Peace Corp and getting sent to work with a tribal shaman to stop a contagious disease breakout. That shaman will hopefully be wise enough to recogize they should listen to me on how to stop the spread of the disease. On the other hand I hope I would be wise enough to listen to the shaman about pretty much everything else. There was so much I needed to learn. I might have been able to see some things (but not all!) more clearly about disease, but that in no way makes me superior to the shaman. There are so many important things to know; these spiral dynamic stages are just one of them.
+We are all better at some things than others. A plumber knows way more about plumbing than me, but I know more about programming. Maybe you know more about spirit, but maybe I know more about personal growth. I might be at a "higher" stage than someone, but that does not make me superior. It just means I can see some things they don't. Let's try a thought experiment. Imagine me in my 40's, struggling in my marriage, joining the Peace Corp and getting sent to work with a tribal shaman to stop a contagious disease breakout. That shaman will hopefully be wise enough to recognize they should listen to me on how to stop the spread of the disease. On the other hand I hope I would be wise enough to listen to the shaman about pretty much everything else. There was so much I needed to learn. I might have been able to see some things (but not all!) more clearly about disease, but that in no way makes me superior to the shaman. There are so many important things to know; these spiral dynamic stages are just one of them.
 
 Are there more questions or concerns? Let me know and I will add them here.
 
