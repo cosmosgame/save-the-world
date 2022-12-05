@@ -1,6 +1,6 @@
 ---
 title: Purple wisdom work
-date: 2021-29-07T05:26:15Z
+date: 2021-07-09T05:26:15Z
 draft: false
 weight: 50
 ---

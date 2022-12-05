@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 > “We cannot solve our problems with the same thinking we used when we created them.”
->
+> 
 > Albert Einstein.
 
 # Welcome!
@@ -22,7 +22,7 @@ The situation is quite scary and there are excellent reasons why we might choose
 
 My first grandson was born recently, and I am so grateful to now be a grandfather. I find my focus as grandfather is now less on myself and more towards the health of the tribe. And it is not looking so good. The reports on global warming are now so bad I no longer can read them. We are blasting past the temperature that scientists thought might let us continue on as somewhat normal. That is no longer going to happen. Now we will have to adapt to a very different climate and we already have failed our first tests. Syria collapsed in large part because of climate change droughts and sent desperate immigrants to Europe. Those immigrants sparked the rise of authoritarian parties in Europe demanding racial purity. Drought in Guatemala forced people to flee to the U.S. and helped fuel the rise of MAGA anti-immigration craziness. It is only going to get worse from here. Things are going to change. If we don't start helping and caring for each other it could start a cascading failure where one thing leads to the next and then billions of people die. That is a very real possibility.
 
-Let's pause here. I know it might seem like a weird question, but where do you feel all of this in your body? As I wrote this I felt pain in my stomach and a strong tension in my neck and shoulders. That's fear. I'm scared. Really scared and it hurts. It is hard to just sit with this pain. Up to now I have had lots of strategies to push off the pain. I made it someone else's problem. I let myself off the hook by going to helplessness. Nothing I can do, not my fault. But now I'm holding my grandson who is the world to me and thinking about what kind of world he is going to live in. All my evasions are no longer good enough -- I see them for what they are. And actually I am grateful for them. They have kept me from getting crushed with anxiety. Stepping out from their protection feels tremendously vulnerable. And it is completely OK for you to have your own armour. I don't want you crushed by the weight of all this. Please protect yourself. And yet I am asking you to lower your armour just a tiny bit. Asking you to, what Brenee Brown calls [embrace the suck of vulnerability](https://www.youtube.com/watch?v=jDyeqihHVDY).
+Let's pause here. I know it might seem like a weird question, but where do you feel all of this in your body? As I wrote this I felt pain in my stomach and a strong tension in my neck and shoulders. That's fear. I'm scared. Really scared and it hurts. It is hard to just sit with this pain. Up to now I have had lots of strategies to push off the pain. I made it someone else's problem. I let myself off the hook by going to helplessness. Nothing I can do, not my fault. But now I'm holding my grandson who is the world to me and thinking about what kind of world he is going to live in. All my evasions are no longer good enough -- I see them for what they are. And actually I am grateful for them. They have kept me from getting crushed with anxiety. Stepping out from their protection feels tremendously vulnerable. And it is completely OK for you to have your own armor. I don't want you crushed by the weight of all this. Please protect yourself. And yet I am asking you to lower your armor just a tiny bit. Asking you to, what Brenee Brown calls [embrace the suck of vulnerability][1].
 
 Because disaster is not inevitable. Even as some farming areas fail others like Siberia might open up. We probably can grow enough food for everyone, but only if we learn to share. But that is going to require a massive cultural change that requires everyone. Even someone as ordinary as me. Even you. Opening up to this hope and caring is tremendously vulnerable. It is an enormous ask. I can't promise you won't get hurt, but please know it feels so much better to directly face the fear together.  With all my heart I want my daughter to have children if that is what she wants. Her children will help heal this world. But they are going to need our help.
 
@@ -30,7 +30,7 @@ How do we give her children the tools they will need? We first need to investiga
 
 Apparently, the best way to get an answer to a question on the internet is to answer the question wrong. That provokes people to correct you. It is quite amusing, but it seems to work. So in that spirit I am going to provide my own answer to the question. If you have a better solution -- great! you have no idea how eager I am to hear it.
 
-What do we need to make [the more beautiful world our hearts know is possible](https://charleseisenstein.org/books/the-more-beautiful-world-our-hearts-know-is-possible/)?
+What do we need to make [the more beautiful world our hearts know is possible][2]?
 
 ### A Better Story
 
@@ -57,3 +57,6 @@ Together, we will start telling ourselves a different story. That this could act
 I can't guarantee that we will get there. The possibility of failure is always very real, but I would not be creating this website if I did not truly, truly believe it is possible. The very first step is to hope. Are you willing to take that risk with me?
 
 To care? I think I do know what I'm asking of you. Please join me anyways.
+
+[1]:	https://www.youtube.com/watch?v=jDyeqihHVDY
+[2]:	https://charleseisenstein.org/books/the-more-beautiful-world-our-hearts-know-is-possible/
