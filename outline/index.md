@@ -1,0 +1,773 @@
+- Welcome
+  - Welcome and thanks
+  - Saving the world
+    - We know we have a problem, well documented
+    - We are on a deadline
+      - Cascade. Syria
+    - Jaiya's question
+  - There is hope
+    - Acknowledge hopelessness
+    - theory advances
+    - psychological advances
+    - medicine advances
+    - spiritual advances
+- The Dream
+  - what do I really want?
+  - we already know
+  - let the children guide us
+  - Generational trauma
+    - protect the children
+    - stop the cycle (or at least dampen it)
+  - Same goal
+    - Widen circle of compassion
+      - What is blocking this?
+        - world view
+        - wounds and trauma
+        - spiritual poverty
+  - Who Am I?
+    - Purpose?
+    - Software engineer, personal growth, spiritual awakening
+      - mind,body, and heart
+      - [TODO] environmentalist
+      - many paths
+      - all of me, all of you, all of us
+      - lead by example
+      - learnings (briefly mention, link to other page)
+      - comfortable bringing together theories
+      - simplify
+      - focus on practical, measurable results
+      - [TODO] humble is hopeful
+      - Open source leading the way
+  - Open Source
+    - Surprising success
+    - Harness all of us
+      - place where we
+    - Feedback
+      - comments
+      - bugs
+      - PR's
+    - Community
+    - Promises
+      - Simplicity
+        - Value your time
+        - simplify
+      - Practical, solution based
+        - No more theory than strictly needed
+        - do the reading for you
+      - Kaizen
+        - Japan
+        - no ego
+        - feedback
+      - Based in the heart, but no magic
+  - The Plan for the Plan
+      - Growing Up
+      - Cleaning Up
+      - Waking Up
+      - Showing Up
+      - Wising Up
+    - Basis
+      - Recognize the pain
+      - Step fully into the pain
+      - Awaken to something bigger
+    - Growing Up
+      - Spiral dynamics
+      - New groups, new ways of organizing
+    - Cleaning Up
+      - Getting back to out authentic selves
+      - Beige (Healing Up)
+        - Healing our collective traumas
+          - groups and individuals
+      - Purple (Joining Up)
+        - Personal growth mindset
+    - Waking Up
+      - Red
+        - Shadow work!
+      - Blue
+        - reclaiming spirituality
+          - ok if you don't yet feel comfortable with that
+        - Not saints -- a practice [TODO]
+           word
+        - Integral
+        - joy!
+    - Showing Up
+      - Orange
+        - Embrace our science minds
+      - Green
+        - Brothers and sisters
+    - Wising Up
+      - Yellow
+      - Turquoise
+    - [TODO] Deadline
+      - Global warming
+      - In denial of
+      - Can be a benefit
+      - Love for planet and future generations
+    - Definition of success
+      - Child focused
+      - Integral
+        - Expand circle of compassion
+        - All of me, all of you, all of us
+      - Joy
+        - The deeper job
+          - waking up early for a ski trip
+- Growing Up
+  - History
+    - Ken Wilber, Integral theory
+    - Using original model
+    - My take -- social constructs
+  - Benefits
+    - understanding allows opening of hearts
+    - practical tool
+    - map for what we need to use to include all of ourselves
+    - recognize what wants to happen next
+  - Tier 1
+    - Beige
+      - My favorite
+      - Zombie apocalpyse
+      - Source of truth
+      - [TODO] Paleo
+      - Pressure to move on
+    - Purple
+      - Spirit
+    - Red
+      - Empire
+        - Alexander the Great,
+        - Genghis Khan
+        - Columbus
+      - The problem
+      - Olympics
+        - personal excellence
+    - Blue
+      - Jesus and Mohammed
+      - Neo Confucianism
+        - Japan
+        - Genghis Khan goes from red to blue
+      - Martin Luther King and Gandhi
+    - Orange
+      - Enlightenment
+      - Black ships
+    - Green
+      - Reaction to Reason
+      - Not the end
+    - Yellow
+      - New awakening
+      - It is new
+      - Welcome
+      - The work
+      - Medicine
+        - Beatles
+    - Second Tier
+      - Embraces all levels
+      - Hectaves
+      - Tic/Toc
+    - Turquoise
+      - My longing
+      - The prophecy
+      - Valerie Kaur
+  - Deeper into the theory
+    - Spiral
+      - Emerging
+      - Fully
+      - Exiting
+    - Tick-Tock
+      - Group/Individual
+      - Dialectic
+      - Groups
+        - We are wired for groups
+        - America doesn't get group focus
+          - My Japan experience (?)
+    - Tier 2
+      - Still establishing
+      - What do the patterns tell us
+      - Tier 1 to Tier 2
+        - Hectave
+        - All of Us
+        - Tic Toc    
+      - Yellow
+        - Integral
+        - All of me
+        - Yellow organizations
+          - Hakomi
+          - HAI
+          - Medicine
+            - How to change your mind
+              - Michael Pollan needed green to get here
+          - Maps example
+      - Turquoise
+        - Showing up
+        - All of me, All of you, All of us
+        - Turquoiseorganizations
+          - Just starting to happen
+  - Practical Spiral Dynamics
+    - Caveats
+      - Not really a scientific theory
+        - Need to be parsimonious with its statements
+        - Why I base on
+      - Differences in interpretation
+      - Better for groups than individuals
+        - Not meant to explain everything
+        - Individuals tend to be a mix
+      - Higher levels do not equal superior
+    - Field guide
+      - It assumes an order
+        - Sometimes Green is really blue
+        - But some people skip ahead
+      - Beige
+        - Body
+      - Purple
+        - Ethnocentric
+      - Red
+        - Mafia
+        - Not believing in a bigger truth
+      - Blue
+        - Surrender to something bigger than you
+      - Orange
+        - Believe in Truth but base also in the individual
+      - Green
+        - Post rational
+      - Second Tier
+        - Ready for more
+      - Yellow
+        - Back to the individual
+      - Turqoise
+        - Back to the group
+        - Into the wilderness and then back to the group
+    - Blind Spots
+      - Science Blindspot
+        - Challenger disaster
+          - Describe
+          - Model mismatch
+            - Manager had wrong level
+            - Engineer did not understand manager's level
+          - Sneaky switch. We have all been operating at the wrong level
+          - Moral cowardice to not judge
+            - quadrant theory helps us understand when to use what kind of judgment
+      - Class Blindspot
+        - Rust Belt
+        - Front Row, Back Row
+        - Class
+        - College divide
+      - Religion Blindspot
+        - Collapse of Blue
+        - Deaths of Despair
+    - Shadows
+      - Beige
+        - Survival
+      - Purple
+        - Tribalism
+      - Red
+        - Authoritarianism
+      - Blue
+        - Stagnation
+      - Orange
+        - Scientific materialism
+      - Green
+        - Victim mindset
+      - Yellow
+        - Arrogance
+      - Turquoise
+        - Humans are humans
+    - The gifts
+      - Beige
+        - Nature and body -- wild video
+      - Purple
+        - Excerpt from the Healing power of Africa
+      - Red
+        - Personal excellence
+        - Mens corp.
+          - document pdf
+      - Blue
+        - Mormons
+      - Orange
+        - An educated mind
+      - Green
+        - #MeToo
+    - Putting SD to work
+      - Why SD?
+        - A new story
+        - Foundation for thinking about next steps
+        - Spiral wizardry
+        - A way to break down the problem
+      - Beige
+        - Lots of people are here
+        - Trauma victims
+        - Revisit in Healing Up
+        - Forest bathing
+      - Purple
+        - Relearn this history
+      - Red
+        - What has worked?
+        - Need for Religion
+          - Christmas Carol
+      - Blue
+        - better science/math
+        - college available life long
+      - Orange
+        - college
+        - Crying Indian
+          - Orange goes to Green
+          - https://www.youtube.com/watch?v=epCKjaStFu0
+        - Cohousing
+      - Green
+        - Revisit in wising up and waking up
+        - Soulcraft
+        - Hakomi
+        - HAI
+        - Integral Christianity
+        - Maps
+        - Medicine
+      - Yellow
+        - Revisit in showing up
+      - Turquoise
+        - What wants to happen next
+        - Embrace all colors
+        - Come together
+        - Spirit transcends
+- Cleaning Up
+  - Name change story
+  - Shared work different paths
+    - Dual nature
+  - Healing/Wisdom traditions
+    - HAI
+    - Hakomi
+      - Trauma informed therapy
+    - Medicine work
+    - Forest bathing
+    - Buddhism
+    - Yet to be explored
+      - Vision quests
+      - Art therapy
+  - Hakomi Principles for healing
+  - Beige Work
+    - Aaron's ted talk
+      - Stopping the cycle  
+          - Epidemic of trauma: https://en.wikipedia.org/wiki/Adverse_childhood_experiences
+    - Non violence
+      - Mirrors scared me
+      - my acne story
+      - preparation for Truth
+    - Truth
+      - Follow truth
+      - Accountability is for later
+      - Ongoing practice -- leads to mindfulness
+    - Mindfulness
+      - basic hygiene
+      - need non-violence
+      - Budhism, HAI and Hakomi teach this
+    - Mind/Body
+      - It all starts in the body
+      - Paleo
+      - Diet
+      - Exercise
+      - Athleticism
+      - Healing our sexuality with self
+      - Really respecting this leads to organicity
+    - Organicity
+      - Every organism is striving towards healing. Always.
+      - Rise of consciousness
+    - Change
+      - testosterone story
+      - divorce story
+    - Unity
+      - Nature
+        - We are zoo animals
+        - The book "Wild"
+      - Universal consciousness
+    - Love
+      - Stop the self-hate storms
+      - Dhali lhama anecdote
+      - Metta First of four levels
+        - Doesn't have to be narcissism
+      - Three levels
+        - mirror work
+        - What you don't love in others easy
+        - What you don't love in others hard
+        - Everything is God (or the Universe
+    - Testing yourself
+      - Nonviolence -- mirror test
+      - Body -- weight, condition, sex
+      - Masturbation
+  - Purple Work
+    - everything is a lesson story
+    - Personal growth mindset
+      - another fucking growth opportunity
+        - target rich environment
+    - Non violence
+      - not the push school
+      - balance against narcissm
+      - consensus
+    - Truth
+      - Accountability
+        - Victim stories
+        - who am I giving my power to (right now)
+    - Mindfulness
+      - RAIN(ING)
+      - Non attachment
+    - Mind/Body
+      - Trauma work is done with others
+      - PTSD Every emotion has a place in the body
+        - the body keeps the score
+        - list the modalities (dance, etc.)
+      - Healing our sexuality with others
+        - HAI
+    - Organicity
+      - Groups want to form
+      - Cohousing stories
+    - Change
+      - Accept change is possible and inevitable
+      - Creativity
+      - Group work
+    - Unity
+      - Group work
+        - Others are doing our work too
+      - Mindful self compassion (second level)
+      - Others are a mirror
+    - Love
+      - Metta Level 2
+      - Healing power of group love
+    - Testing yourself
+      - Victim?
+      - Community?
+      - Creativity?
+      - Sexuality?
+      - Love others as mirror?
+    - Homework
+      - mdma
+      - creative activity
+      - join a community where you lead
+      - explore sexuality with others
+- Waking Up
+  - My angel story
+  - Red work
+    - Non violence
+      - Safe place to know
+    - Truth
+      - We contain everything
+    - Mindfulness
+      - Notice our darkness
+    - Mind/Body
+      - Anger, fear, aggressivenes are not negative emotions
+      - Beserker Rage
+      - Notice how good they feel in the body
+    - Organicity
+      - Trusting ourselves to know
+    - Unity
+      - I am Hitler
+      - Ok with death
+    - Change
+      - We need to conquer the world again
+      - Ukraine
+    - Love
+      - Gratitude -- loving what is
+      - preparation for Truth
+      - My path from Atheism
+      - Third level of love -- everything is Love
+  - Blue work
+    - Alchoholics Anonymous
+      - video?
+      - working the twelve steps
+      - What has worked in the past? Reaction to red
+      - Gandhi
+      - Martin Luther King
+      - Christian awakening
+      - Moslem awakening
+      - Sikh awakening
+      - Non violence
+      - Surrender
+    - Truth
+      - Everything is god but really experiencing it
+    - Mindfulness
+    - Mind/Body
+      - Do an assessment
+    - Organicity
+      - Trusting ourselves to know
+    - Unity
+      - Everything is god (holding open that possibility)
+    - Change
+      - Service
+        - Thread example again
+      - Accept that change is possible
+      - Accept that change is inevitable
+      - Creativity as a wisdom practice
+    - Love
+      - Gratitude -- loving what is
+      - preparation for Truth
+      - My path from Atheism
+      - Third level of love -- everything is Love
+      - My third sacred vow
+      - Boddhisatva vow
+- Showing Up
+  - How do we know what is true?
+    - Spirituality does not have to be in conflict with science
+    - Magical thinking
+    - Need again for a model
+  - Quadrants
+    - UR
+    - UL
+    - LR
+    - LL
+    - Quadrant myopia
+      - UL
+      - UR
+      - LR
+      - LL
+    - Embrace all quadrants
+      - Tale of two churches
+        - CSL
+        - Unitarian
+  - Orange work
+    - Principles
+      - Non violence
+      - Truth
+      - Mind-body
+      - Mindfulness
+      - Organicity
+      - Change
+      - Unity
+      - Love
+  - Green work
+    - Culmination
+    - Principles
+      - Non violence
+      - Truth
+      - Mind-body
+      - Mindfulness
+      - Organicity
+      - Change
+      - Unity
+      - Love
+- Wising Up
+  - Yellow work
+    - Principles
+      - Non violence
+      - Truth
+      - Mind-body
+      - Mindfulness
+      - Organicity
+      - Change
+      - Unity
+      - Love
+  - Turquoise work
+    -  Integral Spirituality
+      - Spirituality at all color levels
+      - Embrace all quadrants
+    - Principles
+      - Non violence
+      - Truth
+      - Mind-body
+      - Mindfulness
+      - Organicity
+      - Change
+      - Unity
+      - Love
+
+- Goals
+  - Healing
+    - Focus on what works
+    - Generational trauma -- stop hurting children
+  - Save The Children!
+  - Working with all the colors
+    - add the missing blue
+    - helping people to find Turqoise
+  - Church of personal growth
+    - Establish practices (like karate does)
+  - Bring up our own leaders
+    - Build in feedback
+      - Address fear of doing harm
+    - Leader as servant mentality
+  - Governance
+    - Need for new governance. Sociocracy?
+    - Accountable
+    - Evangelical
+- Stone soup
+  - I need your help
+  - Stone soup story
+  - Asking for what I want
+    - Marketing and promotion
+    - Web design
+    - Stories
+  - First steps
+    - Believe it is possible
+    - Get clear that we actually want it
+      - believe we are worthy of it
+    - Practical plan
+    - Request for stories
+      - My story
+        - Three sacred vows
+        - The Wall (Vow #1)
+          - Running
+            - Maybe running away from things
+          - Mirrors scare me
+          - Mirrors everywhere
+          - Tribal support
+            - recognition of bravery
+            - The first sacred vow
+              - explanation of why it was hard
+          - Name Change
+            - Affirmative prayer
+            - Forced me to become bigger
+        - The first awakening (Vow #2)
+          - Kiss of the Angel
+            - Incredible strength and grace
+          - Put it back on the shelf
+          - Cohousing
+          - Still working through my pain
+          - HAI workshop Love
+            - 50th birthday
+            - health
+            - healthy eating
+            - weight
+            - self love
+          - HAI vow
+            - everyone is a mirror
+            - standing naked in front of people, commitment
+        - Spiritual awakening
+          - Medicine
+            - Marriage breaking up
+            - Found the practical path to spirituality
+            - Found what I really want
+              - Lifeboat analogy (HAI story)
+          - Hakomi
+          - Discovery of vow #3
+            - black hole is actually needy child
+            - Initially hard to accept
+            - And how I am with other people -- need for third vow
+          - My Hakomi request  
+            - eventually realized I was asking for Turqoise
+        - Recap levels
+  - RFC
+    - Embrace when you are wrong
+  - Open Source
+    - Github
+      - This site
+      - PR's Pull request
+        - Not just like a wiki
+        - but allows change and improvement
+    - Copyright
+- Todo
+  - Covid
+    - Example of bigger problem
+    - Orange appeals to non existent science brain
+    - Green appeal to non-existent bigger heart
+    - Have to be strict with Red
+    - Education needs to teach the scientific method
+  - Racism
+  - Loving the Unlovable
+  - Group vs. Individual
+   - My experience
+    - Jewish, Japan, Personal Growth, Cohousing
+    - Most Americans don't understand group
+    - The need for group
+    - The need for structure
+  - Trauma
+    - Blocking us from growth
+    - Generational trauma
+  - Fundamentalism
+    - Regressed Blue?
+    - Hell
+    - Problem with Good and Evil
+  - Spirit
+    - The pain of the world
+    - Something bigger to let us bear it
+- Optional
+  - New colors for Yellow and Turquoise
+    - Black for yellow (absorbs all)
+    - White for turquoise (emits all)
+  - Who am I
+    - Need for explaining myself
+      - If I can do this...
+    - Software engineer
+      - resistance then (not cool) embrace it
+      - learnings (briefly mention)
+      - good with theory
+      - focus on practical, measurable results
+      - link to other page
+    - Purpose in life
+    - Seeker
+      - truth
+      - personal growth (Japan kaizen)
+    - Spiritual awakening
+      - atheist
+    - Open Source
+    - All of me, All of you, All of Us
+  - Software engineer path
+    - Many paths
+      - One true path
+    - Radical truth
+      - Running in debug mode
+      - Embrace when you are wrong
+      - Measuring
+    - Check your assumptions
+      - debugging leads to this
+    - Dealing with complexity
+      - simplify
+      - layers
+      - scrum
+        - negotiating complexity
+        - not everyone has to be a software expert
+    - Deep dive
+      - Five whys
+      - Failure without blame
+      - Factoring in that humans are failable
+    - Flow
+      - Cure for sensitivity
+        -hiding out in crystalline forests
+      - Teaches possibility of joy
+        - joy based life
+    - Models
+    - RFC
+    - Open source
+      - Shared libraries
+      - Forking
+      - Not all opinions are equal
+  - Historic shifts
+    - Japan
+      - Sengoku
+      - Shogunate
+      - Black ships
+    - China
+      - Hun invasion
+      - Red to blue
+      - Market but not democracy
+    - Jesus
+      - Started from Judaism
+      - Reaction to empire
+        - Cross no longer just a torture device
+      - Tragedy of selling out to Rome
+    - Muhammed
+    - Sikkism
+  - Differences with Ken Wilber
+    - Lower right and left quadrants
+      - History as guide
+      - My focus on groups
+      - LL not fully explored
+    - Spiral Dynamics
+      - social construct
+      - oscillation
+    - Open source
+    - Embrace all
+      - Mean Green fallacy
+    - Focus on love
+      - Shadow is just another expression of lack of love
+  - Intraverts vs. Extraverts
+    - Not an either or
+    - Healing individual
+    - Healing with groups
+    - Our society needs much more empahsis on the group
+      - cohousing
+  - Principles
+    - Core principles
+      - Love
+      - Truth
+      - Body
+      - Change
+    - Combinations
+      - Love + Truth = Curiosity
+      - Love + Change = Creativity
+      - Love + Body + Change = Gratitude
+      - Love + Truth + Change = Forgiveness
+      - Truth + Change + Body = Mindfulness
+      - Love + Truth + Body = Joy
+      - Truth + Body = Sacred now
+      - Change + Body = ?
+      - Love + Truth + Change + Body = Unity
