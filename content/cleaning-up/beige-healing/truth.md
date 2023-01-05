@@ -4,7 +4,6 @@ date: 2022-22-01T05:26:15Z
 draft: false
 weight: 30
 ---
-In first grade I had my first spiritual experience. I was walking down a long corridor thinking about how I want to keep on doing good things while simultaneously feeling kind of embarrassed and hokey and suddenly the light coming in from the windows got very strong and I was walking into this welcoming, warm light wrapping all around me. Yes. This. I will always step into the light. Always. This is my most precious gift. I will always step towards the light of Truth even if it requires walking over broken glass. I don't know how to teach this to others -- it was kind of just given to me.  
 
 If we want to heal we have to find our deeper truths. Hakomi gently guides clients deeper and deeper into a non ordinary state of consciousness that helps them get all the way down to their core beliefs. These are the (mostly) unconscious beliefs people have about how the world works. What is and is not safe. These beliefs are usually created by a child desperately trying to survive against unfair odds. So we honor the genius of that child for finding something that worked, but then help them see how that solution also came with a price. A price that now maybe is not worth it. As adults they now have more resources and there are better solutions available. But first maybe they just need to spend some time soothing that hurt child and reassuring them that they are safe now.
 
