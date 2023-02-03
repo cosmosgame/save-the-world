@@ -2,7 +2,7 @@
 title: Purple wisdom work
 date: 2022-12-04T05:26:15Z
 draft: false
-weight: 50
+weight: 40
 ---
 There is a lot of truly great writing about mindfulness. For example, Mark Manson has an excellent article [here]. He writes in his vivid way of all the amazing benefits both health-wise and mental. But in that article he lightly touches upon something that is often overlooked. We tend to think of meditation as the only way to cultivate mindfulness. It is not. Meditation is not the answer to all our problems. In fact, [too much meditation] can lead to [spiritual emergencies] that without proper help can crush someone or even lead them to suicide. Don't get me wrong -- I love meditation. I meditate daily in front of my beloved altar and it has helped me a lot. It is just that I have seen too many people take up meditation as The One True Way, when it is just one of the ways, and not even a complete way at that.
 
