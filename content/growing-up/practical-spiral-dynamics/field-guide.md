@@ -47,7 +47,7 @@ This is such a beautiful example of Blue. With all his heart he knows there is s
 
 Mormon society also is a good example of the problems of Blue. Like most Blue religions they firmly believe in magical stories because they are not yet at the science (Orange) stage. The Mormon church also has a horrible history of sexism and racism because the Green stage is not yet online. Those problems are very real, but please recognize that there are benefits here too. People like Mitt Romney will not normally vote the way we want, but they can be our allies when the stakes are highest. Like when democracy itself is at stake.
 
-Another example of Blue is Alcohol Anonymous's [Twelve Steps][1]. The alcoholic recognizes that they are helpless before their addiction and need to surrender to a higher power. They recognize that there is a vast love and strength that is waiting for them if they can just surrender and just let it in. This is not a comfortable path -- quite the opposite, but the strength to bear it comes from something greater than themselves.
+Another example of Blue is Alcohol Anonymous's [Twelve Steps][1]. The alcoholic recognizes that they are helpless before their addiction and need to surrender to a higher power. They recognize that there is a vast love and strength that is waiting for them if they can finally surrender and just let it in. This is not a comfortable path -- quite the opposite, but the strength to bear it comes from something greater than themselves.
 
 ## Orange
 
@@ -57,7 +57,7 @@ This is the stage where science/math comes fully online. A truly different way o
 
 We need to replace capitalism, but first recognize how well it sometimes works. It has brought us to the brink (and maybe past) of disaster, but it also has brought us so much wealth and possibilities. Capitalism relies on the [The Wisdom of Crowds][2]. It harnesses the creative forces of many individual actors acting alone to capture their collective wisdom. We do need to establish (Blue) rules to ensure a functioning marketplace, but then we can step back and let the market do its magic. We need better batteries? Let the competition begin. Solar power slowly and surely went from one of the most expensive sources of power until now it is the cheapest. And it is going to get even cheaper still. Much of that was due to market forces. Democracy works in the same way. We assume that many people voting their self interest is the best way to govern. Astonishingly it seems to sort of work. As Churchill said, "democracy is the worst form of government – except for all the others that have been tried"
 
-You can tell someone is at Orange when they are able to have a fully rational discussion, and yet somehow they just can't get, for example, that systemic racism is an all too real thing. A key tell is if they complain about "wokeness" or insist on "both-siding" the issue. They just can not see it. They are at Orange not Green.
+You can tell someone is at Orange when they are able to have a fully rational discussion, and yet somehow they just can't get, for example, that systemic racism is an all too real thing. A key tell is if they complain about "wokeness" or insist on "both-siding" the issue. They just can not see it. They are at most Orange  not Green.
 
 ## Green
 
@@ -65,7 +65,7 @@ At Green we spiral up and back to the group (tock). We know that science is True
 
 There are many less people at Green than you might think. At least in the way I have defined it. Green is a reaction to Orange. Even though Green has many (needed!) criticisms of science it does not throw out science. It recognizes that there are many other voices that need to be heard from, but science still has a place at the table. And just because you vote a certain way does not make you Green. If you don't fully believe in science and you are group focused, you are most likely at Blue. For example the QAnon conspiracy snared many people in yoga and alternative health communities. These people presumably vote liberally, but they also do not fully have Orange critical reasoning yet. I would call that Blue.
 
-Recently the sorting has gotten a little earlier. If you are “woke” you are probably Green. And by “woke” I mean that things like critical race theory and structural racism make intellectual sense to you.  
+Recently the sorting has gotten a little easier. If you are “woke” you are probably Green. And by “woke” I mean that things like critical race theory and structural racism make intellectual sense to you.  
 
 Green seems to not be able to see the other stages. People at Green think that everyone sees the world exactly as they do, and if someone does something wrong [they should know better][3]. To get them to understand our vast differences they would have to do some deep personal exploration. And if they do that, that brings them to Yellow
 
@@ -85,7 +85,7 @@ At Turquoise we spiral up and back to the group (tock). We have found our own Tr
 
 I believe I personally am a Yellow that is now longing for Turquoise. But Turquoise is by definition a group thing so I can not get their on my own. I need to find others. People who have done enough of their own work to find that they too want to open to something even bigger. Maybe you?
 
-If you know of people or organizations working at the Turquoise level, please send me a note. I want to keep a master list.
+If you know of people or organizations working at the Turquoise level, please please send me a note. I want to keep a master list. We are only just beginning this stage and need to find each other.
 
 [1]:	https://en.wikipedia.org/wiki/Twelve-step_program
 [2]:	https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
