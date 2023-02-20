@@ -18,8 +18,6 @@ These principles are a foundation we can build on. They can be our North star to
 
 [Hakomi][1] started with five founding principles. Loving Presence was added [here][2]. Truth and Change were added [here][3]. This brings us to eight principles which seems like the [right number]({{\< relref "/posts/eight.md" \>}}) to me.
 
-These principles guide a therapist when working with a client. But they also can guide our lives. We can use them to guide us on how to do our ongoing Healing Up work. We also can use them as a foundation for the life practices of Wising Up. We can even use them for inspiration when finding our way to spirt and soul in our Waking Up work.
-
 ## Truth
 
 "Get curious about that", is a standard Hakomi invitation. Hakomi helps clients find their way to their core truth; their core story. This truth is usually too hard or scary to get to all on our own so we need help. And that is the place where healing can happen. We have to get to the deeper truth of things before we can make a change. We have to know our story before we can change it. Trying to play it safe and stay at the surface does not really work.
@@ -58,7 +56,7 @@ And there is a deeper, spiritual level to Unity. I believe that everything is Go
 
 ## Change
 
-Sometimes it is so scary to let go of our misery and pain. At least we can know what to expect. What happens if we let go of this certainty? Will we even survive? How can we know? We can't be absolutely certain, so we hold on tightly even though it hurts so much. Adults rarely change and if they do it is only because tremendous pain pushed them to that ultimate surrender. Like an alcoholic that has to hit rock bottom before they can rise again or perhaps die. Healing is not possible until we stop resisting change.
+“It sounds like there are two parts here. One that wants to change and one that is scared”. Sometimes it is so scary to let go of our misery and pain. At least we can know what to expect. What happens if we let go of this certainty? Will we even survive? How can we know? We can't be absolutely certain, so we hold on tightly even though it hurts so much. Adults rarely change and if they do it is only because tremendous pain pushed them to that ultimate surrender. Like an alcoholic that has to hit rock bottom before they can rise again or perhaps die. Healing is not possible until we stop resisting change.
 
 Buddhists teach that change is inevitable. We will all die. Everyone we know and love will die. Many of our loved ones will die before we do. And those that are left get to grieve our death. This hurts. There is no avoiding this pain and yet we try. Try to hold on to the illusion that nothing changes if only we are careful enough. Try to hold off the pain instead of accepting it all the way in. Resisting this brings tremendous, unnecessary suffering.
 

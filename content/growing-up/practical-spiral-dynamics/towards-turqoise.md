@@ -28,7 +28,6 @@ Each turn of the spiral takes us from individual (tic) to community (toc). And e
 
 Cleaning Up, Waking Up, Showing Up, and Wising Up each correspond to one turn of the spiral:
 
-Here are s 
 * Beige and Purple ==\> Cleaning Up
 * Red and Blue ==\> Waking Up
 * Orange and Green ==\> Showing Up

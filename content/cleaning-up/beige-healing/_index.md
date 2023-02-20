@@ -5,7 +5,7 @@ draft: false
 weight: 40
 ---
 
-Let's start with [Aaron Stark's][1] story.
+Let's start with [Aaron Stark's][1] story. Please watch it.
 
 {{< youtube id="azRl1dI-Cts" title="I was almost a school shooter">}}
 

@@ -42,7 +42,7 @@ Once we have done some of our healing work we next need to recognize that most o
 
 ### Waking Up
 
-The bathhouse clip above doesn't show it, but what happens next after all the junk is removed is that the smiling spirit becomes a river dragon that roars up out of the bathhouse and blasts into the sky. We are all spiritual beings. After we have done our cleaning up and wising up this becomes achingly obvious, and then just like that river dragon we go roaring out into the sky. This is what we are meant to do, but unfortunately many of us have too much junk still attached to us (cleaning up) or stuck in unhealthy habits of thought (wising up). Also most of the organizations that claim to support spirituality are still stuck in earlier developmental stages (growing up). Most religious organizations are not advanced enough to meet this moment.
+The bathhouse clip above doesn't show it, but what happens next after all the junk is removed is that the smiling spirit becomes a river dragon that roars up out of the bathhouse and blasts into the sky. We are all spiritual beings. After we have done our cleaning up this becomes achingly obvious, and then just like that river dragon we go roaring out into the sky. This is what we are meant to do, but unfortunately many of us have too much junk still attached to us. Also most of the organizations that claim to support spirituality are still in earlier developmental stages (growing up). Most religious organizations are not advanced enough to meet this moment.
 
 The end goal, again, is to get people to open their hearts wider than they know is possible. Wide enough to encompass all that needs to be done. A reawakened spirituality can get us there. When we fully embrace our spirituality we know the other as us. There is no artificial separation between you and me. You are all my brothers and sisters and even closer. This is the teaching of both Buddha and Christ. It is, I believe, a fundamental ground of spirituality.
 
@@ -50,7 +50,7 @@ The end goal, again, is to get people to open their hearts wider than they know 
 
 This is where we are take our place in the world. We are grounded in that sense of something bigger than ourself, but now it is time to make practical changes. The first step is to welcome our thinking mind. We very much need that part of us too. We need to come up with practical policies that might work. Things like universal basic income, and innovative economic incentives to encourage emissions reduction.
 
-But this all has to be balanced with the recognition that our science brains can only get us so far. We have to make sure we are creating a just, sustainable world. We need to take into account things like how marginalized communities have always been the ones who bear the worst brunt of pollution. And we have a very long way to go before woman are not marginalized. The woman of Iran are currently leading the way in how to Show Up.
+But this all has to be balanced with the recognition that our science brains can only get us so far. We have to make sure we are creating a just, sustainable world. We need to take into account things like how marginalized communities have always been the ones who bear the worst brunt of pollution. And we have a very long way to go before woman are not marginalized. The women of Iran are currently leading the way in how to Show Up.
 
 ### Wising Up
 
@@ -62,7 +62,7 @@ If you are at the point of feeling the world's pain, congratulations. Most of us
 
 #### Step fully into the pain
 
-I start to breathe into the pain. Letting it be. I stop fighting it and I start to embrace it. This is important. I need to pay attention to this. Once I get past the shock of it, I notice that pain always brings a gift with it -- the energy to change. We make our biggest shifts when we are in great pain. It takes something like that to make us leap to something new. If the right kind of support is there we can use this pain as a path of transformation. No guarantees on this one sadly, but there is a beauty and joy that can shine out through the cracks of the deepest suffering. And that light illuminates the path that we ultimately need to follow. The pain provides the energy and courage for us to start.
+I start to breathe into the pain. Letting it be. I stop fighting it and I start to accept it. This is important. I need to pay attention to this. Once I get past the shock of it, I notice that pain always brings a gift with it -- the energy to change. We make our biggest shifts when we are in great pain. It takes something like that to make us leap to something new. If the right kind of support is there we can use this pain as a path of transformation. No guarantees on this one sadly, but there is a beauty and joy that can shine out through the cracks of the deepest suffering. And that light illuminates the path that we ultimately need to follow. The pain provides the energy and courage for us to start.
 
 And then I notice something different this time. As I sit with this immense, vast pain I realize that I am at least as big as this pain because I also am immense and vast. How can I not be? I am one with all. Time to own that. I no longer need to hide away -- I am big enough to contain all of this.
 

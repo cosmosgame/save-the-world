@@ -9,7 +9,7 @@ Before finishing this section I want to share some history resources. Although S
 ## Beige
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/en/9/9e/Humanzoodes.jpg" link="https://en.wikipedia.org/wiki/The_Human_Zoo_(book)">}}
-Desmond Morris had a big influence on me when I was young. He really opened my eyes to how we are all still very much animals, and how we mostly are in denial about that. And of course our species is struggling — we are not at all adapted to the world we now find ourselves in.  [The Human Zoo: A Zoologist's Classic Study of the Urban Animal][1] was written in 1969 but it is still in print today because the message is still just as relevant. Desmond Morris noticed how animals in zoos suffered the exact same anxieties and neuroses that humans do. We have created our own human zoo to live in. 
+Desmond Morris had a big influence on me when I was young. He really opened my eyes to how we are all still very much animals, and how we mostly are in denial about that. And of course our species is struggling — we are not at all adapted to the world we now find ourselves in.  [The Human Zoo: A Zoologist's Classic Study of the Urban Animal][1] was written in 1969, but it is still in print today because the message is still just as relevant. Desmond Morris noticed how animals in zoos suffered the exact same anxieties and neuroses that humans do. We have created our own human zoo to live in. 
 
 ## Purple
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Dawn_of_Everything.jpg" height=388 width=256 link="https://en.wikipedia.org/wiki/The_Dawn_of_Everything">}}
@@ -46,12 +46,12 @@ As we recovered from the civil war, earlier generations made taming Red their ma
 {{< figure src="https://m.media-amazon.com/images/I/51fWEb77ZqL._SX318_BO1,204,203,200_.jpg" height=388 width=256 link="">}}
 [A History of Modern Japan; In Search of a Nation: 1850 to the Present][7]
 
-Although the Age of Enlightenment started in the West it did not stay there. Japan was the first non-western country to jump up to great power status. It is such a fascinating story of how they did it. This book shows how they consciously chose things to pull in from the West, but also how they consciously chose to also remain very Japanese. It turns out that Japan had a culture based on neo-Confucianism which is very centered on rationality. So Japan’s leap to full Orange was not  quite as big a leap as it might first appear. And again it shows that we don’t just leap from one stage  to another, instead steps have to be made along the way.
+Although the Age of Enlightenment started in the West it did not stay there. Japan was the first non-western country to jump up to great power status. It is such a fascinating story of how they did it. This book shows how they consciously chose things to pull in from the West, but also how they consciously chose to also remain very Japanese. In the same way that there are steps along the way to Red, it looks like there are probably steps toward Orange. Japan’s culture was (is?) based on [Neo-Confucianism][8] which is very centered on rationality. So Japan’s leap to full Orange was not  quite as big a leap as it might first appear. And we see that the other countries based on Neo-Confucianism (Korea, Taiwan, Vietnam, China) have also made the leap to full industrial economies. This is probably not a coincidence. 
 
 ## Green
 {{< figure src="https://upload.wikimedia.org/wikipedia/en/1/11/Peopleshistoryzinn.jpg" height=388 width=256 link="https://en.wikipedia.org/wiki/A_People%27s_History_of_the_United_States">}}
 
-[A People’s History of the United States: 1492 - Present][8]
+[A People’s History of the United States: 1492 - Present][9]
 
 The key thing that seems to keep people from becoming “woke” to Green is how they view history. It currently is literally illegal in many U.S. states to teach the full history of slavery in school. Books are banned and thoughts are controlled. Howard Zinn’s book was such a beautiful revolution when it first came out. He brought up all the awkward and deeply distressing stories of our history. Without knowing them we can not step into the full truth of who we are. This is such an important battle. Unfortunately we are still fighting it — the right to read his book is imperiled.
 
@@ -59,7 +59,7 @@ The key thing that seems to keep people from becoming “woke” to Green is how
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/en/a/a2/How_to_change_your_mind_pollan.jpg" height=388 width=256 link="https://en.wikipedia.org/wiki/How_to_Change_Your_Mind">}}
 
-[How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence][9]
+[How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence][10]
 
 Michael Pollan dives into the history of psychedelic therapy work. It is the best history of that time that I know of. Then he goes on to chronicle what it is like to do a guided journey.
 
@@ -79,5 +79,6 @@ I am privileged to know a lot of Yellow stage people. They are all amazing and m
 [5]:	https://www.hachettebookgroup.com/titles/tamim-ansary/destiny-disrupted/9781586488130/
 [6]:	https://www.simonandschuster.com/books/The-Upswing/Robert-D-Putnam/9781982129156
 [7]:	https://www.tuttlepublishing.com/japan/a-history-of-modern-japan
-[8]:	https://en.wikipedia.org/wiki/A_People%27s_History_of_the_United_States
-[9]:	https://en.wikipedia.org/wiki/How_to_Change_Your_Mind
+[8]:	https://en.wikipedia.org/wiki/Neo-Confucianism
+[9]:	https://en.wikipedia.org/wiki/A_People%27s_History_of_the_United_States
+[10]:	https://en.wikipedia.org/wiki/How_to_Change_Your_Mind
