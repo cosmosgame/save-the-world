@@ -2,7 +2,7 @@
 title: "Cleaning Up"
 date: 2022-02-01T05:26:15Z
 draft: false
-weight: 10
+weight: 30
 ---
 If you haven't watched the stink spirit video from Spirited Away yet please consider [watching it now][1]. It is such a good metaphor for this work.
 
