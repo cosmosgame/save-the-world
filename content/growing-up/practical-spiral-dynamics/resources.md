@@ -39,7 +39,7 @@ This was such a delight to read. I was shocked to find how ignorant and prejudic
 
 [Upswing: How America Came Together a Century Ago and How We Can Do It Again][6]
 
-As we recovered from the civil war, earlier generations made taming Red their main focus, and they made huge progress. They built a solid Blue that gave Red something worthwhile to transition to. We built a society of associations and political movements. Labor union were formed and bitter, lethal battles were fought for basic labor rights. Woman gained the right to vote. Unfortunately we have mostly let that Blue collapse and now we are going to have to rebuild. Maybe that is a good thing. Maybe the Blue of old with all its patriarchy and racism needed to die so we can recreate something better. But again we have some serious work to do. We have forgotten how to live together in community. We need to get kids out into nature together and aspiring to something higher. Grown ups need to belong to organizations that encourage everyone to take a turn at leading. And ultimately we want people joining groups that are dedicated to saving the world.  This book chronicles how we did it once before.
+As we recovered from the civil war, earlier generations made taming Red their main focus, and they made huge progress. They built a solid Blue that gave Red something worthwhile to transition to. We built a society of associations and political movements. Labor unions were formed and bitter, lethal battles were fought for basic labor rights. Woman gained the right to vote. Unfortunately we have mostly let that Blue collapse and now we are going to have to rebuild. Maybe that is a good thing. Maybe the Blue of old with all its patriarchy and racism needed to die so we can recreate something better. But again we have some serious work to do. We have forgotten how to live together in community. We need to get kids out into nature together and aspiring to something higher. Grown ups need to belong to organizations that encourage everyone to take a turn at leading. And ultimately we want people joining groups that are dedicated to saving the world.  This book chronicles how we did it once before.
 
 ## Orange
 
@@ -55,13 +55,19 @@ Although the Age of Enlightenment started in the West it did not stay there. Jap
 
 The key thing that seems to keep people from becoming “woke” to Green is how they view history. It currently is literally illegal in many U.S. states to teach the full history of slavery in school. Books are banned and thoughts are controlled. Howard Zinn’s book was such a beautiful revolution when it first came out. He brought up all the awkward and deeply distressing stories of our history. Without knowing them we can not step into the full truth of who we are. This is such an important battle. Unfortunately we are still fighting it — the right to read his book is imperiled.
 
+{{< figure src="https://images.bwbcovers.com/094/Body-Centered-Psychotherapy-The-Hakomi-Method-Kurtz-Ron-9780940795235.jpg" height=388 width=256 link="https://www.betterworldbooks.com/product/detail/9780940795235">}}
+
+[Body-Centered Psychotherapy: The Hakomi Method: The Integrated Use of Mindfulness, Nonviolence, and the Body][10]
+
+Ron Kurtz helped create a new school of therapy called [Hakomi][11].  It was in reaction to the overly rational Orange schools of therapy prevalent at the time. I strongly recommend reading the whole book but it is at the beginning of the book where Ron lays out the basic principles. I have not seen a better Green manifesto than this. He recognizes the importance of rationality but then goes on to show that all by itself it is not enough for healing. He brings in a more ecological, wholistic way to look at the world.
+
 ## Yellow
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/en/a/a2/How_to_change_your_mind_pollan.jpg" height=388 width=256 link="https://en.wikipedia.org/wiki/How_to_Change_Your_Mind">}}
 
-[How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence][10]
+[How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence][12]
 
-Michael Pollan dives into the history of psychedelic therapy work. It is the best history of that time that I know of. Then he goes on to chronicle what it is like to do a guided journey.
+Michael Pollan dives into the history of psychedelic therapy work. It is the best history of that time that I know of. Then he goes on to chronicle what it is like to do a guided journey. This book has launched a huge wave of interest in psychedelics.
 
 Finding our full Truth is scary. This path requires courage. If we have unprocessed trauma we need to first address it in our Healing Up work. If the trauma is too raw there is too much pain to do much else so this has to be handled first. We need to learn to deeply love ourselves despite all our imperfections. That creates the safety needed to go even deeper. To find out more of our Truth. What is holding us back is that certain things are too dangerous to know. It would hurt too much to know. So our protector parts conspire to hide us from our full truth. Those parts are working hard to protect us. So we can't just jump straight all the way in. We have to take baby steps. Dip a little deeper into the Truth, pause to find compassion for ourselves and integrate this new understanding. And then keep on dipping a little further. At some point we realize that instead of looking for others to their Truth we now find it inside ourself. We now stand accountable to ourselves. Welcome to Yellow.
 
@@ -81,4 +87,6 @@ I am privileged to know a lot of Yellow stage people. They are all amazing and m
 [7]:	https://www.tuttlepublishing.com/japan/a-history-of-modern-japan
 [8]:	https://en.wikipedia.org/wiki/Neo-Confucianism
 [9]:	https://en.wikipedia.org/wiki/A_People%27s_History_of_the_United_States
-[10]:	https://en.wikipedia.org/wiki/How_to_Change_Your_Mind
+[10]:	https://www.betterworldbooks.com/product/detail/9780940795235 "Hakomi"
+[11]:	https://hakomi.com/
+[12]:	https://en.wikipedia.org/wiki/How_to_Change_Your_Mind
