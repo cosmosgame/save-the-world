@@ -2,7 +2,7 @@
 title: "Resources"
 date: 2022-07-04T09:26:15Z
 draft: false
-weight: 70
+weight: 90
 ---
 
 ### Gödel Escher Bach

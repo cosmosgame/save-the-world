@@ -2,7 +2,7 @@
 title: "Deeper"
 date: 2022-07-04T09:26:15Z
 draft: false
-weight: 40
+weight: 60
 ---
 In my thirties I ended up in a lot of pain. I longed for a release from this pain, and on a subconscious level suicide might even have been starting to look attractive. At least it all would be over then.  I tried talk therapy, but was deeply unimpressed with that method, although it seems to have worked for others.  Then I stumbled onto some mildly radical personal growth seminars. I absolutely loved them. It turned out that I had some work to do - my mental machinery needed some fixing. The classes revealed to me how much I feared others.  I had on a deep level just assumed everyone was out to hurt me. So I experimented with giving myself permission to connect to others on a deeper level and found pure joy! I also found out that many people's struggles were in fact mine as well. And then I started on the hard work of changing the beliefs and assumptions that were getting in the way. I gradually became aware of a voice that was constantly tearing me down and even punishing me. I battled to love myself instead of hate myself. One practice I used was to look in the mirror at my acne-scarred face and say from the heart, "I love you". To this day, every time I have a painful, negative thought about myself I habitually remind myself, "I have value", and touch my hand to my heart. This may not sound like much, but it has been of enormous help to me. An acquaintance that knew me both before and after I had done this work said that, "You look a lot more comfortable in your skin now" - that describes it nicely.
 

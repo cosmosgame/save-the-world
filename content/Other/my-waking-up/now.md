@@ -2,7 +2,7 @@
 title: "Limits of Reason"
 date: 2022-07-04T09:26:15Z
 draft: false
-weight: 70
+weight: 80
 ---
 Life is a rich and varied banquet. Rationalists that stay safe in only their rational minds are missing out on the full richness of being human. When I try to talk about this with my rationalist friends it is somewhat frustrating - I end up basically saying, yes, pizza is one of my favorite foods too, but there is so much else out there as well, why not do a little more exploring?
 

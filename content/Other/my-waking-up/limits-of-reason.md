@@ -2,7 +2,7 @@
 title: "Limits of Reason"
 date: 2022-07-04T09:26:15Z
 draft: false
-weight: 40
+weight: 50
 ---
 In class we studied how formal reasoning works. It turns out that any formal reasoning system starts out with basic assumptions (called axioms) and works up from there. No useful logical system can be built without these assumptions, but these assumptions have to be taken on faith - they are outside of the system. So many arguments are pointless because the participants are starting with radically different assumptions. Given how enormously important our assumptions are, it is shocking how unaware we typically are of them. When I talk about our mental machinery this is a major component.
 
