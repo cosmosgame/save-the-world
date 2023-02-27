@@ -4,11 +4,11 @@ date: 2020-29-17T15:26:15Z
 draft: false
 weight: 30
 ---
-Who am I to save the world? I am just this nobody on the internet. I don't have any particular expertise or credentials. There is no particular reason you should listen to me other than maybe I can get you to think. But in some ways this ordinariness is actually an advantage. It is so obvious I can't do this alone. We are going to have to do this together
+Who am I to save the world? I am just this nobody on the internet. I don't have any particular expertise or credentials. There is no particular reason you should listen to me other than maybe I can get you to think. But in some ways this ordinariness is actually an advantage. It is so obvious I can't do this alone. I need your help. 
 
-To give this any chance of working I can't hold anything back. I need to bring in everything that I am. Not just the shiny parts I want to show to you, but all of my rage, sorrow and pain too. Not just the gifts that I have, but the broken hurting places too. All of me is sacred and holy. All is welcome and loved. And all by myself I am nothing. I have to somehow inspire you to bring in all of yourself. All of your joy and all of your pain. All of you is sacred and holy. All of you is welcome and loved. And together as we look out at the world we need to find a way to bring everyone, yes truly everyone into it. How could it be otherwise? We need all of us.
+At first I tried to keep myself out of this essay. But again I am not coming from some place of authority that can expect you to just listen to my lecture. The thing I have to offer is myself. To give this any chance of working I can't hold anything back. I need to bring in everything that I am. Not just the shiny parts I want to show to you, but all of my rage, sorrow and pain too. Not just the gifts that I have, but the broken hurting places too. All of me is sacred and holy. All is welcome and loved. And all by myself I am nothing. I have to somehow inspire you to bring in all of yourself. All of your joy and all of your pain. All of you is sacred and holy. All of you is welcome and loved. And together as we look out at the world we need to find a way to bring everyone, yes truly everyone into it. How could it be otherwise? We need all of us. I want to hear everyone’s story.
 
-We all have our unique stories. The stories that have shaped us. The stories that are our gift to the world. Let's start with mine.
+ But first we start with me. Let me introduce myself.
 
 ## Explorer
 
