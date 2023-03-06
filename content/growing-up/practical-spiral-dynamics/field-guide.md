@@ -71,21 +71,27 @@ Green seems to not be able to see the other stages. People at Green think that e
 
 ## Yellow
 
-At Yellow we spiral up and back to the individual (tick) again. We find the Truth within, but this time it is different. At this level we start to find all the levels inside ourselves. We are back to pursuing happiness like we did at Orange, but this time we have Green to make that pursuit less selfish and destructive.
+At Yellow we spiral up and back to the individual (tick) again. We find the Truth within, but this time it is different. At this level we start to find all the levels inside ourselves. We are back to pursuing happiness like we did at Orange, but this time we have Green to make that pursuit less selfish and destructive. At this stage we recognize that we all have to find our own Truth. Group work is immensely helpful with growth work, but in the end you will need to find your Soul all on your own. We find why we came to planet earth. We would die for our life's purpose.
 
-At this stage we recognize that we all have to find our own Truth. Group work is immensely helpful with growth work, but in the end you will need to find your Soul all on your own. We find why we came to planet earth. We would die for our life's purpose.
+Please note Soul work is distinct from Spirit work. People can have profound spiritual experiences at any of the stages. You can have someone who is very advanced spiritually who is still at Red. That happens all the time in fact. You can also have someone at Yellow who is not very advanced in Spirit work at all. Because they are at Yellow they will at least recognize something is there, but they have much more to discover. That also is very common.
 
-Please note this is distinct from Spirit work. People can have profound spiritual experiences at any of the stages. You can have someone who is very advanced spiritually who is still at Red. That happens all the time in fact. You can also have someone at Yellow who is not very advanced in Spirit work at all. Because they are at Yellow they will at least recognize something is there, but they have much more to discover. That also is very common.
+And just because someone has done a lot of self exploration does not necessarily put them at Yellow. They need to have Green online first. Green opens up the possibility that pure reason is not the only source of Truth. Green grounds us in what is truly important. It can happen that people at Orange are resistant to Green and when they have the [crisis of their soul][4], they fall back to Blue. You can tell because even though they have done profound personal work they still don't really get, for example, how women have an extra burden to carry in our society.
 
-Just because someone has done a lot of self exploration does not necessarily put them at Yellow. They need to have Green online first. Green opens up the possibility that pure reason is not the only source of Truth. Green grounds us in what is truly important. It can happen that people at Orange are resistant to Green and when they have the [crisis of their soul][4], they fall back to Blue. You can tell because even though they have done profound personal work they still don't really get, for example, how women have an extra burden to carry in our society.
+There is a simple way to tell if someone is at Yellow — ask them. When I tell the Spiral Dynamics story to someone at Yellow there seems to be a sense of recognition. They are living this. Yellow gets that we contain multitudes. That you can take the parts of religion that are profoundly good and not the other parts. They see the courage and integrity of someone like Liz Cheney (she was one of the very few house Republicans who actively turned against Trump after the capitol putsch), and take her where she is at (a mix of Blue and Orange). They do not dismiss her simply because she is not Green.
+
+I’ve talked to young people who have become disillusioned with the endless purity wars that Green is falling back into. They are pulling out of mass movements and are turning to their own truth. Maybe they want to start a farm, maybe they want to join a small ecovillage and live as musicians. They do journey work and fast out in vast wilderness for days and days. This is very, very good. It gives me hope. But I long for when they come back out of the wilderness.
 
 ## Turquoise
 
-At Turquoise we spiral up and back to the group (tock). We have found our own Truth at Yellow, and found strength and clarity in it. Now it is time to open up to the Truth of others. Time to recognize that we are meant to be as one. We would die for this bigger, shared purpose.
+At Turquoise we spiral up and back to the group (tock). We have found the strength and clarity of our Truth at Yellow. Now we open up to the Truth of others. Time to recognize that we are meant to be as one. We would die for this bigger, shared purpose.
 
-I believe I personally am a Yellow that is now longing for Turquoise. But Turquoise is by definition a group thing so I can not get their on my own. I need to find others. People who have done enough of their own work to find that they too want to open to something even bigger. Maybe you?
+I am a Yellow that is longing for Turquoise. But Turquoise is by definition a group thing so I can not get their on my own. I need to find others. People who have done enough of their own work to find that they too want to open to something even bigger. Maybe you?
 
-If you know of people or organizations working at the Turquoise level, please please send me a note. I want to keep a master list. We are only just beginning this stage and need to find each other.
+Yellow falls into the fallacy that you can get to the next stage all your own. Ken Wilber enumerates  many stages after Yellow. And they probably are real. But he is just progressing further and further into Yellow. Don’t get me wrong — this is worthy work. But it is not a fundamental stage difference. Yellow’s blindspot is to not recognize that we are group animals. We can only progress as far as the group we are in. It is just how it works. And we collective are not quite there yet. But it feels close.
+
+My life’s purpose is to help create Turquoise.  We will know Turquoise when we create it together. We will be individually strong and yet strong as a group as well. We will takes turns as teacher and student.  We will take turns as leader and follower. And together we will create a culture that guides us to a much bigger joy than we have allowed ourself up to now. That is the crazy big dream I keep on talking about. You will know you are at Turquoise when you share that crazy big dream with me.
+
+
 
 [1]:	https://en.wikipedia.org/wiki/Twelve-step_program
 [2]:	https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
