@@ -55,9 +55,7 @@ At Orange we spiral up and back to the individual (tick). The Truth can only be 
 
 This is the stage where science/math comes fully online. A truly different way of looking at the world. Most people don't appear to have learned this discipline. They pick and choose which facts are convenient to believe. Science is founded on rational thinking, but notice how much Blue faith is needed too. I personally don't have the mathematical chops to understand Quantum Dynamics, but I trust (in a Blue way) that it is the closest we can get to the Truth right now. Each discovery takes us one step closer to Truth. Science demands that we stand accountable to the reality of the world. We can never get to absolute Truth itself but we can continue to refine our theories, always trying to get closer. When Einstein predicted that gravity would bend light, scientists measured it and saw it was true. And several hundred years of adherence to Newton's laws were thrown out just like that and replaced by Einstein's theory. The ability to look at the facts, recognize the existing theory is wrong, and switch to a better one is incredibly powerful. It has changed the world.
 
-We need to replace capitalism, but first recognize how well it sometimes works. It has brought us to the brink (and maybe past) of disaster, but it also has brought us so much wealth and possibilities. Capitalism relies on the [The Wisdom of Crowds][2]. It harnesses the creative forces of many individual actors acting alone to capture their collective wisdom. We do need to establish (Blue) rules to ensure a functioning marketplace, but then we can step back and let the market do its magic. We need better batteries? Let the competition begin. Solar power slowly and surely went from one of the most expensive sources of power until now it is the cheapest. And it is going to get even cheaper still. Much of that was due to market forces. Democracy works in the same way. We assume that many people voting their self interest is the best way to govern. Astonishingly it seems to sort of work. As Churchill said, "democracy is the worst form of government – except for all the others that have been tried"
-
-You can tell someone is at Orange when they are able to have a fully rational discussion, and yet somehow they just can't get, for example, that systemic racism is an all too real thing. A key tell is if they complain about "wokeness" or insist on "both-siding" the issue. They just can not see it. They are at most Orange  not Green.
+You can tell someone is at Orange when they are able to have a fully rational discussion, and you can actually change their mind. They will listen to facts and reason and recognize (at least sometimes) when they are wrong. But Orange just can't get, for example, that systemic racism is an all too real thing. A key tell is if they complain about "wokeness" or insist on "both-siding" the issue. They just can not see it. 
 
 ## Green
 
@@ -67,7 +65,7 @@ There are many less people at Green than you might think. At least in the way I 
 
 Recently the sorting has gotten a little easier. If you are “woke” you are probably Green. And by “woke” I mean that things like critical race theory and structural racism make intellectual sense to you.  
 
-Green seems to not be able to see the other stages. People at Green think that everyone sees the world exactly as they do, and if someone does something wrong [they should know better][3]. To get them to understand our vast differences they would have to do some deep personal exploration. And if they do that, that brings them to Yellow
+Green seems to not be able to see the other stages. People at Green think that everyone sees the world exactly as they do, and if someone does something wrong [they should know better][2]. To get them to understand our vast differences they would have to do some deep personal exploration. And if they do that, that brings them to Yellow
 
 ## Yellow
 
@@ -75,7 +73,7 @@ At Yellow we spiral up and back to the individual (tick) again. We find the Trut
 
 Please note Soul work is distinct from Spirit work. People can have profound spiritual experiences at any of the stages. You can have someone who is very advanced spiritually who is still at Red. That happens all the time in fact. You can also have someone at Yellow who is not very advanced in Spirit work at all. Because they are at Yellow they will at least recognize something is there, but they have much more to discover. That also is very common.
 
-And just because someone has done a lot of self exploration does not necessarily put them at Yellow. They need to have Green online first. Green opens up the possibility that pure reason is not the only source of Truth. Green grounds us in what is truly important. It can happen that people at Orange are resistant to Green and when they have the [crisis of their soul][4], they fall back to Blue. You can tell because even though they have done profound personal work they still don't really get, for example, how women have an extra burden to carry in our society.
+And just because someone has done a lot of self exploration does not necessarily put them at Yellow. They need to have Green online first. Green opens up the possibility that pure reason is not the only source of Truth. Green grounds us in what is truly important. It can happen that people at Orange are resistant to Green and when they have the [crisis of their soul][3], they fall back to Blue. You can tell because even though they have done profound personal work they still don't really get, for example, how women have an extra burden to carry in our society.
 
 There is a simple way to tell if someone is at Yellow — ask them. When I tell the Spiral Dynamics story to someone at Yellow there seems to be a sense of recognition. They are living this. Yellow gets that we contain multitudes. That you can take the parts of religion that are profoundly good and not the other parts. They see the courage and integrity of someone like Liz Cheney (she was one of the very few house Republicans who actively turned against Trump after the capitol putsch), and take her where she is at (a mix of Blue and Orange). They do not dismiss her simply because she is not Green.
 
@@ -87,13 +85,12 @@ At Turquoise we spiral up and back to the group (tock). We have found the streng
 
 I am a Yellow that is longing for Turquoise. But Turquoise is by definition a group thing so I can not get their on my own. I need to find others. People who have done enough of their own work to find that they too want to open to something even bigger. Maybe you?
 
-Yellow falls into the fallacy that you can get to the next stage all your own. Ken Wilber enumerates  many stages after Yellow. And they probably are real. But he is just progressing further and further into Yellow. Don’t get me wrong — this is worthy work. But it is not a fundamental stage difference. Yellow’s blindspot is to not recognize that we are group animals. We can only progress as far as the group we are in. It is just how it works. And we collective are not quite there yet. But it feels close.
+Yellow falls into the fallacy that you can get to the next stage all your own. Ken Wilber enumerates  many stages after Yellow. And these stages are probably real. But he is just progressing further and further into Yellow. Don’t get me wrong — this is worthy work. But it is not a fundamental stage difference. Yellow’s blindspot is to not recognize that we are group animals. We can only progress as far as the group we are in. It is just how it works. And we collective are not quite there yet. But it feels close.
 
-My life’s purpose is to help create Turquoise.  We will know Turquoise when we create it together. We will be individually strong and yet strong as a group as well. We will takes turns as teacher and student.  We will take turns as leader and follower. And together we will create a culture that guides us to a much bigger joy than we have allowed ourself up to now. That is the crazy big dream I keep on talking about. You will know you are at Turquoise when you share that crazy big dream with me.
+My life’s purpose is to help create Turquoise. We will know Turquoise when we create it together. We will both be individually strong and yet strong as a group as well. We will takes turns as teacher and student. We will take turns as leader and follower. And together we will create a culture that guides us to a much bigger joy than we have allowed ourself up to now. That is the crazy big dream I keep on talking about. You will know you are at Turquoise when you share that crazy big dream with me.
 
 
 
 [1]:	https://en.wikipedia.org/wiki/Twelve-step_program
-[2]:	https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
-[3]:	https://nymag.com/intelligencer/2022/06/unlearning-the-language-of-wokeness.html
-[4]:	https://www.penguinrandomhouse.com/books/217649/the-second-mountain-by-david-brooks/
+[2]:	https://nymag.com/intelligencer/2022/06/unlearning-the-language-of-wokeness.html
+[3]:	https://www.penguinrandomhouse.com/books/217649/the-second-mountain-by-david-brooks/
