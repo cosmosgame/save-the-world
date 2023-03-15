@@ -1,5 +1,5 @@
 ---
-title: Purple wisdom work
+title: Mindfulness
 date: 2022-12-04T05:26:15Z
 draft: false
 weight: 40
