@@ -63,7 +63,7 @@ At Green we spiral up and back to the group (tock). We know that science is True
 
 There are many less people at Green than you might think. At least in the way I have defined it. Green is a reaction to Orange. Even though Green has many (needed!) criticisms of science it does not throw out science. It recognizes that there are many other voices that need to be heard from, but science still has a place at the table. And just because you vote a certain way does not make you Green. If you don't fully believe in science and you are group focused, you are most likely at Blue. For example the QAnon conspiracy snared many people in yoga and alternative health communities. These people presumably vote liberally, but they also do not fully have Orange critical reasoning yet. I would call that Blue.
 
-Recently the sorting has gotten a little easier. If you are “woke” you are probably Green. And by “woke” I mean that things like critical race theory and structural racism make intellectual sense to you.  
+Recently the sorting has gotten a little easier. If you are “woke” you are at least Green. And by “woke” I mean that things like critical race theory and structural racism make intellectual sense to you.  
 
 Green seems to not be able to see the other stages. People at Green think that everyone sees the world exactly as they do, and if someone does something wrong [they should know better][2]. To get them to understand our vast differences they would have to do some deep personal exploration. And if they do that, that brings them to Yellow
 
@@ -85,9 +85,9 @@ At Turquoise we spiral up and back to the group (tock). We have found the streng
 
 I am a Yellow that is longing for Turquoise. But Turquoise is by definition a group thing so I can not get their on my own. I need to find others. People who have done enough of their own work to find that they too want to open to something even bigger. Maybe you?
 
-Yellow falls into the fallacy that you can get to the next stage all your own. Ken Wilber enumerates  many stages after Yellow. And these stages are probably real. But he is just progressing further and further into Yellow. Don’t get me wrong — this is worthy work. But it is not a fundamental stage difference. Yellow’s blindspot is to not recognize that we are group animals. We can only progress as far as the group we are in. It is just how it works. And we collective are not quite there yet. But it feels close.
+Yellow falls into the fallacy that you can get to the next stage all your own. Ken Wilber enumerates  many stages after Yellow. And these stages are probably real. But he is just progressing further and further into Yellow. Don’t get me wrong — this is worthy work. But it is not a fundamental stage difference. Yellow’s blindspot is to not recognize that we are group animals. We can only progress as far as the group we are in. It is just how it works. And we collectively are not quite there yet. But it feels close.
 
-My life’s purpose is to help create Turquoise. We will know Turquoise when we create it together. We will both be individually strong and yet strong as a group as well. We will takes turns as teacher and student. We will take turns as leader and follower. And together we will create a culture that guides us to a much bigger joy than we have allowed ourself up to now. That is the crazy big dream I keep on talking about. You will know you are at Turquoise when you share that crazy big dream with me.
+My life’s purpose is to help create Turquoise. We will know Turquoise when we create it together. We will be individually strong and yet strong as a group as well. We will takes turns as teacher and student. We will take turns as leader and follower. And together we will create a culture that guides us to a much bigger joy than we have allowed ourself up to now. That is the crazy big dream I keep on talking about. You will know you are at Turquoise when you share that crazy big dream with me.
 
 
 

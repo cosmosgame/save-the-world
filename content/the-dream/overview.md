@@ -48,7 +48,7 @@ The end goal, again, is to get people to open their hearts wider than they know 
 
 ### Showing Up
 
-This is where we are take our place in the world. We are grounded in that sense of something bigger than ourself, but now it is time to make practical changes. The first step is to welcome our thinking mind. We very much need that part of us too. We need to come up with practical policies that might work. Things like universal basic income, and innovative economic incentives to encourage emissions reduction.
+This is where we are take our place in the world. We are grounded in that sense of something bigger than ourself, but now it is time to make practical changes. The first step is to welcome our thinking mind. We very much need that part of us too. We need to come up with practical policies that might work. Things like universal basic income, and innovative economic incentives to encourage emissions reduction are so needed.
 
 But this all has to be balanced with the recognition that our science brains can only get us so far. We have to make sure we are creating a just, sustainable world. We need to take into account things like how marginalized communities have always been the ones who bear the worst brunt of pollution. And we have a very long way to go before woman are not marginalized. The women of Iran are currently leading the way in how to Show Up.
 

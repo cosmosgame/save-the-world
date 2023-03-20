@@ -19,7 +19,7 @@ weight: 20
   </tr>
 </table>
 
-Something amazing happened about 40,000 to 50,000 years ago. We see it in the [cave paintings][1] of the time. When we stop and really look at this powerful art we can not help but be moved. These people were just like us. This was clearly the next step up in consciousness. From smallish bands we formed bigger tribes and we became bad-asses. Human population numbers started to grow and we spread out across all of the planet. And where ever we spread, populations of bigger animals like Mastodons crashed. Presumably because we hunted them to death.
+Something amazing happened about 40,000 to 50,000 years ago. We see it in the [cave paintings][1] of the time. When we stop and really look at this powerful art we can not help but be moved. These people were just like us. This was clearly the next step up in consciousness. From smallish bands we formed bigger tribes and we became bad-asses. Human population numbers started to grow and we spread out across all of the planet. And whereever we spread, populations of bigger animals like Mastodons crashed. Presumably because we hunted them to death.
 
 Spirit became the center of our lives. Spirit of place, animal, and ancestors. Deep magic lives in the sacred places. Animal spirits and our ancestors are here to guide us, if only we can get quiet enough and reverent enough to hear them. We fast and pray for days. Then head off alone into the wilderness to do our sacred initiation rite and face our internal demons. Then we return to the wild celebration of the tribe. You are back! We are so glad you are back! We are one. Tell us of your visions so that we may all learn from the spirits. You are home. You are loved. So deeply loved.
 
