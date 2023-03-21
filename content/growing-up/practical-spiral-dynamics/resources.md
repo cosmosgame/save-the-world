@@ -67,9 +67,7 @@ Ron Kurtz helped create a new school of therapy called [Hakomi][11].  It was in 
 
 [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence][12]
 
-Michael Pollan dives into the history of psychedelic therapy work. It is the best history of that time that I know of. Then he goes on to chronicle what it is like to do a guided journey. This book has launched a huge wave of interest in psychedelics.
-
-Finding our full Truth is scary. This path requires courage. If we have unprocessed trauma we need to first address it in our Healing Up work. If the trauma is too raw there is too much pain to do much else so this has to be handled first. We need to learn to deeply love ourselves despite all our imperfections. That creates the safety needed to go even deeper. To find out more of our Truth. What is holding us back is that certain things are too dangerous to know. It would hurt too much to know. So our protector parts conspire to hide us from our full truth. Those parts are working hard to protect us. So we can't just jump straight all the way in. We have to take baby steps. Dip a little deeper into the Truth, pause to find compassion for ourselves and integrate this new understanding. And then keep on dipping a little further. At some point we realize that instead of looking for others to their Truth we now find it inside ourself. We now stand accountable to ourselves. Welcome to Yellow.
+In the beginning of his book Michael Pollan dives into the history of psychedelic therapy work. It is the best history of that time that I know of. Then he goes on to chronicle what it is like to do a guided journey. This book has launched a huge wave of interest in psychedelics.
 
 ## Turquoise
 
