@@ -1,4 +1,4 @@
-baseURL = "https://cosmosgame.github.io/save-the-world/"
+baseURL = "https://stwi.blog/save-the-world/"
 canonifyURLs = "true"
 staticDir = "static"
 publishDir = "docs"
