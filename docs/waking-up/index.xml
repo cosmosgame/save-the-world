@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Waking Up on Save The World</title>
-    <link>https://stwi.blog/save-the-world/waking-up/</link>
+    <link>https://stwi.blog/waking-up/</link>
     <description>Recent content in Waking Up on Save The World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jul 2021 05:26:15 +0000</lastBuildDate><atom:link href="https://stwi.blog/save-the-world/waking-up/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 05:26:15 +0000</lastBuildDate><atom:link href="https://stwi.blog/waking-up/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
