@@ -13,7 +13,7 @@ I deeply value your time. I promise not to waste it. There is a lot to cover her
 
 ### Practical
 
-The goal is to create something practical. Something that can actually change the world. Getting the theory right is incredibly important, but on the main path we don't want to bring in any more theory than is strictly necessary. People like myself can go off and do the readings, but then we need to come back here ready to share the useful nuggets that can be put to work.
+The goal is to create something practical. Something that can actually change the world. Getting the theory right is incredibly important, but on the main path we don't want to bring in any more theory than is strictly necessary. People like me can go off and do the readings, but then we need to come back here ready to share the useful nuggets that can be put to work.
 
 We will know this project is working when we see it inspire actual healing and growth in the world.
 

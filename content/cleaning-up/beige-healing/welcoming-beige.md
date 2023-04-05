@@ -23,5 +23,8 @@ Most schools still do not train kids things like yoga and mindfulness. These are
 
 And there is one more topic that seems to be a big taboo even still — sex. We need to teach kids (and ourselves!) to really embrace our sexuality. There should not be any shame around masturbation. There should not be any shame around sexual desire awakening in us. We need to learn to talk about our sexual organs without embarrassment. Sex is natural and beautiful. And from that place we need to teach kids how to navigate the incredibly strong feeling that come up. Teach them that sex when done right deepens connection with someone else and to be careful about that. People can get really hurt. I remember how alone I felt when my sex drive kicked in. My sexual desire was so intense I honestly begged God for relief — it was just way too much. It felt like a kind of insanity, and maybe it kind of is. And I didn’t have anyone to talk to about it. My drive was so strong I was desperately afraid that it would make me into monster. That I would do almost anything to satisfy it. I needed people (not just men) to talk to about this. But it was such a taboo that I didn’t feel safe talking to anyone. No wonder young men still act out. Is anyone talking to them? 
 
+## Next
+We are almost done with Beige which means… time for homework! What fun! Homework?!?Yaaaaaay!!
+
 [1]:	https://holdenhigh.org/
 [2]:	https://islandwood.org/
