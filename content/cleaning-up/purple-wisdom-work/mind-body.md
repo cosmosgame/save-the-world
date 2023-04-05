@@ -1,5 +1,5 @@
 ---
-title: "Mind/Body"
+title: Mind/Body
 date: 2022-01-22T05:26:15Z
 draft: false
 weight: 50

@@ -1,5 +1,5 @@
 ---
-title: "Nonviolence"
+title: Nonviolence
 date: 2022-08-02T05:26:15Z
 draft: false
 weight: 20
