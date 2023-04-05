@@ -1,4 +1,4 @@
-baseURL = "https://stwi.blog/save-the-world/"
+baseURL = "https://stwi.blog/"
 canonifyURLs = "true"
 staticDir = "static"
 publishDir = "docs"
