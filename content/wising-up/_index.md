@@ -2,6 +2,7 @@
 title: "Wising Up"
 date: 2022-04-12T05:26:15Z
 draft: false
+chapter: true
 weight: 70
 ---
 - Back to where we started

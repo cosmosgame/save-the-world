@@ -1,8 +1,20 @@
+#header-wrapper {
+    background: #aa96da;
+    color: #fff;
+    text-align: center;
+    border-bottom: 4px solid #9c6fb6;
+    padding: 1rem;
+}
+.searchbox {
+    margin-top: 1rem;
+    position: relative;
+    border: 1px solid #915eae;
+    background: #aa96da;
+    border-radius: 4px;
 .header-style {
   color: #a796d6;
   background-color: #a796d6;
 }
-
 .image-center {
   display: block;
   margin-left: auto;
@@ -19,7 +31,7 @@
           flex: 0 0 25%;
   -webkit-box-ordinal-group: 2;
       -ms-flex-order: 2;
-          order: 2
+          order: 2;
   overflow-x: hidden;
   overflow-y: scroll;
 }
