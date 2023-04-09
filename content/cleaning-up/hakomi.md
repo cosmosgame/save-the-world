@@ -68,8 +68,10 @@ Love is the base. Everything has to be built on top of this. In Hakomi we were t
 
 We explicitly encourage people to be loving both towards themselves and towards others. We model loving people no matter what comes up for them. No one is made wrong. Facilitators (and hopefully team) model always speaking from their heart. Simply declaring from the heart that this is the Room of Love opens it up as a possibility.
 
+
+ 
+
 [1]:	https://hakomiinstitute.com/
 [2]:	https://hakomiinstitute.com/about/hakomi-mindful-somatic-psychotherapy/the-hakomi-principles
 [3]:	https://thepleasantmind.com/hakomi/
-[4]: {{< ref "/posts/eight.md" >}}
-  
+[4]:	/posts/eight/
