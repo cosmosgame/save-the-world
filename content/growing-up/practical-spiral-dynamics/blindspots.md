@@ -5,7 +5,7 @@ draft: false
 weight: 30
 ---
 
-Everyone has blind spots. Except me. I don't have any. This deeply amuses me because it is so obviously false, and yet there is a part of me that really believes it. After all I can't see my own blind spots so obviously I don't have any, right? In other words, I don't know what I don't know. But this is true for everyone. We all can not see our own blind spots by definition! Other people can know things, can be so more advanced than us on something that we don't recognize how much further ahead they are. So when we reach an impasse with someone, it is important to stop and hold open the possibility that maybe, just maybe this might be *our* blindspot not theirs. Maybe they can see something that we don't even know we don't know.
+Everyone has blind spots. Except me. I don't have any. This is amusing because it is so obviously false, and yet there is a part of me that really believes it. After all I can't see my own blind spots so obviously I don't have any, right? In other words, I don't know what I don't know. But this is true for everyone. We all can not see our own blind spots by definition! Other people can know things, can be so more advanced than us on something that we don't recognize how much further ahead they are. So when we reach an impasse with someone, it is important to stop and hold open the possibility that maybe, just maybe this might be *our* blindspot not theirs. Maybe they can see something that we don't even know we don't know.
 
 There are many different kinds of blindspots, but let's focus on where one stage sees something that another stage just misses.
 

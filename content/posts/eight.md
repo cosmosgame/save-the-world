@@ -7,7 +7,7 @@ Why is eight a magic number?
 
 ### Valence shells
 
-Eight is a magic number in chemistry. When atoms combine into molecules they want to have exactly eight electrons in their outermost valence shell. Chemistry is based on this. It defines what atoms can join with what other atoms. So for example carbon atoms have 4 electrons in their outer valence shell. So a simple combination is to put two carbon atoms together to form a total of eight. I'm simplifying a bit, it turns out that two in the outer valence shell works as well, but that is not possible for most combinations
+Eight is a magic number in chemistry. When atoms combine into molecules they want to have exactly eight electrons in their outermost valence shell. Chemistry is based on this. It defines what atoms can join with what other atoms. So for example carbon atoms have 4 electrons in their outer valence shell and if you put two of them together that form a total of eight. I'm simplifying a bit of course, but that really is the basic idea. Also it turns out that two in the outer valence shell works as well, but that is not possible for most combinations
 
 ### Upper limit to short term memory
 

@@ -54,7 +54,7 @@ weight: 10
     <td>Integral Theory, personal growth movement, medicine movement</td>
     <td>A life worth living</td>
   </tr>
-  <tr id="Turqoise">
+  <tr id="Turquoise">
     <td>Turqoise</td>
     <td>PromisedLand</td>
     <td>Just starting to emerge</td>
