@@ -13,6 +13,9 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
+[markup.goldmark.renderer]
+    unsafe= true
+
 [params]
     disableLandingPageButton = true
     disableMermaid = true
@@ -22,6 +25,7 @@ enableMissingTranslationPlaceholders = false
     description = "A plan to save the world"
     github_repository = "https://github.com/cosmosgame/save-the-world"
     version = "0.2.0"
+    editURL = "https://github.com/cosmosgame/save-the-world/tree/master/content/"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
