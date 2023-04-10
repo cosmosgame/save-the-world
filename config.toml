@@ -4,10 +4,8 @@ staticDir = "static"
 publishDir = "docs"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Save The World"
-theme = "techdoc"
+theme = "hugo-theme-learn"
 disqusShortname = "save-the-world"
-
 hasCJKLanguage = false
 metaDataFormat = "yaml"
 
@@ -15,14 +13,19 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
-[params]
+[markup.goldmark.renderer]
+    unsafe= true
 
+[params]
+    disableLandingPageButton = true
+    disableMermaid = true
     custom_css = ["css/spiral.css", "css/custom.css"]
 
     # Source Code repository section
     description = "A plan to save the world"
     github_repository = "https://github.com/cosmosgame/save-the-world"
     version = "0.2.0"
+    editURL = "https://github.com/cosmosgame/save-the-world/tree/master/content/"
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
@@ -62,60 +65,5 @@ enableMissingTranslationPlaceholders = false
         "entry"
   ]
 
-    # Algolia site search section
-    # See https://www.algolia.com/doc/
-    algolia_search_enable = true
-    algolia_indexName = "hugo-demo-techdoc"
-    algolia_appId = "7W4SAN4PLK"
-    algolia_apiKey = "cbf12a63ff72d9c5dc0c10c195cf9128" # Search-Only API Key
-
-# Global menu section
-# See https://gohugo.io/content-management/menus/
-[menu]
-    [[menu.main]]
-        name = "Home"
-        url = "/"
-        weight = 1
-
-    [[menu.main]]
-        name = "Twitter"
-        url = "https://twitter.com/thingsym"
-        weight = 2
-
-# Markup configure section
-# See https://gohugo.io/getting-started/configuration-markup/
-[markup]
-    defaultMarkdownHandler = "goldmark"
-    [markup.goldmark.renderer]
-        unsafe= true
-    [markup.tableOfContents]
-        startLevel = 2
-        endLevel = 6
-        ordered = false
-
 [outputs]
-    home = ["HTML", "RSS", "Algolia"]
-
-# Algolia Search configure section
-[outputFormats.Algolia]
-    baseName = "algolia"
-    mediaType = "application/json"
-    isPlainText = true
-    notAlternative = true
-
-[params.algolia]
-    vars = [
-        "title",
-        "summary",
-        "content",
-        "date",
-        "publishdate",
-        "description",
-        "permalink",
-        "keywords",
-        "lastmod",
-    ]
-    params = [
-        "tags",
-        "categories",
-    ]
+    home = ["HTML", "RSS", "JSON"]
