@@ -14,7 +14,7 @@ At first I tried to keep myself out of this essay. But again I am not coming fro
 
 My driving trait seems to be curiosity. I always, always want to dig deeper into the Truth of things.  Especially if it is hard. The greatest gift you can give me is to help me see a truth I have been hiding from myself. This is where I started. This drive to explore has taken me to many amazing places, most of them internal.
 
-My purpose is to climb tall mountains and leap into worlds unknown to chart the course for others to follow. Let me unpack that a little. I'm attracted to things that are challenging and hard. The hard work of climbing a mountain is more than worth it for the view. And again I'm talking mostly about internal challenges. Then when you finally get to the top of the mountain you now have a choice. You can go back to your familiar world or you can jump off into the unknown to see what comes. Once I have discovered some new world inside of myself I typically feel called to leap into it to really experience it. Without knowing exactly what I might find. There is kind of a surrender required here.
+My purpose is to climb tall mountains and leap into worlds unknown to chart the course for others to follow. Let me unpack that a little. I'm attracted to things that are challenging and hard. The hard work of climbing a mountain is more than worth it for the view. And again I'm talking mostly about internal challenges. Then when you finally get to the top of the mountain you now have a choice. You can go back to your familiar world or you can jump off into the unknown to see what comes. Once I have discovered some new world inside of myself I typically feel called to leap into it to really experience it. Without knowing exactly what I might find. 
 
 Now that I’ve done a fair amount of exploring it is time for the final phase of my purpose.  I have climbed a number of mountains and leapt off of them. And truly I look at all the people who have gone so much farther than me and wonder who I am to try and talk about these mountains. But it is now time to do some charting. I have some things that are worth passing on. And in fact switching to this new role feels like yet another scary mountain to leap off of. We all have these beautiful, undiscovered worlds within us. Let me show you some.
 
@@ -22,7 +22,7 @@ Now that I’ve done a fair amount of exploring it is time for the final phase o
 
 I have made three sacred vows in my life. I know that sounds so weird — who in this day and age makes sacred vows?!? I didn’t intentionally set out to make these vows, and it would not have worked even if I had. They actually are the key discoveries I made while doing all that exploring.
 
-I will tell the full story of these discoveries later on, but first let me introduce them. My first sacred vow is to lead a deep, rich fulfilling life. My second sacred vow is to love everyone, no kidding, no exceptions. My third vow is to save the world. 
+I will tell the full story of these discoveries later on, but first let me introduce them. 
 
 ### First vow  — Lead a deep, rich, fulfilling life
 

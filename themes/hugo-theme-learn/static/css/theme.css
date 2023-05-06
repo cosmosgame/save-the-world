@@ -112,8 +112,8 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     display: inline-block;
 }
 #header #logo-svg {
-    width: 8rem;
-    height: 2rem;
+    width: 10rem;
+    height: 4rem;
 }
 #header #logo-svg path {
     fill: #fff;
@@ -176,7 +176,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     background-color: #322A38;
     position: fixed;
     top: 0;
-    width: 300px;
+    width: 400px;
     bottom: 0;
     left: 0;
     font-weight: 400;
@@ -323,7 +323,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 }
 #body {
     position: relative;
-    margin-left: 300px;
+    margin-left: 400px;
     min-height: 100%;
 }
 #body img, #body .video-container {

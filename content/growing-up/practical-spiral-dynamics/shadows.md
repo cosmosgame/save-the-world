@@ -8,7 +8,7 @@ All of the stages come with both gifts and shadows. I will touch on the shadow s
 
 ## Beige
 
-Thee shadow version of this stage is what happens when we collapse down to survival mode. Only me and mine matter. Just like one of those Zombie apocalypse everyone else is just a monster to be dealt with. It doesn't matter what happens to those other because they are not really human. Given a chance they would suck out our brains so we have to fight back with everything we have.
+The shadow version of this stage is what happens when we collapse down to survival mode. Only me and mine matter. Just like one of those Zombie apocalypse everyone else is just a monster to be dealt with. It doesn't matter what happens to those other because they are not really human. Given a chance they would suck out our brains so we have to fight back with everything we have.
 
 There is an enormous selfishness that can show up at this level. An incredible indifference to the pain of others. A lot of the world spends at least part of the time here. It doesn't matter how much money you have, if you spend your life in constant fear you are living in survival mode. Unless and until we get people out of this hurt and lack we can't expect them to do anything else.
 
