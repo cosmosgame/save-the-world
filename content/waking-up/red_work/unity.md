@@ -4,6 +4,7 @@ date: 2022-12-16T05:26:15Z
 draft: false
 weight: 90
 ---
+
 The Unity principle at Red brings us back to knowing that we all have the rapist and murderer inside of us. We all embody both Trump and Hitler. They are not separate from us. Do you recoil from that? I know I certainly do. That can’t be true! But it is.
 
 Time for confession. During this latest pandemic surge I did the math for how many amongst the vaccine refusers were Trump supporters. I wanted to see if the number of their deaths would change anything politically. The super dark side of this? I was hoping it would. Do you know who else had this kind of mindset? Hitler. Again we have to step back from “good” and “evil”. When we point our finger at “those” people there are three fingers pointing right back at us.
