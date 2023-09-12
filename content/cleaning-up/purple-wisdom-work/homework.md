@@ -33,7 +33,7 @@ The heart of Purple is to find a group that welcomes all of you. This is where I
 
 If you can just get past that whole taking off your clothes thing, amazing miracles of healing become available. A HAI workshop can be even more powerful than a MDMA session which is saying something. 
 
-If the whole clothes things is too much another path is medicine work done in a group. That also can be powerful, but before starting on this work please, please make sure to deal with whatever traumas you have first. It is incredibly dangerous to simply dive into, say, mushrooms without handling that first. And make sure the group takes time to do a proper intention setting before the journey and thorough integration work as a group afterwards. It is during integration that the real benefit of the journey starts to show up. 
+If the naked thing is too much another path is medicine work done in a group. That also can be powerful, but before starting on this work please, please make sure to deal with whatever traumas you have first. It is incredibly dangerous to simply dive into, say, mushrooms without handling that first. And make sure the group takes time to do a proper intention setting before the journey and thorough integration work as a group afterwards. It is during integration that the real benefit of the journey starts to show up. 
 
 
 [1]:	https://en.wikipedia.org/wiki/The_Body_Keeps_the_Score
