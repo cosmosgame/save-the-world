@@ -6,7 +6,7 @@ Love is scary, so we hold back. From the very first weekend of my Hakomi trainin
 
 ## Different healing paths
 
-So how do we teach people to find their pbody? It has to be experiential. People need to experience it in their bodies to truly understand it. But it won't be just one method.  Different approaches will work best for different people. For example, HAI does a fantastic job of getting people in intimate relationship with their body, but for many people getting naked in front of a group of strangers is just a non-starter. There is simply no way they are going to sign up for that. Similarly a sacred MDMA or mushroom journey can offer incredibly healing, but again for many people that kind of journey is way too scary. So we have to meet people where they are at. We will have to make sure that for each person we find things that helps them with diet, movement, sex, and substance abuse. Each person will have something tailored for them, and it will be part of an integrated plan -- not something that is held separate. Because all of our work is connected. We might think that maybe we just need to work on, for example, our relationship with our partner, but that is an illusion. As you work on that relationship you are also working on everything else.  What happens in our body affects our Mind. What happens in our Mind affects our body.
+So how do we teach people to find their body? It has to be experiential. People need to experience it in their bodies to truly understand it. But it won't be just one method.  Different approaches will work best for different people. For example, HAI does a fantastic job of getting people in intimate relationship with their body, but for many people getting naked in front of a group of strangers is just a non-starter. There is simply no way they are going to sign up for that. Similarly a sacred MDMA or mushroom journey can offer incredibly healing, but again for many people that kind of journey is way too scary. So we have to meet people where they are at. We will have to make sure that for each person we find things that helps them with diet, movement, sex, and substance abuse. Each person will have something tailored for them, and it will be part of an integrated plan -- not something that is held separate. Because all of our work is connected. We might think that maybe we just need to work on, for example, our relationship with our partner, but that is an illusion. As you work on that relationship you are also working on everything else.  What happens in our body affects our Mind. What happens in our Mind affects our body.
 
 ## Healing
 
@@ -16,12 +16,12 @@ Just like that. The first step is quite pleasant -- learn to find a deep joy ins
 
 Body-Centered Psychotherapy
 
-| Old paradigm               | New paradigm             |
-| -------------------------- | ------------------------ |
-| fundamental separateness | unbroken wholeness<br>fundamental connectedness|
-| absolute certitude<br>only matter is real (materialism)|uncertainty, relativity<br>consciosness is real (dualistm, monism) |
-| the mind/body split      | mind/body integration |
-| biology is destingy      | we create our own destiny |
+| Old paradigm                                            | New paradigm                                                       |
+| ------------------------------------------------------- | ------------------------------------------------------------------ |
+| fundamental separateness                                | unbroken wholeness<br>fundamental connectedness                    |
+| absolute certitude<br>only matter is real (materialism) | uncertainty, relativity<br>consciosness is real (dualistm, monism) |
+| the mind/body split                                     | mind/body integration                                              |
+| biology is destingy                                     | we create our own destiny                                          |
 
 ## Goal
 
@@ -31,9 +31,9 @@ My goal is to first save the world, because it needs saving. If we don't stop ca
 
 So many people are already working on saving the world. But often they are only bringing just a part of themselves to the work. Many people are doing great science (Mind) based work and wondering why people are not moved by what they have discovered. They are not meeting people where they are. Many people are doing the intense healing (Body) work that is so needed, but are not aware of how they fit into the bigger picture. We need people to step into a larger world view.  Many people are doing the profound (Heart) work of loving themselves and the world. But they are learning to endure the unendurable. We need them to come back from their lofty heights and join the work.
 
-For example, the [Prosperity Gospel](https://en.wikipedia.org/wiki/Prosperity_theology) is a very Red mindset.
+For example, the [Prosperity Gospel][1] is a very Red mindset.
 
-We wil regain the [three primoridal freedoms](https://en.wikipedia.org/wiki/The_Dawn_of_Everything):
+We wil regain the [three primoridal freedoms][2]:
 
 * Freedom to move
 * Freedom to disobey
@@ -46,14 +46,14 @@ But that is going to take time. The great spiritual awakenings led by Jesus and 
 How do we help people do that? This is the work of Wising Up. Here are the wising up paths that I know to work. I'm sure there are many more:
 
 * Medicine Work
-* [Soulcraft](https://www.animas.org/books/soulcraft/)
-* Personal growth courses (eg. [HAI](https://www1.hai.org/))
+* [Soulcraft][3]
+* Personal growth courses (eg. [HAI][4])
 
-Again, I think Michael Polan's [How to Change Your Mind](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind) is a fantastic resource for Green yearning for Yellow. He was open to this work because he understood that maybe just maybe there is more to this world than the rational parts of our brain can comprehend. That is very Green. And then when he experienced amazing journeys into himself he took his first steps into Yellow.
+Again, I think Michael Polan's [How to Change Your Mind][5] is a fantastic resource for Green yearning for Yellow. He was open to this work because he understood that maybe just maybe there is more to this world than the rational parts of our brain can comprehend. That is very Green. And then when he experienced amazing journeys into himself he took his first steps into Yellow.
 
-Medicine work is a great path but it is not the only way. Bill Plotkin's [Soulcraft](https://www.animas.org/books/soulcraft/) brings back the Purple vision quest to our own day and age. It sounds amazing. People do several days of preparation and then head into the wilderness alone for up to four days to find themselves. When they come back out they are transformed. They see the world in a new light. What a great way to bring people to Yellow. I have not (yet) done one, but [Forest Therapy](https://www.natureandforesttherapy.org/) was inspired by this kind of vision quest work.
+Medicine work is a great path but it is not the only way. Bill Plotkin's [Soulcraft][6] brings back the Purple vision quest to our own day and age. It sounds amazing. People do several days of preparation and then head into the wilderness alone for up to four days to find themselves. When they come back out they are transformed. They see the world in a new light. What a great way to bring people to Yellow. I have not (yet) done one, but [Forest Therapy][7] was inspired by this kind of vision quest work.
 
-Any group that encourages people to look deeply and courageously inside themselves can work. For example, when I did my two years of [Hakomi](https://hakomiinstitute.com/) training we learned how to do Hakomi style therapy, but we also went deep into ourselves. We learned how to stand up in the world in a much more grounded, authentic way. And my work at [HAI](https://www1.hai.org/) changed my life. I will talk more about this in the next section.
+Any group that encourages people to look deeply and courageously inside themselves can work. For example, when I did my two years of [Hakomi][8] training we learned how to do Hakomi style therapy, but we also went deep into ourselves. We learned how to stand up in the world in a much more grounded, authentic way. And my work at [HAI][9] changed my life. I will talk more about this in the next section.
 
 ## Orange to Green
 
@@ -69,11 +69,11 @@ The end goal is to get people up to Turqoise. Or at the very least help people d
 
 ## Towards Yellow
 
-Each stage had some organization that pulled people into it. What is pulling people into Yellow? The biggest pull right now is from Medicine (psychedelics) work. There are many paths that can lead to a Yellow awakening, but the most popular seems to be Medicine work. If you choose to do this work, please be sure to do it with a reputable, trained guide who is part of a community that holds high ethical standards. And please read [How to Change Your Mind](https://en.wikipedia.org/wiki/How_to_Change_Your_Mind#:~:text=8%20.P65%202018-,How%20to%20Change%20Your%20Mind%3A%20What%20the%20New%20Science%20of,New%20York%20Times%20best%2Dseller.). Michael Pollan (presumably without knowing about Spiral Dynamics) does a superb job of explaining to people mostly at the Green stage what it is like to explore Yellow. People who are still at Orange are not ready to go straight to Yellow because their god of Reason is a jealous god that will not accept any other sources of Truth. But at Green people start to get a glimmer that there are other paths to Truth and maybe just maybe Medicine is something worth investigating as a path of growth not just healing.
+Each stage had some organization that pulled people into it. What is pulling people into Yellow? The biggest pull right now is from Medicine (psychedelics) work. There are many paths that can lead to a Yellow awakening, but the most popular seems to be Medicine work. If you choose to do this work, please be sure to do it with a reputable, trained guide who is part of a community that holds high ethical standards. And please read [How to Change Your Mind][10]. Michael Pollan (presumably without knowing about Spiral Dynamics) does a superb job of explaining to people mostly at the Green stage what it is like to explore Yellow. People who are still at Orange are not ready to go straight to Yellow because their god of Reason is a jealous god that will not accept any other sources of Truth. But at Green people start to get a glimmer that there are other paths to Truth and maybe just maybe Medicine is something worth investigating as a path of growth not just healing.
 
 ## Cleaning up
 
-Let's start Cleaning Up by visiting the stink spirit video from Spirited Away again. If you haven't watched it yet please consider [watching it now](https://www.facebook.com/FansOfStudioGhibli/videos/spirited-away-bathhouse-clip/493650414055324/).
+Let's start Cleaning Up by visiting the stink spirit video from Spirited Away again. If you haven't watched it yet please consider [watching it now][11].
 
 We all have a lifetime of accumulated junk that is keeping us from our true shining nature. Notice how much courage and fortitude is needed just to get started. It feels kind of hopeless. I'm not worth the effort! But there was curiousity -- I wonder what Sen is going to do? Ask for help? And then we get that first precious bath of healing medicine and something starts to shift. We still are very much stuck in our "stink", but possibilities start to open up. Huh. I see a bicycle handle sticking out. Let's try pulling it out. Wait. We need to rally the whole community for this one. Pull! So much junk! And at the very end Sen is left with the gift of a medicine ball in her hand. When we find out true nature we also find our gift.
 
@@ -91,7 +91,7 @@ We all have a lifetime of accumulated junk that is keeping us from our true shin
 ## Civil War
 
 Let me start with a simple question. Why do we think the Civil War actually solved anything? Did that war really change hearts and minds?  I don't think so. Not really. Imagine the end of the U.S. Civil War. The North has just crushed the South using brutal, total war:
-[Sherman's March to the Sea](https://en.wikipedia.org/wiki/Sherman%27s_March_to_the_Sea). The South surrenders  with the bitter realization that the North will stop at absolutely no unspeakable atrocity in order to totally crush them. And that truly may have been the only way to end the war. Imagine though that you are a slave owner that now has to free their slaves. Do you really awaken to your evil wickedness and acknowledge that the North was right all along? Of course you don't. I don't expect you to have sympathy at this point for the slave owner, but what about their children? Maybe you can find sympathy for them? They are growing up in a culture that teaches them a certain mindset. Why do we think that mindset would magically change? It didn't of course. Within twenty years after the war, Southern whites had regrouped and replaced the old system of slavery with a new form of economic slavery called share cropping. Yes, still better than actual slavery, but Blacks could not vote and still lived in oppression.  This is the Authoritarian mindset. Why do we think that somehow this changes? How does that even work? So of course there is ongoing, systemic racism in the U.S.  
+[Sherman's March to the Sea][12]. The South surrenders  with the bitter realization that the North will stop at absolutely no unspeakable atrocity in order to totally crush them. And that truly may have been the only way to end the war. Imagine though that you are a slave owner that now has to free their slaves. Do you really awaken to your evil wickedness and acknowledge that the North was right all along? Of course you don't. I don't expect you to have sympathy at this point for the slave owner, but what about their children? Maybe you can find sympathy for them? They are growing up in a culture that teaches them a certain mindset. Why do we think that mindset would magically change? It didn't of course. Within twenty years after the war, Southern whites had regrouped and replaced the old system of slavery with a new form of economic slavery called share cropping. Yes, still better than actual slavery, but Blacks could not vote and still lived in oppression.  This is the Authoritarian mindset. Why do we think that somehow this changes? How does that even work? So of course there is ongoing, systemic racism in the U.S.  
 
 Those people proudly waving confederate flags carry almost the exact mindset of their ancestors. They are not stupid, they know exactly what they are celebrating, but they also don't consider themselves evil. We do of course, but they definitely don't. Interesting. OK, let's take one more step back. How did slavery even become a thing? It turns out that throughout history slavery was pretty common. Greece and Rome were slave empires. In a very real way the Authoritarian mindset of the Roman empire is still very much alive. Just look at all those people waving that damn flag.
 
@@ -173,3 +173,16 @@ I will not do nothing for another thirty years. I have been waiting for someone 
 ### Joy
 
 Just about every morning I find myself in joy. A place of deep, sometimes even overwhelming happiness. It is hard to let it all in. Some days I go straight there, other days it takes a bit of processing, but I end up there never the less. And when I'm in that joy I find myself longing for others to join me. I long for the world to heal. It is what I want very
+
+[1]:	https://en.wikipedia.org/wiki/Prosperity_theology
+[2]:	https://en.wikipedia.org/wiki/The_Dawn_of_Everything
+[3]:	https://www.animas.org/books/soulcraft/
+[4]:	https://www1.hai.org/
+[5]:	https://en.wikipedia.org/wiki/How_to_Change_Your_Mind
+[6]:	https://www.animas.org/books/soulcraft/
+[7]:	https://www.natureandforesttherapy.org/
+[8]:	https://hakomiinstitute.com/
+[9]:	https://www1.hai.org/
+[10]:	https://en.wikipedia.org/wiki/How_to_Change_Your_Mind#:~:text=8%20.P65%202018-,How%20to%20Change%20Your%20Mind%3A%20What%20the%20New%20Science%20of,New%20York%20Times%20best%2Dseller.
+[11]:	https://www.facebook.com/FansOfStudioGhibli/videos/spirited-away-bathhouse-clip/493650414055324/
+[12]:	https://en.wikipedia.org/wiki/Sherman%27s_March_to_the_Sea
