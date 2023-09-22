@@ -174,6 +174,9 @@ I will not do nothing for another thirty years. I have been waiting for someone 
 
 Just about every morning I find myself in joy. A place of deep, sometimes even overwhelming happiness. It is hard to let it all in. Some days I go straight there, other days it takes a bit of processing, but I end up there never the less. And when I'm in that joy I find myself longing for others to join me. I long for the world to heal. It is what I want very
 
+### Tumor
+In my early thirties I was working at a very stressful job and my daily, long, and hard run was my lifeline. It kept me sane. I didn't really time myself -- I just ran as hard as I could. But suddenly I was no longer able to run so hard. Heck I was even starting to have problems just walking. I was also having to pee all the time. My neck hurt. My HMO doctor, trying to save money for the corporation, quickly dismissed the problem as sitting with poor posture at my computer and sent me to a physical therapist. Which was complete nonsense. I still had excellent posture from my early Zen practice, and besides I really was in pain. Fortunately the physical therapist was competent and quickly recognized that something was very wrong and managed to get me into the then very expensive MRI lab. They put me in this very narrow tube and scanned me for a long time. The scanning technician was astonished at how happy I was when they told me they had found a tumor. I was just so happy that we finally were getting to the truth of the matter.
+
 [1]:	https://en.wikipedia.org/wiki/Prosperity_theology
 [2]:	https://en.wikipedia.org/wiki/The_Dawn_of_Everything
 [3]:	https://www.animas.org/books/soulcraft/
