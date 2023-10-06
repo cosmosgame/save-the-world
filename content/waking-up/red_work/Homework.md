@@ -2,7 +2,7 @@
 title: “Homework”
 date: 2023-09-12T05:26:15Z
 draft: false
-weight: 110
+weight: 120
 ---
 Red is definitely, by far, my weakest stage. I’m still trying to figure out what works best for me to strengthen this.  I would very much appreciate suggestions on what to add here. What has worked for you?
 
@@ -22,8 +22,6 @@ I’m not talking dungeons with whips and chains here. That is not what drew me 
 
 So what does this all have to do with Red? Because what we are exploring is the master/slave role. Historically slavery has been such a horrible thing that we quite rightly recoil in horror when we recognize that something about being either the master or slave sparks joy in us. But it does. There is a reason why Red is so persistent and dominant in the world. I needed to stop resisting what I felt like a monster within, and instead accept how much sexual charge there is for me here. And dare I say it there is a real juiciness for some people in the slave role. I found this account by a submissive as really eye opening:
 
-[Conquer Me: girl-to-girl wisdom about fulfilling your submissive desires][1]
+[Conquer Me: girl-to-girl wisdom about fulfilling your submissive desires](https://www.amazon.com/gp/product/B005CIZ2FI/ref=ppx%5C_yo%5C_dt%5C_b%5C_search%5C_asin%5C_title?ie=UTF8&psc=1)
 
 She writes in such an intelligent and thoughtful manner about what it is like for her to fully embrace her submissive desires. It let me see that for some woman my desire to dominate can actually be a gift. This so called monster inside of me, if channeled in the right direction, can be a gift. My current partner loves when I dominate her, and frankly wishes I did it more. It is not her holding us back but me.
-
-[1]:	https://www.amazon.com/gp/product/B005CIZ2FI/ref=ppx%5C_yo%5C_dt%5C_b%5C_search%5C_asin%5C_title?ie=UTF8&psc=1
