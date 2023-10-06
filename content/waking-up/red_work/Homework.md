@@ -1,5 +1,5 @@
 ---
-title: “Homework”
+title: Homework
 date: 2023-09-12T05:26:15Z
 draft: false
 weight: 120
