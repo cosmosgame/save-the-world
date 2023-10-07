@@ -2,7 +2,7 @@
 title: "Hakomi Principles"
 date: 2022-05-07T05:26:15Z
 draft: false
-weight: 30
+weight: 20
 ---
 
 * Non violence
@@ -16,7 +16,7 @@ weight: 30
 
 These principles are a foundation we can build on. They can be our North star to help guide us when we get lost. They work together. All of them are necessary. If a Hakomi session didn't go well, students are taught to look to the principles to see what was missing. This brings us back to systems thinking. Asking "why?" to go deeper and deeper so that we can embrace all parts of the system.
 
-[Hakomi][1] started with five founding principles. Loving Presence was added [here][2]. Truth and Change were added [here (scroll down)][3]. This brings us to eight principles which seems like the [magic number][4] to me.
+[Hakomi](https://hakomiinstitute.com/) started with five founding principles. Loving Presence was added [here](https://hakomiinstitute.com/about/hakomi-mindful-somatic-psychotherapy/the-hakomi-principles). Truth and Change were added [here (scroll down)](https://thepleasantmind.com/hakomi/). This brings us to eight principles which seems like the [magic number](/posts/eight/) to me.
 
 ## Truth
 
@@ -70,8 +70,3 @@ We explicitly encourage people to be loving both towards themselves and towards 
 
 
  
-
-[1]:	https://hakomiinstitute.com/
-[2]:	https://hakomiinstitute.com/about/hakomi-mindful-somatic-psychotherapy/the-hakomi-principles
-[3]:	https://thepleasantmind.com/hakomi/
-[4]:	/posts/eight/
