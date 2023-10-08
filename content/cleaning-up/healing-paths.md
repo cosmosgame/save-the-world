@@ -4,8 +4,6 @@ date: 2022-06-21T09:26:15Z
 draft: false
 weight: 30
 ---
-I have a practical problem here. I want to chart a path to Turquoise, but as far as I can tell that has never been done. This is something new. I do know the healing/wisdom paths that I found. They worked for me. And I saw them work for others. So let's start there.
-
 In the sections to come I am going to tell my healing and growth stories. Here I introduce the schools where I did much of this work. Each of these schools has an experiential (Beige) side that has people heal and grow simply by experiencing what the school has to offer. But each school also has a group (Purple) side where you join the community and offer service to the world.
 
 ## Medicine work
@@ -34,4 +32,9 @@ After rediscovering their intimate, vital relationship with nature, some people 
 
 In college, I desperately dived into Zen meditation to escape my anxiety. It worked beautifully. Zen opened me to a spirituality free from religious dogma. But most practitioners did not seem fully happy. Zen had only half the answers I was looking for. And I went on to other things. But it had a profound impact on me. Later I started to read Jack Kornfield and Tara Brach and I discovered that they follow a practice (called RAIN or RAINING) that is almost exactly the same as Hakomi! And yet again the principles are the same.
 
-So what are these principles I keep on talking about?
+## Mindful Self Compassion
+
+The center for mindful self compassion has a wonderful set of courses to help people become more kind and loving towards themselves. Despite a common misconception, getting more self compassionate makes you much more able to have compassion for others. It is based on work by [Dr. Kristin Neff](https://self-compassion.org/) which in turn is loosely based  Buddhist compassion and mindful techniques with some modern research thrown in as well. 
+
+I took the course at a really tough time and I was feeling pretty worthless. The course turned me around in a very powerful and amazing way. I’m very grateful.
+And of course just like all the other paths if you dive in deep enough you might feel called to service. They have a teaching path for people that want to teach these courses. What a beautiful vision — to have this message of compassion spread further and further out until it reaches everyone.
