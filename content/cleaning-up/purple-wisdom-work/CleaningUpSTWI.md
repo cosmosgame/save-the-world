@@ -4,26 +4,52 @@ date: 2023-02-16T05:26:15Z
 draft: false
 weight: 110
 ---
-Cleaning Up sets the foundation for everything else. Unless we have dealt with our traumas and pain we will just keep on broadcasting them out into the world. Quite often we pass them on to our children. We need to stop this. We never get perfect with this, but we can all get better.
+Cleaning Up sets the foundation for everything else. Unless we have dealt with our traumas and pain we will just keep on broadcasting them out into the world. Quite often we pass them on to our children. This must stop.
 
-I’m going to make some bold sweeping declarations of what needs to happen. Consider this as an  affirmative prayer — the clearer we can visualize this the more likely it is to happen. 
+## No more Trauma
 
-## Advocates
-Like many kids my daughter was totally thrown off by the pandemic. She was already struggling with school and now she had to do school online? She did it for a while then just stopped. When school opened again she went for awhile and then stopped again. For most of a semester she could not make herself go. Her mom would drive her right up to the school entrance and she couldn’t get out of the car because she was having such a strong anxiety attack. Even though we were going crazy with anxiety of our own we fortunately did not force her. I realized how lucky we were that she was strong enough to say no. Other parents find out how wrong things are when their kids commit suicide, so I was really grateful for that, but it was a hard time. Then we found an amazing school, [Holden high school](https://holdenhigh.org/).  
+So what is our vision? No more trauma. Period. Let’s first start with the children. Let this be the very last generation of traumatized children.
 
-The transformation in Jaiya has been amazing. She went from a very serious, scary depression to  lightness and happiness. She feels supported by the school. She actually enjoys learning again! Not everything of course. Math still is a struggle but I think that is just because unfortunately the standard way of teaching math is broken. And the support for the kids is amazing. The school gives every child a trained, licensed therapist as an advocate. Every kid meets with their advocate at least once a week. It is built into the schedule and there is no stigma attached to it. No special meetings where kids are pulled out of class and everyone looks at them. And the advocate gets to know them better and better throughout the year. They even have a meeting with the parents so they can get a better sense of the family dynamics. Why doesn’t every child have an advocate? When I ask people they usually say how expensive it would be. My question is expensive to what? Compared to all the anxious, depressed kids we have? Compared to the kid that is considering suicide? 
+### No more traumatized children
 
-## Connection with Nature
-Some schools like Waldorf know that it is important to connect kids with nature as much as possible. They have kids grow some of the food they eat. They have regular nature outings. These schools have proven that this approach works. Why don’t all schools adopt them? Cost? To paraphrase Biden, show me your budget and I will show you your values. And it wouldn’t even cost that much. Does this sound like just a nice to have? It is mabye OK for poor kids to not get this because other things like trauma prevention are more important? I used to think so too, but [Island Wood](https://islandwood.org/) on Bainbridge Island changed my mind. 
+We need to spend a completely unreasonable amount of time, money, and energy on our children. This first of all. I was quite serious when I said that preschool and kindergarten teachers must lead the revolution. They are with our children at those incredibly tender years when all those childhood traumas happen. 
 
-When I first toured Island Wood I thought of all the other causes that could have been funded instead with the money lavished on this project. It seemed almost a bit frivolous that had just set up a school in a meadow with all that money. But then I started to understand what an impact this school has on kids. They come from all over Washington state to spend part of a week living at this very nice resort and they learn about nature. But the most important thing is that they are given an opportunity to fall in love with nature. This is such a healing act. It can help with many of our traumas. We once worshipped the Goddess that is our mother earth.  We want generations growing up again knowing how much they love the Goddess and how much they are loved by her. So many of us have forgotten. It is time to remember.
+How exactly we get there I will defer to the teachers of children among us. You know best. But I have some suggestions:
 
-## Connection with Body
+* Every kid has a fierce advocate. A fierce protector who will not put up with any bullshit, including from parents
+* Every kid has a trusted safe therapist to work with
+* Every troubled kid has a team of at least 5 mature, caring adults who will go all out for that kid (like the Thread program)
+* Parents are strongly requested to take parenting training. Any parents that refuses signals that we as a society need to take special care of those parent’s children.
+
+Imagine a world where kids grow up like kids in Beige and Purple did. Free and whole inside themselves. Ready to take on the world. What if we stopped the cycle of trauma right here. What if?
+
+### No more trauma period
+
+Trauma can now be treated. So many people are suffering needlessly. People balk at the cost of treating 
+
+## Live in Tribes
+
+We all should be living in some form of Cohousing or Ecovillage.
+
+## Reclaim Our Bodies
+
+HAI workshops (or something very like it) should be taught to everyone. Especially to our children.
+
 What if we taught kids to love their bodies?  The first step is to stop pushing them away from their bodies. Kids naturally love to run, somehow we manage to train them to forget that. What if we instead deepened them into the joy of exercise? Taught them to love pushing their bodies to the limit just for the fun of it. Not because they are going to get a medal or to be better than someone else, but simply because that is what the body longs for. Again, we were literally born to run. And if running is not what a kid wants to do, what about dance? It doesn’t really matter what the exercise is as long as it sparks joy. 
 
 Most schools still do not train kids things like yoga and mindfulness. These are such, basic essential skills! What do you do when you have bad anxiety? You need a way to come back to your body. Things like yoga and mindfulness are great for that. Everyone should know them. But maybe everyone doesn’t know it yet?  I remember when I learned to stop hiccuping just by using a form of mindfulness my parents were flatly disbelieving when I told them. I had to show them and even then they were astonished. They were living in the story that stopping hiccups just by mind control was impossible. And they really believed that story. We need to change that story, and the best way is to start with our kids. In fact they instinctively already know most of this, we just have to stop actively taking that away but instead strengthening it.
 
 And there is one more topic that seems to be a big taboo even still — sex. We need to teach kids (and ourselves!) to really embrace our sexuality. There should not be any shame around masturbation. There should not be any shame around sexual desire awakening in us. We need to learn to talk about our sexual organs without embarrassment. Sex is natural and beautiful. And from that place we need to teach kids how to navigate the incredibly strong feeling that come up. Teach them that sex when done right deepens connection with someone else and to be careful about that. People can get really hurt. I remember how alone I felt when my sex drive kicked in. My sexual desire was so intense I honestly begged God for relief — it was just way too much. It felt like a kind of insanity, and maybe it kind of is. And I didn’t have anyone to talk to about it. My drive was so strong I was desperately afraid that it would make me into monster. That I would do almost anything to satisfy it. I needed people (not just men) to talk to about this. But it was such a taboo that I didn’t feel safe talking to anyone. No wonder young men still act out. Is anyone talking to them? 
 
+## Reclaim Nature
+
+Everyone should have access to nature. Especially children. Camps in nature should be heavily subsidized and free for kids without resources.
+
+Forest bathing should be part of every school curriculum. Every park should have a resident forest guide who leads frequent forest bathing sessions in that park.
+
+Some schools like Waldorf know that it is important to connect kids with nature as much as possible. They have kids grow some of the food they eat. They have regular nature outings. These schools have proven that this approach works. Why don’t all schools adopt them? Cost? To paraphrase Biden, show me your budget and I will show you your values. And it wouldn’t even cost that much. Does this sound like just a nice to have? It is mabye OK for poor kids to not get this because other things like trauma prevention are more important? I used to think so too, but [Island Wood](https://islandwood.org/) on Bainbridge Island changed my mind. 
+
+When I first toured Island Wood I thought of all the other causes that could have been funded instead with the money lavished on this project. It seemed almost a bit frivolous that had just set up a school in a meadow with all that money. But then I started to understand what an impact this school has on kids. They come from all over Washington state to spend part of a week living at this very nice resort and they learn about nature. But the most important thing is that they are given an opportunity to fall in love with nature. This is such a healing act. It can help with many of our traumas. We once worshipped the Goddess that is our mother earth.  We want generations growing up again knowing how much they love the Goddess and how much they are loved by her. So many of us have forgotten. It is time to remember.
+
 ## Next
-We are almost done with Beige which means… time for homework! What fun! Homework?!?Yaaaaaay!!
+We are almost done with Beige which means… time for homework! What fun! Homework?!?  Yaaaaaay!!
