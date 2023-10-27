@@ -24,7 +24,7 @@ After you have done the levels, if you want to go deeper there is the call to se
 
 ## Forest Bathing
 
-This school of healing was inspired by the Japanese practice of forest "bathing". [ANFT](https://www.natureandforesttherapy.earth/) certified trainers take people out on very gentle nature walks. Participants are invited to slow down and connect their body with the more than human world. They step into a liminal state of here and now, in relationship to all the beings surrounding them. It provides safe support and structure to connect with the natural world. After every invitation, people come back to a circle and are invited to do a short, heart based share of what they just experienced. Hearing from others helps people to go even deeper into the experience
+This school of healing was inspired by the Japanese practice of forest "bathing". [ANFT][1] certified trainers take people out on very gentle nature walks. Participants are invited to slow down and connect their body with the more than human world. They step into a liminal state of here and now, in relationship to all the beings surrounding them. It provides safe support and structure to connect with the natural world. After every invitation, people come back to a circle and are invited to do a short, heart based share of what they just experienced. Hearing from others helps people to go even deeper into the experience
 
 After rediscovering their intimate, vital relationship with nature, some people feel called to service. To learn how to guide others to find themselves in the natural world. ANFT offers a six month certification class followed by a four day immersion retreat to train people to lead forest therapy walks. Although ANFT doesn't have an explicit set of principles, they might as well adopt Hakomi's. They would fit perfectly.
 
@@ -34,7 +34,9 @@ In college, I desperately dived into Zen meditation to escape my anxiety. It wor
 
 ## Mindful Self Compassion
 
-The center for mindful self compassion has a wonderful set of courses to help people become more kind and loving towards themselves. Despite a common misconception, getting more self compassionate makes you much more able to have compassion for others. It is based on work by [Dr. Kristin Neff](https://self-compassion.org/) which in turn is loosely based  Buddhist compassion and mindful techniques with some modern research thrown in as well. 
+The center for mindful self compassion has a wonderful set of courses to help people become more kind and loving towards themselves. Despite a common misconception, getting more self compassionate makes you much more able to have compassion for others. It is based on work by [Dr. Kristin Neff][2] which in turn is loosely based  Buddhist compassion and mindful techniques with some modern research thrown in as well. 
 
-I took the course at a really tough time and I was feeling pretty worthless. The course turned me around in a very powerful and amazing way. I’m very grateful.
-And of course just like all the other paths if you dive in deep enough you might feel called to service. They have a teaching path for people that want to teach these courses. What a beautiful vision — to have this message of compassion spread further and further out until it reaches everyone.
+I took the course at a really tough time and I was feeling pretty worthless. The course turned me around in a very powerful and amazing way. I’m very grateful. And of course just like all the other paths if you dive in deep enough you might feel called to service. They have a teaching path for people that want to teach these courses. What a beautiful vision — to have this message of compassion spread further and further out until it reaches everyone.
+
+[1]:	https://www.natureandforesttherapy.earth/
+[2]:	https://self-compassion.org/
