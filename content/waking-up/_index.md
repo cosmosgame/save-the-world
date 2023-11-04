@@ -4,7 +4,7 @@ date: 2021-07-29T05:26:15Z
 draft: false
 weight: 50
 ---
-“Cleaning Up” is a good foundation to build on. But everything I talked about there is personal growth 101. We start there but by itself it is not enough. We now are going to step into some work that is harder..
+“Cleaning Up” is a good foundation to build on. But it is just the foundation. Let’s see what we can build on top of it.
 
 “Waking Up” combines the fierce ambition to conquer the world with the grace of surrendering to something bigger than ourselves. Think of Martin Luther King. He came from a place of righteous anger that would not be turned aside, but he led us to a place of much bigger love. That is what “Waking Up” brings to the world. We need more of this. So far not so bad, but it gets harder. I’m also going to ask you to embrace your inner asshole and encourage you to step out on to the skinniest branches of woo woo. Easy right?
 

@@ -21,18 +21,22 @@ How exactly we get there I will defer to the teachers of children among us. You 
 * Every troubled kid has a team of at least 5 mature, caring adults who will go all out for that kid (like the Thread program)
 * Parents are strongly requested to take parenting training. Any parents that refuses signals that we as a society need to take special care of those parent’s children.
 
-Imagine a world where kids grow up like kids in Beige and Purple did. Free and whole inside themselves. Ready to take on the world. What if we stopped the cycle of trauma right here. What if?
+Imagine a world where kids grow up like kids in Beige and Purple did. Free and whole inside. Ready to take on the world. What if we stopped the cycle of trauma right here. What if?
 
 ### No more trauma period
 
 Trauma can now be treated. So many people are suffering needlessly. People balk at the cost of treatment. As if there is anything more important than health. 
-Anyone who wants it should have the trauma treatment of their choice. And it should be free. In particular I find MDMA promising for this kind of work. We should legalize it but only allow specially certified, non profit organizations to do this work. 
+Anyone who wants it should have the trauma treatment of their choice. And it should be free. In particular I find MDMA promising for this kind of work. We should legalize it but only allow certified, non profit organizations to do this work. 
 
-We need to public awareness program to teach people the basics about trauma and how it is preventable and treatable. We do not sit in silence when movies come out promoting dangerous false beliefs about how trauma works. We work tirelessly to educate the ignorant. 
+We need to teach people the basics of mental hygiene. And in particular we need to teach about trauma and how it is preventable and treatable. We will no longer sit in silence when movies come out promoting dangerously false beliefs about how trauma works. We will work tirelessly to educate the ignorant. 
 
 ## Live in Tribes
 
-We all should be living in some form of Cohousing or Ecovillage.
+We need to radically change the way we think about housing. We are tribal animals. We are not meant to live separate from each other. We already know that it takes a village to raise a child — now it is time to make that happen. And it happens by people consciously choosing to live in a village where everyone knows each other.
+
+ Cohousing and Ecovillages are leading the way. We need to know the names of all the children. We need to know that when we need a ride to the hospital someone is there. We need to know someone is there ready to lend us their car, or take care of our children in an emergency. 
+
+We are stronger together. Time to bring back beautiful supportive tribal Purple.
 
 ## Reclaim Our Bodies
 
@@ -50,9 +54,10 @@ Everyone should have access to nature. Especially children. Camps in nature shou
 
 Forest bathing should be part of every school curriculum. Every park should have a resident forest guide who leads frequent forest bathing sessions in that park.
 
-Some schools like Waldorf know that it is important to connect kids with nature as much as possible. They have kids grow some of the food they eat. They have regular nature outings. These schools have proven that this approach works. Why don’t all schools adopt them? Cost? To paraphrase Biden, show me your budget and I will show you your values. And it wouldn’t even cost that much. Does this sound like just a nice to have? It is mabye OK for poor kids to not get this because other things like trauma prevention are more important? I used to think so too, but [Island Wood](https://islandwood.org/) on Bainbridge Island changed my mind. 
+Some schools like Waldorf know that it is important to connect kids with nature as much as possible. They have kids grow some of the food they eat. They have regular nature outings. These schools have proven that this approach works. Why don’t all schools adopt them? Cost? To paraphrase Biden, show me your budget and I will show you your values. And it wouldn’t even cost that much. Does this sound like just a nice to have? It is maybe OK for poor kids to not get this because other things like trauma prevention are more important? I used to think so too, but [Island Wood][1] on Bainbridge Island changed my mind. 
 
 When I first toured Island Wood I thought of all the other causes that could have been funded instead with the money lavished on this project. It seemed almost a bit frivolous that had just set up a school in a meadow with all that money. But then I started to understand what an impact this school has on kids. They come from all over Washington state to spend part of a week living at this very nice resort and they learn about nature. But the most important thing is that they are given an opportunity to fall in love with nature. This is such a healing act. It can help with many of our traumas. We once worshipped the Goddess that is our mother earth.  We want generations growing up again knowing how much they love the Goddess and how much they are loved by her. So many of us have forgotten. It is time to remember.
 
-## Next
-We are almost done with Beige which means… time for homework! What fun! Homework?!?  Yaaaaaay!!
+
+
+[1]:	https://islandwood.org/
