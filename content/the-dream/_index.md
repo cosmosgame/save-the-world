@@ -36,7 +36,7 @@ Help me here. Does this not make sense? That all this work is ultimately the sam
 
 ### The gift of righteous anger
 
-This work is not something we can pretend is not our own. We can not continue to pretend this is something the next generation will take care of.
+We need to own this work. We cannot continue to pretend this is something the next generation will take care of.
 
 Please watch this video:
 
