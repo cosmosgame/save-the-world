@@ -18,10 +18,9 @@ Does that make sense? That other people are a mirror for us? Some people get thi
 
 ## Cohousing
 
-The only problem with the HAI workshops is that at the end we go back to into the “real world” where we are so isolated from each other. And a big reason why we feel so isolated is that we are going home to a home that was built to make it easy to buy and sell rather than to connect with others. We don’t know most or sometimes even any of the people living right next to us. That is just so weird. It didn’t used to be like that.
+The only problem with the HAI workshops is that at the end we go back to into the “real world” where we are so isolated from each other. And a big reason why we feel so isolated is that we are going home to a unit that was built to make it easy to buy and sell rather than to connect with others. We don’t know most or sometimes even any of the people living right next to us. That is just so weird. It didn’t used to be like that.
 
-Cohousing is a response to that. Groups of people come together and build an intentional neighborhood. The group buys the land and hires the builder. Almost always the group decides to shove parking way off to the side to make it safe for kids to roam. Units are usually smaller than normal. There is a common house that has a kitchen and dining room to share meals. Usually there are rooms for crafts and places for kids to play. The common house also has guest rooms so not every unit has to have their own guest room. 
-
+Cohousing is a response to that. A group of people come together and build an intentional neighborhood. The group buys the land, hires an architect, and has a builder do the development. The group that decides what they want each step of the way. Almost always the group decides to shove parking way off to the side to make it safe for kids to roam. Units are usually smaller than normal to make it more affordable.There is a common house that has a kitchen and dining room to share meals. Usually there are rooms for crafts and places for kids to play. The common house also has guest rooms so not every unit has to have their own guest room. 
 
 
 People who champion the cohousing movement are called “burning souls”. I love that name — it captures both the passion and pain of it.
