@@ -79,3 +79,25 @@ figure.icon {
   }
 }
 
+.autocomplete-suggestions {
+  background: #ebe6f9;
+  outline: none;
+  border: 1px solid #322A38;
+  border-top: 0px solid transparent;
+  border-radius: 0 6px 6px 6px;
+}
+
+.autocomplete-suggestions::-webkit-scrollbar {
+  width: 12px;
+}
+
+.autocomplete-suggestions::-webkit-scrollbar-thumb {
+  background: #322A38;
+  border-radius: 6px;
+}
+
+.autocomplete-suggestions .autocomplete-suggestion.selected {
+  background: #322A38;
+}
+
+
