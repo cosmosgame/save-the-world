@@ -32,11 +32,11 @@ We need to teach people the basics of mental hygiene. And in particular we need 
 
 ## Live in Tribes
 
-We need to radically change the way we think about housing. We are tribal animals. We are not meant to live separate from each other. We already know that it takes a village to raise a child — now it is time to make that happen. And it happens by people consciously choosing to live in a village where everyone knows each other.
+We need to radically change the way we think about housing. We are tribal animals. We are meant to live in connection, not separate. It really does takes a village to raise a child. Let’s make that happen. For real.
 
- Cohousing and Ecovillages are leading the way. We need to know the names of all the children. We need to know that when we need a ride to the hospital someone is there. We need to know someone is there ready to lend us their car, or take care of our children in an emergency. 
+ Cohousing and Ecovillages are leading the way. In Cohousing we do know the names of all the children. We do know that someone will give us a ride to the hospital. Our children are safe to roam and are surrounded by people who know them and love them. This is no longer just an experiment. We know this works. Time to scale it up. Maybe not everyone wants to live in Cohousing — but everyone should have their tribe. And it has to here in the real, physical world. It is astonishing how much we can do with Zoom calls, but in the end we need to actually be there with people.
 
-We are stronger together. Time to bring back beautiful supportive tribal Purple.
+We are stronger together. Time to bring back beautiful, powerful, tribal Purple.
 
 ## Reclaim Our Bodies
 
