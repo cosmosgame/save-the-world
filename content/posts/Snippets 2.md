@@ -17,5 +17,9 @@ The next step in this mirror work is to realize that everything we resist in oth
 
 And just like we need to work on looking into a mirror and loving who we see no matter what, we also need to learn to look at others and love what we see, no matter what. That brings us back to the Love principle. Let’s go there next.
 
+### Stepping into the light
+
+In first grade I was walking down a long school hallway and suddenly the sunshine got very strong and I found myself in this gentle but powerful, loving light wrapping all around me. It called to me. Yes. This. I will always step into the light. Always. 
+
 
 [1]:	https://holdenhigh.org/
