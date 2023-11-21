@@ -34,7 +34,7 @@ What do we need to make [the more beautiful world our hearts know is possible](h
 
 ### A Better Story
 
-We need a better story. We forget how much our stories define us. Our stories tells us where we came from and what it is we are to do in this world. Right now our collective story holds us as very small. It tells us there is nothing we can do. But it doesn't have to be like that. We can choose to tell ourselves a very different story. A story that reminds us we . A story that lets us shake off this trance of helplessness and take on the task of saving the world with a heart full of passion. The right story will provide us hope. Hope that something huge might just want to awaken soon.
+We need a better story. We forget how much our stories define us. Our stories tells us where we came from and what it is we are to do in this world. Right now our collective story holds us as very small. It tells us there is nothing we can do. But it doesn't have to be like that. We can choose to tell ourselves a very different story. A story that reminds us we are not alone — not really . A story that lets us shake off this trance of helplessness and take on the task of saving the world with a heart full of passion. The right story will provide us hope. Hope that something huge might just want to awaken soon.
 
 ### Wider Healing
 
