@@ -72,6 +72,6 @@ I then awaken to this vast, shared consciousness that is trying to figure out wh
 
 And then I circle back to where I started -- that childlike sense of awe and wonder. That knowing that the world can be very, very beautiful. But it takes a magic wish to start it all.
 
-Ready to start this magic journey with me?
+
 
 [1]:	https://www.facebook.com/FansOfStudioGhibli/videos/spirited-away-bathhouse-clip/493650414055324/
