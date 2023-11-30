@@ -22,7 +22,9 @@ I'm attracted to things that are challenging and hard. And again I'm talking mos
 
 When you finally get to the top of the mountain you now have a choice. You can go back to your familiar world or you can jump off into the unknown to see what comes. Once I have discovered some new world inside of myself I typically feel called to leap into it to really experience it. Without knowing exactly what I might find. 
 
-Now that I’ve done a fair amount of exploring it is time for the final phase of my purpose.  I have climbed a number of mountains and leapt off of them. And truly I look at all the people who have gone so much farther than me and wonder who I am to try and talk about these mountains. But it is now time to do some charting. I have some things that are worth passing on. And in fact switching to this new role feels like yet another scary mountain to leap off of. We all have these beautiful, undiscovered worlds within us. Let me show you some of mine.
+Now that I’ve done a fair amount of exploring it is time for the final phase of my purpose.  I have climbed a number of mountains and leapt off of them. And truly I look at all the people who have gone so much farther than me and wonder who I am to try and talk about these mountains. But it is now time to do some charting. I have some things that are worth passing on. And in fact switching to this new role feels like yet another scary mountain to leap off of. 
+
+We all have these beautiful, undiscovered worlds within us. Let me show you some of mine.
 
 ## My Vows
 
@@ -36,7 +38,7 @@ When I was emerging from a very dark, hurting time in my life; a time when I was
 
 To make sure I honored that vow I changed my name. I did it to make sure I would never forget my vow. It worked. I had known for a long time before that what the name would be because I am an explorer. "Odysseus" is the archetype of embarking on an odyssey.
 
-The way I found myself out of all that suffering was to do intense personal growth workshops. Those workshops (along with meditation) were one of the very few things that worked. I tried therapy with a few Freudian psychiatrists but their approach seemed (and still does frankly) like mostly nonsense. So personal growth workshops it was. And I did a lot of them. The month of my 50th birthday I did a particularly powerful workshop ( at [HAI](https://www1.hai.org/)) and I stepped into a lot of joy. I finally committed to fully loving myself. I had made that commitment before, but this time I really meant it. It was a big step deeper into an ongoing spiritual awakening, and brought me into a new phase of my life. After struggling with my weight for years, now I found it surprisingly easy to lose the 25 pounds needed to get back to a healthy weight. And more importantly it was easy to maintain this new weight because I absolutely only ate what worked for my body (turns out strict Paleo works best for me). I committed to aging as gracefully as possible so I did things like getting my hormones checked and started lifting weights regularly. I finally got the facial reconstruction surgery that I had been putting off, and the list goes on.
+The way I found myself out of all that suffering was to do intense personal growth workshops. Those workshops (along with meditation) were one of the very few things that worked. I tried therapy with a few Freudian psychiatrists but their approach seemed (and still does frankly) like mostly nonsense. So personal growth workshops it was. And I did a lot of them. The month of my 50th birthday I did a particularly powerful workshop ( at [HAI][1]) and I stepped into a lot of joy. I finally committed to fully loving myself. I had made that commitment before, but this time I really meant it. It was a big step deeper into an ongoing spiritual awakening, and brought me into a new phase of my life. After struggling with my weight for years, now I found it surprisingly easy to lose the 25 pounds needed to get back to a healthy weight. And more importantly it was easy to maintain this new weight because I absolutely only ate what worked for my body (turns out strict Paleo works best for me). I committed to aging as gracefully as possible so I did things like getting my hormones checked and started lifting weights regularly. I finally got the facial reconstruction surgery that I had been putting off, and the list goes on.
 
 ### Second vow — Love everyone, no kidding, no exceptions
 
@@ -57,7 +59,7 @@ I remember. I keep on falling back into that trance of feeling small and separat
 I awaken. I know that there is a bigger consciousness that wants to awaken in me and awaken in the world. I will serve and nurture this awakening that wants to happen.
 
 #### Connect
-We do this together. This world is desperate for healing. As I awaken I will stand in my power and then look out to others who are awakening. And together we will ask the question, “How are we going to heal this world? What is our plan? How do we do this together?”
+We do this together. This world is desperate for healing. As I awaken I will stand in my power and then look out to others who are awakening. And they will look back to me. Together we will ask the question, “How are we going to heal this world? What is our plan? How do we do this together?”
 
 ## Grandfather
 
@@ -65,3 +67,5 @@ We do this together. This world is desperate for healing. As I awaken I will sta
 
 So how am I going to do that? Without realizing it I’ve spent a life time exploring this. I think we already have the answers we just need to bring them into an integral whole. Let me share with you some of my key learnings.
 
+
+[1]:	https://www1.hai.org/
