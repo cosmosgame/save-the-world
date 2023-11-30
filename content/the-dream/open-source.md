@@ -2,7 +2,7 @@
 title: "Open Source"
 date: 2020-29-17T15:26:15Z
 draft: false
-weight: 40
+weight: 50
 ---
 
 More people should be aware of the open source movement. It is kind of a big deal. I've been watching it with fascination from the beginning. In the 1990's it was not at all clear that it would end up completely conquering the world, but it did. Much of the software that you are using at this very moment is open source. It is built into the very foundations of the internet. Open Source out competed fierce capitalistic companies because it is a better way of collaborating. It is the only instance that I know of where communism won. No one owns open source software; people freely donate their time to it as a gift to the world. Ideas work best when they are free. And frameworks work best when many people have taken a serious look at them and offered improvements. But despite this idealism open source exists to be of use. Not all contributions are accepted. It is not like the wikipedia where there are endless, wasteful edit wars over controversial topics. Open source tends to avoid all that and stays focused on delivering value. And if it doesn't, some other open source project comes along to replace it.
