@@ -100,4 +100,19 @@ figure.icon {
   background: #322A38;
 }
 
+#body-inner {
+  max-width: 930px;
+  margin-inline:  auto;
+  animation: contentReveal 0.8s ease;
+}
 
+@keyframes contentReveal {
+  from {
+    transform: translate3d(40vw, 0, 0);
+    opacity: 0;
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
