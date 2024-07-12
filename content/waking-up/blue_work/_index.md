@@ -18,7 +18,9 @@ My focus is to talk to those who are deeply skeptical of spirit or at the very l
 
 Fully embracing both does not seem to be wide spread yet.  I had to figure it out all by myself. Again if you are curious I write about all of this [here](/other/my-waking-up). I wrote that in my 40’s and I was kind of proud of myself, until later on I read Ken Wilber who is much more eloquent about why rationality and spirituality are absolutely not in conflict. I would recommend you read him, but I recognize that might be a bit much for most people. For a philosopher he is eminently approachable and he talks about real, useful things. His thinking has electrified many intellectuals. But still not that many people want to wade through multiple, dense philosophy books. This section is my attempt at taking this on in a hopefully more approachable way.
 
-I notice that each section I write really requires its own book (or better yet multiple books) to even begin to explore. This stage will be no exception. But if I can get you just maybe even a little bit to see how beautiful Blue is that will be enough for now.
+Note that I will never ask you to forsake rationality. Reason will always have an honored place. It is so necessary. But reason is not the sum total of all Truth. There are incredibly important truths that lie beyond it.  Any parent holding their newborn gets this. 
+
+Each stage requires its own book (or better yet multiple books) to even begin to explore. This stage will be no exception. But if I can get you just maybe even a little bit to see how beautiful Blue is that will be enough for now.
 
 
 
