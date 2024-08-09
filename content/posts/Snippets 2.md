@@ -21,5 +21,13 @@ And just like we need to work on looking into a mirror and loving who we see no 
 
 In first grade I was walking down a long school hallway and suddenly the sunshine got very strong and I found myself in this gentle but powerful, loving light wrapping all around me. It called to me. Yes. This. I will always step into the light. Always. 
 
+### Partner’s story
+
+My partner would not describe herself as spiritual, but I don’t think that is true. She just isn’t religious; she is actually quite spiritual in her own way. She recently completed the arduous, 500 mile [Camino][2] walk in 39 days. It changed her. She carried a stone to commemorate the untimely death of her niece with her the whole way and then laid it down at the ocean at the end of her walk. It helped her let go of a little of her pain and grief. That is such a powerful spiritual ritual. And even though she didn’t get the traditional spiritual experience that a friend of ours described when she did the trail, it changed her in a profound way.
+
+She realized life is simple. We get caught up in superficialities and the things that don’t really matter and she has no patience for that now. What matter is simple and that is where she puts her focus. Coming back has been hard for both of us. There is some big change, some big shift that wants to awaken in her. And she is not completely sure what it is yet. She doesn’t want to just go back to the way things always were. She is different now. It has been a real challenge to our relationship because she doesn’t want to go back to the same partnership with me as before. But as hard as it is ultimately this is very good. This is the core of spiritual intuition — she is listening to a deep knowing of what is alive in her.
+
+She lives to dance. Every year she spends a week teaching dance at a family summer camp. All of the dancing is done to live music. Kids grow up in that camp and love it so much that they come back later as teachers. When I first attended the camp I asked some people why they were so into dancing. With their face glowing people described these perfect, ecstatic moments where they are one with the music and one with everyone swirling around them. I never knew it before then, but dance can be such a profoundly spiritual practice.
 
 [1]:	https://holdenhigh.org/
+[2]:	https://en.wikipedia.org/wiki/Camino_de_Santiago
