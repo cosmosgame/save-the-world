@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Other Articles on </title>
-    <link>https://stwi.blog/other/</link>
-    <description>Recent content in Other Articles on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Other Articles</title>
+    <link>http://localhost:1313/other/index.html</link>
+    <description>This section contains other articles.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 05:26:15 +0000</lastBuildDate><atom:link href="https://stwi.blog/other/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 09:26:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Waking Up</title>
+      <link>http://localhost:1313/other/my-waking-up/index.html</link>
+      <pubDate>Mon, 04 Jul 2022 09:26:15 +0000</pubDate>
+      <guid>http://localhost:1313/other/my-waking-up/index.html</guid>
+      <description>This is an essay I wrote back in my 40’s. It describes my path away from atheism, and into a deeper truth that doesn’t discard any part of me. I discovered that Reason and Spirit are equally important parts of the bigger Truth.</description>
+    </item>
   </channel>
 </rss>

@@ -1,68 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Practical Spiral Dynamics on </title>
-    <link>https://stwi.blog/growing-up/practical-spiral-dynamics/</link>
-    <description>Recent content in Practical Spiral Dynamics on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Practical Spiral Dynamics</title>
+    <link>http://localhost:1313/growing-up/practical-spiral-dynamics/index.html</link>
+    <description>Before I continue let me first address some questions or concerns I suspect people might have.&#xA;Spiral Dynamics can encourage a sense of superiority Yes this is true, unfortunately. This is maybe the biggest problem with this story. As soon as you set up a hierarchy people naturally want to be right at the top. I thought this didn’t apply to me until someone dismissed me as merely (at best) Green. I was so upset! How dare they! Then I caught myself – oops. Me too. But remember no stage is better than another. All the stages have deep wisdom, and we want to welcome all they have to offer. And it is usually just a matter of privilege who is at what stage. I happened to be born into a very Green family so I grew up into it. All stages are available to everyone. We want everyone to learn all the stages — it is just an historical accident that has us at different stages. So it is silly to feel superior. But we are human and so we will find ourselves going to that place of superiority anyways. Just know that you will, catch yourself (with compassion) and then find your way back.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Aug 2021 05:26:15 +0000</lastBuildDate><atom:link href="https://stwi.blog/growing-up/practical-spiral-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 05:26:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/growing-up/practical-spiral-dynamics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Field Guide</title>
-      <link>https://stwi.blog/growing-up/practical-spiral-dynamics/field-guide/</link>
+      <link>http://localhost:1313/growing-up/practical-spiral-dynamics/field-guide/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stwi.blog/growing-up/practical-spiral-dynamics/field-guide/</guid>
-      <description>How do we know what color level someone or a group is at? To figure this out there are some questions we need to answer:
-Are they more individual focused (tick) or group focused (tock)? What do they know to be True? What are they willing to die for? Let&amp;rsquo;s go through the color levels again, but this time asking those questions.
-Beige (FirstAwakening) At Beige focus is on the individual family (tick).</description>
+      <guid>http://localhost:1313/growing-up/practical-spiral-dynamics/field-guide/index.html</guid>
+      <description>How do we know what color level someone or a group is at? To figure this out there are some questions we need to answer:&#xA;Are they more individual focused (tick) or group focused (tock)? What do they know to be True? What are they willing to die for? Let’s go through the color levels again, but this time asking those questions.&#xA;Beige (FirstAwakening) At Beige focus is on the individual family (tick). You know to be true what is right in front of you. You are willing to die for your family. There are a surprisingly large number of people buying missile silos to convert them into survival shelters. That is very Beige level thinking. By the way, I don’t think they are necessarily wrong. If I had a lot of excess money, I would seriously consider doing something like that too. Family is where we start.</description>
     </item>
-    
     <item>
       <title>Blindspots</title>
-      <link>https://stwi.blog/growing-up/practical-spiral-dynamics/blindspots/</link>
+      <link>http://localhost:1313/growing-up/practical-spiral-dynamics/blindspots/index.html</link>
       <pubDate>Tue, 02 Nov 2021 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/growing-up/practical-spiral-dynamics/blindspots/</guid>
-      <description>Everyone has blind spots. Except me. I don&amp;rsquo;t have any. This is amusing because it is so obviously false, and yet there is a part of me that really believes it. After all I can&amp;rsquo;t see my own blind spots so obviously I don&amp;rsquo;t have any, right? In other words, I don&amp;rsquo;t know what I don&amp;rsquo;t know. But this is true for everyone. We all can not see our own blind spots by definition!</description>
+      <guid>http://localhost:1313/growing-up/practical-spiral-dynamics/blindspots/index.html</guid>
+      <description>Everyone has blind spots. Except me. I don’t have any. This is amusing because it is so obviously false, and yet there is a part of me that really believes it. After all I can’t see my own blind spots so obviously I don’t have any, right? In other words, I don’t know what I don’t know. But this is true for everyone. We all can not see our own blind spots by definition! Other people can know things, can be so more advanced than us on something that we don’t recognize how much further ahead they are. So when we reach an impasse with someone, it is important to stop and hold open the possibility that maybe, just maybe this might be our blindspot not theirs. Maybe they can see something that we don’t even know we don’t know.</description>
     </item>
-    
     <item>
       <title>Shadows</title>
-      <link>https://stwi.blog/growing-up/practical-spiral-dynamics/shadows/</link>
+      <link>http://localhost:1313/growing-up/practical-spiral-dynamics/shadows/index.html</link>
       <pubDate>Thu, 18 Nov 2021 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/growing-up/practical-spiral-dynamics/shadows/</guid>
-      <description>All of the stages come with both gifts and shadows. I will touch on the shadow side first. The part that is hurting and not working well. The part that is causing harm in the world.
-Beige The shadow version of this stage is what happens when we collapse down to survival mode. Only me and mine matter. Just like one of those Zombie apocalypse everyone else is just a monster to be dealt with.</description>
+      <guid>http://localhost:1313/growing-up/practical-spiral-dynamics/shadows/index.html</guid>
+      <description>All of the stages come with both gifts and shadows. I will touch on the shadow side first. The part that is hurting and not working well. The part that is causing harm in the world.&#xA;Beige The shadow version of this stage is what happens when we collapse down to survival mode. Only me and mine matter. Just like one of those Zombie apocalypse everyone else is just a monster to be dealt with. It doesn’t matter what happens to those other because they are not really human. Given a chance they would suck out our brains so we have to fight back with everything we have.</description>
     </item>
-    
     <item>
       <title>Gifts</title>
-      <link>https://stwi.blog/growing-up/practical-spiral-dynamics/gifts/</link>
+      <link>http://localhost:1313/growing-up/practical-spiral-dynamics/gifts/index.html</link>
       <pubDate>Thu, 18 Nov 2021 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/growing-up/practical-spiral-dynamics/gifts/</guid>
-      <description>Each stage brings a crucial gift. But we can have blindspots here too. For example, Green hates Red and can see nothing useful in the Red mindset whatsoever. And similarly Red hates Green. To be sure, Green is not wrong. We are in fact living in a world of systemic racism and sexism. But what Green (and I have to admit I too) struggle with is to realize there actually is a gift that Red brings.</description>
+      <guid>http://localhost:1313/growing-up/practical-spiral-dynamics/gifts/index.html</guid>
+      <description>Each stage brings a crucial gift. But we can have blindspots here too. For example, Green hates Red and can see nothing useful in the Red mindset whatsoever. And similarly Red hates Green. To be sure, Green is not wrong. We are in fact living in a world of systemic racism and sexism. But what Green (and I have to admit I too) struggle with is to realize there actually is a gift that Red brings. And that gift is crucial. This is too big a project to spurn any help – we need all the gifts.</description>
     </item>
-    
     <item>
       <title>Resources</title>
-      <link>https://stwi.blog/growing-up/practical-spiral-dynamics/resources/</link>
+      <link>http://localhost:1313/growing-up/practical-spiral-dynamics/resources/index.html</link>
       <pubDate>Tue, 27 Dec 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/growing-up/practical-spiral-dynamics/resources/</guid>
+      <guid>http://localhost:1313/growing-up/practical-spiral-dynamics/resources/index.html</guid>
       <description>Before finishing this section I want to share some history resources. Although Spiral Dynamics is a story, there is real historical context to all of these stages. I hope I have inspired interest in this story of where we came from. If you are at all interested in learning more about any of the stages I strongly urge you to dig in and learn its history first. I am a book person so my recommendations are all books, but I know not everyone is so if you know of a good documentary or movie please send it to me so I can include it here.</description>
     </item>
-    
     <item>
       <title>Towards Turquoise</title>
-      <link>https://stwi.blog/growing-up/practical-spiral-dynamics/towards-turqoise/</link>
+      <link>http://localhost:1313/growing-up/practical-spiral-dynamics/towards-turqoise/index.html</link>
       <pubDate>Wed, 01 Jun 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/growing-up/practical-spiral-dynamics/towards-turqoise/</guid>
+      <guid>http://localhost:1313/growing-up/practical-spiral-dynamics/towards-turqoise/index.html</guid>
       <description>When I first started telling people the Spiral Dynamics story I hoped it would wake them up to Turquoise all by it self. But nope. Most people are not quite ready yet. I feel like a popcorn kernel that has popped a little earlier than the rest. I hope and pray that it is just a matter of time before the rest of the kernels start popping so I can nestle in with them, but in the meantime it looks like I have some work to do.</description>
     </item>
-    
   </channel>
 </rss>

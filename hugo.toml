@@ -1,0 +1,7 @@
+baseURL = "https://stwi.blog/"
+publishDir = "docs"
+languageCode = "en-us"
+theme = "hugo-theme-relearn"
+
+[markup.goldmark.renderer]
+    unsafe= true

@@ -1,29 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cleaning Up on </title>
-    <link>https://stwi.blog/cleaning-up/</link>
-    <description>Recent content in Cleaning Up on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Cleaning Up</title>
+    <link>http://localhost:1313/cleaning-up/index.html</link>
+    <description>if people are too much in pain, they are not available for doing anything else. Cleaning Up shows how we can step out of pain and into connection with others. It shows the healing power of nature and community. It takes on all our traumas, and starts to transform them into something we can live with. We have to start here.&#xA;If you haven’t watched the stink spirit video from Spirited Away yet please consider watching it now. It is such a good metaphor for this work.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 05:26:15 +0000</lastBuildDate><atom:link href="https://stwi.blog/cleaning-up/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 05:26:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/cleaning-up/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hakomi Principles</title>
-      <link>https://stwi.blog/cleaning-up/hakomi-principles/</link>
+      <link>http://localhost:1313/cleaning-up/hakomi-principles/index.html</link>
       <pubDate>Sat, 07 May 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/cleaning-up/hakomi-principles/</guid>
-      <description>Non violence Mindfulness Mind/Body Truth Change Organicity Unity Loving Presence These principles are a foundation we can build on. They can be our North star to help guide us when we get lost. They work together. All of them are necessary. If a Hakomi session didn&amp;rsquo;t go well, students are taught to look to the principles to see what was missing. This brings us back to systems thinking. Asking &amp;ldquo;why?</description>
+      <guid>http://localhost:1313/cleaning-up/hakomi-principles/index.html</guid>
+      <description>Non violence Mindfulness Mind/Body Truth Change Organicity Unity Loving Presence These principles are a foundation we can build on. They can be our North star to help guide us when we get lost. They work together. All of them are necessary. If a Hakomi session didn’t go well, students are taught to look to the principles to see what was missing. This brings us back to systems thinking. Asking “why?” to go deeper and deeper so that we can embrace all parts of the system.</description>
     </item>
-    
     <item>
       <title>Healing Paths</title>
-      <link>https://stwi.blog/cleaning-up/healing-paths/</link>
+      <link>http://localhost:1313/cleaning-up/healing-paths/index.html</link>
       <pubDate>Tue, 21 Jun 2022 09:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/cleaning-up/healing-paths/</guid>
+      <guid>http://localhost:1313/cleaning-up/healing-paths/index.html</guid>
       <description>In the sections to come I am going to tell my healing and growth stories. Here I introduce the schools where I did much of this work. Each of these schools has an experiential (Beige) side that has people heal and grow simply by experiencing what the school has to offer. But each school also has a group (Purple) side where you join the community and offer service to the world.</description>
     </item>
-    
+    <item>
+      <title>Beige healing</title>
+      <link>http://localhost:1313/cleaning-up/beige-healing/index.html</link>
+      <pubDate>Mon, 18 Jul 2022 05:26:15 +0000</pubDate>
+      <guid>http://localhost:1313/cleaning-up/beige-healing/index.html</guid>
+      <description>Let’s start with Aaron Stark’s story. Please watch it.&#xA;Do you see why it has to start here? There are so many, many children that could tell similar stories. This has to stop! These kids need our love and support. But instead just like in Aaron’s story the social worker buys into his mom’s well practiced lies and steps back and does nothing. Making the situation even worse than it was before. It is almost as if children are their parent’s property to do with as they see fit. That is so obviously wrong, and yet I think it is our reality. We, just like that social worker, want to believe the comforting lie that a child is always better off with their mother. But unfortunately quite often that mother was also raised by deeply traumatized parents and so she too is acting out of pain. Not truly wanting to but nevertheless deeply wounding her child. One generation passing its trauma on to the next generation over and over. We need to stop this cycle.</description>
+    </item>
+    <item>
+      <title>Purple wisdom</title>
+      <link>http://localhost:1313/cleaning-up/purple-wisdom-work/index.html</link>
+      <pubDate>Fri, 09 Jul 2021 05:26:15 +0000</pubDate>
+      <guid>http://localhost:1313/cleaning-up/purple-wisdom-work/index.html</guid>
+      <description>Coming home on the bus from the “Wall” workshop I thought we were all done with our growth work; time to go back to the normal world. But not everyone felt like that apparently. A middle aged woman on the bus was still working through something. She asked one of the young men to role play her estranged son. They did a perfect job. I sat and watched from one seat back with folded arms feeling very superior to the woman. It was so obvious she was stuck in not forgiving herself. Then like a thunderbolt it hit me that she was doing my work. I also was not forgiving myself and it was causing me a lot of pain.</description>
+    </item>
   </channel>
 </rss>

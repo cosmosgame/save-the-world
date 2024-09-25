@@ -1,386 +1,507 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stwi.blog/</loc>
+    <loc>http://localhost:1313/index.html</loc>
     <lastmod>2020-12-17T15:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/orange-work/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/index.html</loc>
     <lastmod>2022-12-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/orange-work/index.html</loc>
     <lastmod>2022-12-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/yellow-work/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/index.html</loc>
     <lastmod>2022-12-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/other/my-waking-up/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/yellow-work/index.html</loc>
+    <lastmod>2022-12-04T05:26:15+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/other/my-waking-up/index.html</loc>
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/spiral-dynamics/beige/</loc>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/spiral-dynamics/</loc>
-  </url><url>
-    <loc>https://stwi.blog/the-dream/</loc>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/beige/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/index.html</loc>
     <lastmod>2022-12-27T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/green-work/non-violence/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/green-work/non-violence/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/orange-work/non-violence/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/orange-work/non-violence/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/non-violence/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/non-violence/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/non-violence/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/non-violence/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/turquoise-work/non-violence/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/turquoise-work/non-violence/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/yellow-work/non-violence/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/yellow-work/non-violence/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/green-work/index.html</loc>
     <lastmod>2022-12-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/green-work/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/turquoise-work/index.html</loc>
     <lastmod>2022-12-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/turquoise-work/</loc>
-    <lastmod>2022-12-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/non-violence/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/non-violence/index.html</loc>
     <lastmod>2022-08-02T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/other/my-waking-up/crisis-of-faith/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/other/my-waking-up/crisis-of-faith/index.html</loc>
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/hakomi-principles/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/hakomi-principles/index.html</loc>
     <lastmod>2022-05-07T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/beige-healing/non-violence/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/non-violence/index.html</loc>
     <lastmod>2022-03-01T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/practical-spiral-dynamics/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/index.html</loc>
     <lastmod>2021-08-14T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/practical-spiral-dynamics/field-guide/</loc>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/spiral-dynamics/purple/</loc>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/truth/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/field-guide/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/purple/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/truth/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/green-work/truth/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/green-work/truth/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/orange-work/truth/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/orange-work/truth/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/truth/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/truth/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/turquoise-work/truth/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/turquoise-work/truth/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/yellow-work/truth/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/yellow-work/truth/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/other/my-waking-up/truth/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/other/my-waking-up/truth/index.html</loc>
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/healing-paths/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/healing-paths/index.html</loc>
     <lastmod>2022-06-21T09:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/truth/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/truth/index.html</loc>
     <lastmod>2022-04-12T15:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/index.html</loc>
     <lastmod>2022-02-01T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/practical-spiral-dynamics/blindspots/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/blindspots/index.html</loc>
     <lastmod>2021-11-02T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/spiral-dynamics/red/</loc>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/beige-healing/truth/</loc>
-  </url><url>
-    <loc>https://stwi.blog/the-dream/who-am-i/</loc>
-  </url><url>
-    <loc>https://stwi.blog/the-dream/discoveries/</loc>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/green-work/mindfulness/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/red/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/truth/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/who-am-i/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/discoveries/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/green-work/mindfulness/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/orange-work/mindfulness/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/orange-work/mindfulness/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/mindfulness/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/mindfulness/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/mindfulness/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/mindfulness/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/turquoise-work/mindfulness/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/turquoise-work/mindfulness/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/yellow-work/mindfulness/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/yellow-work/mindfulness/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/mindfulness/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/mindfulness/index.html</loc>
     <lastmod>2022-12-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/beige-healing/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/index.html</loc>
     <lastmod>2022-07-18T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/other/my-waking-up/flaming-intellectual/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/other/my-waking-up/flaming-intellectual/index.html</loc>
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/practical-spiral-dynamics/shadows/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/shadows/index.html</loc>
     <lastmod>2021-11-18T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/spiral-dynamics/blue/</loc>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/beige-healing/mindfulness/</loc>
-  </url><url>
-    <loc>https://stwi.blog/the-dream/going-deeper/</loc>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/green-work/mind-body/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/blue/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/mindfulness/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/going-deeper/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/green-work/mind-body/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/orange-work/mind-body/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/orange-work/mind-body/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/mind-body/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/mind-body/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/mind-body/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/mind-body/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/turquoise-work/mind-body/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/turquoise-work/mind-body/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/yellow-work/mind-body/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/yellow-work/mind-body/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/beige-healing/mind-body/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/mind-body/index.html</loc>
     <lastmod>2022-12-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/other/my-waking-up/limits-of-reason/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/other/my-waking-up/limits-of-reason/index.html</loc>
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/mind-body/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/mind-body/index.html</loc>
     <lastmod>2022-01-22T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/practical-spiral-dynamics/gifts/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/gifts/index.html</loc>
     <lastmod>2021-11-18T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/index.html</loc>
     <lastmod>2021-07-29T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/index.html</loc>
     <lastmod>2021-07-09T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/the-dream/open-source/</loc>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/spiral-dynamics/orange/</loc>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/practical-spiral-dynamics/resources/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/open-source/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/orange/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/resources/index.html</loc>
     <lastmod>2022-12-27T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/other/my-waking-up/deeper/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/other/my-waking-up/deeper/index.html</loc>
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/index.html</loc>
     <lastmod>2021-07-30T15:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/change/</loc>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/spiral-dynamics/green/</loc>
-  </url><url>
-    <loc>https://stwi.blog/the-dream/guidelines/</loc>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/organicity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/change/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/green/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/guidelines/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/organicity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/green-work/organicity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/green-work/organicity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/orange-work/organicity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/orange-work/organicity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/organicity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/organicity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/organicity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/organicity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/turquoise-work/organicity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/turquoise-work/organicity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/yellow-work/organicity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/yellow-work/organicity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/other/my-waking-up/other-states/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/other/my-waking-up/other-states/index.html</loc>
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/index.html</loc>
     <lastmod>2022-04-12T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/beige-healing/organicity/</loc>
-  </url><url>
-    <loc>https://stwi.blog/the-dream/overview/</loc>
-  </url><url>
-    <loc>https://stwi.blog/resources/</loc>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/spiral-dynamics/yellow/</loc>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/practical-spiral-dynamics/towards-turqoise/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/organicity/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/overview/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/resources/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/yellow/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/towards-turqoise/index.html</loc>
     <lastmod>2022-06-01T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/change/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/change/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/green-work/change/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/green-work/change/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/orange-work/change/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/orange-work/change/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/change/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/change/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/turquoise-work/change/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/turquoise-work/change/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/yellow-work/change/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/yellow-work/change/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/beige-healing/change/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/change/index.html</loc>
     <lastmod>2022-12-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/other/my-waking-up/now/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/other/my-waking-up/now/index.html</loc>
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/growing-up/spiral-dynamics/turquoise/</loc>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/unity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/turquoise/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/unity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/green-work/unity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/green-work/unity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/orange-work/unity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/orange-work/unity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/unity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/unity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/unity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/unity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/turquoise-work/unity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/turquoise-work/unity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/yellow-work/unity/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/yellow-work/unity/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/other/my-waking-up/resources/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/other/my-waking-up/resources/index.html</loc>
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/beige-healing/unity/</loc>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/love/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/unity/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/love/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/green-work/love/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/green-work/love/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/showing-up/orange-work/love/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/showing-up/orange-work/love/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/love/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/love/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/turquoise-work/love/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/turquoise-work/love/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/wising-up/yellow-work/love/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wising-up/yellow-work/love/index.html</loc>
     <lastmod>2022-12-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/love/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/love/index.html</loc>
     <lastmod>2022-08-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/beige-healing/love/</loc>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/resources/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/love/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/resources/index.html</loc>
     <lastmod>2023-11-29T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/red-saves-the-world/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/red-saves-the-world/index.html</loc>
     <lastmod>2023-09-12T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/cleaningupstwi/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/cleaningupstwi/index.html</loc>
     <lastmod>2023-02-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/blue_work/waking-up/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/blue_work/waking-up/index.html</loc>
     <lastmod>2023-11-29T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/waking-up/red_work/homework/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/waking-up/red_work/homework/index.html</loc>
     <lastmod>2023-09-12T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/purple-wisdom-work/homework/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/homework/index.html</loc>
     <lastmod>2023-02-16T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/cleaning-up/beige-healing/homework/</loc>
-  </url><url>
-    <loc>https://stwi.blog/other/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/homework/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/other/index.html</loc>
     <lastmod>2022-07-04T05:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/posts/multiple-orgasms/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/multiple-orgasms/index.html</loc>
     <lastmod>2023-11-27T10:04:31-08:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/posts/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/index.html</loc>
     <lastmod>2023-11-27T10:04:31-08:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/posts/raining/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/raining/index.html</loc>
     <lastmod>2023-11-23T15:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/posts/everything-is-god/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/everything-is-god/index.html</loc>
     <lastmod>2022-07-04T10:04:31-08:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/posts/ugly/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/ugly/index.html</loc>
     <lastmod>2022-07-04T10:04:31-08:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/posts/eight/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/eight/index.html</loc>
     <lastmod>2022-02-23T15:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/posts/pct-trip/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/pct-trip/index.html</loc>
     <lastmod>2022-01-01T15:26:15+00:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/posts/resources/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/resources/index.html</loc>
     <lastmod>2021-07-11T16:16:31-07:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/posts/programmers-path/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/programmers-path/index.html</loc>
     <lastmod>2020-09-06T16:16:31-07:00</lastmod>
-  </url><url>
-    <loc>https://stwi.blog/articles/next/</loc>
-  </url><url>
-    <loc>https://stwi.blog/articles/reading-list/</loc>
-  </url><url>
-    <loc>https://stwi.blog/posts/mercury-poisoning/</loc>
-  </url><url>
-    <loc>https://stwi.blog/posts/snippets-2/</loc>
-  </url><url>
-    <loc>https://stwi.blog/posts/snippets/</loc>
-  </url><url>
-    <loc>https://stwi.blog/articles/</loc>
-  </url><url>
-    <loc>https://stwi.blog/categories/</loc>
-  </url><url>
-    <loc>https://stwi.blog/tags/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/index.html</loc>
   </url>
 </urlset>
