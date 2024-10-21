@@ -5,3 +5,9 @@ theme = "hugo-theme-relearn"
 
 [markup.goldmark.renderer]
     unsafe= true
+
+[params]
+themeVariant = ['learn']
+disableSearch = true
+disableLandingPageButton = true
+disableBreadcrumb = false

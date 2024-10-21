@@ -45,13 +45,13 @@ weight: 10
   <tr id="Green">
     <td>Green</td>
     <td>HumanBond</td>
-    <td>unions, environmentalism, feminism, racial justice, LGBTQ, et. al</td>
+    <td>environmentalism, social justice, LGBTQ, et. al</td>
     <td>For my brothers and sisters</td>
   </tr>
   <tr id="Yellow">
     <td>Yellow</td>
     <td>SecondAwakening</td>
-    <td>Integral Theory, personal growth movement, medicine movement</td>
+    <td>Integral Theory, medicine movement</td>
     <td>A life worth living</td>
   </tr>
   <tr id="Turquoise">
