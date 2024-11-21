@@ -45,7 +45,7 @@ weight: 10
   <tr id="Green">
     <td>Green</td>
     <td>HumanBond</td>
-    <td>environmentalism, social justice, LGBTQ, et. al</td>
+    <td>Environmentalism, Social Justice, LGBTQ, et. al</td>
     <td>For my brothers and sisters</td>
   </tr>
   <tr id="Yellow">
