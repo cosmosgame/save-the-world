@@ -2,7 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/index.html</loc>
-    <lastmod>2020-12-17T15:26:15+00:00</lastmod>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/waking-up/blue_work/index.html</loc>
@@ -26,16 +34,15 @@
   </url>
   <url>
     <loc>http://localhost:1313/growing-up/spiral-dynamics/beige/index.html</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/growing-up/spiral-dynamics/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/the-dream/index.html</loc>
+    <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/field-guide/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/growing-up/index.html</loc>
-    <lastmod>2022-12-27T05:26:15+00:00</lastmod>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/showing-up/green-work/non-violence/index.html</loc>
@@ -90,10 +97,16 @@
     <lastmod>2021-08-14T05:26:15+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/field-guide/index.html</loc>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/purple/index.html</loc>
+    <lastmod>2021-01-03T08:26:15+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/growing-up/spiral-dynamics/purple/index.html</loc>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/truth/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/who-am-i/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/truth/index.html</loc>
@@ -141,15 +154,15 @@
   </url>
   <url>
     <loc>http://localhost:1313/growing-up/spiral-dynamics/red/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cleaning-up/beige-healing/truth/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/the-dream/who-am-i/index.html</loc>
+    <lastmod>2021-01-03T08:26:15+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/the-dream/discoveries/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/mindfulness/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/showing-up/green-work/mindfulness/index.html</loc>
@@ -188,17 +201,20 @@
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/the-dream/going-deeper/index.html</loc>
+    <lastmod>2022-02-11T09:26:15+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/shadows/index.html</loc>
     <lastmod>2021-11-18T05:26:15+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/growing-up/spiral-dynamics/blue/index.html</loc>
+    <lastmod>2021-01-03T08:26:15+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/cleaning-up/beige-healing/mindfulness/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/the-dream/going-deeper/index.html</loc>
+    <loc>http://localhost:1313/the-dream/open-source/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/showing-up/green-work/mind-body/index.html</loc>
@@ -249,10 +265,16 @@
     <lastmod>2021-07-09T05:26:15+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/the-dream/open-source/index.html</loc>
+    <loc>http://localhost:1313/growing-up/spiral-dynamics/orange/index.html</loc>
+    <lastmod>2021-01-03T08:26:15+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/growing-up/spiral-dynamics/orange/index.html</loc>
+    <loc>http://localhost:1313/waking-up/red_work/change/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/guidelines/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/resources/index.html</loc>
@@ -267,13 +289,16 @@
     <lastmod>2021-07-30T15:26:15+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/waking-up/red_work/change/index.html</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/growing-up/spiral-dynamics/green/index.html</loc>
+    <lastmod>2021-01-03T08:26:15+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/the-dream/guidelines/index.html</loc>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/organicity/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-dream/overview/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/organicity/index.html</loc>
@@ -308,20 +333,16 @@
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/resources/index.html</loc>
+    <lastmod>2022-05-24T15:26:15+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/wising-up/index.html</loc>
     <lastmod>2022-04-12T05:26:15+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/cleaning-up/beige-healing/organicity/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/the-dream/overview/index.html</loc>
-  </url>
-  <url>
-    <loc>http://localhost:1313/resources/index.html</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/growing-up/spiral-dynamics/yellow/index.html</loc>
+    <lastmod>2021-01-03T08:26:15+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/growing-up/practical-spiral-dynamics/towards-turqoise/index.html</loc>
@@ -361,6 +382,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/growing-up/spiral-dynamics/turquoise/index.html</loc>
+    <lastmod>2021-01-03T08:26:15+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/unity/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/unity/index.html</loc>
@@ -395,7 +421,8 @@
     <lastmod>2022-07-04T09:26:15+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/cleaning-up/beige-healing/unity/index.html</loc>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/love/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/love/index.html</loc>
@@ -426,9 +453,6 @@
     <lastmod>2022-08-04T05:26:15+00:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/cleaning-up/beige-healing/love/index.html</loc>
-  </url>
-  <url>
     <loc>http://localhost:1313/waking-up/blue_work/resources/index.html</loc>
     <lastmod>2023-11-29T05:26:15+00:00</lastmod>
   </url>
@@ -441,6 +465,10 @@
     <lastmod>2023-02-16T05:26:15+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/cleaning-up/beige-healing/homework/index.html</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/waking-up/blue_work/waking-up/index.html</loc>
     <lastmod>2023-11-29T05:26:15+00:00</lastmod>
   </url>
@@ -451,9 +479,6 @@
   <url>
     <loc>http://localhost:1313/cleaning-up/purple-wisdom-work/homework/index.html</loc>
     <lastmod>2023-02-16T05:26:15+00:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cleaning-up/beige-healing/homework/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/other/index.html</loc>

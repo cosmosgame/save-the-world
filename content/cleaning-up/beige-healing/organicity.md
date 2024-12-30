@@ -1,6 +1,6 @@
 ---
 title: "Organicity"
-date: 2022-22-01T05:26:15Z
+date: 2024-12-30
 draft: false
 weight: 70
 ---
@@ -11,7 +11,7 @@ Joseph Campbell
 
 ### Follow your joy
 
-I love to run. I have run pretty much my whole life. [We as a species were born to run.](https://www.chrismcdougall.com/born-to-run/) Then why don’t more of us run? I have a theory. First of all a lot of people maybe never get past how hard it is initially. It takes at least a couple of weeks before it can feel really good. But even then many people force themselves to do it. I’ve seen lots of people set some huge goal like a marathon and actually achieve it only to never want to run again. Worse they sometimes push themselves so hard that they injure themself. Why would you want to keep on doing that? It works much better if you simply decide to run just for joy. I made a deal with myself that if ever after the first five minutes or so (it takes a bit to get going) I wanted to not run that day I would just stop. And here is the important thing — I honored that deal. It wasn’t often but every now and then I would just not be into it so I would stop. No beating myself up or second guessing myself, I just wasn’t in to it that day. And it worked!  Sometimes running slowly sometimes sprinting so fast it felt like flying I would follow the joy in that moment. Eventually I found myself running for several hours — I probably ran close to half a marathon just for joy.
+I love to run. I have run pretty much my whole life. [We as a species were born to run.][1] Then why don’t more of us run? I have a theory. First of all a lot of people maybe never get past how hard it is initially. It takes at least a couple of weeks before it can feel really good. But even then many people force themselves to do it. I’ve seen lots of people set some huge goal like a marathon and actually achieve it only to never want to run again. Worse they sometimes push themselves so hard that they injure themself. Why would you want to keep on doing that? It works much better if you simply decide to run just for joy. I made a deal with myself that if ever after the first five minutes or so (it takes a bit to get going) I wanted to not run that day I would just stop. And here is the important thing — I honored that deal. It wasn’t often but every now and then I would just not be into it so I would stop. No beating myself up or second guessing myself, I just wasn’t in to it that day. And it worked!  Sometimes running slowly sometimes sprinting so fast it felt like flying I would follow the joy in that moment. Eventually I found myself running for several hours — I probably ran close to half a marathon just for joy.
  
 “Move in a way that makes your body feel good!” says my wise yoga instructor. This is the heart of it. Look for joy moment to moment. Trust and know that it really wants to happen, and just get out of the way. 
 
@@ -26,3 +26,5 @@ But this is not just a Hakomi principle. Forest bathing guides know that it is t
 HAI also is grounded in organicity. HAI workshops immerse people into loving connection with themself and others. From that place of support and non-judgment people can discover what is blocking them and move past it. When they step up, usually naked to the microphone on Sunday there quite often is a sense of new worlds opening for them. HAI sets up an incredibly loving, safe environment and then steps back and waits for the magic to happen. That is the heart of organicity. HAI does very little explicit teaching. They don’t tell you what is wrong with you. Instead it creates an environment of loving support and steps back to watch the magic happen all on its own.
 
 Have there been times when you too when you felt very clear on what had to happen next? Maybe you had been putting something off for a long time, but now it was so clear that it was time. Feeling within this tremendous knowing that something has to change. It is a very vulnerable, but oddly powerful place to be in isn’t it. Let’s go there next.
+
+[1]:	https://www.chrismcdougall.com/born-to-run/

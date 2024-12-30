@@ -1,6 +1,6 @@
 ---
 title: Spiral Dynamics
-date: 2021-22-02T05:26:15Z
+date: 2024-12-30
 draft: false
 weight: 10
 ---
