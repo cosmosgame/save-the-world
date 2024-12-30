@@ -11,3 +11,8 @@ themeVariant = ['learn']
 disableSearch = true
 disableLandingPageButton = true
 disableBreadcrumb = false
+editUrl = "https://github.com/cosmosgame/save-the-world/blob/master/content/"
+
+[services]
+  [services.disqus]
+    shortname = 'save-the-world'
