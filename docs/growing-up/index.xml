@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Growing Up on </title>
-    <link>https://stwi.blog/growing-up/</link>
-    <description>Recent content in Growing Up on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Growing Up</title>
+    <link>http://localhost:1313/growing-up/index.html</link>
+    <description>In this section I am going to tell a story. A story of where we have been and where we are right now. A story that is unfinished but with strong hints of what wants to happen next.&#xA;I know a bit about the power of finding the right story because I named myself based on one (The Odyssey). Finding the right story transforms and strengthens. Makes things clearer. Gives courage and a direction. We all need to find our own story. The reason why we came to earth. But we also need to find our shared story. What is it that we are meant to do together?</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 05:26:15 +0000</lastBuildDate><atom:link href="https://stwi.blog/growing-up/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/growing-up/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spiral Dynamics</title>
+      <link>http://localhost:1313/growing-up/spiral-dynamics/index.html</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/growing-up/spiral-dynamics/index.html</guid>
+      <description>Color Nickname Social construct Cause worth dying for Beige FirstAwakening Family and Kin My family Purple KinSpirits Tribe The sacred ground Red PowerGods Kingdoms, Empire My king. Honor Blue TrueBlue Church, Schools The Truth Orange StriveDrive Capitalism, Democracy, and Science Give me liberty or give me death Green HumanBond Environmentalism, Social Justice, LGBTQ, et. al For my brothers and sisters Yellow SecondAwakening Integral Theory, medicine movement A life worth living Turqoise PromisedLand Just starting to emerge Save the world Spiral Dynamics is based on the research of the psychologist Clare Graves who was a contemporary of Abraham Maslov. Both were exploring all the stages of human development from the highest and lowest. Clare Graves’s health started to fail before he could fully develop his theory but his work was carried on by his younger colleagues Don Beck and Chris Cowan. They took Grave’s original theory and made it more accessible by adding things like color mnemonics. Ken Wilber took the theory and added it to his Integral Theory. He later on modified it to reflect his focus on individual, spiritual growth which is a different focus. I don’t cover his variations because my focus is more on the group than the individual. That was Don Beck’s focus as well. He made many trips to South Africa to try and put Spiral Dynamics to practical use during the transition from Apartheid. Later on he tried the same thing with Israel and Palestine. He saw how this theory could transform the world. It is that focus that I am most interested in here.</description>
+    </item>
+    <item>
+      <title>Practical Spiral Dynamics</title>
+      <link>http://localhost:1313/growing-up/practical-spiral-dynamics/index.html</link>
+      <pubDate>Sat, 14 Aug 2021 05:26:15 +0000</pubDate>
+      <guid>http://localhost:1313/growing-up/practical-spiral-dynamics/index.html</guid>
+      <description>Before I continue let me first address some questions or concerns I suspect people might have.&#xA;Spiral Dynamics can encourage a sense of superiority Yes this is true, unfortunately. This is maybe the biggest problem with this story. As soon as you set up a hierarchy people naturally want to be right at the top. I thought this didn’t apply to me until someone dismissed me as merely (at best) Green. I was so upset! How dare they! Then I caught myself – oops. Me too. But remember no stage is better than another. All the stages have deep wisdom, and we want to welcome all they have to offer. And it is usually just a matter of privilege who is at what stage. I happened to be born into a very Green family so I grew up into it. All stages are available to everyone. We want everyone to learn all the stages — it is just an historical accident that has us at different stages. So it is silly to feel superior. But we are human and so we will find ourselves going to that place of superiority anyways. Just know that you will, catch yourself (with compassion) and then find your way back.</description>
+    </item>
   </channel>
 </rss>

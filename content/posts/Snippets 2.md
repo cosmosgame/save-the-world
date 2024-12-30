@@ -29,5 +29,21 @@ She realized life is simple. We get caught up in superficialities and the things
 
 She lives to dance. Every year she spends a week teaching dance at a family summer camp. All of the dancing is done to live music. Kids grow up in that camp and love it so much that they come back later as teachers. When I first attended the camp I asked some people why they were so into dancing. With their face glowing people described these perfect, ecstatic moments where they are one with the music and one with everyone swirling around them. I never knew it before then, but dance can be such a profoundly spiritual practice.
 
+### Comments
+
+Please, please leave a comment below. Even just to say Hi. You have to create an account to do this, but that is to prevent bots from spamming the comments. My apologies for making you do that, but it is necessary. Unprotected websites get horribly spammed. And I hope you do register because I so want to hear your thoughts. This is the easiest level and I hope everyone takes advantage of this.
+
+### Issues
+
+All open source project have issues (aka bugs) that they are working on. If you see something that needs to be fixed, or have a suggested improvement, please switch over to the GitHub section of this site (notice that there is a pencil at the top of each page. Just click on that). You are free to look around the project. If you want to do anything you will need to create a login, but it is free.
+
+For simple typos, please just 
+If you like, you can fix the issue directly (kind of like how wiki works). Then find the "Issues" tab and type in your request. This takes a little bit more effort than simply adding a comment, but it makes it much easier to track what are the main things that need work. It also lets other people comment on the issue. You can track when the fix was made. This is the next level of involvement in the project. I would love it if you simply posted an issue just for practice.
+
+### Pull requests
+
+A "Pull request" aka (PR) is when someone makes changes to their local version of the project and now are requesting that this change get merged into the master version shared by everyone. It is like you have a copy of a shared word document and you have added a couple of extra pages. And now you want to merge your changes into the shared copy that everyone is using. In open source this is not automatic. Whoever is maintaining that part of the project needs to approve each and every PR. If the changes are simple (eg. spelling and grammar fixes) the PR will likely be merged right away. If the PR makes big structural changes, there likely will be a bunch of back and forth conversation before the PR eventually gets merged. You can make a PR using the Git UI. Go ahead and try it. You are not going to break anything. If you are not serious about your proposed changes just let me know in the PR description.
+
+
 [1]:	https://holdenhigh.org/
 [2]:	https://en.wikipedia.org/wiki/Camino_de_Santiago

@@ -1,6 +1,6 @@
 ---
 title: "The Dream"
-date: 2020-30-11T15:26:15Z
+date: 2024-12-30
 draft: false
 weight: 10
 ---
@@ -13,12 +13,12 @@ When I try to really open up to this huge dream of a world of joy for all, there
 
 How do we create a vision of this bright beautiful new world? We don't have to -- it has already been done by many people. My favorite version is called Mr. Rogers’ Neighborhood. Both a documentary and a movie about Mr. Rogers’ neighborhood came out recently. I strongly recommend watching both. They complement each other:
 
-  * [A Beautiful Day in the Neighborhood](https://en.wikipedia.org/wiki/A_Beautiful_Day_in_the_Neighborhood)
-  * [Won't You Be My Neighbor?](https://en.wikipedia.org/wiki/Won%27t_You_Be_My_Neighbor%3F_(film))
+  * [A Beautiful Day in the Neighborhood][1]
+  * [Won't You Be My Neighbor?][2]
 
 This is the essay that inspired the movie, I highly recommend it too. It is very powerful:
 
-  * [Can you say hero?](https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/)
+  * [Can you say hero?][3]
 
 Fred Rogers told every child they are beautiful and perfect just the way they are. Great start! I want the whole world to be like that. I want a world where every child grows up without trauma, safe and secure in the knowledge that they are deeply loved and cherished. I want every child to have many adults that love them unconditionally and who they can turn to when they are confused or hurting. Every child encouraged to flourish and taught to recognize the majesty and beauty of this world. And just like in his show I want them to know that people can work through their differences in healthy, loving, productive ways. How can we settle for anything less than a world that is healthy for our children? I want a world that works in all ways for children.  A world where our children thrive. To grow up in a culture of kindness and respect, not in a climate of fear and hurt.
 
@@ -42,4 +42,9 @@ Please watch this video:
 
 {{< youtube id="xVlRompc1yE" title="How dare you!">}}
 
-[Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg) is talking directly to me here. To my failures. To all the adults who have so badly failed her. It is not her job to save the world, but ours. How dare we push this on to future generations. How dare we not own up to our own very great failures and commit to doing better. She is speaking from a place of sacred, righteous anger. Although she shouldn't have to be, she is showing up as my teacher. Teaching me how to be more effective in the world. This kind of anger is so necessary. It forces us out of complacency.  It brings a precious gift -- the fire and passion to meet our problems head on instead of running away. 
+[Greta Thunberg][4] is talking directly to me here. To my failures. To all the adults who have so badly failed her. It is not her job to save the world, but ours. How dare we push this on to future generations. How dare we not own up to our own very great failures and commit to doing better. She is speaking from a place of sacred, righteous anger. Although she shouldn't have to be, she is showing up as my teacher. Teaching me how to be more effective in the world. This kind of anger is so necessary. It forces us out of complacency.  It brings a precious gift -- the fire and passion to meet our problems head on instead of running away. 
+
+[1]:	https://en.wikipedia.org/wiki/A_Beautiful_Day_in_the_Neighborhood
+[2]:	https://en.wikipedia.org/wiki/Won%27t_You_Be_My_Neighbor%3F_(film)
+[3]:	https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/
+[4]:	https://en.wikipedia.org/wiki/Greta_Thunberg

@@ -1,83 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Orange Rational Work on </title>
-    <link>https://stwi.blog/showing-up/orange-work/</link>
-    <description>Recent content in Orange Rational Work on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Orange Rational Work</title>
+    <link>http://localhost:1313/showing-up/orange-work/index.html</link>
+    <description>It is easy to forget the real gifts that come with Orange. For example we need to replace capitalism, but first recognize how well it sometimes works. It has brought us to the brink (and maybe past) of disaster, but it also has brought us so much wealth and possibilities. Capitalism relies on the The Wisdom of Crowds. It harnesses the creative forces of many individual actors acting alone to capture their collective wisdom. We do need to establish (Blue) rules to ensure a functioning marketplace, but then we can step back and let the market do its magic. We need better batteries? Let the competition begin. Solar power slowly and surely went from one of the most expensive sources of power until now it is the cheapest. And it is going to get even cheaper still. Much of that was due to market forces. Democracy works in the same way. We assume that many people voting their self interest is the best way to govern. Astonishingly it seems to sort of work. As Churchill said, “democracy is the worst form of government – except for all the others that have been tried”</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Dec 2022 05:26:15 +0000</lastBuildDate><atom:link href="https://stwi.blog/showing-up/orange-work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 05:26:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/showing-up/orange-work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nonviolence</title>
-      <link>https://stwi.blog/showing-up/orange-work/non-violence/</link>
+      <link>http://localhost:1313/showing-up/orange-work/non-violence/index.html</link>
       <pubDate>Fri, 16 Dec 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/showing-up/orange-work/non-violence/</guid>
+      <guid>http://localhost:1313/showing-up/orange-work/non-violence/index.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Truth</title>
-      <link>https://stwi.blog/showing-up/orange-work/truth/</link>
+      <link>http://localhost:1313/showing-up/orange-work/truth/index.html</link>
       <pubDate>Fri, 16 Dec 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/showing-up/orange-work/truth/</guid>
+      <guid>http://localhost:1313/showing-up/orange-work/truth/index.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mindfulness</title>
-      <link>https://stwi.blog/showing-up/orange-work/mindfulness/</link>
+      <link>http://localhost:1313/showing-up/orange-work/mindfulness/index.html</link>
       <pubDate>Fri, 16 Dec 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/showing-up/orange-work/mindfulness/</guid>
+      <guid>http://localhost:1313/showing-up/orange-work/mindfulness/index.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mind/Body</title>
-      <link>https://stwi.blog/showing-up/orange-work/mind-body/</link>
+      <link>http://localhost:1313/showing-up/orange-work/mind-body/index.html</link>
       <pubDate>Fri, 16 Dec 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/showing-up/orange-work/mind-body/</guid>
-      <description>Imagine a Martian is setting up a human zoo exhibit and they want to figure out what is the best diet for humans. They could ask us directly what we like to eat but after hearing our requests for donuts and pizza they might be a little skeptical. Next they might turn to what nutritionists have to say but then they would find many warring, political factions not able to agree.</description>
+      <guid>http://localhost:1313/showing-up/orange-work/mind-body/index.html</guid>
+      <description>Imagine a Martian is setting up a human zoo exhibit and they want to figure out what is the best diet for humans. They could ask us directly what we like to eat but after hearing our requests for donuts and pizza they might be a little skeptical. Next they might turn to what nutritionists have to say but then they would find many warring, political factions not able to agree. So the logical thing would be to look at what has worked for us as a species. What has worked for us historically?</description>
     </item>
-    
     <item>
       <title>Organicity</title>
-      <link>https://stwi.blog/showing-up/orange-work/organicity/</link>
+      <link>http://localhost:1313/showing-up/orange-work/organicity/index.html</link>
       <pubDate>Fri, 16 Dec 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/showing-up/orange-work/organicity/</guid>
+      <guid>http://localhost:1313/showing-up/orange-work/organicity/index.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Change</title>
-      <link>https://stwi.blog/showing-up/orange-work/change/</link>
+      <link>http://localhost:1313/showing-up/orange-work/change/index.html</link>
       <pubDate>Fri, 16 Dec 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/showing-up/orange-work/change/</guid>
+      <guid>http://localhost:1313/showing-up/orange-work/change/index.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Unity</title>
-      <link>https://stwi.blog/showing-up/orange-work/unity/</link>
+      <link>http://localhost:1313/showing-up/orange-work/unity/index.html</link>
       <pubDate>Fri, 16 Dec 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/showing-up/orange-work/unity/</guid>
+      <guid>http://localhost:1313/showing-up/orange-work/unity/index.html</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Loving Presence</title>
-      <link>https://stwi.blog/showing-up/orange-work/love/</link>
+      <link>http://localhost:1313/showing-up/orange-work/love/index.html</link>
       <pubDate>Fri, 16 Dec 2022 05:26:15 +0000</pubDate>
-      
-      <guid>https://stwi.blog/showing-up/orange-work/love/</guid>
+      <guid>http://localhost:1313/showing-up/orange-work/love/index.html</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

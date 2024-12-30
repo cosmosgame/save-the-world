@@ -1,5 +1,6 @@
 table, th, td {
     border: 1px solid black;
+    white-space: nowrap;
  }
 table tr#Beige td {background-color:#FFEBCD !important;}
 table tr#Purple td {background-color:#BA55D3}

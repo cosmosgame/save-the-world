@@ -1,6 +1,6 @@
 ---
 title: "Welcome!"
-date: 2020-12-17T15:26:15Z
+date: 2024-12-30
 draft: false
 weight: 1
 ---
@@ -12,11 +12,9 @@ weight: 1
 > 
 > Albert Einstein.
 
-# Welcome!
+Thank you so much for visiting this website! I have a crazy big dream, so big that I am going to need all the help and support I can possibly gather. 
 
-Thank you so much for visiting this website! Your support and feedback is so vital -- it will help me create something of value. I won't get there without you. Truly.
-
-I want a plan to save the world. A plan that might actually work. A plan that addresses all of the needless suffering of the world. Coming up with a shared plan is my deepest desire. When I tell people this they tend to recoil back -- whoah! way too big! Is that your reaction too? To be completely honest I also feel like that at times. It seems so overwhelming -- who am I to even bring this up? But why are we so quick to assume it is impossible? Maybe because we tend to hold ourselves as small, helpless, and separate. It is kind of like a trance we are walking around in. But we can shake off that trance. It doesn't have to be like this. It really doesn't.
+So what is this crazy dream? I want a plan to save the world. A plan that might actually work. A plan that addresses all of the needless suffering of the world. This is my deepest desire. Truly. But when I tell people this they tend to recoil back -- whoah! way too big! Is that your reaction too? To be completely honest I also feel like that at times. It seems so overwhelming -- who am I to even bring this up? But why are we so quick to assume it is impossible? Maybe because we tend to hold ourselves as small, helpless, and separate. It is kind of like a trance we are walking around in. But we can shake off that trance. It doesn't have to be like this. It really doesn't.
 
 I used to think that this is someone else's work to do, not mine. No longer. I've been waiting my whole life for someone else to rescue us. It took me that long to finally realize this is my work too. And actually people have been hard at work all that time. They have done so much and yet here we are. On our own we can only get so far. We need a movement that brings us together. Because together we are strong. Strong enough to heal this hurting world. I know you already are doing as much as you can to help. Your service is so important and needed. But even as you do that vitally important work I’m asking you to look up and out to an even bigger dream -- saving the world together.  
 

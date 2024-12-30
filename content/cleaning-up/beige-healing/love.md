@@ -1,6 +1,6 @@
 ---
 title: "Loving Presence"
-date: 2022-22-01T05:26:15Z
+date: 2024-12-30
 draft: false
 weight: 100
 ---

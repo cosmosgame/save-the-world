@@ -1,0 +1,18 @@
+baseURL = "https://stwi.blog/"
+publishDir = "docs"
+languageCode = "en-us"
+theme = "hugo-theme-relearn"
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+themeVariant = ['learn']
+disableSearch = true
+disableLandingPageButton = true
+disableBreadcrumb = false
+editUrl = "https://github.com/cosmosgame/save-the-world/blob/master/content/"
+
+[services]
+  [services.disqus]
+    shortname = 'save-the-world'

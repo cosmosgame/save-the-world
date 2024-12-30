@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Waking Up on </title>
-    <link>https://stwi.blog/waking-up/</link>
-    <description>Recent content in Waking Up on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Waking Up</title>
+    <link>http://localhost:1313/waking-up/index.html</link>
+    <description>“Cleaning Up” is a good foundation to build on. But it is just the foundation. Let’s see what we can build on top of it.&#xA;“Waking Up” combines the fierce ambition to conquer the world with the grace of surrendering to something bigger than ourselves. Think of Martin Luther King. He came from a place of righteous anger that would not be turned aside, but he led us to a place of much bigger love. That is what “Waking Up” brings to the world. We need more of this. So far not so bad, but it gets harder. I’m also going to ask you to embrace your inner asshole and encourage you to step out on to the skinniest branches of woo woo. Easy right?</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jul 2021 05:26:15 +0000</lastBuildDate><atom:link href="https://stwi.blog/waking-up/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Dec 2022 05:26:15 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/waking-up/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blue Truth Work</title>
+      <link>http://localhost:1313/waking-up/blue_work/index.html</link>
+      <pubDate>Sun, 04 Dec 2022 05:26:15 +0000</pubDate>
+      <guid>http://localhost:1313/waking-up/blue_work/index.html</guid>
+      <description>One of the core gifts of Blue is spirituality so I’m going to talk a lot about it. But different people mean different things when they use that word. I love Brene Brown’s definition:&#xA;Spirituality is recognizing and celebrating that we are all inextricably connected to one another by a power greater than all of us, and that our connection to that power and to one another is grounded in love and belonging. Practicing spirituality brings a sense of perspective, meaning and purpose to our lives</description>
+    </item>
+    <item>
+      <title>Red Shadow Work</title>
+      <link>http://localhost:1313/waking-up/red_work/index.html</link>
+      <pubDate>Sun, 04 Dec 2022 05:26:15 +0000</pubDate>
+      <guid>http://localhost:1313/waking-up/red_work/index.html</guid>
+      <description>At the very start of my sophomore year in high school I woke up from a really clear dream. I don’t usually remember my dreams and it is even more rare that they have a clear message from them so this felt like a big deal. The dream was telling me to join the football team. I hadn’t played football my freshman year and I had already missed out on the summer training session so they were reluctant to even let me on. I was allowed to practice, but not even given full equipment. Everyone was quite skeptical of me, heck, I was skeptical of me. As I’ve said I don’t exactly identify as a typical male. But I just knew that I needed to be there.</description>
+    </item>
   </channel>
 </rss>
