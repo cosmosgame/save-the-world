@@ -60,5 +60,7 @@ I can't guarantee that we will get there. The possibility of failure is always v
 
 To care? I think I do know what I'm asking of you. Please join me anyways.
 
+(click on the arrow in the upper right to go to the next page)
+
 [1]:	https://www.youtube.com/watch?v=jDyeqihHVDY
 [2]:	https://charleseisenstein.org/books/the-more-beautiful-world-our-hearts-know-is-possible/
